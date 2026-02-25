@@ -8,7 +8,7 @@ import { NextRequest, NextResponse } from "next/server";
  * - Returns 410 Gone for EVERYTHING else, telling Google the page
  *   has been permanently removed and should be deindexed.
  */
-export function proxy(request: NextRequest) {
+export function middleware(request: NextRequest) {
     const { pathname } = request.nextUrl;
 
     // Allow root path
