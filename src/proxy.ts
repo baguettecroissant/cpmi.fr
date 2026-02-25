@@ -1,14 +1,14 @@
 import { NextRequest, NextResponse } from "next/server";
 
 /**
- * Quarantine Middleware — HTTP 410 (Gone) for all spam URLs.
+ * Quarantine Proxy — HTTP 410 (Gone) for all spam URLs.
  *
  * - Lets the root path (/) through normally.
  * - Lets Next.js internals (_next/*) and favicon through.
  * - Returns 410 Gone for EVERYTHING else, telling Google the page
  *   has been permanently removed and should be deindexed.
  */
-export function middleware(request: NextRequest) {
+export function proxy(request: NextRequest) {
     const { pathname } = request.nextUrl;
 
     // Allow root path
