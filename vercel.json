@@ -1,9 +1,0 @@
-{
-    "functions": {
-        "src/app/**/*": {
-            "memory": 1024,
-            "maxDuration": 60,
-            "excludeFiles": "src/lib/db/cities.json"
-        }
-    }
-}

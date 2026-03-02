@@ -1,8 +1,16 @@
 import { City } from '@/types';
-import citiesData from './db/cities.json';
+import fs from 'fs';
+import path from 'path';
 import departmentsData from './db/departments-infos.json';
 
-const cities = citiesData as City[];
+let _citiesCache: City[] | null = null;
+function loadCities(): City[] {
+    if (!_citiesCache) {
+        const filePath = path.join(process.cwd(), 'src/lib/db/cities.json');
+        _citiesCache = JSON.parse(fs.readFileSync(filePath, 'utf8')) as City[];
+    }
+    return _citiesCache;
+}
 
 export interface DepartmentInfo {
     code: string;
@@ -34,7 +42,7 @@ function deg2rad(deg: number) {
 export function getNearbyCities(currentCity: City, limit: number = 6): City[] {
     if (!currentCity.coordinates) return [];
 
-    const candidates = cities.filter(c =>
+    const candidates = loadCities().filter((c: City) =>
         c.slug !== currentCity.slug &&
         (Math.abs(c.coordinates.lat - currentCity.coordinates.lat) < 0.5) &&
         (Math.abs(c.coordinates.lng - currentCity.coordinates.lng) < 0.5)
@@ -57,7 +65,7 @@ export function getDepartmentByCode(code: string): DepartmentInfo | undefined {
 }
 
 export function getCitiesByDepartment(deptCode: string): City[] {
-    return cities.filter(c => c.department_code === deptCode);
+    return loadCities().filter((c: City) => c.department_code === deptCode);
 }
 
 export function getAllDepartments(): DepartmentInfo[] {
