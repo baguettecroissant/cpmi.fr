@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Lannion, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bretagne Électrique",
+    "content": "La région Bretagne encourage l'électromobilité avec des aides financières. Lannion bénéficie d'un climat favorable à l'adoption des véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.",
+  "advantages": [
+    "Installation rapide à Lannion et ses environs.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux besoins locaux.",
+  "faq": [
+    {
+      "question": "Aides à Lannion ?",
+      "answer": "Aides régionales cumulables possibles."
+    },
+    {
+      "question": "Délai à Lannion ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV réactif à Lannion."
+    }
+  ]
+}

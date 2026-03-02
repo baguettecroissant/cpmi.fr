@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chateau Thierry, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 02",
+    "content": "Chateau Thierry subit des étés chauds. CPMI.fr vous aide à choisir la solution de climatisation adaptée à votre entreprise et aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un bilan thermique professionnel.",
+  "advantages": [
+    "Installation rapide par des experts locaux.",
+    "Solutions sur-mesure pour votre activité.",
+    "Maintenance et dépannage garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 02.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI.fr vous conseille la solution adaptée à votre espace."
+    },
+    {
+      "question": "Délai à Chateau Thierry ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV performant et respect des normes environnementales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Hérouville Saint-Clair, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation en Normandie",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat normand exige une climatisation adaptée aux variations de température."
+  },
+  "expertAdvice": "Optimisez votre efficacité énergétique avec nos solutions sur-mesure.",
+  "advantages": [
+    "Solutions adaptées aux besoins spécifiques des entreprises locales.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques grâce à nos technologies."
+  ],
+  "pricingContext": "Devis personnalisés pour les professionnels du Calvados (14).",
+  "faq": [
+    {
+      "question": "Pourquoi choisir CPMI ?",
+      "answer": "Expertise locale et solutions durables pour votre activité."
+    },
+    {
+      "question": "Délai à Herouville St Clair ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

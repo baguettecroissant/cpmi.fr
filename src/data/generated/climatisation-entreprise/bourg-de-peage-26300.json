@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bourg-de-Péage. Solutions performantes pour les pros.",
+  "localContext": {
+    "title": "Climat et aides à Bourg-de-Péage",
+    "content": "La Drôme bénéficie d'un ensoleillement important. CPMI.fr vous guide sur les aides régionales pour optimiser vos installations climatiques et réduire vos coûts."
+  },
+  "expertAdvice": "Un dimensionnement précis assure confort et économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de la Drôme.",
+    "Maintenance et dépannage rapides à Bourg-de-Péage.",
+    "Conformité aux normes environnementales locales."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du 26.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr réalise un bilan thermique précis."
+    },
+    {
+      "question": "Délai à Bourg De Peage ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012/RE2020."
+    }
+  ]
+}

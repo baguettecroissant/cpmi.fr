@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sarreguemines, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 57 : Spécificités",
+    "content": "Sarreguemines, avec ses étés chauds et hivers froids, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit performance et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour vos besoins spécifiques à Sarreguemines.",
+    "Installation rapide et efficace par nos techniciens qualifiés.",
+    "Maintenance préventive pour éviter les pannes coûteuses."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Sarreguemines ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

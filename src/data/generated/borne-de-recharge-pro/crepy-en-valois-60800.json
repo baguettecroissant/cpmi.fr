@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Crépy-en-Valois, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Crépy",
+    "content": "Le Hauts-de-France encourage l'électromobilité. CPMI.fr vous guide pour bénéficier des aides locales et adapter votre infrastructure."
+  },
+  "expertAdvice": "Optimisez votre installation avec CPMI.fr : solutions sur-mesure et conformité assurée.",
+  "advantages": [
+    "Installation rapide et professionnelle à Crépy-en-Valois.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Gestion énergétique optimisée pour réduire vos coûts."
+  ],
+  "pricingContext": "CPMI.fr : devis personnalisés pour bornes de recharge professionnelles dans le 60.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Crepy En Valois ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

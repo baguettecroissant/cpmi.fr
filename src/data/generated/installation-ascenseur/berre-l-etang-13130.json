@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Berre L'Etang, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "Berre L'Etang bénéficie de subventions pour l'accessibilité. Profitez d'un climat favorable pour des installations durables et performantes toute l'année."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Berre.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans les Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur pour les ERP."
+    },
+    {
+      "question": "Délai à Berre L Etang ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en PACA."
+    }
+  ]
+}

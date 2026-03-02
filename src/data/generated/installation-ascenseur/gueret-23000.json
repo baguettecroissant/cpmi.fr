@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Guéret, au service des professionnels locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Guéret",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI.fr vous guide dans les aides pour l'installation d'ascenseurs et monte-charges adaptés aux besoins locaux."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et efficace à Guéret.",
+    "Solutions sur mesure pour les entreprises.",
+    "Maintenance et SAV de proximité."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 23.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Guéret ?",
+      "answer": "CPMI.fr adapte l'installation aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Gueret ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

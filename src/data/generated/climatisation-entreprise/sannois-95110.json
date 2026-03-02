@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sannois, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Sannois",
+    "content": "Le climat en Île-de-France exige des solutions performantes. CPMI.fr vous accompagne pour des installations adaptées et éligibles aux aides locales."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Sannois et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions éco-responsables pour réduire votre empreinte."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Sannois ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

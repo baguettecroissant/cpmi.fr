@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Tournon-sur-Rhône, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Ardèche",
+    "content": "L'amélioration de l'accessibilité est cruciale en Ardèche. CPMI vous accompagne dans vos projets, en tenant compte des spécificités régionales et des aides potentielles."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à Tournon.",
+    "Respect des normes de sécurité en vigueur.",
+    "Maintenance et dépannage rapides et efficaces."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Tournon ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Tournon Sur Rhone ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

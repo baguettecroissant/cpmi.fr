@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Senlis, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Climat à Senlis",
+    "content": "Senlis, ville historique, bénéficie parfois d'aides à la rénovation. CPMI adapte ses installations aux spécificités climatiques des Hauts-de-France."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels à Senlis.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Senlis ?",
+      "answer": "CPMI garantit l'accessibilité PMR totale de vos installations."
+    },
+    {
+      "question": "Délai à Senlis ?",
+      "answer": "Devis rapide et installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Senlis."
+    }
+  ]
+}

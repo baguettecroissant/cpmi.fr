@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Nevers, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Nevers",
+    "content": "La région Bourgogne-Franche-Comté soutient l'accessibilité. CPMI vous accompagne dans vos projets d'installation, en tenant compte des spécificités climatiques locales pour une durabilité optimale."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers à Nevers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions personnalisées pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour les professionnels du 58.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Nevers ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure, conformes aux exigences locales."
+    },
+    {
+      "question": "Délai à Nevers ?",
+      "answer": "Délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

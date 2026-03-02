@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Montigny Les Metz, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 57",
+    "content": "Le Grand Est bénéficie d'aides pour l'efficacité énergétique. CPMI.fr vous accompagne pour adapter votre climatisation aux variations climatiques régionales."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un système adapté à vos besoins précis.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Montigny Les Metz.",
+    "Installation rapide et efficace par des experts certifiés.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne selon vos volumes et l'activité."
+    },
+    {
+      "question": "Délai à Montigny Les Metz ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

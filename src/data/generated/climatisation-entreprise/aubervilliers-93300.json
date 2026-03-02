@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Aubervilliers, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climat et Aides à Aubervilliers",
+    "content": "Aubervilliers subit des étés chauds. CPMI vous aide à naviguer les aides régionales pour une climatisation performante et éco-responsable."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par nos équipes locales à Aubervilliers.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Évaluation gratuite sur site par nos experts."
+    },
+    {
+      "question": "Délai à Aubervilliers ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

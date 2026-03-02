@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Arras et ses environs.",
+  "localContext": {
+    "title": "Aides et Réglementations",
+    "content": "Le Pas-de-Calais offre des aides à l'accessibilité. CPMI.fr vous guide dans les démarches pour votre projet d'installation à Arras."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Arras.",
+    "Solutions personnalisées pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par CPMI.fr dans le 62."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels d'Arras.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Arras ?",
+      "answer": "CPMI.fr assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Arras ?",
+      "answer": "Sur devis, variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

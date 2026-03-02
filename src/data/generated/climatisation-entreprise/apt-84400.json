@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Apt, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Adaptée au Vaucluse",
+    "content": "Apt connaît des étés chauds. CPMI vous aide à choisir la climatisation idéale et à bénéficier des aides régionales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit performance et longévité.",
+  "advantages": [
+    "Installation rapide par nos experts à Apt.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour éviter les pannes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Apt.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon local à Apt ?",
+      "answer": "Nous évaluons vos besoins et vous conseillons la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Apt ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur dans le Vaucluse."
+    }
+  ]
+}

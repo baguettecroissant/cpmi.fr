@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Roissy-en-Brie, optimisant la mobilité électrique pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique à Roissy",
+    "content": "La région Île-de-France encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et s'adapter aux enjeux climatiques du 77."
+  },
+  "expertAdvice": "Anticipez l'évolution du marché et valorisez votre patrimoine avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Roissy.",
+    "Solutions personnalisées pour flottes et résidents.",
+    "Maintenance assurée par des experts certifiés IRVE."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Roissy ?",
+      "answer": "Adaptation selon vos besoins et infrastructures existantes."
+    },
+    {
+      "question": "Délai à Roissy En Brie ?",
+      "answer": "Installation rapide, selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

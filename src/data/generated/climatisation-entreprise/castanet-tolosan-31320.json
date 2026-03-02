@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Castanet Tolosan (31320), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 31",
+    "content": "La région Occitanie bénéficie d'aides pour l'efficacité énergétique des bâtiments. CPMI vous accompagne dans vos projets de climatisation industrielle."
+  },
+  "expertAdvice": "Optimisez la performance énergétique de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Castanet Tolosan.",
+    "Solutions sur mesure pour les besoins industriels.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entrepôt ?",
+      "answer": "CPMI analyse vos besoins et propose la solution adaptée."
+    },
+    {
+      "question": "Délai à Castanet Tolosan ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Joué-lès-Tours, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 37 : Enjeux",
+    "content": "Le climat de Joué-lès-Tours exige des solutions de climatisation performantes. Bénéficiez d'aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Un système bien dimensionné = économies et confort durable.",
+  "advantages": [
+    "Expertise locale : Connaissance des besoins spécifiques du 37.",
+    "Solutions sur mesure : Adaptées à votre activité et bâtiment.",
+    "Maintenance proactive : Pour un fonctionnement optimal garanti."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à Joué-lès-Tours.",
+  "faq": [
+    {
+      "question": "Quelle puissance idéale ?",
+      "answer": "Calcul précis selon vos locaux et besoins réels."
+    },
+    {
+      "question": "Délai à Joue Les Tours ?",
+      "answer": "Intervention rapide, selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Gif-sur-Yvette, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 91 : Enjeux",
+    "content": "Maîtrisez les températures à Gif-sur-Yvette. Profitez des aides régionales pour une climatisation performante et éco-responsable dans l'Essonne."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Installation rapide et efficace à Gif-sur-Yvette.",
+    "Maintenance experte pour une durabilité accrue.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 91.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Gif ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Gif Sur Yvette ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

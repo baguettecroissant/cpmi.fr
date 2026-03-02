@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Koungou, Mayotte. Performance et fiabilité garanties.",
+  "localContext": {
+    "title": "Climat Mahorais & Climatisation",
+    "content": "Mayotte, avec son climat tropical, exige des solutions de climatisation performantes. CPMI vous aide à choisir des systèmes adaptés et éligibles aux aides locales."
+  },
+  "expertAdvice": "Optimisation énergétique : réduisez vos coûts avec CPMI. Audit et solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Koungou.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions adaptées aux contraintes industrielles locales."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels à Koungou. Devis personnalisé et gratuit.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Koungou ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

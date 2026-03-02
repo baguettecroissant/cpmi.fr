@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Etampes, pour entreprises et copropriétés, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Etampes",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Profitez des aides pour l'installation de bornes et améliorez votre bilan carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge intelligentes.",
+  "advantages": [
+    "Valorisation immobilière accrue pour les copropriétés d'Etampes",
+    "Solution de recharge adaptée aux besoins spécifiques de votre entreprise",
+    "Réduction de l'empreinte carbone et engagement environnemental fort"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Etampes ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules et utilisateurs."
+    },
+    {
+      "question": "Délai à Etampes ?",
+      "answer": "Installation rapide, généralement sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et conformité aux normes IRVE en vigueur."
+    }
+  ]
+}

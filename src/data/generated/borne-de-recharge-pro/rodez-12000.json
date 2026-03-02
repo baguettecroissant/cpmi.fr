@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Rodez, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "L'Occitanie encourage l'électromobilité. Profitez des subventions pour l'installation de bornes de recharge en entreprise et copropriété à Rodez."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Rodez.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI dans l'Aveyron."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés pour les professionnels Ruthénois.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Rodez ?",
+      "answer": "CPMI dimensionne selon vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à Rodez ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

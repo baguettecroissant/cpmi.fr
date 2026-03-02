@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Neuilly-Sur-Seine, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 92 : Enjeux Locaux",
+    "content": "Neuilly-Sur-Seine, avec son tissu économique dense, bénéficie d'aides pour l'efficacité énergétique. Anticipez les fortes chaleurs estivales avec une climatisation performante."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI.fr : performance durable garantie.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Neuilly.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance et dépannage 7j/7 en Île-de-France."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux budgets des professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr réalise un bilan thermique précis."
+    },
+    {
+      "question": "Délai à Neuilly Sur Seine ?",
+      "answer": "Intervention sous 24h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP/ICPE."
+    }
+  ]
+}

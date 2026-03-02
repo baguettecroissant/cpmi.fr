@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Compiègne (60200) pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Recharge à Compiègne",
+    "content": "La région Hauts-de-France soutient l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solution sur mesure pour entreprises et copropriétés à Compiègne.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisez votre image et attirez de nouveaux clients."
+  ],
+  "pricingContext": "Devis personnalisé pour bornes de recharge, adaptés à votre budget professionnel dans le 60.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance aux besoins de vos utilisateurs."
+    },
+    {
+      "question": "Délai à Compiegne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes IRVE locales."
+    }
+  ]
+}

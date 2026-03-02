@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure le confort thermique des entreprises à Fougères (35300) avec des solutions de climatisation tertiaire et industrielle.",
+  "localContext": {
+    "title": "Climatisation adaptée à Fougères",
+    "content": "Le climat breton nécessite une climatisation performante. CPMI vous guide pour optimiser vos installations et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Un audit énergétique précis pour une climatisation industrielle optimisée.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du secteur tertiaire.",
+    "Installation et maintenance par des experts locaux certifiés.",
+    "Réduction des coûts énergétiques grâce à une climatisation performante."
+  ],
+  "pricingContext": "Tarification professionnelle et transparente pour les entreprises du 35.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Fougeres ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

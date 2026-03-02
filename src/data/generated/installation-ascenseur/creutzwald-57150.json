@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Creutzwald, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Le Grand Est soutient l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches pour bénéficier d'aides financières locales à Creutzwald."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec des solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Creutzwald.",
+    "Solutions adaptées aux contraintes des bâtiments locaux.",
+    "Maintenance et dépannage assurés par des experts CPMI."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour professionnels dans le 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Creutzwald ?",
+      "answer": "CPMI propose des ascenseurs respectant les normes PMR."
+    },
+    {
+      "question": "Délai à Creutzwald ?",
+      "answer": "Délais rapides, devis personnalisé."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

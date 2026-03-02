@@ -1,0 +1,28 @@
+{
+  "introText": "À Lille, ville dynamique aux multiples facettes, l'installation d'ascenseurs et monte-charges représente un enjeu crucial, tant pour l'accessibilité des bâtiments anciens que pour l'optimisation des constructions neuves. CPMI.fr vous connecte avec des installateurs locaux qualifiés, capables de répondre aux défis spécifiques de l'urbanisme lillois.",
+  "localContext": {
+    "title": "Réglementations et Aides Locales en Hauts-de-France",
+    "content": "L'installation d'ascenseurs à Lille est soumise aux réglementations d'urbanisme locales, notamment le PLU (Plan Local d'Urbanisme) de la Métropole Européenne de Lille, qui peut imposer des contraintes spécifiques en fonction des zones. Les bâtiments situés dans le périmètre des Monuments Historiques sont soumis à l'avis de l'ABF (Architecte des Bâtiments de France). Des aides financières régionales peuvent être disponibles, notamment via la région Hauts-de-France, pour favoriser l'accessibilité des ERP et des copropriétés. Il est primordial de se renseigner sur ces dispositifs avant de débuter les travaux."
+  },
+  "expertAdvice": "Nous savons que l'installation d'un ascenseur ou d'un monte-charge à Lille requiert une connaissance approfondie des contraintes locales : typologie des bâtiments anciens, exigences du PLU, et spécificités du climat nordique. Choisir un installateur local via CPMI.fr, c'est s'assurer d'une expertise adaptée et d'un suivi personnalisé de votre projet.",
+  "advantages": [
+    "Connaissance approfondie du tissu urbain et des réglementations lilloises.",
+    "Engagement de réactivité pour les entreprises du Nord.",
+    "Maîtrise des installations dans les bâtiments typiques de Lille (briques rouges, architecture industrielle)."
+  ],
+  "pricingContext": "Le coût d'installation d'un ascenseur ou monte-charge pour les professionnels dans le département du Nord (59) varie considérablement en fonction de la complexité du projet, du type d'équipement et des contraintes du bâtiment. Les prix se situent généralement entre 15 000€ et 50 000€, voire plus pour des installations sur-mesure.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides financières spécifiques en Hauts-de-France pour l'installation d'un ascenseur dans un ERP ?",
+      "answer": "Oui, la région Hauts-de-France propose parfois des dispositifs d'aide à l'accessibilité des ERP. Il est conseillé de contacter la CCI ou la CMA locale pour connaître les critères d'éligibilité et les modalités de demande."
+    },
+    {
+      "question": "Quels sont les délais moyens pour l'installation d'un ascenseur dans un immeuble ancien à Lille ?",
+      "answer": "Les délais peuvent varier de quelques semaines à plusieurs mois, en fonction des autorisations d'urbanisme nécessaires et de la complexité des travaux. Une étude préalable est indispensable pour estimer précisément la durée du projet."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité à respecter pour l'installation d'un ascenseur à Lille, et qui assure la maintenance ?",
+      "answer": "L'installation doit respecter les normes EN 81-20 et EN 81-50. La maintenance doit être assurée par un professionnel agréé, avec des visites périodiques obligatoires pour garantir la sécurité des utilisateurs."
+    }
+  ]
+}

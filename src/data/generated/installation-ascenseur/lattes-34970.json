@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Lattes, Occitanie. Fiabilité et expertise à votre service.",
+  "localContext": {
+    "title": "Aides et climat",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. L'adaptation aux conditions climatiques locales est primordiale pour une installation durable."
+  },
+  "expertAdvice": "Un diagnostic précis garantit une installation optimale et sécurisée.",
+  "advantages": [
+    "Connaissance approfondie des spécificités locales à Lattes.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Permis à Lattes ?",
+      "answer": "CPMI vous accompagne dans vos démarches administratives."
+    },
+    {
+      "question": "Délai à Lattes ?",
+      "answer": "Délais rapides, adaptés à votre projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible à Lattes et ses environs."
+    }
+  ]
+}

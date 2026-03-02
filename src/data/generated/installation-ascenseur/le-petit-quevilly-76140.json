@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Le Petit Quevilly, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 76",
+    "content": "Bénéficiez d'aides à la modernisation pour vos bâtiments à Le Petit Quevilly. Le climat normand exige des installations robustes et durables."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et sécurisée.",
+  "advantages": [
+    "Installation rapide et efficace à Le Petit Quevilly.",
+    "Solutions sur mesure pour tous les bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et rénovés."
+    },
+    {
+      "question": "Délai à Le Petit Quevilly ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

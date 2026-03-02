@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Riedisheim pour faciliter l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Profitez des aides régionales pour l'adaptation des bâtiments. Le climat économique du Haut-Rhin favorise l'investissement dans l'amélioration de l'accessibilité."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien immobilier.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Riedisheim.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 68.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Riedisheim ?",
+      "answer": "Conformité totale aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Riedisheim ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

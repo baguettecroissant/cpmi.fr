@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Mazamet, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Régionale",
+    "content": "Occitanie : profitez des aides à l'amélioration de l'habitat. CPMI facilite vos démarches pour une installation sereine à Mazamet."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et SAV assurés par des professionnels locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 81.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Mazamet ?",
+      "answer": "Oui, CPMI propose des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à Mazamet ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

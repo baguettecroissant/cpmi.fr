@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Gerzat, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Gerzat",
+    "content": "Gerzat subit des étés chauds. CPMI vous aide à naviguer les aides régionales pour une climatisation performante et économique."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Gerzat et alentours.",
+    "Solutions sur mesure pour les besoins spécifiques des entreprises.",
+    "Maintenance préventive pour éviter les pannes coûteuses."
+  ],
+  "pricingContext": "CPMI propose des prix compétitifs pour les professionnels du 63.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Gerzat ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

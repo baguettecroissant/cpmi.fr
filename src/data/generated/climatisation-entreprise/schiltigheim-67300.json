@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Schiltigheim, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Schiltigheim",
+    "content": "Dans le Grand Est, une climatisation performante est essentielle. CPMI vous accompagne pour bénéficier des aides régionales et optimiser votre installation."
+  },
+  "expertAdvice": "Choisissez CPMI pour une solution sur-mesure et durable.",
+  "advantages": [
+    "Installation rapide et efficace à Schiltigheim.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions éco-responsables pour votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 67.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI vous conseille la solution adaptée à vos besoins."
+    },
+    {
+      "question": "Délai à Schiltigheim ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

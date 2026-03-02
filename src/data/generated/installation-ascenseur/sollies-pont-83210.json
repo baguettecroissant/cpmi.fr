@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Solliès-Pont, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité & Var",
+    "content": "Le Var encourage l'accessibilité. CPMI.fr vous accompagne pour adapter vos locaux aux normes en vigueur et aux spécificités climatiques régionales."
+  },
+  "expertAdvice": "Solutions sur-mesure adaptées à vos besoins et contraintes locales.",
+  "advantages": [
+    "Installation rapide et efficace à Solliès-Pont.",
+    "Conformité aux normes de sécurité en vigueur.",
+    "Maintenance et SAV assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 83.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Solliès ?",
+      "answer": "Installation respectant les normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Sollies Pont ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes du Var."
+    }
+  ]
+}

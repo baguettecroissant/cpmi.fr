@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Louis (68300), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à St Louis",
+    "content": "Le climat du Haut-Rhin exige des solutions performantes. Profitez des aides de la région Grand Est pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et efficace à St Louis.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne votre système selon vos besoins réels."
+    },
+    {
+      "question": "Délai à St Louis ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Nous respectons les normes environnementales et de sécurité."
+    }
+  ]
+}

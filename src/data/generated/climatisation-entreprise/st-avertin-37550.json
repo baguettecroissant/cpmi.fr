@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Avertin, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 37",
+    "content": "Le climat du Centre-Val de Loire exige des solutions performantes. CPMI vous accompagne pour bénéficier des aides locales à la transition énergétique."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à St Avertin.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions sur-mesure pour tous types de bâtiments tertiaires."
+    },
+    {
+      "question": "Délai à St Avertin ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

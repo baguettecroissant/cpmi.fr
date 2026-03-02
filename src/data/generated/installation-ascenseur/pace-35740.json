@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Pacé, en Ille-et-Vilaine.",
+  "localContext": {
+    "title": "Ascenseurs à Pacé : contexte",
+    "content": "Bénéficiez d'aides à la rénovation énergétique en Bretagne pour vos projets d'accessibilité. Le climat local favorise la durabilité des installations."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec des solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Pacé et ses environs.",
+    "Solutions adaptées aux besoins des professionnels locaux.",
+    "Respect des normes de sécurité en vigueur (ERP, etc.)."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Pacé ?",
+      "answer": "Installation d'ascenseurs conformes aux normes PMR pour l'accessibilité."
+    },
+    {
+      "question": "Délai à Pace ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en Ille-et-Vilaine."
+    }
+  ]
+}

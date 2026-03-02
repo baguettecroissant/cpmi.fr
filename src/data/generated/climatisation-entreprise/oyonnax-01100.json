@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : votre expert en climatisation tertiaire et industrielle à Oyonnax (01), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Oyonnax",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat d'Oyonnax exige des solutions de climatisation adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI pour un rendement maximal.",
+  "advantages": [
+    "Installation rapide et efficace à Oyonnax et alentours.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 01.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Oyonnax ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Gujan-Mestras, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Gujan-Mestras",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. CPMI.fr vous guide dans les aides disponibles pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Gujan.",
+    "Solutions de recharge personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts certifiés IRVE."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux budgets des entreprises du 33.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne la borne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Gujan Mestras ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF et IRVE."
+    }
+  ]
+}

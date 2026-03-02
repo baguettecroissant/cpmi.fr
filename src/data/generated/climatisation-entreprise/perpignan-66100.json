@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Perpignan, pour un confort optimal et des performances énergétiques.",
+  "localContext": {
+    "title": "Climatisation 66",
+    "content": "Perpignan subit des étés chauds. Des aides locales peuvent financer vos installations de climatisation professionnelles et améliorer votre confort."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts énergétiques et améliore la productivité.",
+  "advantages": [
+    "Solutions sur-mesure pour bureaux et industries du 66.",
+    "Installation rapide par nos techniciens certifiés.",
+    "Maintenance préventive pour une longévité accrue."
+  ],
+  "pricingContext": "Devis gratuits et personnalisés pour les professionnels de Perpignan.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Perpignan ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

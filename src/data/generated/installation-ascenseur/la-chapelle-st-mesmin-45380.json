@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à La Chapelle St Mesmin, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 45",
+    "content": "Bénéficiez d'aides à l'accessibilité pour votre commerce ou entreprise. Le climat économique du Loiret favorise l'investissement dans l'amélioration des bâtiments."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, expert en solutions verticales.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos équipes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à La Chapelle St Mesmin.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur pour les ERP."
+    },
+    {
+      "question": "Délai à La Chapelle St Mesmin ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN81-70)."
+    }
+  ]
+}

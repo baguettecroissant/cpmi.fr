@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Grasse, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Grasse",
+    "content": "Grasse bénéficie d'aides à l'amélioration de l'habitat. CPMI vous accompagne dans vos démarches pour une installation conforme et durable."
+  },
+  "expertAdvice": "Sécurisation et conformité : notre priorité pour vos installations.",
+  "advantages": [
+    "Expertise locale reconnue à Grasse et ses environs.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance réactive pour une disponibilité maximale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 06.",
+  "faq": [
+    {
+      "question": "Normes à Grasse ?",
+      "answer": "Respect strict des normes en vigueur (accessibilité, sécurité)."
+    },
+    {
+      "question": "Délai à Grasse ?",
+      "answer": "Délais rapides, adaptés à vos contraintes."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV disponible et efficace sur toute la région grassoise."
+    }
+  ]
+}

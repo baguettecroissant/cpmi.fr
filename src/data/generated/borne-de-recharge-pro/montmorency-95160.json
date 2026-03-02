@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation de bornes de recharge à Montmorency, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Éco-mobilité 95",
+    "content": "Le Val-d'Oise encourage l'installation de bornes. CPMI.fr vous aide à bénéficier des aides locales pour un avenir plus vert à Montmorency."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr : Solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Montmorency.",
+    "Solutions adaptées à vos besoins spécifiques (flotte, copropriété).",
+    "Maintenance et support technique pro dans le Val-d'Oise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour entreprises et copropriétés du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos usages."
+    },
+    {
+      "question": "Délai à Montmorency ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

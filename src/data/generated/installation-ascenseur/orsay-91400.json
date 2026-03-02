@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Orsay, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Orsay et Accessibilité",
+    "content": "Orsay bénéficie d'aides régionales pour l'accessibilité des bâtiments. CPMI vous accompagne dans ces démarches pour une installation conforme et optimisée."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Expertise locale à Orsay et dans le 91",
+    "Solutions sur mesure pour tous vos besoins",
+    "Respect des normes de sécurité en vigueur"
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels à Orsay.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel modèle à Orsay ?",
+      "answer": "Adaptation à votre bâtiment et usage."
+    },
+    {
+      "question": "Délai à Orsay ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes PMR."
+    }
+  ]
+}

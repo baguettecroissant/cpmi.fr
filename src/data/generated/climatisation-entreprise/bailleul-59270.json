@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bailleul, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Bailleul",
+    "content": "Bailleul connaît des étés chauds. Des aides régionales peuvent faciliter l'installation de systèmes performants pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels à Bailleul",
+    "Installation et maintenance par des professionnels qualifiés",
+    "Respect des normes environnementales et réglementations en vigueur"
+  ],
+  "pricingContext": "Nos prix sont adaptés aux besoins spécifiques des entreprises du 59.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Bailleul ?",
+      "answer": "Nous proposons des solutions performantes pour tous types de bâtiments."
+    },
+    {
+      "question": "Délai à Bailleul ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Nord."
+    }
+  ]
+}

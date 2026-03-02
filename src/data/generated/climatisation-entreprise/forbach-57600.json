@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Forbach, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Forbach",
+    "content": "Forbach, avec ses étés chauds, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique des bâtiments tertiaires et industriels."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Forbach et environs",
+    "Installation et maintenance par des professionnels qualifiés",
+    "Réduction de la consommation énergétique et des coûts d'exploitation"
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs et transparents pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Forbach ?",
+      "answer": "Nous évaluons vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Forbach ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Le Pont De Claix, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 38",
+    "content": "Profitez des aides régionales pour l'adaptation de vos locaux. Le climat montagnard nécessite des installations robustes et sécurisées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et durable.",
+  "advantages": [
+    "Connaissance des spécificités locales du Pont De Claix.",
+    "Solutions sur mesure pour les entreprises du 38.",
+    "Respect des normes en vigueur en Auvergne-Rhône-Alpes."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à Le Pont De Claix ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes sécurité."
+    }
+  ]
+}

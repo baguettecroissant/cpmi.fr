@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Rueil-Malmaison, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 92 : Enjeux",
+    "content": "Rueil-Malmaison subit des étés chauds. Profitez des aides régionales pour une installation performante et économe en énergie."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du tertiaire.",
+    "Installation rapide et efficace dans vos locaux industriels.",
+    "Maintenance préventive pour une durée de vie prolongée."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Une étude thermique précise déterminera la solution idéale."
+    },
+    {
+      "question": "Délai à Rueil Malmaison ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

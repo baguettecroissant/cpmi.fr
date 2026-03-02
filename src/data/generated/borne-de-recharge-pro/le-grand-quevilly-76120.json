@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés au Grand Quevilly, contribuant à une mobilité durable.",
+  "localContext": {
+    "title": "Normandie Électrique",
+    "content": "La région Normandie encourage activement l'électrification des véhicules avec des aides financières. Profitez d'un cadre favorable pour votre projet au Grand Quevilly."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur locales.",
+    "Solutions personnalisées pour chaque entreprise ou copropriété.",
+    "Maintenance et SAV assurés par nos équipes certifiées IRVE."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Le Grand Quevilly ?",
+      "answer": "Installation sous 4 à 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF et IRVE."
+    }
+  ]
+}

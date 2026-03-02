@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Épinay-sur-Seine, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Aides",
+    "content": "Des aides régionales facilitent l'installation. Le climat urbain d'Épinay nécessite des solutions adaptées aux bâtiments existants et neufs."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Épinay-sur-Seine.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs, monte-charges, plateformes élévatrices : nous adaptons la solution."
+    },
+    {
+      "question": "Délai à Epinay Sur Seine ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Épinay et en IDF."
+    }
+  ]
+}

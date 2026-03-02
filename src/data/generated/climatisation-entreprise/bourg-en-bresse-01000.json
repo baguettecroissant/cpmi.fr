@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bourg-en-Bresse, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 01 : Spécificités Locales",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat de l'Ain exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et efficace dans tout le département de l'Ain.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure pour les bâtiments industriels et tertiaires."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Bourg-en-Bresse.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Bourg En Bresse ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012."
+    }
+  ]
+}

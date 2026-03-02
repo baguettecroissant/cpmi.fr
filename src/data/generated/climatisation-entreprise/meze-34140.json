@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mèze (34140).",
+  "localContext": {
+    "title": "Climatisation à Mèze",
+    "content": "Profitez des aides locales pour améliorer l'efficacité énergétique de vos bâtiments. Le climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Mèze et environs.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions éco-responsables pour réduire votre impact."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour vos projets de climatisation dans l'Hérault.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Meze ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

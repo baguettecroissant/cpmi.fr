@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bègles, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité à Bègles",
+    "content": "La Nouvelle-Aquitaine encourage l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation, en tenant compte du climat humide local."
+  },
+  "expertAdvice": "Un ascenseur bien installé valorise votre bien durablement.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bègles.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des experts locaux qualifiés."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels en Gironde.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Bègles ?",
+      "answer": "CPMI.fr adapte ses installations aux normes PMR."
+    },
+    {
+      "question": "Délai à Begles ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

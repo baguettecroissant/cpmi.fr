@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Versailles, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "Versailles subit des étés chauds. CPMI.fr vous aide à bénéficier des aides régionales pour une climatisation performante et éco-responsable."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et soignée à Versailles et alentours.",
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance et dépannage 24/7 pour une sérénité totale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon bureau à Versailles ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Versailles ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes en vigueur à Versailles ?",
+      "answer": "CPMI.fr respecte toutes les réglementations locales."
+    }
+  ]
+}

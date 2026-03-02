@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Le Chambon Feugerolles, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 42",
+    "content": "La région Auvergne-Rhône-Alpes bénéficie d'aides pour l'efficacité énergétique. Adaptez vos systèmes aux étés chauds et hivers froids."
+  },
+  "expertAdvice": "Un système bien dimensionné assure performance et économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments industriels et commerciaux du 42.",
+    "Installation rapide et efficace par nos équipes certifiées.",
+    "Maintenance préventive pour une durée de vie prolongée de vos équipements."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de la Loire.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique précise pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Le Chambon Feugerolles ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans la Loire."
+    }
+  ]
+}

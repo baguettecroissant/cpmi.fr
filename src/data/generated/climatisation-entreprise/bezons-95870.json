@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bezons (95), pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation 95 : Enjeux Locaux",
+    "content": "À Bezons, les étés chauds nécessitent des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales et optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Bezons.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre entreprise à Bezons.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Bezons ?",
+      "answer": "CPMI.fr réalise un bilan thermique précis."
+    },
+    {
+      "question": "Délai à Bezons ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

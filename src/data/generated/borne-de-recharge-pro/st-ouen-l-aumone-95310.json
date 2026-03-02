@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Saint-Ouen-l'Aumône, dynamisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Transition Énergétique 95",
+    "content": "Le Val-d'Oise encourage l'électromobilité. Profitez d'aides régionales pour l'installation de bornes et améliorez votre image éco-responsable à St Ouen L Aumone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en solutions de recharge.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés du 95.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour les professionnels du Val-d'Oise.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à St Ouen L Aumone ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

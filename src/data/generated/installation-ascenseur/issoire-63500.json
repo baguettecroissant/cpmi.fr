@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Issoire, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité à Issoire",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. CPMI vous accompagne pour naviguer les aides et adapter vos bâtiments aux normes locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Issoire",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance fiable assurée par nos experts locaux"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Puy-de-Dôme.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adapté à vos besoins : PMR, résidentiel, industriel."
+    },
+    {
+      "question": "Délai à Issoire ?",
+      "answer": "Varie selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

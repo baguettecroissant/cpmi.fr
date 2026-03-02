@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Rezé (44400), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable à Rezé",
+    "content": "Rezé bénéficie d'aides pour la transition énergétique. CPMI vous accompagne pour des solutions adaptées au climat ligérien."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies garanties !",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et industries rézéennes.",
+    "Installation rapide et efficace par des experts locaux.",
+    "Respect des normes environnementales en vigueur à Rezé."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Rezé.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Reze ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

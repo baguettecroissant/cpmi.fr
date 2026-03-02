@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Alès, garantissant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Alès",
+    "content": "Alès bénéficie d'aides pour l'amélioration de l'habitat. CPMI vous accompagne dans vos démarches pour l'installation d'ascenseurs et monte-charges adaptés au climat méditerranéen."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Alès.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et SAV réactifs dans le Gard."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 30.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Alès ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure."
+    },
+    {
+      "question": "Délai à Ales ?",
+      "answer": "Délais rapides, nous consulter."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ris Orangis, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 91 : Spécificités",
+    "content": "L'Île-de-France bénéficie d'aides pour l'efficacité énergétique. CPMI adapte ses solutions aux besoins spécifiques des entreprises de Ris Orangis, tenant compte des variations climatiques régionales."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques et améliore le confort.",
+  "advantages": [
+    "Installation rapide et efficace à Ris Orangis.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation tertiaire à Ris Orangis.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Ris Orangis ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

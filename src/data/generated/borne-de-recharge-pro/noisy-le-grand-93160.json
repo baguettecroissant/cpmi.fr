@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Noisy-le-Grand, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes à Noisy-le-Grand",
+    "content": "L'Île-de-France encourage l'électromobilité avec des subventions. CPMI vous accompagne dans l'obtention de ces aides pour votre projet de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Noisy-le-Grand.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité en Île-de-France."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour le 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Noisy Le Grand ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

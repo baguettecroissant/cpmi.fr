@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Dole (39100) pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Dole : Aides",
+    "content": "La région Bourgogne-Franche-Comté soutient l'électromobilité. Profitez des aides locales pour l'installation de bornes dans votre entreprise ou copropriété à Dole."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge fiable.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés à Dole.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par CPMI, entreprise locale."
+  ],
+  "pricingContext": "CPMI : Devis personnalisés pour bornes de recharge à Dole (39).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Dole ?",
+      "answer": "Adaptation selon vos besoins et contraintes électriques."
+    },
+    {
+      "question": "Délai à Dole ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Norme à respecter ?",
+      "answer": "IRVE et exigences locales garanties par CPMI."
+    }
+  ]
+}

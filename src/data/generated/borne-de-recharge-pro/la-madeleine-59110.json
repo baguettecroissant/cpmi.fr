@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à La Madeleine, soutenant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Bornes à La Madeleine",
+    "content": "La région Hauts-de-France encourage l'électromobilité. CPMI vous aide à naviguer les aides pour l'installation de bornes en entreprise et copropriété."
+  },
+  "expertAdvice": "Anticipez la transition énergétique avec CPMI à La Madeleine.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à La Madeleine.",
+    "Solutions sur-mesure pour entreprises et copropriétés du 59.",
+    "Maintenance et SAV assurés par CPMI, expert local."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à La Madeleine ?",
+      "answer": "Installation rapide, généralement sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vidauban, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Vidauban",
+    "content": "Vidauban bénéficie d'aides à l'accessibilité. Le climat méditerranéen exige des installations robustes et adaptées aux variations thermiques."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Vidauban",
+    "Solutions adaptées aux besoins spécifiques des entreprises",
+    "Maintenance préventive pour une durabilité accrue de vos équipements"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Var (83).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Vidauban ?",
+      "answer": "Oui, nous installons des ascenseurs conformes PMR."
+    },
+    {
+      "question": "Délai à Vidauban ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

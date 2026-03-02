@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Roche La Molière, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 42230",
+    "content": "La région Auvergne-Rhône-Alpes connaît des étés chauds. Profitez des aides pour une climatisation performante et économe."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI, pour une efficacité énergétique accrue.",
+  "advantages": [
+    "Installation rapide et professionnelle à Roche La Molière.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions sur mesure pour vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Roche La Moliere ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV local performant ?",
+      "answer": "SAV réactif et certifié, respectant les normes en vigueur."
+    }
+  ]
+}

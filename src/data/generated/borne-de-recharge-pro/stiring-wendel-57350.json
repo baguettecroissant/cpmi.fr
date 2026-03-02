@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Stiring-Wendel pour entreprises et copropriétés, facilitez la mobilité électrique.",
+  "localContext": {
+    "title": "Grand Est Électrique",
+    "content": "Le Grand Est soutient l'électromobilité. CPMI vous accompagne pour bénéficier des aides à l'installation de bornes à Stiring-Wendel."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI.fr.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à Stiring-Wendel.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisé pour bornes de recharge, adapté à votre budget pro dans le 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins."
+    },
+    {
+      "question": "Délai à Stiring Wendel ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

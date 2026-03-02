@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Claude, Guadeloupe, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat et Solutions",
+    "content": "Le climat tropical de St Claude exige des systèmes performants. CPMI vous guide vers les aides financières disponibles pour optimiser votre investissement."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation adaptée aux spécificités de votre activité.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à St Claude.",
+    "Maintenance experte pour une performance durable.",
+    "Conformité aux normes environnementales locales."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels en Guadeloupe (971).",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon entreprise ?",
+      "answer": "CPMI analyse vos besoins pour une solution personnalisée et efficace."
+    },
+    {
+      "question": "Délai à St Claude ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur en Guadeloupe."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Francheville pour entreprises et copropriétés, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes à Francheville",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. Profitez des aides pour l'installation de bornes et améliorez votre image verte."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Solutions sur mesure pour vos besoins à Francheville.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Francheville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

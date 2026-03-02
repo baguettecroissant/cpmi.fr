@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Mayenne, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Mayenne (53)",
+    "content": "Le climat en Pays de la Loire exige des solutions performantes. CPMI vous guide pour bénéficier des aides à la transition énergétique disponibles localement."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un diagnostic précis de vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels Mayennais",
+    "Installation et maintenance par des experts certifiés en froid",
+    "Réduction de votre empreinte carbone grâce à nos solutions"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Mayenne.",
+  "faq": [
+    {
+      "question": "Type de climatisation idéal ?",
+      "answer": "Adapté à votre activité et à la taille de vos locaux."
+    },
+    {
+      "question": "Délai à Mayenne ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

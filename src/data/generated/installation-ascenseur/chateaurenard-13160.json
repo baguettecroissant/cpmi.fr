@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Chateaurenard et ses environs.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides locales pour l'amélioration de l'habitat. Le climat méditerranéen favorise la durabilité de nos installations à Chateaurenard."
+  },
+  "expertAdvice": "Sécurité et conformité : notre priorité absolue pour chaque installation.",
+  "advantages": [
+    "Installation rapide et efficace à Chateaurenard.",
+    "Solutions sur-mesure adaptées à vos besoins.",
+    "Maintenance et dépannage 7j/7 dans le 13."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels et collectivités dans les Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Chateaurenard ?",
+      "answer": "Oui, nous installons des ascenseurs adaptés aux normes PMR."
+    },
+    {
+      "question": "Délai à Chateaurenard ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

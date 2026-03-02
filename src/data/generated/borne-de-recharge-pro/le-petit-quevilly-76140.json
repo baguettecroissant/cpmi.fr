@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Le Petit Quevilly, Normandie.",
+  "localContext": {
+    "title": "Normandie Verte",
+    "content": "La région Normandie soutient activement la mobilité électrique. Profitez des aides locales pour l'installation de bornes dans votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure et attirez des clients et employés éco-responsables.",
+  "advantages": [
+    "Solution clé en main à Le Petit Quevilly.",
+    "Installation rapide par des experts certifiés.",
+    "Valorisation immobilière et image verte."
+  ],
+  "pricingContext": "Devis personnalisé et compétitif pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Le Petit Quevilly ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

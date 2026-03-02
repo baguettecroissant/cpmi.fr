@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Eaubonne, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Aides et Réglementations",
+    "content": "Le Val-d'Oise propose des aides à l'accessibilité. CPMI vous guide dans les démarches pour une installation conforme aux normes locales."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec nos solutions sur mesure.",
+  "advantages": [
+    "Solutions adaptées aux spécificités architecturales d'Eaubonne.",
+    "Installation rapide et respect des normes en vigueur.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs et monte-charges industriels."
+    },
+    {
+      "question": "Délai à Eaubonne ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes PMR en vigueur."
+    }
+  ]
+}

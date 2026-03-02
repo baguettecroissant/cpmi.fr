@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Auch, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Auch",
+    "content": "Le climat gersois exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Un système bien dimensionné assure confort et économies durables.",
+  "advantages": [
+    "Installation rapide et efficace par des experts locaux.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure adaptées aux besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du Gers.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Dimensionnement précis selon vos locaux et besoins."
+    },
+    {
+      "question": "Délai à Auch ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

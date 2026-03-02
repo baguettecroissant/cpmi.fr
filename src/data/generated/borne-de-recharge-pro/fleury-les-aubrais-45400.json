@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Fleury-les-Aubrais, soutenant la mobilité électrique locale pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique 45",
+    "content": "Le Centre-Val de Loire encourage l'électromobilité. CPMI aide les entreprises et copropriétés de Fleury-les-Aubrais à bénéficier des aides locales pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Fleury.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels du Loiret.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Fleury Les Aubrais ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

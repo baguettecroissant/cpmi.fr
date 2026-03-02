@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Petit-Bourg pour une mobilité verte en entreprise et copropriété.",
+  "localContext": {
+    "title": "Bornes 971",
+    "content": "La Guadeloupe encourage l'électromobilité. Profitez des aides locales et du climat favorable pour installer vos bornes à Petit-Bourg."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en bornes de recharge.",
+  "advantages": [
+    "Solution adaptée aux besoins spécifiques des entreprises locales.",
+    "Installation rapide et professionnelle à Petit-Bourg (97170).",
+    "Bornes de recharge robustes pour le climat tropical."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Petit Bourg ?",
+      "answer": "Adaptée à vos véhicules et à votre consommation locale."
+    },
+    {
+      "question": "Délai à Petit Bourg ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes guadeloupéennes."
+    }
+  ]
+}

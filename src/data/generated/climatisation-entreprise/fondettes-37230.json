@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fondettes (37230).",
+  "localContext": {
+    "title": "Climatisation Durable à Fondettes",
+    "content": "Profitez des aides régionales pour l'efficacité énergétique. Le climat de la région Centre-Val de Loire exige des solutions performantes."
+  },
+  "expertAdvice": "Optimisez votre confort thermique et réduisez vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Fondettes et alentours.",
+    "Solutions sur mesure pour les besoins spécifiques des entreprises.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Fondettes ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

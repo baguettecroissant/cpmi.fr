@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Millau, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Aides et Accessibilité à Millau",
+    "content": "Profitez des aides à l'amélioration de l'habitat et des subventions pour l'accessibilité dans l'Aveyron. CPMI vous accompagne dans vos démarches."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Millau.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Millau ?",
+      "answer": "Installation rapide, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance proactive et respect des normes en vigueur."
+    }
+  ]
+}

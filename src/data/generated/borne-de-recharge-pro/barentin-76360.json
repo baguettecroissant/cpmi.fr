@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Barentin pour entreprises et copropriétés, favorisant la mobilité durable locale.",
+  "localContext": {
+    "title": "Normandie Électrique",
+    "content": "La région Normandie soutient activement l'électrification des véhicules avec des aides financières. Barentin s'engage pour un avenir plus vert."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solution de recharge sur mesure pour Barentin et sa région.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Prix compétitifs et solutions de financement adaptées aux entreprises du 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Barentin ?",
+      "answer": "Adaptation selon vos besoins et la capacité électrique disponible."
+    },
+    {
+      "question": "Délai à Barentin ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en Normandie."
+    }
+  ]
+}

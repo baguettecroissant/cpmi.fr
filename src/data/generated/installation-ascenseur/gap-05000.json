@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Gap, améliorant l'accessibilité et la valeur de vos biens.",
+  "localContext": {
+    "title": "Accessibilité à Gap",
+    "content": "Gap et les Hautes-Alpes encouragent l'accessibilité. Des aides régionales facilitent l'installation d'ascenseurs et monte-charges pour les entreprises et particuliers."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la sécurité de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Gap.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Gap.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce à Gap ?",
+      "answer": "CPMI vous conseille sur le modèle adapté à votre activité."
+    },
+    {
+      "question": "Délai à Gap ?",
+      "answer": "Installation rapide, délais précis sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

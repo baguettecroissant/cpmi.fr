@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Villefranche-sur-Saône, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation : Enjeux locaux",
+    "content": "Villefranche-sur-Saône subit des étés chauds. Des aides régionales peuvent faciliter l'installation de systèmes performants pour les entreprises."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du Beaujolais.",
+    "Maintenance réactive à Villefranche et ses environs.",
+    "Conformité aux normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 69.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon vos volumes et l'activité."
+    },
+    {
+      "question": "Délai à Villefranche Sur Saone ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012 et ERP."
+    }
+  ]
+}

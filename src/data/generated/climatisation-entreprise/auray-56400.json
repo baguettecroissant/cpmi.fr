@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Auray, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Auray",
+    "content": "Le climat breton exige des solutions de climatisation performantes. Profitez des aides locales pour une installation éco-responsable dans le Morbihan."
+  },
+  "expertAdvice": "Optimisez votre installation avec un audit énergétique personnalisé.",
+  "advantages": [
+    "Installation rapide et efficace à Auray et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour vos projets de climatisation professionnelle dans le 56.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux à Auray ?",
+      "answer": "Dimensionnement précis selon la superficie et l'usage."
+    },
+    {
+      "question": "Délai à Auray ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

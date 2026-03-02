@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Mont-de-Marsan, pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Transition Énergétique 40",
+    "content": "La Nouvelle-Aquitaine soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure : CPMI vous conseille sur la solution idéale.",
+  "advantages": [
+    "Valorisation immobilière à Mont-de-Marsan et alentours.",
+    "Attirez et fidélisez vos collaborateurs et clients.",
+    "Réduisez les coûts liés aux déplacements professionnels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour entreprises du 40.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Mont De Marsan ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance locale et conformité aux normes IRVE."
+    }
+  ]
+}

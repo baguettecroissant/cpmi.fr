@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bollène, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Bollène",
+    "content": "Bollène bénéficie d'aides pour l'accessibilité des PMR. CPMI vous accompagne dans vos projets d'élévation, adaptés au climat provençal."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes en vigueur.",
+  "advantages": [
+    "Expertise locale à Bollène et ses environs",
+    "Solutions sur mesure pour tous les bâtiments",
+    "Maintenance réactive et de proximité"
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du Vaucluse.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bollène ?",
+      "answer": "CPMI propose des solutions d'accessibilité conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Bollene ?",
+      "answer": "Délais rapides, devis personnalisé."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

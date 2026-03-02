@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à St Hilaire De Riez pour entreprises et copropriétés, favorisant la mobilité verte.",
+  "localContext": {
+    "title": "Transition Énergétique 85",
+    "content": "La région Pays de la Loire soutient activement l'installation de bornes. Profitez des aides pour électrifier votre flotte ou copropriété à St Hilaire De Riez."
+  },
+  "expertAdvice": "Optimisez votre installation avec un dimensionnement précis et une gestion intelligente.",
+  "advantages": [
+    "Solution clé en main adaptée à vos besoins locaux.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Valorisation immobilière et image éco-responsable."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels du 85.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Adaptée à vos véhicules et usages."
+    },
+    {
+      "question": "Délai à St Hilaire De Riez ?",
+      "answer": "Sur devis, généralement rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Landerneau, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation en Bretagne",
+    "content": "Le climat breton exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales en faveur de la transition énergétique."
+  },
+  "expertAdvice": "Optimisez vos installations avec un diagnostic personnalisé CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à Landerneau et ses environs.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du Finistère.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Landerneau ?",
+      "answer": "CPMI.fr vous conseille sur les solutions les plus adaptées."
+    },
+    {
+      "question": "Délai à Landerneau ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

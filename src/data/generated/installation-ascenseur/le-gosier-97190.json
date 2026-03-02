@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges au Gosier, Guadeloupe.",
+  "localContext": {
+    "title": "Adaptation Régionale",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Guadeloupe. CPMI adapte ses installations aux contraintes climatiques locales : humidité, cyclones."
+  },
+  "expertAdvice": "Sécurité et conformité : un investissement durable pour votre entreprise.",
+  "advantages": [
+    "Installation rapide et efficace à Le Gosier.",
+    "Solutions sur-mesure pour tous les bâtiments.",
+    "Maintenance préventive assurant la longévité."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et rénovations importantes."
+    },
+    {
+      "question": "Délai à Le Gosier ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes antillaises."
+    }
+  ]
+}

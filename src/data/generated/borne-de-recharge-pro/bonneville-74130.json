@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Bonneville pour entreprises et copropriétés, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Énergie à Bonneville",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local en solutions sur mesure.",
+  "advantages": [
+    "Bornes adaptées aux besoins spécifiques de votre entreprise.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge à Bonneville.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Bonneville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges aux Abymes, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Adaptation Guadeloupe",
+    "content": "Les Abymes bénéficient de dispositifs d'aide à l'accessibilité. CPMI adapte ses installations aux contraintes climatiques tropicales pour une durabilité optimale."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme aux normes locales.",
+  "advantages": [
+    "Installation rapide et efficace aux Abymes.",
+    "Solutions sur mesure pour tous bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels aux Abymes.",
+  "faq": [
+    {
+      "question": "Normes à respecter ?",
+      "answer": "Conformité totale avec les réglementations en vigueur."
+    },
+    {
+      "question": "Délai à Les Abymes ?",
+      "answer": "Délais rapides, variables selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes antisismiques."
+    }
+  ]
+}

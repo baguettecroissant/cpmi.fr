@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Cyr Sur Mer et ses environs.",
+  "localContext": {
+    "title": "Adaptation Locale",
+    "content": "St Cyr Sur Mer bénéficie d'un climat favorable. CPMI.fr vous accompagne pour adapter votre installation aux spécificités régionales et aides potentielles."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Var (83).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon accessibilité ERP."
+    },
+    {
+      "question": "Délai à St Cyr Sur Mer ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge au Pecq, facilitant la transition énergétique de votre entreprise.",
+  "localContext": {
+    "title": "Bornes au Pecq : Enjeux",
+    "content": "Le Pecq, engagée pour l'environnement, encourage l'installation de bornes. Profitez des aides régionales pour un déploiement facilité en copropriété et entreprise."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique pour une recharge efficace et durable.",
+  "advantages": [
+    "Solutions sur-mesure adaptées aux besoins spécifiques de chaque entreprise.",
+    "Installation rapide et conforme aux normes en vigueur (IRVE).",
+    "Suivi personnalisé et maintenance assurant la pérennité de l'installation."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du 78 et environs.",
+  "faq": [
+    {
+      "question": "Quelle puissance au Pecq ?",
+      "answer": "Adaptation selon vos véhicules et usages, de 7kW à 22kW."
+    },
+    {
+      "question": "Délai à Le Pecq ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides assurés par nos techniciens certifiés."
+    }
+  ]
+}

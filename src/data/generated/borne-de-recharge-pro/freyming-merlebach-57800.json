@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Freyming Merlebach.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "Le Grand Est soutient l'électromobilité. Profitez des subventions pour installer vos bornes de recharge à Freyming Merlebach et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour chaque entreprise.",
+    "Maintenance et SAV assurés par CPMI.fr"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Freyming Merlebach ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

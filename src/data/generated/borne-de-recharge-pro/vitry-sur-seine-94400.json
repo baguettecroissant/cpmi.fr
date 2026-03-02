@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Vitry-sur-Seine, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique 94",
+    "content": "Le Val-de-Marne encourage l'électromobilité. CPMI.fr vous aide à naviguer les aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions durables et performantes.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Vitry.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV proactifs pour une recharge fiable."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux besoins des professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelles aides à Vitry ?",
+      "answer": "Aides régionales et nationales cumulables. CPMI.fr vous conseille."
+    },
+    {
+      "question": "Délai à Vitry Sur Seine ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Montceau-les-Mines, favorisant la mobilité électrique.",
+  "localContext": {
+    "title": "Transition énergétique 71",
+    "content": "La Bourgogne-Franche-Comté soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge en entreprise et copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés à Montceau.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Accès aux aides financières locales pour réduire vos coûts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de recharge dans le 71.",
+  "faq": [
+    {
+      "question": "Bornes : quelles aides locales ?",
+      "answer": "Renseignez-vous auprès de la région Bourgogne-Franche-Comté."
+    },
+    {
+      "question": "Délai à Montceau Les Mines ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vidauban, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Profitez des aides régionales pour la transition énergétique de vos bâtiments à Vidauban. Un climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation : performance et respect des normes environnementales.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Vidauban (83)",
+    "Installation et maintenance par des experts certifiés RGE",
+    "Réduction de vos coûts énergétiques et empreinte carbone"
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du Var.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Calcul précis selon la surface et l'activité à Vidauban."
+    },
+    {
+      "question": "Délai à Vidauban ?",
+      "answer": "Intervention rapide : diagnostic sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2020 et ERP."
+    }
+  ]
+}

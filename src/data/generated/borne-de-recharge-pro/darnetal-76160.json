@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Darnetal, pour entreprises et copropriétés, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Aides et climat à Darnetal",
+    "content": "La Normandie encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides régionales et adapter votre infrastructure à Darnetal."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI, expert local en bornes de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Darnetal",
+    "Solutions sur-mesure pour entreprises et copropriétés",
+    "Maintenance et SAV de proximité garantis dans le 76"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels à Darnetal.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Darnetal ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

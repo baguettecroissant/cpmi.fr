@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Levallois-Perret, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Levallois : Mobilité & Accessibilité",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI facilite vos projets d'ascenseurs et monte-charges en respectant les normes locales et les aides disponibles."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bâtiment avec une installation sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de Levallois.",
+    "Solutions personnalisées pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels à Levallois-Perret, devis gratuit et personnalisé.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Levallois ?",
+      "answer": "Oui, CPMI assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Levallois Perret ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur à Levallois."
+    }
+  ]
+}

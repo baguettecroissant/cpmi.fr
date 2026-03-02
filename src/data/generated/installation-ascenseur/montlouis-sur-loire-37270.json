@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Montlouis-sur-Loire.",
+  "localContext": {
+    "title": "Adaptation & Accessibilité",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Indre-et-Loire. Facilitez l'accès aux bâtiments avec CPMI."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation sur mesure pour bâtiments existants.",
+    "Conformité aux normes de sécurité en vigueur.",
+    "Solutions adaptées aux besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 37.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Montlouis ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Montlouis Sur Loire ?",
+      "answer": "Délais rapides et respectés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

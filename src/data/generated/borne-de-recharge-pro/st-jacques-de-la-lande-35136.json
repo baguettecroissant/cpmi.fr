@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à St Jacques De La Lande.",
+  "localContext": {
+    "title": "Bornes à St Jacques",
+    "content": "La région Bretagne encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en solutions de recharge.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des professionnels qualifiés."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à St Jacques De La Lande ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

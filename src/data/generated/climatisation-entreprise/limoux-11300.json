@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Limoux, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Limoux",
+    "content": "Le climat audois exige des solutions performantes. Bénéficiez d'aides locales pour l'installation de systèmes de climatisation écoénergétiques adaptés à vos besoins."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires à Limoux",
+    "Installation et maintenance par des experts certifiés",
+    "Réduction de votre empreinte carbone et de vos coûts"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels de l'Aude.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Limoux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Limoux ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

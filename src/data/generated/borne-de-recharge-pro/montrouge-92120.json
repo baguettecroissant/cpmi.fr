@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Montrouge, participant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Montrouge",
+    "content": "Montrouge, en Île-de-France, bénéficie d'aides régionales pour l'installation de bornes. La demande croissante souligne l'importance de solutions de recharge efficaces."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Montrouge.",
+    "Solutions sur mesure pour entreprises et copropriétés du 92.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI.fr vous guide vers la solution idéale."
+    },
+    {
+      "question": "Délai à Montrouge ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

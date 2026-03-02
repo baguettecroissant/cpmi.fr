@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Salon-de-Provence. Performance et confort assurés.",
+  "localContext": {
+    "title": "Climatisation 13300",
+    "content": "Salon-de-Provence : des étés chauds nécessitent des solutions de climatisation fiables. CPMI.fr vous accompagne pour des installations performantes et durables."
+  },
+  "expertAdvice": "Un bilan thermique précis pour un système adapté à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour locaux tertiaires et industriels.",
+    "Installation rapide et efficace par des professionnels qualifiés.",
+    "Maintenance préventive pour optimiser la durée de vie."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Calcul précis selon volume et isolation."
+    },
+    {
+      "question": "Délai à Salon De Provence ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

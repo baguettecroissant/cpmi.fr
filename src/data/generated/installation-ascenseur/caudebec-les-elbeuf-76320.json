@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Caudebec Les Elbeuf, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 76",
+    "content": "La Normandie encourage l'accessibilité des bâtiments. CPMI vous accompagne dans vos projets d'installation et de mise aux normes à Caudebec Les Elbeuf."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV local pour une tranquillité durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs recevant du public."
+    },
+    {
+      "question": "Délai à Caudebec Les Elbeuf ?",
+      "answer": "Sur devis, variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

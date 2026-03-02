@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Just St Rambert.",
+  "localContext": {
+    "title": "Aides et contexte local",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. CPMI vous conseille sur les aides disponibles et s'adapte aux contraintes locales."
+  },
+  "expertAdvice": "Une installation conforme : sécurité et performance garanties par CPMI.",
+  "advantages": [
+    "Expertise locale : CPMI connaît les spécificités de St Just St Rambert.",
+    "Solutions sur-mesure : adaptées à vos besoins et votre budget.",
+    "Maintenance réactive : pour une disponibilité optimale de vos équipements."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité si ERP."
+    },
+    {
+      "question": "Délai à St Just St Rambert ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

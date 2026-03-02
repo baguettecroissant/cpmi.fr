@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure le confort thermique des entreprises à Sainte Anne, Guadeloupe, avec des solutions de climatisation adaptées.",
+  "localContext": {
+    "title": "Climatisation Optimale",
+    "content": "Le climat tropical exige des systèmes performants. CPMI vous guide parmi les aides disponibles pour une climatisation éco-responsable à Ste Anne."
+  },
+  "expertAdvice": "Choisissez un système adapté aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Expertise en climatisation tertiaire et industrielle à Ste Anne.",
+    "Solutions sur-mesure pour optimiser votre consommation énergétique.",
+    "Maintenance et dépannage rapides par nos techniciens locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels guadeloupéens.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Ste Anne ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur en Guadeloupe."
+    }
+  ]
+}

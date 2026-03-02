@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Noyon, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et Région",
+    "content": "Hauts-de-France : CPMI vous informe sur les subventions potentielles pour l'installation d'ascenseurs. Adaptez vos bâtiments aux besoins de Noyon."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour vos projets d'élévation à Noyon.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Noyon",
+    "Solutions adaptées aux bâtiments existants",
+    "Maintenance et SAV de proximité dans le 60"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de Noyon (60400).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Noyon ?",
+      "answer": "CPMI propose des solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Noyon ?",
+      "answer": "Délai moyen : 4-6 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN 81-20/50."
+    }
+  ]
+}

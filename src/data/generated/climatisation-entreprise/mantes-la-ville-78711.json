@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mantes-la-Ville. Performance et confort assurés.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Mantes-la-Ville connaît des étés chauds. CPMI.fr vous aide à optimiser votre climatisation et à profiter des aides régionales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Mantes-la-Ville.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions pour bureaux, entrepôts, commerces."
+    },
+    {
+      "question": "Délai à Mantes La Ville ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

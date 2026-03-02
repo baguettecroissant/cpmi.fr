@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Belfort, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Belfortaine",
+    "content": "Belfort soutient l'accessibilité des bâtiments. CPMI.fr vous guide à travers les aides locales pour faciliter vos projets d'installation."
+  },
+  "expertAdvice": "CPMI.fr : Expertise et solutions sur mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Belfort.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Amélioration de l'accessibilité et valorisation immobilière."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 90.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Belfort ?",
+      "answer": "CPMI.fr propose des solutions PMR conformes et adaptées."
+    },
+    {
+      "question": "Délai à Belfort ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur localement."
+    }
+  ]
+}

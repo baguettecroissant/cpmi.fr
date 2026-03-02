@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Hérouville-Saint-Clair, Normandie.",
+  "localContext": {
+    "title": "Accessibilité Normandie",
+    "content": "La région Normandie soutient l'accessibilité. CPMI.fr vous accompagne dans vos projets d'élévation, en tenant compte des spécificités climatiques locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hérouville.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "CPMI.fr : Des prix compétitifs pour les professionnels du Calvados (14).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Hérouville ?",
+      "answer": "CPMI.fr propose des solutions PMR sur-mesure."
+    },
+    {
+      "question": "Délai à Herouville St Clair ?",
+      "answer": "Devis rapide et installation sous 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes NF82-204."
+    }
+  ]
+}

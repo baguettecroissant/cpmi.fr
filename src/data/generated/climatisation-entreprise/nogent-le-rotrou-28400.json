@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Nogent-Le-Rotrou, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 28 : Spécificités",
+    "content": "Le climat du Centre-Val de Loire exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation tertiaire et industrielle."
+  },
+  "expertAdvice": "Optimisation énergétique : un investissement rentable et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour locaux professionnels à Nogent-Le-Rotrou.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de votre empreinte carbone et de vos coûts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 28.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique précise pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Nogent Le Rotrou ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

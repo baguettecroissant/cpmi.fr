@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Maubeuge, pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climat à Maubeuge",
+    "content": "Les étés chauds à Maubeuge exigent une climatisation performante. CPMI.fr vous aide à optimiser votre consommation énergétique grâce aux aides disponibles dans les Hauts-de-France."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et efficace à Maubeuge et ses environs.",
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance et dépannage assurés par des professionnels qualifiés."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour la climatisation de vos locaux professionnels à Maubeuge.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Maubeuge ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Nord."
+    }
+  ]
+}

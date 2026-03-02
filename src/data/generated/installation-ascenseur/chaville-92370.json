@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Chaville, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Chaville & Accessibilité",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI.fr facilite vos démarches d'installation d'ascenseurs et monte-charges à Chaville, en conformité avec les normes locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.fr.",
+  "advantages": [
+    "Expertise locale à Chaville et dans le 92.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Installation rapide et conforme aux normes."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels à Chaville et dans les Hauts-de-Seine.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Chaville ?",
+      "answer": "CPMI.fr : Solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Chaville ?",
+      "answer": "Devis rapide, installation efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Oissel, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Optimale à Oissel",
+    "content": "Les étés chauds en Normandie rendent la climatisation indispensable pour les entreprises. CPMI vous accompagne pour bénéficier des aides régionales à la transition énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Oissel.",
+    "Maintenance préventive pour une performance optimale.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour des tarifs compétitifs dans le 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI évalue vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Oissel ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

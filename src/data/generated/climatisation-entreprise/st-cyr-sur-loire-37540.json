@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Cyr Sur Loire, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 37 : Enjeux Locaux",
+    "content": "Le climat de St Cyr Sur Loire nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un système bien dimensionné est la clé d'une climatisation efficace.",
+  "advantages": [
+    "Installation rapide et professionnelle à St Cyr.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins industriels."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de climatisation.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à St Cyr Sur Loire ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

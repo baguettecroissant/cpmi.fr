@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges au Lamentin, Martinique, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Accessibilité 972",
+    "content": "Bénéficiez d'aides locales pour l'installation. Le climat tropical exige des solutions robustes et adaptées, CPMI répond à ces besoins."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des experts locaux qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels en Martinique.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins B2B."
+    },
+    {
+      "question": "Délai à Le Lamentin ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes antillaises."
+    }
+  ]
+}

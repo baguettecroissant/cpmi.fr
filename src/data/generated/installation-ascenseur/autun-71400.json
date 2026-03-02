@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Autun, facilitant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Autun",
+    "content": "Autun bénéficie de dispositifs d'aide à l'amélioration de l'habitat. CPMI vous accompagne dans vos démarches pour optimiser votre projet d'installation."
+  },
+  "expertAdvice": "Un ascenseur adapté valorise votre bien et améliore le quotidien.",
+  "advantages": [
+    "Amélioration de l'accessibilité des bâtiments à Autun (71)",
+    "Installation sur mesure pour les besoins spécifiques de votre entreprise",
+    "Conformité aux normes de sécurité et accessibilité en vigueur"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Autun.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Hydraulique ou électrique, selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Autun ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP en vigueur."
+    }
+  ]
+}

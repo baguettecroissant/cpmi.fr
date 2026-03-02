@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à L'Isle-d'Abeau, soutenant la mobilité verte locale.",
+  "localContext": {
+    "title": "Bornes à L'Isle-d'Abeau",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité. Profitez d'aides pour l'installation de bornes et améliorez votre image éco-responsable."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en bornes de recharge.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à L'Isle-d'Abeau.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 38.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à L Isle D Abeau ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

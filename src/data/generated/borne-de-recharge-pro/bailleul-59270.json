@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Bailleul pour entreprises et copropriétés. Transition énergétique facilitée.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Hauts-de-France : profitez des aides pour l'installation de bornes. CPMI vous accompagne dans vos démarches et optimise votre projet."
+  },
+  "expertAdvice": "Bornes adaptées à vos besoins, installation rapide et conforme aux normes.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à Bailleul.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Maintenance et SAV assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour le 59, adaptés à votre budget.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Bailleul ?",
+      "answer": "Adaptée à vos besoins, de 7kW à 22kW."
+    },
+    {
+      "question": "Délai à Bailleul ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NFC 15-100."
+    }
+  ]
+}

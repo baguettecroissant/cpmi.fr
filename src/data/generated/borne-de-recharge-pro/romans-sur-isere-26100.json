@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Romans-sur-Isère, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Électromobilité Drôme",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'installation de bornes. Profitez d'un climat favorable à l'adoption des véhicules électriques dans la Drôme."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec une borne adaptée à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par des experts à Romans-sur-Isère."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 26.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos usages et véhicules."
+    },
+    {
+      "question": "Délai à Romans Sur Isere ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

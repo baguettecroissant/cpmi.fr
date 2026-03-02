@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Balma, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Balma",
+    "content": "Balma bénéficie de subventions pour l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches et s'adapte au climat occitan."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Balma.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Balma ?",
+      "answer": "CPMI propose des solutions PMR complètes et conformes."
+    },
+    {
+      "question": "Délai à Balma ?",
+      "answer": "Installation rapide, délais précis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Balma."
+    }
+  ]
+}

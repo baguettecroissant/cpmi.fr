@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Apt pour une mobilité électrique durable des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides PACA",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient l'électromobilité. Profitez des subventions pour l'installation de bornes à Apt et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Apt.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité dans le Vaucluse."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 84.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Apt ?",
+      "answer": "Adaptez la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Apt ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à St Maximin La Ste Baume, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'accessibilité. CPMI vous guide pour bénéficier des aides à St Maximin La Ste Baume."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, votre partenaire de confiance.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Maximin.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 83.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Maximin La Ste Baume ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

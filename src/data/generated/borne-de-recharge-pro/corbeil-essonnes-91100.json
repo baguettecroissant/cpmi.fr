@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Corbeil-Essonnes, favorisant la mobilité verte.",
+  "localContext": {
+    "title": "Transition Énergétique 91",
+    "content": "L'Île-de-France soutient activement l'électrification des flottes d'entreprises. Profitez des aides régionales pour l'installation de vos bornes à Corbeil-Essonnes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge : CPMI vous conseille sur la puissance idéale.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Corbeil Essonnes ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Eysines, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 33",
+    "content": "La Nouvelle-Aquitaine bénéficie d'aides pour l'efficacité énergétique. CPMI vous accompagne dans vos projets de climatisation adaptés au climat régional."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et professionnelle à Eysines et ses environs.",
+    "Maintenance préventive pour une durabilité accrue de vos systèmes.",
+    "Solutions sur mesure adaptées aux besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour climatisation tertiaire et industrielle dans le 33.",
+  "faq": [
+    {
+      "question": "Climatisation éco à Eysines ?",
+      "answer": "CPMI propose des solutions éco-performantes pour réduire votre empreinte carbone."
+    },
+    {
+      "question": "Délai à Eysines ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

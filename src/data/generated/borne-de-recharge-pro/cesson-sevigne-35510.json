@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Cesson-Sévigné, répondant à une demande croissante.",
+  "localContext": {
+    "title": "Bornes à Cesson",
+    "content": "La région Bretagne encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans vos démarches pour une installation optimisée."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions durables et adaptées.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Cesson.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Réduction de votre empreinte carbone avec CPMI."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge dans le 35, adaptés à vos besoins.",
+  "faq": [
+    {
+      "question": "Bornes : quelles aides ?",
+      "answer": "CPMI vous guide vers les subventions régionales et nationales."
+    },
+    {
+      "question": "Délai à Cesson Sevigne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes IRVE en vigueur."
+    }
+  ]
+}

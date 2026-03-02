@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Belfort, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Belfort : Aides & Climat",
+    "content": "Belfort bénéficie d'aides régionales pour l'installation. Le climat encourage l'adoption de véhicules électriques, rendant l'investissement pertinent."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts locaux.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Belfort.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité garantis par CPMI."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 90.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise à Belfort ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Belfort ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes IRVE."
+    }
+  ]
+}

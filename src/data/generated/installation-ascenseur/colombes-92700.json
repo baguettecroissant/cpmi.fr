@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Colombes, facilitant l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité 92",
+    "content": "Profitez des aides régionales pour l'adaptation des locaux aux normes d'accessibilité. CPMI.fr vous accompagne dans vos démarches en Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Colombes.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Colombes.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité, CPMI.fr vous conseille."
+    },
+    {
+      "question": "Délai à Colombes ?",
+      "answer": "Sur devis, variable."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

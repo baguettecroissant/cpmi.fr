@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Marcq-en-Baroeul, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Marcq",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité à Marcq-en-Baroeul. CPMI.fr s'adapte aux contraintes architecturales des Hauts-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr : expertise locale.",
+  "advantages": [
+    "Connaissance des normes PMR à Marcq-en-Baroeul",
+    "Solutions sur mesure pour bâtiments existants",
+    "Installation rapide et efficace dans le 59"
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés pour professionnels dans le Nord.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité."
+    },
+    {
+      "question": "Délai à Marcq En Baroeul ?",
+      "answer": "Sur devis, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure SAV et conformité aux normes en vigueur."
+    }
+  ]
+}

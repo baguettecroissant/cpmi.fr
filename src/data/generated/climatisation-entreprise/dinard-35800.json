@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Dinard (35800), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Dinard",
+    "content": "Le climat maritime de Dinard exige des systèmes de climatisation performants. Bénéficiez d'aides régionales pour l'installation de solutions éco-énergétiques dans le tertiaire et l'industrie."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée aux spécificités de Dinard.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Dinard",
+    "Maintenance préventive pour une durabilité accrue",
+    "Solutions sur mesure pour chaque besoin industriel"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Dinard ?",
+      "answer": "Nous dimensionnons les systèmes selon l'exposition et l'usage."
+    },
+    {
+      "question": "Délai à Dinard ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Chatou (78400), pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité Chatou",
+    "content": "Améliorez l'accessibilité de vos locaux à Chatou. Des aides régionales peuvent faciliter votre projet d'installation ou de modernisation."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Chatou.",
+    "Maintenance et SAV de proximité pour une sérénité durable.",
+    "Solutions adaptées aux contraintes architecturales locales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 78.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Solutions personnalisées selon vos besoins et l'espace disponible."
+    },
+    {
+      "question": "Délai à Chatou ?",
+      "answer": "Devis et délais précis sur demande."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

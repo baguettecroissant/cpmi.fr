@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ducos, Martinique. Performance et fiabilité garanties.",
+  "localContext": {
+    "title": "Climatisation Durable 972",
+    "content": "Ducos : Un climat exigeant ! Profitez des aides régionales pour une climatisation performante et éco-responsable dans vos locaux professionnels."
+  },
+  "expertAdvice": "Optimisez votre climatisation : conseils personnalisés pour un confort maximal et des économies d'énergie.",
+  "advantages": [
+    "Installation rapide et efficace à Ducos et ses environs.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels en Martinique (972).",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon vos besoins et la configuration de vos espaces."
+    },
+    {
+      "question": "Délai à Ducos ?",
+      "answer": "Intervention rapide, généralement sous 48h."
+    },
+    {
+      "question": "Norme locale ?",
+      "answer": "Respect des normes en vigueur et certifications pour une installation sécurisée."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Puteaux (92800), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Puteaux",
+    "content": "Puteaux bénéficie d'aides pour l'efficacité énergétique des entreprises. Adaptez vos systèmes de climatisation aux étés chauds et aux réglementations en vigueur."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Puteaux.",
+    "Installation et maintenance rapides et efficaces.",
+    "Conformité aux normes environnementales en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre entreprise à Puteaux (92).",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour bureaux ?",
+      "answer": "Solutions adaptées à la taille et l'activité de vos locaux."
+    },
+    {
+      "question": "Délai à Puteaux ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes RT2012 et ERP."
+    }
+  ]
+}

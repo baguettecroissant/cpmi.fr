@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Facilitez la transition énergétique de votre entreprise ou copropriété à Bayonne avec nos bornes de recharge.",
+  "localContext": {
+    "title": "Transition Énergétique à Bayonne",
+    "content": "La Nouvelle-Aquitaine soutient activement l'installation de bornes. Profitez d'aides pour électrifier votre flotte ou faciliter l'accès aux véhicules électriques pour vos résidents."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Bayonne.",
+    "Solutions de recharge intelligentes et connectées.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 64.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos usages et besoins."
+    },
+    {
+      "question": "Délai à Bayonne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Norme IRVE respectée ?",
+      "answer": "Oui, toutes nos installations respectent la norme IRVE."
+    }
+  ]
+}

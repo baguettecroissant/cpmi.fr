@@ -1,0 +1,28 @@
+{
+  "introText": "Besoin d'un ascenseur ou monte-charge à Biscarrosse ? CPMI.fr, votre expert local, répond à vos besoins spécifiques.",
+  "localContext": {
+    "title": "Ascenseurs à Biscarrosse",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI.fr vous guide pour l'installation et la maintenance adaptées au climat océanique."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour un service fiable et conforme aux normes en vigueur.",
+  "advantages": [
+    "Installation rapide et efficace à Biscarrosse",
+    "Solutions sur mesure pour tous les bâtiments",
+    "Maintenance préventive pour une durabilité optimale"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels à Biscarrosse (40).",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs, monte-charges adaptés à vos besoins."
+    },
+    {
+      "question": "Délai à Biscarrosse ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité."
+    }
+  ]
+}

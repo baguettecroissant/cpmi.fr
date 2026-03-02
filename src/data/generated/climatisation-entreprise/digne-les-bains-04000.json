@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Digne-les-Bains, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 04 : Enjeux",
+    "content": "Le climat de Digne exige des solutions performantes. Profitez des aides régionales pour optimiser votre installation de climatisation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels du 04",
+    "Installation et maintenance par des experts locaux",
+    "Conformité aux normes environnementales en vigueur"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Digne.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Digne Les Bains ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

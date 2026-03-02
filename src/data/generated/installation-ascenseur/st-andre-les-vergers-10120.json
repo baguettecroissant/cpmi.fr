@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Andre Les Vergers.",
+  "localContext": {
+    "title": "Aides & Climat",
+    "content": "Le Grand Est favorise l'accessibilité. Les hivers rigoureux nécessitent des installations robustes et adaptées à St Andre Les Vergers."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la sécurité de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés dans le département 10."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés et compétitifs pour les professionnels.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR local ?",
+      "answer": "Oui, CPMI.fr respecte les normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à St Andre Les Vergers ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes NF EN 81-70."
+    }
+  ]
+}

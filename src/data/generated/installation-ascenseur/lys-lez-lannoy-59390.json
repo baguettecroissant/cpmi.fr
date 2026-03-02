@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Lys Lez Lannoy.",
+  "localContext": {
+    "title": "Aides & Réglementations",
+    "content": "Bénéficiez d'aides à l'accessibilité dans le Nord. Le climat économique favorise l'investissement dans des solutions de mobilité verticale."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour bâtiments existants.",
+    "Maintenance assurée par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs."
+    },
+    {
+      "question": "Délai à Lys Lez Lannoy ?",
+      "answer": "Selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

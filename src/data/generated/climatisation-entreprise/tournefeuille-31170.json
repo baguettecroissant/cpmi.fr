@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Tournefeuille, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 31",
+    "content": "La région Occitanie encourage l'efficacité énergétique. CPMI.fr vous accompagne pour optimiser vos installations de climatisation et bénéficier d'aides."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore le confort.",
+  "advantages": [
+    "Installation rapide et efficace à Tournefeuille.",
+    "Solutions sur-mesure pour les entreprises locales.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés et compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément vos besoins."
+    },
+    {
+      "question": "Délai à Tournefeuille ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

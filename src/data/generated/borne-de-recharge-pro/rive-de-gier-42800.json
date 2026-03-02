@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Rive De Gier, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Rive De Gier",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité. CPMI.fr vous aide à bénéficier des aides locales pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec des solutions adaptées à vos besoins.",
+  "advantages": [
+    "Installation rapide par des professionnels locaux qualifiés.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV garantis pour une recharge sereine."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs et transparents pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos usages."
+    },
+    {
+      "question": "Délai à Rive De Gier ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure le SAV et respecte les normes en vigueur."
+    }
+  ]
+}

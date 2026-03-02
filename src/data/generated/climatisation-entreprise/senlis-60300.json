@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Senlis, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat Senlis",
+    "content": "Senlis, avec ses étés chauds, exige des solutions de climatisation performantes. CPMI vous guide parmi les aides régionales pour optimiser votre investissement."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore votre productivité.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Senlis.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels du 60, devis personnalisé.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Senlis ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

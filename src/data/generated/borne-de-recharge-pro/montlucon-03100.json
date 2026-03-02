@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Montluçon pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Transition à Montluçon",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. CPMI vous aide à bénéficier des aides locales pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Montluçon.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des professionnels locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 03.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Montlucon ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

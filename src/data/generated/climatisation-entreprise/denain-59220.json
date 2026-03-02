@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Denain, garantissant confort et performance énergétique aux entreprises locales.",
+  "localContext": {
+    "title": "Climat Denain",
+    "content": "Le climat variable du Nord nécessite des solutions de climatisation fiables. CPMI propose des installations adaptées aux besoins spécifiques des entreprises de Denain et des Hauts-de-France."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système de climatisation performant.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Denain",
+    "Maintenance et dépannage rapides dans le 59",
+    "Conformité aux normes environnementales locales"
+  ],
+  "pricingContext": "Devis personnalisés pour climatisation industrielle et tertiaire dans le Nord.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "CPMI vous conseille sur la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Denain ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "À Anzin, CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés, soutenant la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes à Anzin",
+    "content": "La région Hauts-de-France encourage l'électromobilité. CPMI.fr vous guide à travers les aides disponibles pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Anzin.",
+    "Solutions personnalisées pour chaque entreprise et copropriété.",
+    "Maintenance et SAV assurés par nos équipes locales."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Anzin ?",
+      "answer": "Adaptez la puissance à vos besoins réels."
+    },
+    {
+      "question": "Délai à Anzin ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes NF C 15-100."
+    }
+  ]
+}

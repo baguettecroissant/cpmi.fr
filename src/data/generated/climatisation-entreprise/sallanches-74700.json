@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sallanches, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climat à Sallanches",
+    "content": "Sallanches connaît des étés chauds et des hivers froids. Une climatisation performante est donc essentielle pour les entreprises locales."
+  },
+  "expertAdvice": "Choisissez une solution adaptée à vos besoins spécifiques pour une efficacité maximale.",
+  "advantages": [
+    "Installation rapide et professionnelle à Sallanches et environs.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions éco-énergétiques réduisant votre empreinte carbone."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs et adaptés aux budgets des entreprises du 74.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos locaux."
+    },
+    {
+      "question": "Délai à Sallanches ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

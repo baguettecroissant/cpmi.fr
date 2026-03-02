@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ajaccio, pour un confort optimal et une efficacité énergétique garantie.",
+  "localContext": {
+    "title": "Climatisation à Ajaccio",
+    "content": "La climatisation est essentielle en Corse face aux étés chauds. CPMI.fr vous accompagne pour des solutions adaptées et performantes, en tenant compte des spécificités locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr : performance et économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Ajaccio et ses environs.",
+    "Solutions sur mesure pour tous les types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels en Corse-du-Sud.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne précisément selon vos besoins et l'isolation."
+    },
+    {
+      "question": "Délai à Ajaccio ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales insulaires."
+    }
+  ]
+}

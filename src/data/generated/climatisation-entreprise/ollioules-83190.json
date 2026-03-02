@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ollioules, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Ollioules bénéficie d'un fort ensoleillement. CPMI vous accompagne dans le choix d'une climatisation performante et économe, adaptée aux spécificités locales et aux aides disponibles."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies garanties.",
+  "advantages": [
+    "Installation rapide et soignée à Ollioules et environs.",
+    "Solutions sur-mesure pour tous les bâtiments tertiaires.",
+    "Maintenance préventive pour une longévité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Var.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Ollioules ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (RT2012)."
+    }
+  ]
+}

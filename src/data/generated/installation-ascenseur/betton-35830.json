@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Betton, assurant accessibilité et valorisation de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Betton",
+    "content": "La région Bretagne soutient l'accessibilité. CPMI facilite l'installation d'ascenseurs et monte-charges adaptés aux spécificités locales."
+  },
+  "expertAdvice": "Un ascenseur bien installé est un investissement durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Amélioration de l'accessibilité et du confort."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Normes à Betton ?",
+      "answer": "Respect des normes NF EN 81-20 et 81-70."
+    },
+    {
+      "question": "Délai à Betton ?",
+      "answer": "Délais rapides selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes locales d'accessibilité."
+    }
+  ]
+}

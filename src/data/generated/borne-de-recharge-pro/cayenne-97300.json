@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Cayenne pour les entreprises et copropriétés, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "La Guyane offre des aides régionales pour l'installation. Le climat favorise l'adoption de véhicules électriques et de solutions durables."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales en Guyane.",
+    "Solutions adaptées aux besoins spécifiques des entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés pour les professionnels à Cayenne (97300).",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance à vos besoins et usages."
+    },
+    {
+      "question": "Délai à Cayenne ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

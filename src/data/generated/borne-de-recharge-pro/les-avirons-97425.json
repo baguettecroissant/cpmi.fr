@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés aux Avirons, favorisant la mobilité verte.",
+  "localContext": {
+    "title": "Transition Énergétique Locale",
+    "content": "Les Avirons bénéficient d'un ensoleillement idéal pour l'énergie solaire, complétant les bornes de recharge. Des aides régionales facilitent l'installation pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge intelligentes et durables.",
+  "advantages": [
+    "Valorisation immobilière accrue aux Avirons.",
+    "Réduction de l'empreinte carbone de votre entreprise.",
+    "Attractivité renforcée pour vos collaborateurs et clients."
+  ],
+  "pricingContext": "CPMI.fr offre des solutions de recharge compétitives et adaptées aux budgets professionnels à La Réunion.",
+  "faq": [
+    {
+      "question": "Quelle puissance aux Avirons ?",
+      "answer": "Adaptez la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Les Avirons ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes réunionnaises en vigueur."
+    }
+  ]
+}

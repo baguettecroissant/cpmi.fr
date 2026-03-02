@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Neuilly-sur-Seine, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Neuilly",
+    "content": "Neuilly-sur-Seine soutient l'accessibilité. CPMI vous aide à naviguer les subventions régionales pour faciliter l'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'espace et la conformité avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur-mesure pour bâtiments neuvillois.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Adapté à vos besoins : PMR, résidentiel, industriel."
+    },
+    {
+      "question": "Délai à Neuilly Sur Seine ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité."
+    }
+  ]
+}

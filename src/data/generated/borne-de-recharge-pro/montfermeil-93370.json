@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Montfermeil (93370), facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Montfermeil",
+    "content": "Île-de-France : bénéficiez d'aides régionales pour l'installation. Améliorez votre bilan carbone et valorisez votre patrimoine localement."
+  },
+  "expertAdvice": "CPMI : Expertise locale pour une installation optimale et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Montfermeil.",
+    "Solutions sur-mesure adaptées aux besoins spécifiques de votre entreprise.",
+    "Maintenance et SAV de proximité garantissant la pérennité de l'installation."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les pros du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Montfermeil ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

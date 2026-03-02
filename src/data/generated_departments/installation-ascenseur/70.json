@@ -1,0 +1,28 @@
+{
+  "introText": "L'installation d'ascenseurs et monte-charges à {CITY_NAME} est essentielle pour le dynamisme des ERP, des entreprises et des copropriétés. Face aux hivers rigoureux de Haute-Saône et à une architecture variée, des solutions fiables sont impératives. CPMI.fr connecte les professionnels avec des installateurs locaux experts, garantissant accessibilité et performance au cœur de la Bourgogne-Franche-Comté.",
+  "localContext": {
+    "title": "Spécificités Réglementaires et Aides en Bourgogne-Franche-Comté",
+    "content": "En Bourgogne-Franche-Comté, l'installation d'ascenseurs doit intégrer les normes d'accessibilité (Loi Handicap) pour les ERP et le bâti résidentiel, souvent renforcées par les PLU locaux de villes comme {CITY_NAME}. Les conditions climatiques de Haute-Saône, avec des hivers froids, imposent des équipements robustes et un entretien adapté. Des aides régionales, cumulables avec celles de l'ANAH pour l'accessibilité, peuvent alléger l'investissement, notamment pour les copropriétés souhaitant moderniser leur parc. Une consultation préalable du service urbanisme de {CITY_NAME} est recommandée pour les projets d'envergure."
+  },
+  "expertAdvice": "Pour vos projets à {CITY_NAME}, nous insistons sur l'importance d'un installateur connaissant parfaitement le terrain. La gestion des accès en centre-ville, la conformité aux règlements locaux d'urbanisme, et la capacité à réagir rapidement aux spécificités climatiques de Haute-Saône sont des atouts majeurs. C'est la garantie d'une installation pérenne, conforme et optimisée, minimisant les imprévus et assurant la sécurité et le confort de tous les utilisateurs dans le département 70.",
+  "advantages": [
+    "Connaissance parfaite du PLU de {CITY_NAME} et des autorisations locales.",
+    "Réactivité garantie sur l'ensemble du département de Haute-Saône (70).",
+    "Expertise des bâtiments industriels, tertiaires et résidentiels de la région."
+  ],
+  "pricingContext": "Les prix pour l'installation d'ascenseurs et monte-charges en Haute-Saône varient fortement selon le type d'équipement, la complexité du site et les options. Pour les professionnels et copropriétés du 70, il est essentiel de demander plusieurs devis pour une estimation précise et adaptée à votre projet spécifique.",
+  "faq": [
+    {
+      "question": "Quelles sont les principales aides financières régionales pour l'installation d'un ascenseur en Bourgogne-Franche-Comté ?",
+      "answer": "La Région Bourgogne-Franche-Comté propose des dispositifs pour la rénovation énergétique et l'accessibilité. Ces aides peuvent être complétées par celles de l'ANAH pour l'amélioration de l'habitat collectif, ou des subventions spécifiques pour les ERP souhaitant se mettre en conformité avec la loi Handicap. Un dossier bien monté est crucial."
+    },
+    {
+      "question": "Quelles spécificités d'installation doit-on considérer pour un monte-charge industriel à {CITY_NAME} ?",
+      "answer": "À {CITY_NAME}, l'installation d'un monte-charge industriel exige une étude approfondie de la structure du bâtiment, des contraintes de charge, et des flux logistiques. L'accès au site, souvent en zone d'activité, nécessite une coordination précise avec les services municipaux pour les autorisations de voirie ou de grutage, impactant directement les délais de projet."
+    },
+    {
+      "question": "Quelle est la fréquence de maintenance obligatoire pour un ascenseur ou monte-charge en Haute-Saône ?",
+      "answer": "Conformément à la réglementation française (décret 2004-964), la maintenance des ascenseurs et monte-charges est obligatoire au minimum toutes les six semaines. En Haute-Saône, nos partenaires proposent des contrats adaptés, incluant les vérifications périodiques, les dépannages d'urgence et la mise à jour des équipements pour garantir leur conformité et leur longévité."
+    }
+  ]
+}

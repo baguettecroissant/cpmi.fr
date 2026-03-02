@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Suresnes, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Suresnes & Accessibilité",
+    "content": "Suresnes encourage l'accessibilité des bâtiments. CPMI.fr vous aide à naviguer les réglementations et à bénéficier d'éventuelles subventions locales pour votre projet."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Suresnes.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité dans le 92."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour Suresnes.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel espace ?",
+      "answer": "CPMI.fr adapte l'installation à votre espace disponible."
+    },
+    {
+      "question": "Délai à Suresnes ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Suresnes."
+    }
+  ]
+}

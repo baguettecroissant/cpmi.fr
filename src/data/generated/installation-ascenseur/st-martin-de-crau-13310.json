@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à St Martin De Crau, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Locales",
+    "content": "La région Provence-Alpes-Côte d'Azur propose des subventions pour l'accessibilité. CPMI vous guide dans vos démarches à St Martin De Crau."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Martin ?",
+      "answer": "CPMI assure une installation conforme PMR."
+    },
+    {
+      "question": "Délai à St Martin De Crau ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

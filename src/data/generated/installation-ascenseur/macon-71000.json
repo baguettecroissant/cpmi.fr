@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Mâcon, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Mâconnaise",
+    "content": "Bénéficiez potentiellement d'aides à l'amélioration de l'habitat en Saône-et-Loire. Adaptez vos bâtiments aux besoins locaux et aux réglementations en vigueur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers à Mâcon.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités mâconnaises.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Conformité : Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Mâcon.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Mâcon ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR des bâtiments."
+    },
+    {
+      "question": "Délai à Macon ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

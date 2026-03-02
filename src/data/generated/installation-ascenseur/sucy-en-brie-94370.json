@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Sucy-en-Brie, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Val-de-Marne",
+    "content": "Le Val-de-Marne soutient l'accessibilité des commerces et entreprises. CPMI vous accompagne dans vos démarches pour une installation conforme aux normes."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Sucy-en-Brie.",
+    "Solutions sur mesure pour chaque type de bâtiment.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 94.",
+  "faq": [
+    {
+      "question": "Quels types d'ascenseurs ?",
+      "answer": "Ascenseurs privatifs, monte-charges industriels, plateformes élévatrices."
+    },
+    {
+      "question": "Délai à Sucy En Brie ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance préventive et curative, conformité réglementaire."
+    }
+  ]
+}

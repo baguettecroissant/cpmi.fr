@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vendôme, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Vendôme",
+    "content": "Vendôme et le Loir-et-Cher encouragent l'accessibilité. Profitez d'aides régionales pour faciliter l'installation de vos équipements PMR."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels à Vendôme avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance assurée par nos techniciens locaux qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour professionnels dans le 41.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Vendôme ?",
+      "answer": "Installation d'ascenseurs conformes aux normes PMR pour tous types de bâtiments."
+    },
+    {
+      "question": "Délai à Vendome ?",
+      "answer": "Délais rapides, adaptés à votre projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur localement."
+    }
+  ]
+}

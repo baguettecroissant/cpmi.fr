@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Saint-Avertin.",
+  "localContext": {
+    "title": "Bornes à St Avertin",
+    "content": "La région Centre-Val de Loire encourage la mobilité électrique. Des aides locales peuvent réduire le coût de votre installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec une borne adaptée à vos besoins.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par nos experts à Saint-Avertin."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 37.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Dimensionnez votre borne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à St Avertin ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes IRVE."
+    }
+  ]
+}

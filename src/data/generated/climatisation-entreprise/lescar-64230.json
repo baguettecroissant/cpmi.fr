@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Lescar, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climat Béarnais & Solutions",
+    "content": "Le climat à Lescar exige des systèmes performants. CPMI vous accompagne avec des solutions adaptées et les aides disponibles en Nouvelle-Aquitaine."
+  },
+  "expertAdvice": "Un audit précis pour une climatisation sur-mesure et durable.",
+  "advantages": [
+    "Installation rapide et efficace à Lescar et alentours.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions éco-responsables pour réduire votre empreinte."
+  ],
+  "pricingContext": "Des prix compétitifs pour les professionnels du 64, devis gratuit.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Lescar ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

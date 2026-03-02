@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Orvault, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Orvault",
+    "content": "Orvault bénéficie d'aides pour l'accessibilité des commerces. CPMI.fr vous accompagne dans vos projets d'ascenseurs et monte-charges en respectant les normes régionales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec CPMI.fr : solutions sur-mesure garanties.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Orvault",
+    "Solutions adaptées aux besoins spécifiques de votre entreprise",
+    "Maintenance et SAV assurés par des experts locaux"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Orvault ?",
+      "answer": "CPMI.fr : Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Orvault ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

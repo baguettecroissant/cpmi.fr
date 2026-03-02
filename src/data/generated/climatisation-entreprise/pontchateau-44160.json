@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Pontchâteau (44160), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 44 : Défis & Solutions",
+    "content": "Le climat changeant de Loire-Atlantique exige des solutions de climatisation performantes. CPMI vous accompagne dans l'obtention d'aides pour vos projets."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une meilleure performance énergétique.",
+  "advantages": [
+    "Installation rapide et professionnelle à Pontchâteau",
+    "Maintenance préventive pour une durée de vie accrue",
+    "Solutions sur mesure pour tous types de bâtiments"
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "Analyse de vos besoins et solutions adaptées."
+    },
+    {
+      "question": "Délai à Pontchateau ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

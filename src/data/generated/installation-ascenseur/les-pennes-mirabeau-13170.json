@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges aux Pennes Mirabeau, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "Les Pennes Mirabeau bénéficient de subventions pour l'accessibilité. Le climat méditerranéen impose des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour tous les bâtiments.",
+    "Maintenance et SAV réactifs dans le 13."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs."
+    },
+    {
+      "question": "Délai à Les Pennes Mirabeau ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

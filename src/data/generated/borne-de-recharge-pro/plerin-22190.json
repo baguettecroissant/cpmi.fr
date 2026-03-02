@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Plerin, soutenant la mobilité électrique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique à Plerin",
+    "content": "La Bretagne encourage l'électromobilité. Des aides locales à Plerin rendent l'installation de bornes plus accessible pour les professionnels et copropriétés."
+  },
+  "expertAdvice": "Optimisez votre installation avec CPMI pour un retour sur investissement rapide.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Plerin.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Pilotage intelligent et maintenance assurée par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour le département 22.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Plerin ?",
+      "answer": "CPMI adapte la puissance selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Plerin ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

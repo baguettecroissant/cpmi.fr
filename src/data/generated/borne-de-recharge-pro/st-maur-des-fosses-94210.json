@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Installation de bornes de recharge à Saint-Maur-des-Fossés pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à St Maur (94)",
+    "content": "La région Île-de-France soutient l'électromobilité. Profitez d'aides pour l'installation de bornes et améliorez votre bilan carbone local."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en bornes de recharge.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés à St Maur.",
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Réduisez vos coûts énergétiques et valorisez votre patrimoine."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge, adaptés à vos besoins et budgets.",
+  "faq": [
+    {
+      "question": "Quelle puissance à St Maur ?",
+      "answer": "Adaptez la puissance à vos véhicules et besoins de recharge."
+    },
+    {
+      "question": "Délai à St Maur Des Fosses ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Rodez, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Rodez : Enjeux",
+    "content": "Le climat continental de Rodez exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Un système adapté garantit confort et maîtrise des dépenses énergétiques.",
+  "advantages": [
+    "Installation rapide par nos experts locaux.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour tous vos besoins."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et des tarifs compétitifs dans le département 12.",
+  "faq": [
+    {
+      "question": "Climatisation idéale à Rodez ?",
+      "answer": "Choisir un système adapté aux variations climatiques locales."
+    },
+    {
+      "question": "Délai à Rodez ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

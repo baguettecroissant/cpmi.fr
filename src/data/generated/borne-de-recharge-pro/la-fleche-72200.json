@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à La Flèche, pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à La Flèche",
+    "content": "Le Pays de la Loire encourage l'électromobilité. CPMI.fr facilite l'accès aux bornes avec des solutions adaptées aux besoins locaux et aux aides disponibles."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : performance et durabilité.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés fléchoises.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 72, contactez-nous.",
+  "faq": [
+    {
+      "question": "Quelle puissance à La Flèche ?",
+      "answer": "Adaptation selon vos besoins et véhicules."
+    },
+    {
+      "question": "Délai à La Fleche ?",
+      "answer": "Sur devis, rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

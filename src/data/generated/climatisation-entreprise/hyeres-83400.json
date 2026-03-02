@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Hyères, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Durable à Hyères",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat méditerranéen exige des solutions de climatisation adaptées et efficaces."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises du Var.",
+    "Installation rapide et professionnelle à Hyères.",
+    "Maintenance préventive pour une longévité assurée."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et des tarifs compétitifs pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI évalue vos besoins précis sur site."
+    },
+    {
+      "question": "Délai à Hyeres ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

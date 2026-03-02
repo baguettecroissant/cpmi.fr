@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Vincennes, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Vincennes & Mobilité",
+    "content": "Vincennes facilite l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation, en tenant compte des spécificités architecturales locales et des normes en vigueur."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments à Vincennes.",
+    "Respect des normes de sécurité et d'accessibilité.",
+    "Maintenance réactive pour assurer la pérennité."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif dans le 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR, possible ?",
+      "answer": "Oui, solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Vincennes ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP."
+    }
+  ]
+}

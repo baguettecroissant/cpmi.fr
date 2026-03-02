@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Cenon, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Cenon",
+    "content": "Cenon, en Nouvelle-Aquitaine, bénéficie d'aides à l'accessibilité. CPMI.fr vous guide dans vos projets d'installation et de modernisation d'ascenseurs."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable à Cenon.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Cenon.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Respect des normes : Sécurité et conformité assurées."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels à Cenon.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour Cenon ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins et contraintes locales."
+    },
+    {
+      "question": "Délai à Cenon ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Cenon."
+    }
+  ]
+}

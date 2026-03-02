@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à St Fargeau Ponthierry.",
+  "localContext": {
+    "title": "Aides et Spécificités Locales",
+    "content": "Profitez des aides régionales en Île-de-France pour faciliter l'accessibilité. CPMI s'adapte aux contraintes architecturales de St Fargeau Ponthierry."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales du 77.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel modèle localement ?",
+      "answer": "Adaptation à l'espace et aux besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Fargeau Ponthierry ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

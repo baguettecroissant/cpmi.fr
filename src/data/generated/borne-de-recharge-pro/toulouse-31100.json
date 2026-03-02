@@ -1,0 +1,28 @@
+{
+  "introText": "À Toulouse, l'adoption de bornes de recharge pour véhicules électriques est cruciale pour les entreprises et copropriétés. Le dynamisme économique de la ville rose, combiné à une volonté politique forte en faveur de la transition énergétique, crée un environnement favorable à l'électromobilité. Facilitez l'accès à la recharge pour vos employés et résidents.",
+  "localContext": {
+    "title": "Aides Régionales et Spécificités Toulousaines pour l'Installation de Bornes IRVE",
+    "content": "L'Occitanie soutient activement l'installation de bornes de recharge via des aides spécifiques, souvent cumulables avec les dispositifs nationaux. Toulouse, avec son Plan Local d'Urbanisme (PLU), impose des règles précises concernant l'intégration des infrastructures de recharge, notamment dans les zones protégées et les bâtiments historiques. De plus, la ZFE de Toulouse Métropole, en cours de déploiement, incite fortement à l'électrification des flottes et des véhicules des résidents. Il est crucial de bien connaître ces contraintes et opportunités pour optimiser votre projet."
+  },
+  "expertAdvice": "Nous, CPMI.fr, recommandons vivement de faire appel à un installateur IRVE local à Toulouse. La connaissance des spécificités du PLU, des aides régionales de l'Occitanie, et des contraintes techniques liées au bâti toulousain est essentielle pour un projet réussi et conforme aux normes en vigueur. Un expert local vous garantira un accompagnement personnalisé et une installation optimale.",
+  "advantages": [
+    "Connaissance approfondie du PLU et des contraintes architecturales de Toulouse.",
+    "Réactivité et proximité pour un suivi personnalisé en Haute-Garonne (31).",
+    "Expertise des installations en copropriétés et bâtiments tertiaires toulousains."
+  ],
+  "pricingContext": "À Toulouse, le coût d'installation d'une borne de recharge pour entreprises et copropriétés varie en fonction de la puissance, du nombre de bornes et de la complexité de l'installation. En moyenne, prévoyez un budget entre 1500€ et 5000€ par point de charge, hors aides et subventions applicables dans le 31.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales spécifiques disponibles en Occitanie pour l'installation de bornes IRVE en entreprise ?",
+      "answer": "La région Occitanie propose des aides financières pour l'installation de bornes IRVE, souvent cumulables avec les aides nationales. Ces dispositifs visent à encourager la transition énergétique et à soutenir les entreprises dans leur démarche d'électrification de leur flotte ou de leurs infrastructures de recharge."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation à prendre en compte dans une copropriété à Toulouse et quels sont les délais typiques ?",
+      "answer": "L'installation en copropriété nécessite l'accord de l'assemblée générale et une étude préalable de la faisabilité technique. Les délais peuvent varier de quelques semaines à plusieurs mois, en fonction des autorisations et des travaux nécessaires. Une entreprise locale saura vous accompagner dans ces démarches."
+    },
+    {
+      "question": "Quelles sont les normes de maintenance et de SAV à respecter pour une borne de recharge installée à Toulouse ?",
+      "answer": "Il est crucial de souscrire un contrat de maintenance avec un prestataire qualifié pour garantir le bon fonctionnement et la sécurité de votre installation. Les normes NF C 15-100 et NF C 16-600 encadrent les installations électriques et leur maintenance. Un suivi régulier est indispensable."
+    }
+  ]
+}

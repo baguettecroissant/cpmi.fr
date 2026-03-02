@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Arras, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Arras et Mobilité Verte",
+    "content": "La région Hauts-de-France encourage l'électromobilité avec des aides financières. Profitez du climat favorable aux énergies renouvelables pour votre borne à Arras."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solution clé en main.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Arras.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Gestion optimisée de la consommation énergétique de vos bornes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge à Arras.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Arras ?",
+      "answer": "Adaptez la puissance selon vos besoins et usages professionnels."
+    },
+    {
+      "question": "Délai à Arras ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

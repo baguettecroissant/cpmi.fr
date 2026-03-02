@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Manosque, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Performante 04",
+    "content": "Profitez des aides régionales pour la transition énergétique de vos bâtiments à Manosque. Un climat tempéré exige des solutions de climatisation adaptées aux besoins spécifiques de chaque entreprise."
+  },
+  "expertAdvice": "Un audit énergétique précis pour une solution de climatisation sur-mesure.",
+  "advantages": [
+    "Installation rapide et soignée par nos équipes locales.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Solutions éco-responsables et économes en énergie."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 04.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins et la configuration du bâtiment."
+    },
+    {
+      "question": "Délai à Manosque ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans les Alpes-de-Haute-Provence."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Meudon, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Meudon",
+    "content": "Meudon connaît des étés chauds. Des aides locales peuvent financer l'installation de systèmes performants pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire les coûts et l'impact environnemental.",
+  "advantages": [
+    "Installation rapide par des experts à Meudon.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle clim pour bureaux ?",
+      "answer": "Systèmes VRV/DRV pour un contrôle précis et zonal."
+    },
+    {
+      "question": "Délai à Meudon ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales."
+    }
+  ]
+}

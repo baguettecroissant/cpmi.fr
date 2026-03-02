@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fos-sur-Mer, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Fos",
+    "content": "Fos-sur-Mer requiert des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique de vos bâtiments industriels et tertiaires."
+  },
+  "expertAdvice": "Un système adapté assure confort et réduction des coûts.",
+  "advantages": [
+    "Solutions sur mesure pour les besoins industriels locaux.",
+    "Installation rapide et efficace à Fos-sur-Mer.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 13.",
+  "faq": [
+    {
+      "question": "Quelle clim B2B choisir ?",
+      "answer": "Analyse de vos besoins pour une solution optimisée."
+    },
+    {
+      "question": "Délai à Fos Sur Mer ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

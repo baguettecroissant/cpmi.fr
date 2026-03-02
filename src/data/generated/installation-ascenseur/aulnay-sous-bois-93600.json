@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Aulnay-sous-Bois, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Aulnay & Accessibilité",
+    "content": "Aulnay-sous-Bois dynamise l'accessibilité. Des aides locales facilitent l'installation d'ascenseurs, améliorant le quotidien des habitants et des entreprises."
+  },
+  "expertAdvice": "Optimisez l'espace et la conformité de vos installations avec CPMI.fr.",
+  "advantages": [
+    "Expertise locale à Aulnay-sous-Bois et réactivité.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour Aulnay ?",
+      "answer": "Adapté à vos besoins : PMR, résidentiel, industriel."
+    },
+    {
+      "question": "Délai à Aulnay Sous Bois ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF EN 81-20."
+    }
+  ]
+}

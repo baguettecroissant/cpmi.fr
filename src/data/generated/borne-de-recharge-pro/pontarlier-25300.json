@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Pontarlier, soutenant la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes à Pontarlier",
+    "content": "La région Bourgogne-Franche-Comté encourage l'électromobilité. CPMI.fr vous aide à bénéficier des aides locales pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme à Pontarlier.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par nos équipes locales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Pontarlier.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Pontarlier ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Pontarlier ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV rapide et respecte les normes."
+    }
+  ]
+}

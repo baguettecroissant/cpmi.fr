@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Outreau pour entreprises et copropriétés. Facilitez la mobilité verte !",
+  "localContext": {
+    "title": "Recharge à Outreau",
+    "content": "La région Hauts-de-France soutient l'électromobilité. Bénéficiez d'aides pour l'installation de bornes et améliorez votre bilan carbone localement."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Solution sur mesure pour entreprises et copropriétés à Outreau.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Prix compétitifs et adaptés aux besoins des professionnels du 62.",
+  "faq": [
+    {
+      "question": "Bornes compatibles à Outreau ?",
+      "answer": "Toutes marques, adaptées à vos véhicules."
+    },
+    {
+      "question": "Délai à Outreau ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes locales."
+    }
+  ]
+}

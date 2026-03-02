@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Albertville, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Adaptation Savoie",
+    "content": "Les aides à l'amélioration de l'habitat en Savoie facilitent l'installation. CPMI tient compte des contraintes climatiques alpines pour une installation durable."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés compétitifs pour professionnels en Savoie (73).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Albertville ?",
+      "answer": "CPMI assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Albertville ?",
+      "answer": "Délais rapides, nous consulter."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

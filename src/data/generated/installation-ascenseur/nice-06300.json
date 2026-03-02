@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, ville au relief marqué et à l'architecture variée, l'installation d'ascenseurs et monte-charges est cruciale pour l'accessibilité des entreprises, ERP et copropriétés. CPMI.fr vous connecte aux meilleurs installateurs locaux pour faciliter vos projets, en tenant compte des spécificités niçoises.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Niçoises pour l'Installation d'Ascenseurs",
+    "content": "L'installation d'ascenseurs à Nice doit composer avec un Plan Local d'Urbanisme (PLU) parfois contraignant, notamment dans les zones protégées ou les bâtiments historiques du Vieux-Nice. La proximité de la mer implique également une attention particulière à la corrosion. Bien que la ZFE ne concerne pas directement les ascenseurs, anticiper les besoins futurs en accessibilité peut valoriser votre bien. Les aides de la région Provence-Alpes-Côte d'Azur sont disponibles sous conditions de performance énergétique et d'accessibilité, renseignez-vous auprès de la Métropole Nice Côte d'Azur."
+  },
+  "expertAdvice": "Nous, experts CPMI.fr, savons qu'une installation réussie à Nice nécessite une compréhension approfondie des contraintes locales. Choisir un installateur connaissant les particularités architecturales, les exigences du PLU et les défis climatiques de Nice est essentiel pour garantir la pérennité et la conformité de votre installation.",
+  "advantages": [
+    "Connaissance approfondie du tissu urbain niçois et de ses spécificités architecturales",
+    "Suivi personnalisé et réactivité pour les entreprises des Alpes-Maritimes",
+    "Maîtrise des installations complexes dans les bâtiments anciens et modernes niçois"
+  ],
+  "pricingContext": "Dans les Alpes-Maritimes (06), le coût d'installation d'un ascenseur ou monte-charge pour les professionnels varie considérablement selon la complexité du projet, l'accessibilité du site et les finitions choisies. Prévoyez un budget détaillé en demandant des devis personnalisés.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales disponibles en Provence-Alpes-Côte d'Azur pour l'installation d'un ascenseur dans un ERP?",
+      "answer": "La région Provence-Alpes-Côte d'Azur propose des aides financières pour l'amélioration de l'accessibilité des ERP, notamment pour l'installation d'ascenseurs. Les critères d'éligibilité incluent souvent la performance énergétique et la conformité aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Nice, en tenant compte des démarches administratives?",
+      "answer": "À Nice, les délais varient en fonction de la complexité du chantier et des autorisations d'urbanisme nécessaires. Comptez en moyenne plusieurs semaines pour les démarches administratives et plusieurs mois pour l'installation physique, en particulier dans les zones protégées."
+    },
+    {
+      "question": "Quelles sont les normes spécifiques à respecter pour la maintenance d'un ascenseur à Nice?",
+      "answer": "La maintenance des ascenseurs à Nice est soumise aux normes de sécurité en vigueur (norme EN 81-80). Un contrat de maintenance avec un professionnel certifié est obligatoire pour garantir la sécurité des utilisateurs et la conformité de l'installation."
+    }
+  ]
+}

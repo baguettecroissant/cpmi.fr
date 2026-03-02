@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Brétigny-sur-Orge, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité & Réglementation",
+    "content": "Brétigny-sur-Orge bénéficie d'aides pour l'accessibilité des ERP. CPMI.fr vous accompagne dans les démarches et respecte les normes en vigueur en Île-de-France."
+  },
+  "expertAdvice": "Un ascenseur adapté améliore l'attractivité de votre entreprise.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts CPMI."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Bretigny Sur Orge ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP."
+    }
+  ]
+}

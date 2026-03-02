@@ -1,0 +1,28 @@
+{
+  "introText": "Facilitez la transition énergétique de votre entreprise ou copropriété à Villeneuve D Ascq avec nos bornes de recharge.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient l'installation de bornes. Profitez d'incitations financières pour un avenir plus vert à Villeneuve D Ascq."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée à vos besoins.",
+  "advantages": [
+    "Valorisation immobilière accrue pour les copropriétés locales.",
+    "Solution clé en main : installation et maintenance garanties.",
+    "Réduction de l'empreinte carbone de votre entreprise."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Villeneuve D Ascq ?",
+      "answer": "Installation rapide sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes en vigueur."
+    }
+  ]
+}

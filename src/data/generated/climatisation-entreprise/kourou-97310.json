@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Kourou, garantissant confort et performance pour vos activités.",
+  "localContext": {
+    "title": "Climat Guyane",
+    "content": "À Kourou, la climatisation est essentielle. CPMI.fr vous accompagne avec des solutions adaptées aux fortes chaleurs et aux normes spécifiques de la région."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation rapide et efficace par des experts locaux.",
+    "Maintenance préventive pour une performance optimale garantie."
+  ],
+  "pricingContext": "CPMI.fr : Tarifs compétitifs adaptés aux budgets des entreprises guyanaises.",
+  "faq": [
+    {
+      "question": "Type de climatisation ?",
+      "answer": "Climatisation VRV, rooftops, splits industriels, adaptés à vos besoins."
+    },
+    {
+      "question": "Délai à Kourou ?",
+      "answer": "Intervention rapide : devis sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales guyanaises."
+    }
+  ]
+}

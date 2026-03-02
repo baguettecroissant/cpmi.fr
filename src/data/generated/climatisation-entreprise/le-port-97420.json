@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle au Port, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat et aides",
+    "content": "La chaleur intense au Port nécessite des solutions performantes. CPMI vous guide pour bénéficier des aides régionales en efficacité énergétique."
+  },
+  "expertAdvice": "Optimisation et maintenance : nos experts garantissent la longévité de vos installations.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du Port.",
+    "Techniciens certifiés et réactifs à La Réunion.",
+    "Réduction des coûts énergétiques garantie."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 974.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon entrepôt ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Le Port ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à La Réunion."
+    }
+  ]
+}

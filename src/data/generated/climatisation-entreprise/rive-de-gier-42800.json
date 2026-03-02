@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Rive De Gier (42800), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable à Rive De Gier",
+    "content": "La région Auvergne-Rhône-Alpes soutient les entreprises dans la transition énergétique. Optimisez votre climatisation pour réduire votre empreinte carbone et vos coûts."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par nos experts locaux à Rive De Gier.",
+    "Maintenance préventive pour une performance durable.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les pros du 42.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Rive De Gier ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

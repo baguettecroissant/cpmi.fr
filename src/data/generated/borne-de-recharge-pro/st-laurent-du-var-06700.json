@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Saint-Laurent-du-Var, favorisant la mobilité verte.",
+  "localContext": {
+    "title": "Bornes à St Laurent",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et adapter votre infrastructure."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec des solutions de recharge adaptées.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Laurent.",
+    "Solutions sur-mesure pour entreprises et copropriétés azuréennes.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne de recharge dans le 06.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Laurent Du Var ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

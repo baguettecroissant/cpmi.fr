@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au service des entreprises du Vesinet.",
+  "localContext": {
+    "title": "Climatisation Optimale au Vesinet",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Le climat francilien exige des solutions de climatisation adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit confort et économies d'énergie.",
+  "advantages": [
+    "Installation rapide et efficace au Vesinet et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure adaptées à votre activité."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Installation : quelles contraintes ?",
+      "answer": "Respect des normes ERP et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Le Vesinet ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012."
+    }
+  ]
+}

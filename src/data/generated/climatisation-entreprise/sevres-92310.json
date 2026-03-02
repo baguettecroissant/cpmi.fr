@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sèvres (92310), pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Sèvres : Enjeux",
+    "content": "Sèvres, avec son tissu d'entreprises, nécessite une climatisation performante. CPMI.fr vous accompagne dans l'optimisation énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Privilégiez un bilan thermique pour un système adapté.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises Sévriennes.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance et dépannage 7j/7 en Île-de-France."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Un bilan thermique précis vous donnera la réponse."
+    },
+    {
+      "question": "Délai à Sevres ?",
+      "answer": "Intervention rapide sous 24h."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Nous respectons les normes RT2012 et HQE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Lormont, favorisant la mobilité électrique.",
+  "localContext": {
+    "title": "Transition Énergétique à Lormont",
+    "content": "La Nouvelle-Aquitaine soutient activement la mobilité verte. Profitez des aides locales pour l'installation de bornes de recharge en entreprise et copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge adaptées à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Lormont.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de l'empreinte carbone de votre entreprise."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Lormont.",
+  "faq": [
+    {
+      "question": "Bornes à Lormont : pour qui ?",
+      "answer": "Entreprises et copropriétés souhaitant électrifier leur flotte."
+    },
+    {
+      "question": "Délai à Lormont ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance assurée et conformité aux normes IRVE."
+    }
+  ]
+}

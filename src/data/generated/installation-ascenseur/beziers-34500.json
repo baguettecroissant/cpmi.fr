@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Béziers, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Béziers",
+    "content": "Béziers bénéficie d'aides à l'accessibilité. CPMI.fr s'adapte aux contraintes climatiques locales pour une installation durable."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation optimisée et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Maintenance locale assurée par nos techniciens qualifiés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Béziers.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, PMR, monte-charges, sur-mesure."
+    },
+    {
+      "question": "Délai à Beziers ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

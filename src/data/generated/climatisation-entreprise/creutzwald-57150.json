@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Creutzwald, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Adaptée à Creutzwald",
+    "content": "Le climat continental de Creutzwald exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit efficacité et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Creutzwald.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques et optimisation du confort."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation pour mon entreprise ?",
+      "answer": "Étude personnalisée pour déterminer la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Creutzwald ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mâcon, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Mâcon",
+    "content": "Le climat bourguignon exige des solutions performantes. CPMI vous accompagne dans vos projets de climatisation, en tenant compte des aides régionales disponibles."
+  },
+  "expertAdvice": "Un dimensionnement précis garantit performance et longévité de votre installation.",
+  "advantages": [
+    "Solutions sur-mesure pour vos besoins spécifiques à Mâcon.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales et énergétiques."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et adaptés aux professionnels du 71.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux à Mâcon ?",
+      "answer": "CPMI réalise un bilan thermique précis."
+    },
+    {
+      "question": "Délai à Macon ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte la réglementation."
+    }
+  ]
+}

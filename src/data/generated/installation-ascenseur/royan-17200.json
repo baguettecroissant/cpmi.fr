@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Royan, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Accessibilité Royan",
+    "content": "Royan, ville touristique, favorise l'accessibilité PMR. CPMI vous accompagne dans la mise aux normes de vos bâtiments, en tenant compte des spécificités climatiques locales."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure, respect des normes et optimisation de l'espace.",
+  "advantages": [
+    "Installation rapide et efficace à Royan et ses environs.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 17.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour Royan ?",
+      "answer": "Ascenseurs PMR ou privatifs, adaptés à la Charente-Maritime."
+    },
+    {
+      "question": "Délai à Royan ?",
+      "answer": "Devis rapide, installation selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur à Royan."
+    }
+  ]
+}

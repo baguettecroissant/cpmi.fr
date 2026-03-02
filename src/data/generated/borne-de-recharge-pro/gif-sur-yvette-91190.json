@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Gif-sur-Yvette (91190), favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Bornes à Gif-sur-Yvette",
+    "content": "Île-de-France : aides régionales pour l'installation de bornes. CPMI.fr vous accompagne dans votre transition énergétique locale."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisation de votre patrimoine et engagement environnemental."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Gif Sur Yvette ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance locale et conformité aux normes IRVE."
+    }
+  ]
+}

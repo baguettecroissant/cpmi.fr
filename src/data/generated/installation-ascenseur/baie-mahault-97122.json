@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Baie-Mahault, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité & Guadeloupe",
+    "content": "Baie-Mahault bénéficie de dispositifs d'aide à l'accessibilité. CPMI.fr vous accompagne dans vos démarches et s'adapte aux contraintes climatiques locales."
+  },
+  "expertAdvice": "Un ascenseur adapté, c'est valoriser votre entreprise et faciliter l'accès.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et dépannage assurés par nos experts"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Baie-Mahault.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Nous proposons des solutions adaptées à chaque besoin professionnel."
+    },
+    {
+      "question": "Délai à Baie Mahault ?",
+      "answer": "Délais rapides, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à La Motte Servolex, pour entreprises et copropriétés soucieuses de mobilité durable.",
+  "localContext": {
+    "title": "Transition Énergétique à La Motte Servolex",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'installation de bornes. Profitez des aides locales pour électrifier votre flotte ou vos parkings."
+  },
+  "expertAdvice": "Optimisez votre installation avec un partenaire local certifié IRVE comme CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales (73)",
+    "Solutions sur-mesure pour entreprises et copropriétés",
+    "Bénéficiez des aides financières disponibles en Savoie"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à La Motte Servolex.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à La Motte Servolex ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance assurée et conformité aux normes en vigueur."
+    }
+  ]
+}

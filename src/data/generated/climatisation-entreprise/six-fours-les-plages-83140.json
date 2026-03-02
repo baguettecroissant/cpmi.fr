@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Six Fours Les Plages, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Six Fours : le climat exige des solutions performantes. CPMI vous guide sur les aides régionales pour une climatisation éco-responsable et économique."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Solutions adaptées aux besoins spécifiques de chaque entreprise locale.",
+    "Installation rapide et efficace par nos équipes certifiées.",
+    "Maintenance préventive pour une durabilité accrue de vos systèmes."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour une climatisation adaptée à votre budget.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Six Fours Les Plages ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

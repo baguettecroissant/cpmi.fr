@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Grand Quevilly, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation optimisée",
+    "content": "Le climat normand exige des solutions de climatisation fiables. CPMI.fr vous guide dans le choix des aides financières disponibles pour les entreprises du 76120."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts et votre empreinte carbone.",
+  "advantages": [
+    "Installation rapide par des professionnels qualifiés locaux.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Le Grand Quevilly.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Le Grand Quevilly ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

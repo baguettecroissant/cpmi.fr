@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vitry-Le-François, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 51 : Enjeux Locaux",
+    "content": "Vitry-Le-François, soumise à des étés chauds, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre investissement."
+  },
+  "expertAdvice": "Choisissez un système adapté à vos besoins spécifiques pour une performance durable.",
+  "advantages": [
+    "Installation rapide et efficace à Vitry-Le-François.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Solutions sur-mesure pour les besoins industriels."
+  ],
+  "pricingContext": "Tarifs compétitifs et transparents pour les professionnels du 51.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon activité ?",
+      "answer": "Nous dimensionnons votre installation selon vos contraintes."
+    },
+    {
+      "question": "Délai à Vitry Le Francois ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

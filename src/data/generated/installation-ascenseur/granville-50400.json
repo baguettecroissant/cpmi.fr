@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Granville, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Granville",
+    "content": "Granville soutient l'accessibilité. CPMI.fr vous guide dans les aides régionales pour l'installation d'ascenseurs adaptés aux contraintes normandes."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à Granville.",
+    "Conformité aux normes de sécurité et accessibilité.",
+    "Installation rapide et efficace par des experts locaux."
+  ],
+  "pricingContext": "CPMI.fr propose des prix compétitifs adaptés aux budgets des professionnels du 50.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Granville ?",
+      "answer": "CPMI.fr propose des solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Granville ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes en vigueur."
+    }
+  ]
+}

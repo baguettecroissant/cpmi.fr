@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Sanary-Sur-Mer, pour un confort optimal et une efficacité énergétique garantie.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Sanary-Sur-Mer bénéficie d'un ensoleillement important. CPMI vous aide à optimiser votre climatisation avec les aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation performante et un suivi personnalisé.",
+  "advantages": [
+    "Installation rapide et efficace à Sanary et ses environs.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance préventive pour une durée de vie prolongée."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le Var.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Sanary Sur Mer ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Var."
+    }
+  ]
+}

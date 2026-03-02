@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Fort-de-France, Martinique.",
+  "localContext": {
+    "title": "Bornes 972",
+    "content": "La Martinique encourage l'électromobilité. CPMI vous guide à travers les aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Fort-de-France.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance et SAV local pour une tranquillité assurée."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge professionnelles à Fort-de-France.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Fort De France ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes françaises."
+    }
+  ]
+}

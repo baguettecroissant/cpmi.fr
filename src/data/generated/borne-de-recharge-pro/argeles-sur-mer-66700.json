@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Argeles Sur Mer, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Énergie verte 66",
+    "content": "La région Occitanie soutient activement la transition énergétique. Bénéficiez d'aides pour l'installation de bornes, contribuant à un environnement plus propre à Argeles Sur Mer."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques et valorisez votre image avec CPMI.",
+  "advantages": [
+    "Installation rapide par des experts locaux qualifiés IRVE.",
+    "Solutions sur-mesure pour flottes et parkings d'entreprises.",
+    "Maintenance et SAV réactif à Argeles Sur Mer et sa région."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 66.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Argeles Sur Mer ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

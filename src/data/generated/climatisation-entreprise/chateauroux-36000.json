@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Châteauroux, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 36 : Spécificités",
+    "content": "Le climat continental de Châteauroux exige des systèmes performants. Profitez des aides locales pour une installation éco-responsable et économique."
+  },
+  "expertAdvice": "Un dimensionnement précis assure efficacité et longévité de votre installation.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de l'Indre.",
+    "Installation et maintenance par des experts locaux.",
+    "Réduction de votre empreinte carbone et de vos coûts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 36.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Un bilan thermique précis détermine la solution idéale."
+    },
+    {
+      "question": "Délai à Chateauroux ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

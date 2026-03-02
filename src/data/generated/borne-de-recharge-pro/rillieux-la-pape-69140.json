@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Rillieux La Pape pour les entreprises et copropriétés, soutenant la mobilité verte locale.",
+  "localContext": {
+    "title": "Bornes à Rillieux",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité. Des aides locales peuvent réduire le coût d'installation des bornes pour les professionnels."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour un avenir durable.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés à Rillieux.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Accès aux aides financières locales pour un investissement optimisé."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Rillieux.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Rillieux La Pape ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

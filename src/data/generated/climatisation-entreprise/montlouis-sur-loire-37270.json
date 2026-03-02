@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Montlouis-sur-Loire, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Performante (37)",
+    "content": "Le climat de Montlouis-sur-Loire exige des solutions de climatisation fiables. Profitez des aides régionales pour optimiser votre installation thermique professionnelle."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Réduction des coûts énergétiques pour les entreprises locales.",
+    "Amélioration du confort des employés et des clients.",
+    "Solutions sur mesure pour les bâtiments industriels et tertiaires."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne votre installation au plus juste."
+    },
+    {
+      "question": "Délai à Montlouis Sur Loire ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

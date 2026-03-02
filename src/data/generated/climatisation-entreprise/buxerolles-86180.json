@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Buxerolles, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Performante 86",
+    "content": "La Nouvelle-Aquitaine bénéficie d'aides pour l'efficacité énergétique. CPMI vous accompagne pour des solutions adaptées au climat de Buxerolles."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Buxerolles",
+    "Maintenance et dépannage rapides en Nouvelle-Aquitaine",
+    "Conformité aux normes environnementales locales"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Buxerolles.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Buxerolles ?",
+      "answer": "CPMI vous conseille sur la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Buxerolles ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sin Le Noble, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat et aides à Sin Le Noble",
+    "content": "Le climat variable du Nord exige des solutions performantes. Profitez des aides régionales pour optimiser votre installation de climatisation."
+  },
+  "expertAdvice": "Adaptez votre climatisation aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Sin Le Noble.",
+    "Réduction des coûts énergétiques grâce à une climatisation performante.",
+    "Installation et maintenance assurées par des experts locaux."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Une étude personnalisée détermine la puissance idéale."
+    },
+    {
+      "question": "Délai à Sin Le Noble ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

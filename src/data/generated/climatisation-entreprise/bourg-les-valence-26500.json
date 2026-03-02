@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bourg Les Valence, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 26",
+    "content": "À Bourg Les Valence, adaptez vos systèmes aux étés chauds et profitez des aides régionales pour l'efficacité énergétique. CPMI vous guide."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI, réduisant vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de la Drôme",
+    "Installation rapide et respect des normes en vigueur",
+    "Maintenance préventive pour une durabilité accrue"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels du 26.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entrepôt ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Bourg Les Valence ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des réglementations thermiques locales."
+    }
+  ]
+}

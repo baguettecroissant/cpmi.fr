@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bressuire, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat Bressuire",
+    "content": "Bressuire connaît des étés chauds. CPMI vous aide à optimiser votre climatisation et à profiter des aides régionales pour la transition énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par nos équipes locales à Bressuire.",
+    "Solutions sur mesure pour les entreprises du 79.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Bressuire.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Bressuire ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

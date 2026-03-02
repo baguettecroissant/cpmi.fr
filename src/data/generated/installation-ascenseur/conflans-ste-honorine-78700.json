@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Conflans-Sainte-Honorine et ses environs.",
+  "localContext": {
+    "title": "Conflans : Accessibilité",
+    "content": "Améliorez l'accessibilité de vos bâtiments à Conflans-Sainte-Honorine. CPMI vous guide dans les démarches et aides potentielles en Île-de-France."
+  },
+  "expertAdvice": "CPMI : L'expertise locale pour une installation conforme et durable.",
+  "advantages": [
+    "Proximité et réactivité à Conflans Ste Honorine.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Conflans ?",
+      "answer": "CPMI adapte l'installation aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Conflans Ste Honorine ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

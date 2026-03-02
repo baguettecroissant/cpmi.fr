@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation de bornes de recharge à Biganos, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition à Biganos",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone à Biganos."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Biganos.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité en Nouvelle-Aquitaine."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux professionnels du 33.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI vous conseille sur la solution idéale."
+    },
+    {
+      "question": "Délai à Biganos ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

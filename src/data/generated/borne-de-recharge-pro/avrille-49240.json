@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Avrillé, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition à Avrillé",
+    "content": "La région Pays de la Loire encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans ces démarches pour une installation optimisée."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Avrillé.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité pour une recharge sereine."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux besoins des professionnels du 49.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Avrillé ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins et contraintes électriques."
+    },
+    {
+      "question": "Délai à Avrillé ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur dans le Maine-et-Loire."
+    }
+  ]
+}

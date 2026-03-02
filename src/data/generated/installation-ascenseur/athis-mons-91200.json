@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Athis Mons, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Athis Mons : Accessibilité",
+    "content": "La région Île-de-France soutient l'accessibilité des bâtiments. CPMI vous accompagne dans l'obtention d'aides pour vos projets d'ascenseurs et monte-charges à Athis Mons."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec une installation sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Athis Mons.",
+    "Solutions adaptées aux besoins des entreprises locales.",
+    "Maintenance et SAV disponibles dans toute l'Île-de-France."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels du 91, devis personnalisé et gratuit.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Athis Mons ?",
+      "answer": "Oui, CPMI propose des solutions PMR conformes."
+    },
+    {
+      "question": "Délai à Athis Mons ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ascenseur en vigueur."
+    }
+  ]
+}

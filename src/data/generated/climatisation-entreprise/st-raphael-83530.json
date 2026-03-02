@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Raphael, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 83 : Enjeux",
+    "content": "Le climat de St Raphael exige des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du tertiaire.",
+    "Installation et maintenance expertes par nos équipes locales.",
+    "Respect des normes environnementales en vigueur (F-Gas)."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon vos volumes et l'isolation."
+    },
+    {
+      "question": "Délai à St Raphael ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

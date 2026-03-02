@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Levallois-Perret, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Levallois : Enjeux",
+    "content": "Levallois-Perret encourage activement la mobilité électrique. Profitez des aides régionales et d'un cadre urbain favorable à l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Levallois.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Accès aux aides financières disponibles dans le 92."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les pros du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Levallois Perret ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Muret, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Muret",
+    "content": "Muret, avec son climat chaud, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour améliorer l'efficacité énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques à long terme.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Muret.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Muret.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Nous dimensionnons selon la surface et l'usage."
+    },
+    {
+      "question": "Délai à Muret ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012."
+    }
+  ]
+}

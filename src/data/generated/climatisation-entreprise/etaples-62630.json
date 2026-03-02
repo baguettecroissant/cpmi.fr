@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Etaples, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat Etaples",
+    "content": "Le climat maritime d'Etaples exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser vos installations."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Etaples",
+    "Installation et maintenance rapides et efficaces",
+    "Conformité aux normes environnementales en vigueur"
+  ],
+  "pricingContext": "Bénéficiez de tarifs professionnels compétitifs dans le Pas-de-Calais.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée aux embruns ?",
+      "answer": "Nos systèmes résistent à la corrosion marine."
+    },
+    {
+      "question": "Délai à Etaples ?",
+      "answer": "Intervention rapide, généralement sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes HQE."
+    }
+  ]
+}

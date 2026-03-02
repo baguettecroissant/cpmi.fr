@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Cholet, garantissant confort et performance énergétique pour vos locaux.",
+  "localContext": {
+    "title": "Climatisation à Cholet",
+    "content": "Le climat Choletais exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et efficace à Cholet et ses environs.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions éco-responsables pour réduire votre empreinte carbone."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du Maine-et-Loire.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Cholet ?",
+      "answer": "CPMI analyse vos besoins pour une solution sur mesure."
+    },
+    {
+      "question": "Délai à Cholet ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le 49."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Forbach pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Forbach & Mobilité Verte",
+    "content": "La région Grand Est soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge à Forbach."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, experts en bornes de recharge.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à Forbach.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par nos équipes locales."
+  ],
+  "pricingContext": "Tarifs compétitifs pour bornes de recharge professionnelles dans le 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Forbach ?",
+      "answer": "Adaptez la puissance aux besoins de vos employés/résidents."
+    },
+    {
+      "question": "Délai à Forbach ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

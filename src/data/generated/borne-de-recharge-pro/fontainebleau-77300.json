@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Fontainebleau, pour entreprises et copropriétés, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes 77 : Enjeux",
+    "content": "L'Île-de-France encourage l'électromobilité. Des aides locales peuvent faciliter l'installation de bornes dans votre entreprise ou copropriété à Fontainebleau."
+  },
+  "expertAdvice": "Optimisez votre installation : CPMI.fr vous guide vers les solutions adaptées à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Fontainebleau.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par CPMI.fr localement."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Fontainebleau ?",
+      "answer": "Installation sous 2 semaines après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure le SAV et respecte les normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Villeneuve d'Ascq, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Villeneuve d'Ascq bénéficie d'aides régionales pour l'accessibilité. Le climat tempéré favorise la durabilité des installations extérieures."
+  },
+  "expertAdvice": "Optimisez l'espace et respectez les normes PMR avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Villeneuve d'Ascq.",
+    "Solutions sur mesure pour bâtiments résidentiels et commerciaux.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 59.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Adapté à vos besoins : résidentiel, PMR, monte-charge."
+    },
+    {
+      "question": "Délai à Villeneuve D Ascq ?",
+      "answer": "Variable selon le modèle."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF EN 81-70."
+    }
+  ]
+}

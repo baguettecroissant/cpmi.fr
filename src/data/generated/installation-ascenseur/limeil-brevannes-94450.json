@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Limeil-Brévannes, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Val-de-Marne",
+    "content": "Le Val-de-Marne soutient l'accessibilité PMR. CPMI.fr vous accompagne pour des installations conformes et valorisant votre bien immobilier."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Limeil-Brévannes.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à Limeil Brevannes ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP."
+    }
+  ]
+}

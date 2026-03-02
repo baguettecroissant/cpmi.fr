@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Gravelines et ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Gravelines",
+    "content": "Bénéficiez d'aides à l'accessibilité dans le Nord. CPMI.fr s'adapte aux contraintes architecturales spécifiques de la région Hauts-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Gravelines ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Gravelines ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

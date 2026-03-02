@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Longwy, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "La région Grand Est soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches pour bénéficier d'aides à Longwy."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments à Longwy.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Longwy.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Longwy ?",
+      "answer": "CPMI propose des solutions conformes PMR."
+    },
+    {
+      "question": "Délai à Longwy ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

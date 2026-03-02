@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Orléans, pour un confort optimal toute l'année.",
+  "localContext": {
+    "title": "Climatisation à Orléans",
+    "content": "Le climat d'Orléans exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales et optimiser votre confort."
+  },
+  "expertAdvice": "Un système adapté, c'est des économies et un confort durable.",
+  "advantages": [
+    "Installation rapide et efficace à Orléans.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Solutions sur mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les pros du 45.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI réalise une étude personnalisée."
+    },
+    {
+      "question": "Délai à Orleans ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes et SAV ?",
+      "answer": "CPMI respecte les normes et assure un SAV réactif."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fonsorbes, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Fonsorbes",
+    "content": "Fonsorbes, avec son climat chaud, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique des bâtiments."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à Fonsorbes.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour chaque type d'industrie."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour une climatisation adaptée à votre budget dans le 31.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Nous dimensionnons selon vos locaux et besoins."
+    },
+    {
+      "question": "Délai à Fonsorbes ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

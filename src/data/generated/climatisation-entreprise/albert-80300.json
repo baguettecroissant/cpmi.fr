@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Albert, optimisant confort et performance énergétique pour les entreprises locales.",
+  "localContext": {
+    "title": "Climat Albert",
+    "content": "Le climat variable de la Somme exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales en efficacité énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore la productivité.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Albert.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour les besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 80.",
+  "faq": [
+    {
+      "question": "Climatisation idéale ?",
+      "answer": "Adaptée à vos locaux et à votre activité professionnelle."
+    },
+    {
+      "question": "Délai à Albert ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV réactif et de proximité à Albert."
+    }
+  ]
+}

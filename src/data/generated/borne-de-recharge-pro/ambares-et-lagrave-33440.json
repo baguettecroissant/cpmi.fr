@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Ambarès-et-Lagrave, encourageant la mobilité verte pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique Locale",
+    "content": "La Nouvelle-Aquitaine soutient activement l'installation de bornes. Profitez des aides pour accélérer votre transition vers une mobilité durable à Ambarès-et-Lagrave."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de votre empreinte carbone et valorisation de l'image."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes à Ambarès-et-Lagrave.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Ambares Et Lagrave ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance assurée et conformité avec les normes IRVE."
+    }
+  ]
+}

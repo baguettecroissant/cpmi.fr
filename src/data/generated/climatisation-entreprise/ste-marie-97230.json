@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sainte-Marie, Martinique. Performance et fiabilité garanties.",
+  "localContext": {
+    "title": "Climatisation Optimale 972",
+    "content": "La chaleur tropicale exige des solutions performantes. CPMI vous aide à naviguer les aides régionales pour une climatisation adaptée à vos besoins."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Sainte-Marie",
+    "Maintenance préventive pour une durabilité accrue",
+    "Solutions sur mesure pour les besoins spécifiques"
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour des tarifs compétitifs.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Ste Marie ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

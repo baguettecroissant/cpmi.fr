@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire climatisation tertiaire et industrielle à Lorient, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Lorient",
+    "content": "Le climat océanique de Lorient exige des solutions de climatisation adaptées. CPMI.fr vous guide vers les aides financières disponibles en Bretagne pour les professionnels."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr : performance et économies garanties.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Lorient (56).",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure pour les bâtiments tertiaires et industriels."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du Morbihan.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Lorient ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales bretonnes."
+    }
+  ]
+}

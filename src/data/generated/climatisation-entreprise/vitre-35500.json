@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vitré, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Vitré",
+    "content": "Vitrée, climat tempéré. Profitez des aides régionales pour l'installation de systèmes performants et économes en énergie dans vos locaux professionnels."
+  },
+  "expertAdvice": "Un système adapté améliore productivité et réduit les coûts.",
+  "advantages": [
+    "Installation rapide et efficace à Vitré et ses environs.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Étude thermique gratuite pour dimensionner votre installation."
+    },
+    {
+      "question": "Délai à Vitre ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Respect des normes en vigueur et SAV réactif 7j/7."
+    }
+  ]
+}

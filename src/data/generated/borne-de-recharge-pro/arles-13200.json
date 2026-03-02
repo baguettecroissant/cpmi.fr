@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Arles, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Arles et bornes",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. CPMI vous guide à travers les aides disponibles pour votre installation à Arles."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Arles.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels d'Arles.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Arles ?",
+      "answer": "Adaptation selon vos besoins et usages spécifiques."
+    },
+    {
+      "question": "Délai à Arles ?",
+      "answer": "Installation rapide, généralement sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

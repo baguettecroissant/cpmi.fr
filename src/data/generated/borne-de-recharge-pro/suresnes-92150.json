@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Suresnes, répondant à une demande croissante.",
+  "localContext": {
+    "title": "Bornes à Suresnes",
+    "content": "La région Île-de-France soutient activement la mobilité électrique. Profitez des aides pour installer vos bornes de recharge à Suresnes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Suresnes.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité dans le 92."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes à Suresnes.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Suresnes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Normes et maintenance ?",
+      "answer": "CPMI assure conformité et maintenance experte."
+    }
+  ]
+}

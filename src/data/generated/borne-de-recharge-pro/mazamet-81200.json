@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Mazamet, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique à Mazamet",
+    "content": "La région Occitanie encourage l'électromobilité avec des aides financières. CPMI.fr vous accompagne pour en bénéficier et verdir votre entreprise à Mazamet."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Mazamet.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Mazamet (81).",
+  "faq": [
+    {
+      "question": "Aides locales disponibles ?",
+      "answer": "CPMI.fr vous informe sur les subventions régionales et nationales."
+    },
+    {
+      "question": "Délai à Mazamet ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

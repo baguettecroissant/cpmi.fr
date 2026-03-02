@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Valence, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Valence (26)",
+    "content": "Valence, avec son climat chaud, exige des solutions de climatisation performantes pour les entreprises. CPMI.fr vous accompagne dans le respect des normes environnementales locales et régionales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une meilleure efficacité énergétique.",
+  "advantages": [
+    "Installation rapide et efficace à Valence et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 26.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux à Valence ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Valence ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Valence."
+    }
+  ]
+}

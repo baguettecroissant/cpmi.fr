@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Hautmont, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Hautmont : Accessibilité",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité des commerces à Hautmont. Le climat économique des Hauts-de-France favorise l'investissement dans l'équipement professionnel."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien immobilier à Hautmont.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hautmont.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des experts locaux CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Hautmont ?",
+      "answer": "CPMI : Solutions complètes pour Personnes à Mobilité Réduite."
+    },
+    {
+      "question": "Délai à Hautmont ?",
+      "answer": "Installation rapide sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes européennes."
+    }
+  ]
+}

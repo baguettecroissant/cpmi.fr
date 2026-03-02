@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mandelieu-La-Napoule, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Performante 06",
+    "content": "Le climat méditerranéen exige des solutions de climatisation fiables. CPMI.fr vous accompagne pour optimiser vos installations et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Un entretien régulier assure performance et longévité de votre système.",
+  "advantages": [
+    "Réduction des coûts énergétiques pour les entreprises locales",
+    "Amélioration du confort des employés et de la productivité",
+    "Respect des normes environnementales en vigueur dans le 06"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels des Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Mandelieu La Napoule ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

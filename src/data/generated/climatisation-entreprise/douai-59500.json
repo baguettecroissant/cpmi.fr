@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Douai, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Douai : Enjeux",
+    "content": "Douai subit des étés chauds. Des aides régionales peuvent financer l'installation de systèmes performants pour les entreprises."
+  },
+  "expertAdvice": "Optimisation énergétique : réduisez vos coûts avec CPMI.",
+  "advantages": [
+    "Installation rapide pour minimiser l'impact sur votre activité.",
+    "Maintenance préventive assurant la longévité de vos installations.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques à Douai."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions performantes pour bureaux et industries."
+    },
+    {
+      "question": "Délai à Douai ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

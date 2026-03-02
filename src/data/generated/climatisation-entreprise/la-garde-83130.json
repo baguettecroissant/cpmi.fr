@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Garde, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable à La Garde",
+    "content": "Le climat méditerranéen exige des solutions performantes. Des aides locales existent pour l'installation de systèmes écoénergétiques dans le Var."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à La Garde et environs.",
+    "Solutions sur mesure pour les besoins industriels et tertiaires.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation dans le 83.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Dimensionnement précis selon vos locaux et besoins spécifiques."
+    },
+    {
+      "question": "Délai à La Garde ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

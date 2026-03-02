@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert local pour l'installation d'ascenseurs et monte-charges à Maizieres Les Metz.",
+  "localContext": {
+    "title": "Aides et Région",
+    "content": "Le Grand Est soutient l'accessibilité. CPMI.fr vous guide dans les démarches pour des installations conformes et optimisées."
+  },
+  "expertAdvice": "Sécurité et conformité : notre priorité pour vos installations.",
+  "advantages": [
+    "Installation rapide et efficace à Maizieres Les Metz.",
+    "Solutions sur mesure pour tous vos besoins.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Maizieres ?",
+      "answer": "CPMI.fr adapte votre installation aux normes PMR."
+    },
+    {
+      "question": "Délai à Maizieres Les Metz ?",
+      "answer": "Étude personnalisée sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

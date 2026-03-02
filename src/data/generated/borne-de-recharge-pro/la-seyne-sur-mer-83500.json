@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à La Seyne-sur-Mer, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité avec des subventions. Le climat ensoleillé favorise l'adoption de solutions durables."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide par des experts locaux à La Seyne.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Bornes de recharge conformes aux normes en vigueur."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 83.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à La Seyne Sur Mer ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes certifiées IRVE."
+    }
+  ]
+}

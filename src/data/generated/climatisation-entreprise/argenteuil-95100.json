@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Argenteuil, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 95 : Spécificités",
+    "content": "Le climat d'Argenteuil exige des solutions de climatisation performantes. CPMI.fr vous guide sur les aides disponibles pour les entreprises locales."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Argenteuil.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Argenteuil ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Argenteuil ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

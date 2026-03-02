@@ -1,0 +1,28 @@
+{
+  "introText": "À Nantes, ville en constante évolution et marquée par son patrimoine architectural diversifié, l'installation d'ascenseurs et de monte-charges représente un enjeu majeur pour l'accessibilité des entreprises, ERP et copropriétés. CPMI.fr vous connecte aux meilleurs installateurs locaux, capables de répondre aux défis spécifiques de la région nantaise.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Nantaises pour l'Installation d'Ascenseurs",
+    "content": "L'installation d'ascenseurs à Nantes est soumise à des réglementations d'urbanisme spécifiques, notamment en raison de la présence de nombreux bâtiments anciens et de zones protégées par les Architectes des Bâtiments de France (ABF). Le Plan Local d'Urbanisme (PLU) de Nantes Métropole impose des contraintes précises en matière d'intégration architecturale et de préservation du patrimoine. De plus, bien qu'il n'existe pas d'aides régionales spécifiques pour les ascenseurs, des dispositifs nationaux comme MaPrimeAdapt' peuvent être mobilisés, et il est crucial de les connaître pour optimiser votre projet."
+  },
+  "expertAdvice": "Nous savons que chaque installation d'ascenseur à Nantes est unique. Les contraintes liées aux bâtiments anciens, les normes d'accessibilité et les spécificités du PLU local exigent une expertise pointue. C'est pourquoi nous vous recommandons vivement de faire appel à un installateur référencé sur CPMI.fr, parfaitement au fait des enjeux locaux.",
+  "advantages": [
+    "Connaissance approfondie des exigences du PLU de Nantes Métropole",
+    "Intervention rapide et efficace dans toute la Loire-Atlantique (44)",
+    "Maîtrise des installations dans les bâtiments haussmanniens et industriels nantais"
+  ],
+  "pricingContext": "En Loire-Atlantique, le coût d'installation d'un ascenseur ou d'un monte-charge pour les professionnels varie considérablement en fonction de la complexité du projet, du type d'équipement et des travaux préparatoires nécessaires. Comptez en moyenne entre 15 000€ et 50 000€, hors travaux de maçonnerie.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides financières spécifiques pour l'installation d'ascenseurs en Pays de la Loire, en dehors des dispositifs nationaux ?",
+      "answer": "Bien qu'il n'y ait pas d'aides régionales dédiées, nous vous conseillons de vous renseigner auprès de Nantes Métropole et de la CCI Nantes St-Nazaire pour d'éventuelles subventions locales ponctuelles ou des dispositifs d'accompagnement."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Nantes, et quelles sont les spécificités à prendre en compte ?",
+      "answer": "Les délais varient de quelques semaines à plusieurs mois, selon la complexité du chantier et les autorisations d'urbanisme nécessaires. La présence d'amiante, fréquente dans les bâtiments anciens nantais, peut également impacter les délais."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité et les obligations de maintenance pour un ascenseur installé à Nantes ?",
+      "answer": "Les ascenseurs doivent respecter la norme EN 81-20 et faire l'objet d'une maintenance régulière par un professionnel agréé. Un contrôle technique doit être réalisé tous les 5 ans par un organisme agréé."
+    }
+  ]
+}

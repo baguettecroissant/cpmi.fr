@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Carros, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Durable 06",
+    "content": "Carros, avec son climat méditerranéen, exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Carros.",
+    "Maintenance rapide et efficace en région PACA.",
+    "Respect des normes environnementales locales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Carros.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon activité ?",
+      "answer": "CPMI analyse vos besoins pour une solution optimisée."
+    },
+    {
+      "question": "Délai à Carros ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et conformité aux normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Noyon, pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Bornes Noyon",
+    "content": "La région Hauts-de-France soutient l'électromobilité. CPMI vous guide pour obtenir les aides locales et nationales pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Solution sur mesure pour entreprises et copropriétés à Noyon.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Maintenance et SAV assurés par CPMI dans l'Oise."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le 60.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Noyon ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Noyon ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes françaises."
+    }
+  ]
+}

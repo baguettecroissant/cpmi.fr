@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Aire-sur-la-Lys, optimisant votre transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Aire-sur-la-Lys",
+    "content": "La région Hauts-de-France soutient activement la mobilité électrique. Profitez des aides locales pour installer vos bornes et réduire votre empreinte carbone."
+  },
+  "expertAdvice": "Anticipez les besoins futurs de vos employés et résidents.",
+  "advantages": [
+    "Valorisation immobilière accrue à Aire-sur-la-Lys.",
+    "Attractivité employeur renforcée.",
+    "Solution durable et économique."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Aire Sur La Lys ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance assurée et conformité aux normes en vigueur."
+    }
+  ]
+}

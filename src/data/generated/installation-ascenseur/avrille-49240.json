@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Avrillé, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Avrillé & Accessibilité",
+    "content": "La région Pays de la Loire soutient l'accessibilité PMR. CPMI.fr vous accompagne pour adapter vos locaux aux normes en vigueur à Avrillé."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes d'Avrillé.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 49.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type à Avrillé ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Avrillé ?",
+      "answer": "Sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

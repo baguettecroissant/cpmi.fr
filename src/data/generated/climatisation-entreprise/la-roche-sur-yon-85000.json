@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à La Roche Sur Yon. Performance énergétique garantie.",
+  "localContext": {
+    "title": "Climatisation 85 : Enjeux Locaux",
+    "content": "La Roche Sur Yon subit des étés chauds. Profitez des aides régionales pour une climatisation performante et économique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques et votre impact environnemental.",
+  "advantages": [
+    "Installation rapide et efficace à La Roche Sur Yon.",
+    "Maintenance et dépannage 24/7 pour professionnels.",
+    "Solutions sur mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre climatisation professionnelle dans le 85.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à La Roche Sur Yon ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

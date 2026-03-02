@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à St Amand Les Eaux, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat et Aides Locales",
+    "content": "Le climat variable des Hauts-de-France exige des solutions de climatisation performantes. CPMI vous guide vers les aides financières disponibles pour votre entreprise."
+  },
+  "expertAdvice": "Optimisation énergétique : réduisez vos coûts avec CPMI.",
+  "advantages": [
+    "Installation rapide par des experts locaux à St Amand.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins spécifiques du secteur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à St Amand Les Eaux ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

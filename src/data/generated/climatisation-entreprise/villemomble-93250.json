@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villemomble, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 93 : Enjeux",
+    "content": "Villemomble subit des étés chauds. Des aides régionales existent pour l'installation de systèmes performants, améliorant le confort et réduisant l'empreinte énergétique des entreprises."
+  },
+  "expertAdvice": "Un entretien régulier assure la performance et la longévité de votre installation.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Villemomble.",
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour éviter les pannes coûteuses."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 93, avec devis personnalisé.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Villemomble ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Villemomble ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

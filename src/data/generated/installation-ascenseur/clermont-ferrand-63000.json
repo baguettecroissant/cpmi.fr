@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation d'ascenseurs et monte-charges à Clermont-Ferrand, améliorant l'accessibilité des entreprises locales.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. CPMI.fr vous guide dans l'obtention d'aides pour vos projets d'installation à Clermont-Ferrand."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI.fr, votre partenaire local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Puy-de-Dôme.",
+  "faq": [
+    {
+      "question": "Normes à Clermont ?",
+      "answer": "Respect des normes EN 81-20/50 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Clermont Ferrand ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et pièces détachées disponibles localement. Respect de la réglementation."
+    }
+  ]
+}

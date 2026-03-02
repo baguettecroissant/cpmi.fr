@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Orvault, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Durable à Orvault",
+    "content": "La région Pays de la Loire encourage les solutions éco-énergétiques. CPMI vous accompagne dans l'optimisation de vos systèmes de climatisation."
+  },
+  "expertAdvice": "Un entretien régulier assure la longévité de vos installations.",
+  "advantages": [
+    "Proximité et réactivité pour vos besoins à Orvault.",
+    "Solutions sur-mesure pour les entreprises et industries.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation est adapté ?",
+      "answer": "Analyse précise pour une solution optimisée."
+    },
+    {
+      "question": "Délai à Orvault ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Saint-François, Guadeloupe.",
+  "localContext": {
+    "title": "Climatisation Optimale",
+    "content": "Le climat tropical exige des solutions performantes. CPMI.fr vous accompagne pour des installations adaptées et éligibles aux aides locales."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une efficacité énergétique durable.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à St Francois.",
+    "Installation rapide et professionnelle en Guadeloupe.",
+    "Maintenance et dépannage 7j/7 par CPMI.fr."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour le 971.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre climatisation précisément."
+    },
+    {
+      "question": "Délai à St Francois ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes guadeloupéennes."
+    }
+  ]
+}

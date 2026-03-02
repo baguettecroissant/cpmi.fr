@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Eybens, pour faciliter l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides régionales pour l'amélioration de l'accessibilité. Le climat d'Eybens favorise une installation durable et performante."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales d'Eybens.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des professionnels qualifiés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Eybens.",
+  "faq": [
+    {
+      "question": "Normes à Eybens ?",
+      "answer": "Respect des normes d'accessibilité en vigueur."
+    },
+    {
+      "question": "Délai à Eybens ?",
+      "answer": "Délais rapides, variable selon projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible à Eybens."
+    }
+  ]
+}

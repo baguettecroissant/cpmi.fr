@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Beaune, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Beaune & Mobilité",
+    "content": "Bénéficiez d'aides à la rénovation pour l'accessibilité à Beaune. Le climat bourguignon nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités beaunoises.",
+    "Solutions sur-mesure : Adaptées à vos besoins précis.",
+    "Respect des normes : Sécurité et conformité assurées."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 21.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Beaune ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Beaune ?",
+      "answer": "Installation rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

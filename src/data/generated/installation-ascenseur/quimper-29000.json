@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Quimper, assurant accessibilité et confort pour vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à Quimper",
+    "content": "La région Bretagne soutient l'accessibilité des entreprises. CPMI vous accompagne pour adapter vos bâtiments aux normes en vigueur dans le Finistère."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien immobilier professionnel.",
+  "advantages": [
+    "Solutions sur-mesure adaptées aux contraintes architecturales locales.",
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Maintenance préventive pour une longévité accrue de vos équipements."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Quimper.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce ?",
+      "answer": "CPMI vous conseille sur le modèle adapté à votre activité."
+    },
+    {
+      "question": "Délai à Quimper ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP à Quimper."
+    }
+  ]
+}

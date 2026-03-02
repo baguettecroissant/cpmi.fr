@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Villeneuve Sur Lot.",
+  "localContext": {
+    "title": "Ascenseurs 47",
+    "content": "La Nouvelle-Aquitaine soutient l'accessibilité. CPMI vous accompagne dans vos projets d'installation et de mise aux normes pour vos bâtiments."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Respect des normes de sécurité et d'accessibilité.",
+    "Installation rapide et efficace par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 47.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Lot-et-Garonne ?",
+      "answer": "CPMI : Accessibilité garantie et solutions adaptées."
+    },
+    {
+      "question": "Délai à Villeneuve Sur Lot ?",
+      "answer": "Installation rapide, selon configuration."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité réglementaire assurée."
+    }
+  ]
+}

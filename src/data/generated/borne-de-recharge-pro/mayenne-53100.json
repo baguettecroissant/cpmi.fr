@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Mayenne, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Mobilité Verte à Mayenne",
+    "content": "La région Pays de la Loire encourage l'électrification des flottes. Profitez d'aides locales pour l'installation de bornes de recharge à Mayenne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Mayenne.",
+    "Solutions personnalisées pour entreprises et copropriétés du 53.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes à Mayenne.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Mayenne ?",
+      "answer": "Adaptation selon vos besoins et usages spécifiques."
+    },
+    {
+      "question": "Délai à Mayenne ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

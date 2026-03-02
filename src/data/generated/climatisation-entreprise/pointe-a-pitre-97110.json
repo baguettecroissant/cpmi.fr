@@ -1,0 +1,28 @@
+{
+  "introText": "Optimisez le confort et la performance énergétique de vos locaux à Pointe-à-Pitre avec CPMI, spécialiste de la climatisation tertiaire et industrielle.",
+  "localContext": {
+    "title": "Climatisation Optimale",
+    "content": "Face à la chaleur tropicale, CPMI vous accompagne à Pointe-à-Pitre. Profitez des aides régionales pour une climatisation performante et éco-responsable."
+  },
+  "expertAdvice": "Un système adapté garantit confort et économies durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales",
+    "Maintenance préventive pour une longévité accrue",
+    "Solutions sur-mesure pour tous types de bâtiments"
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Pointe A Pitre ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

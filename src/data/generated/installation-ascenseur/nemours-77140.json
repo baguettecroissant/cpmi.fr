@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local à Nemours (77140) pour l'installation d'ascenseurs et monte-charges, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 77",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité des bâtiments à Nemours. Le climat économique favorise les investissements en équipements pour les professionnels."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la sécurité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Nemours.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels en Seine-et-Marne.",
+  "faq": [
+    {
+      "question": "Normes à Nemours ?",
+      "answer": "Conformité RT2012 et accessibilité PMR garanties."
+    },
+    {
+      "question": "Délai à Nemours ?",
+      "answer": "Devis et installation rapides."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Intervention rapide 7j/7 en Seine-et-Marne."
+    }
+  ]
+}

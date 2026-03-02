@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Issoudun et sa région.",
+  "localContext": {
+    "title": "Ascenseurs à Issoudun",
+    "content": "Bénéficiez d'aides à la rénovation pour l'accessibilité. Le climat tempéré favorise la durabilité des installations extérieures."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Issoudun.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 36.",
+  "faq": [
+    {
+      "question": "Normes à Issoudun ?",
+      "answer": "Conformité aux normes ERP et PMR en vigueur."
+    },
+    {
+      "question": "Délai à Issoudun ?",
+      "answer": "Délais rapides, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité."
+    }
+  ]
+}

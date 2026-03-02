@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Sète, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à Sète",
+    "content": "La région Occitanie encourage l'accessibilité PMR. CPMI vous accompagne pour adapter vos bâtiments aux normes et aux spécificités locales."
+  },
+  "expertAdvice": "CPMI : Solutions sur-mesure pour intégrer parfaitement votre ascenseur/monte-charge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Sète.",
+    "Solutions adaptées aux contraintes architecturales locales.",
+    "Maintenance et SAV réactifs dans tout le département 34."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour les professionnels du 34.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Sète ?",
+      "answer": "CPMI propose des solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Sete ?",
+      "answer": "Devis rapide et délais précis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur dans l'Hérault."
+    }
+  ]
+}

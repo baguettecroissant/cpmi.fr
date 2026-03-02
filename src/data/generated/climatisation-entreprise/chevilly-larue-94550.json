@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chevilly-Larue, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 94",
+    "content": "Le Val-de-Marne connaît des étés chauds. CPMI.fr vous aide à choisir des solutions de climatisation performantes et éco-responsables, en tenant compte des réglementations locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.fr.",
+  "advantages": [
+    "Proximité et réactivité à Chevilly-Larue (94550).",
+    "Solutions sur-mesure pour les professionnels.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet de climatisation dans le 94.",
+  "faq": [
+    {
+      "question": "Quelle climatisation choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins et votre budget."
+    },
+    {
+      "question": "Délai à Chevilly Larue ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et ERP."
+    }
+  ]
+}

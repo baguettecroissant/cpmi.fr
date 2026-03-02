@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Saint-Sébastien-sur-Loire, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 44",
+    "content": "La région Pays de la Loire soutient l'accessibilité. CPMI vous guide dans vos projets d'installation et de mise aux normes à Saint-Sébastien."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Installation rapide et conforme aux normes PMR locales.",
+    "Solutions sur-mesure adaptées aux contraintes de votre bâtiment.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels à Saint-Sébastien-sur-Loire (44).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et certains bâtiments existants."
+    },
+    {
+      "question": "Délai à St Sebastien Sur Loire ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

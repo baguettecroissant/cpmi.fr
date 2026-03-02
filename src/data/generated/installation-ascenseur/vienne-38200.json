@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Vienne pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Vienne",
+    "content": "Bénéficiez des aides locales pour l'accessibilité PMR. Le climat tempéré de Vienne requiert des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme aux normes et durable.",
+  "advantages": [
+    "Installation rapide et efficace à Vienne et ses environs.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 38.",
+  "faq": [
+    {
+      "question": "Quelle est la réglementation locale ?",
+      "answer": "Conformité aux normes ERP et accessibilité PMR obligatoires."
+    },
+    {
+      "question": "Délai à Vienne ?",
+      "answer": "Délais rapides après étude."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

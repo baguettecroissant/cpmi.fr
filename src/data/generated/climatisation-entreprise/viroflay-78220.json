@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Viroflay, pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation : Viroflay",
+    "content": "Le climat d'Île-de-France exige des solutions de climatisation performantes. CPMI.fr vous accompagne dans vos projets, en tenant compte des spécificités locales."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec CPMI.fr, votre partenaire climatisation.",
+  "advantages": [
+    "Installation rapide et efficace à Viroflay et alentours",
+    "Maintenance préventive pour une longévité accrue",
+    "Solutions sur-mesure pour chaque besoin professionnel"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Viroflay.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Viroflay ?",
+      "answer": "Intervention rapide : contactez-nous !"
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Nous respectons les normes environnementales et de sécurité en vigueur."
+    }
+  ]
+}

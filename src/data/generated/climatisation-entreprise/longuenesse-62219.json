@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Longuenesse, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat à Longuenesse",
+    "content": "Le climat variable du Pas-de-Calais exige des systèmes de climatisation fiables. CPMI vous aide à optimiser vos installations pour un confort optimal toute l'année."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Longuenesse et environs.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour vos projets à Longuenesse (62).",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Longuenesse ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le 62."
+    }
+  ]
+}

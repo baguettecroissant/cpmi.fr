@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bourg-de-Péage, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Aides et Environnement",
+    "content": "La région Auvergne-Rhône-Alpes propose des aides pour l'accessibilité. Bourg-de-Péage bénéficie d'un climat favorable à la durabilité des installations."
+  },
+  "expertAdvice": "Choisissez un installateur certifié pour une sécurité optimale et une conformité assurée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité locales.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Maintenance préventive pour une longévité accrue de l'équipement."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans la Drôme.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Bourg De Peage ?",
+      "answer": "Oui, CPMI.fr propose des solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Bourg De Peage ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN 81-20/50."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Pantin, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Pantin : Enjeux",
+    "content": "Face aux étés de plus en plus chauds en Île-de-France, une climatisation performante est cruciale. CPMI vous accompagne dans vos démarches d'aides régionales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Pantin et ses environs.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Pantin ?",
+      "answer": "CPMI évalue vos besoins pour une climatisation adaptée."
+    },
+    {
+      "question": "Délai à Pantin ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

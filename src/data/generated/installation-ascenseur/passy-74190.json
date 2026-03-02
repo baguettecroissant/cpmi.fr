@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Passy, améliorant l'accessibilité et la valeur de vos biens.",
+  "localContext": {
+    "title": "Passy & Accessibilité",
+    "content": "Passy bénéficie d'aides régionales pour l'accessibilité. CPMI vous accompagne dans vos projets d'installation, en tenant compte du climat montagnard spécifique."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la sécurité avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Passy.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs dans toute la région."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels du 74.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Passy ?",
+      "answer": "Conformité totale et solutions adaptées garanties."
+    },
+    {
+      "question": "Délai à Passy ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local 7j/7, respect des normes en vigueur."
+    }
+  ]
+}

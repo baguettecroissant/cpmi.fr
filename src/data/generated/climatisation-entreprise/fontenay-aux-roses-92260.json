@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Fontenay-aux-Roses, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 92 : Enjeux Locaux",
+    "content": "Fontenay-aux-Roses, climat contrasté : une climatisation adaptée est cruciale. CPMI vous guide sur les aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour performance et économies durables.",
+  "advantages": [
+    "Proximité : Intervention rapide à Fontenay-aux-Roses (92).",
+    "Solutions sur-mesure pour besoins tertiaires et industriels.",
+    "Conformité : Respect des normes environnementales locales."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Fontenay Aux Roses ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2020."
+    }
+  ]
+}

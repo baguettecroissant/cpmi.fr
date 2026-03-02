@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bischheim, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Bischheim",
+    "content": "Le climat du Grand Est exige des solutions de climatisation performantes. CPMI vous accompagne dans l'obtention d'aides financières pour vos projets."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI pour un retour sur investissement rapide.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du tertiaire/industriel.",
+    "Maintenance préventive réduisant les coûts et les pannes.",
+    "Respect des normes environnementales et réglementaires en vigueur."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Quelle solution pour mon entreprise ?",
+      "answer": "CPMI réalise une étude personnalisée pour définir la solution idéale."
+    },
+    {
+      "question": "Délai à Bischheim ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

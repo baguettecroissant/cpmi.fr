@@ -1,0 +1,28 @@
+{
+  "introText": "À Rennes, ville dynamique au cœur de la Bretagne, l'installation d'ascenseurs et monte-charges est cruciale pour l'accessibilité des entreprises, ERP et copropriétés. CPMI.fr facilite votre mise en relation avec des installateurs locaux qualifiés, connaissant les enjeux spécifiques de la métropole rennaise et de son climat océanique.",
+  "localContext": {
+    "title": "Réglementations et Aides Locales pour l'Installation d'Ascenseurs à Rennes",
+    "content": "L'installation d'ascenseurs à Rennes doit tenir compte du Plan Local d'Urbanisme (PLU) et des éventuelles zones protégées par les Architectes des Bâtiments de France (ABF), notamment dans le centre historique. La région Bretagne propose des aides à l'accessibilité pour les ERP et les copropriétés, souvent cumulables avec le crédit d'impôt pour l'adaptation du logement des personnes âgées ou handicapées. Les conditions climatiques, avec une humidité élevée, nécessitent des équipements adaptés et une installation soignée pour une longévité accrue."
+  },
+  "expertAdvice": "Nous, experts CPMI.fr, recommandons vivement de collaborer avec un installateur local à Rennes. La connaissance des spécificités architecturales rennaises, des réglementations d'urbanisme et des particularités climatiques est essentielle pour un projet d'installation réussi et durable.",
+  "advantages": [
+    "Connaissance approfondie du PLU de Rennes et des contraintes ABF",
+    "Réactivité et suivi personnalisé sur l'ensemble du département 35",
+    "Maîtrise des installations dans les bâtiments anciens et modernes rennais"
+  ],
+  "pricingContext": "Dans le département d'Ille-et-Vilaine (35), les prix pour l'installation d'un ascenseur ou monte-charge varient considérablement en fonction de la complexité du chantier, du type d'équipement et des options choisies. Pour les professionnels, prévoyez un budget allant de 15 000€ à plus de 50 000€.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides spécifiques de la région Bretagne pour l'installation d'ascenseurs dans les ERP ?",
+      "answer": "Oui, la région Bretagne propose des dispositifs d'aides financières pour améliorer l'accessibilité des ERP. Il est conseillé de contacter la Chambre de Commerce et d'Industrie (CCI) ou la Chambre des Métiers et de l'Artisanat (CMA) d'Ille-et-Vilaine pour connaître les critères d'éligibilité et les montants disponibles."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Rennes, en tenant compte des démarches administratives ?",
+      "answer": "Les délais varient selon la complexité du projet et les autorisations d'urbanisme nécessaires. Comptez généralement entre 3 et 6 mois, en incluant l'étude de faisabilité, les démarches administratives (permis de construire si nécessaire) et les travaux d'installation."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité à respecter pour l'installation et la maintenance d'un ascenseur à Rennes ?",
+      "answer": "L'installation et la maintenance d'ascenseurs sont soumises à des normes strictes (EN 81-20 et EN 81-50). Un contrat de maintenance régulier avec un professionnel certifié est obligatoire pour garantir la sécurité des utilisateurs et la conformité aux réglementations en vigueur."
+    }
+  ]
+}

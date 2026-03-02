@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Jean De La Ruelle.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "La région Centre-Val de Loire soutient l'accessibilité. CPMI s'adapte aux spécificités climatiques locales pour une installation durable."
+  },
+  "expertAdvice": "Sécurité et conformité : notre priorité absolue.",
+  "advantages": [
+    "Expertise locale à St Jean De La Ruelle",
+    "Solutions sur-mesure pour votre bâtiment",
+    "Installation rapide et efficace garantie"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 45.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adapté à votre usage : résidentiel ou industriel."
+    },
+    {
+      "question": "Délai à St Jean De La Ruelle ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

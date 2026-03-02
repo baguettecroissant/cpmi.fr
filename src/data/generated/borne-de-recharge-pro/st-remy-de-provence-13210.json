@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à St Remy De Provence, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à St Remy",
+    "content": "Provence-Alpes-Côte d'Azur encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge en entreprise et copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, experts locaux.",
+  "advantages": [
+    "Solution de recharge adaptée à vos besoins à St Remy.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisez votre image et attirez de nouveaux clients."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à St Remy ?",
+      "answer": "CPMI vous conseille selon vos véhicules et besoins."
+    },
+    {
+      "question": "Délai à St Remy De Provence ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

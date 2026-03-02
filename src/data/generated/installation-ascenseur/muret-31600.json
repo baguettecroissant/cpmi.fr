@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Muret et ses environs.",
+  "localContext": {
+    "title": "Accessibilité à Muret",
+    "content": "Muret améliore l'accessibilité des bâtiments. Profitez des aides régionales pour faciliter vos projets d'installation et de modernisation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Muret",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et dépannage assurés par CPMI"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Muret ?",
+      "answer": "CPMI propose des solutions PMR adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à Muret ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

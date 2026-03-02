@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Nogent-sur-Marne, améliorant l'attractivité locale.",
+  "localContext": {
+    "title": "Nogent Électrique",
+    "content": "Val-de-Marne encourage la mobilité verte. Profitez des aides régionales pour l'installation de bornes et accélérez la transition énergétique de votre entreprise."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une installation professionnelle et durable.",
+  "advantages": [
+    "Augmentez l'attractivité de votre entreprise à Nogent.",
+    "Solution de recharge adaptée aux besoins de vos employés.",
+    "Valorisez votre engagement environnemental en Île-de-France."
+  ],
+  "pricingContext": "CPMI.fr offre des solutions tarifaires compétitives et transparentes pour le 94.",
+  "faq": [
+    {
+      "question": "Aides à Nogent ?",
+      "answer": "Subventions locales et régionales disponibles pour les entreprises."
+    },
+    {
+      "question": "Délai à Nogent Sur Marne ?",
+      "answer": "Installation rapide : délai moyen de 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et conformité aux normes IRVE en vigueur."
+    }
+  ]
+}

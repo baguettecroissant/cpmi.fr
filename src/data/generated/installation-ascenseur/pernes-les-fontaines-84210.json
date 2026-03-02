@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Pernes Les Fontaines, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité & Région",
+    "content": "Pernes Les Fontaines bénéficie d'aides pour l'accessibilité des bâtiments. CPMI.fr s'adapte aux contraintes climatiques de Provence-Alpes-Côte D'azur."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Pernes.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des professionnels qualifiés."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du Vaucluse.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adapté à vos besoins : PMR, monte-charge, etc."
+    },
+    {
+      "question": "Délai à Pernes Les Fontaines ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Mayenne, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Mayenne",
+    "content": "La région Pays de la Loire encourage l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation et de mise aux normes dans le 53."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de Mayenne.",
+  "faq": [
+    {
+      "question": "Normes à Mayenne ?",
+      "answer": "CPMI.fr assure la conformité avec les normes en vigueur."
+    },
+    {
+      "question": "Délai à Mayenne ?",
+      "answer": "Délais rapides garantis."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Un SAV réactif pour une maintenance optimale à Mayenne."
+    }
+  ]
+}

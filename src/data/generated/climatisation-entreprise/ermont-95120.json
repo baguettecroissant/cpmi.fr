@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ermont (95) et en Île-de-France.",
+  "localContext": {
+    "title": "Climatisation à Ermont",
+    "content": "Bénéficiez des aides locales pour l'installation de systèmes performants. Le climat francilien exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisation énergétique et conformité réglementaire garanties pour votre entreprise.",
+  "advantages": [
+    "Installation rapide et efficace sur tout le Val-d'Oise.",
+    "Maintenance préventive pour une performance durable.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Ermont ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

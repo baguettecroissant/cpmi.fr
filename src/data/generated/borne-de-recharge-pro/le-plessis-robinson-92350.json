@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés au Plessis Robinson.",
+  "localContext": {
+    "title": "Bornes 92 : Transition",
+    "content": "Le Plessis Robinson encourage l'électromobilité. Des aides régionales peuvent financer votre projet de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide au Plessis Robinson.",
+    "Solutions sur-mesure pour votre entreprise.",
+    "Conformité aux normes locales (92)."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge dans les Hauts-de-Seine.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Adaptée à vos besoins et usages."
+    },
+    {
+      "question": "Délai à Le Plessis Robinson ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

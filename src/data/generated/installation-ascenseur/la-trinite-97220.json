@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à La Trinité, Martinique. Expertise locale garantie.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides régionales pour l'amélioration de l'accessibilité. Le climat tropical nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et professionnelle à La Trinité.",
+    "Solutions sur mesure pour bâtiments résidentiels et commerciaux.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet au 972.",
+  "faq": [
+    {
+      "question": "Normes en Martinique ?",
+      "answer": "Respect des normes européennes et adaptations climatiques locales."
+    },
+    {
+      "question": "Délai à La Trinite ?",
+      "answer": "Délais optimisés selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

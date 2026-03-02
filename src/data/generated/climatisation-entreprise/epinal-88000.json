@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Epinal, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Vosges",
+    "content": "Le climat continental d'Epinal exige des solutions de climatisation performantes. Des aides régionales peuvent faciliter votre investissement en climatisation."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI pour une efficacité maximale.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Epinal.",
+    "Maintenance et dépannage rapides dans le 88.",
+    "Respect des normes environnementales locales."
+  ],
+  "pricingContext": "Devis personnalisés pour climatisation industrielle et tertiaire à Epinal, adaptés à votre budget.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "CPMI propose des solutions sur-mesure pour chaque besoin professionnel."
+    },
+    {
+      "question": "Délai à Epinal ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

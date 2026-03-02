@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Gagny, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Gagny",
+    "content": "Gagny, avec ses étés chauds, exige des systèmes performants. CPMI.fr vous guide vers les aides disponibles pour les entreprises locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Gagny.",
+  "advantages": [
+    "Installation rapide et efficace à Gagny et environs.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure adaptées aux besoins de votre entreprise."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Gagny ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

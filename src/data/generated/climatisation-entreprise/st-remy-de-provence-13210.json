@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Remy De Provence.",
+  "localContext": {
+    "title": "Climatisation Durable 13",
+    "content": "Profitez des aides régionales pour une climatisation éco-responsable. Le climat provençal exige des solutions performantes et adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour un confort et des économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à St Remy De Provence.",
+    "Installation rapide et efficace par nos experts locaux.",
+    "Maintenance préventive pour une performance optimale."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "Dimensionnement précis selon vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à St Remy De Provence ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales locales."
+    }
+  ]
+}

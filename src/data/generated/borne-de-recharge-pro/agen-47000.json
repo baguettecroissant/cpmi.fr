@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Agen, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Agen",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes de recharge et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en solutions de recharge.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés d'Agen.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Gestion énergétique optimisée et maintenance assurée par CPMI.fr."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Lot-et-Garonne.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Agen ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Agen ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

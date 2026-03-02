@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Saint-Dié-des-Vosges, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et Réglementations",
+    "content": "Bénéficiez des aides à l'accessibilité en vigueur dans le Grand Est. CPMI.fr vous guide à travers les normes spécifiques de Saint-Dié-des-Vosges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec des solutions sur mesure et durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions personnalisées pour tous les bâtiments.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 88.",
+  "faq": [
+    {
+      "question": "Normes à Saint-Dié ?",
+      "answer": "Respect des normes ERP et accessibilité PMR."
+    },
+    {
+      "question": "Délai à St Die Des Vosges ?",
+      "answer": "Délais rapides, variables selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

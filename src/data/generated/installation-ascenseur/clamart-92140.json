@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Clamart, facilitant l'accessibilité et le transport vertical.",
+  "localContext": {
+    "title": "Accessibilité à Clamart",
+    "content": "Clamart soutient l'amélioration de l'accessibilité. CPMI vous accompagne dans vos projets d'installation et de mise aux normes."
+  },
+  "expertAdvice": "Un ascenseur bien installé valorise votre bien immobilier à Clamart.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans le 92.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Clamart ?",
+      "answer": "CPMI adapte l'installation aux normes PMR."
+    },
+    {
+      "question": "Délai à Clamart ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF EN81."
+    }
+  ]
+}

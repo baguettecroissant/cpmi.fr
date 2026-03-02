@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bastia, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation en Corse",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat insulaire exige des solutions adaptées aux fortes chaleurs estivales."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit efficacité et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Respect des normes environnementales et économies d'énergie."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI évalue précisément vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à Bastia ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

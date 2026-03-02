@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Calais pour les entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient activement la transition énergétique. Profitez des subventions pour l'installation de bornes à Calais et réduisez vos coûts."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI : installation rapide et conforme.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés calaisiennes.",
+    "Installation rapide par nos experts certifiés IRVE.",
+    "Gestion simplifiée et maintenance assurée par CPMI."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour Calais (62100).",
+  "faq": [
+    {
+      "question": "Quelle borne choisir à Calais ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Calais ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (IRVE)."
+    }
+  ]
+}

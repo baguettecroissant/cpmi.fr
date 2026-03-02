@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Parthenay, Deux-Sèvres.",
+  "localContext": {
+    "title": "Aides et climat",
+    "content": "La région Nouvelle-Aquitaine soutient les projets d'accessibilité. Le climat tempéré favorise la durabilité des installations extérieures."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes.",
+  "advantages": [
+    "Proximité et réactivité à Parthenay.",
+    "Solutions sur-mesure pour chaque besoin.",
+    "Respect des normes de sécurité."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Parthenay.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Parthenay ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Parthenay ?",
+      "answer": "Devis + installation : 4 à 12 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes en vigueur."
+    }
+  ]
+}

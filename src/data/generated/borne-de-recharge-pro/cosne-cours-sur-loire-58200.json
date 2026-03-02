@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Cosne Cours Sur Loire.",
+  "localContext": {
+    "title": "Transition Énergétique 58",
+    "content": "La Bourgogne-Franche-Comté encourage l'électromobilité. CPMI vous aide à bénéficier des aides locales pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Cosne.",
+    "Solution personnalisée pour chaque entreprise ou copropriété.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 58.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Cosne Cours Sur Loire ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

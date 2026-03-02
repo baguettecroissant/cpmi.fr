@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Gien, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Gien",
+    "content": "Le Centre-Val de Loire encourage l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation, en tenant compte des spécificités régionales et des aides disponibles."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable.",
+  "advantages": [
+    "Expertise locale pour bâtiments existants et neufs.",
+    "Solutions sur mesure adaptées à vos contraintes.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "CPMI.fr offre des devis personnalisés pour professionnels dans le Loiret.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Gien ?",
+      "answer": "CPMI.fr propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Gien ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

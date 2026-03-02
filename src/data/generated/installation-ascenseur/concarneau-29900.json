@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Concarneau, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Concarneau & Accessibilité",
+    "content": "Bénéficiez d'aides à l'adaptation du logement. Le climat maritime de Concarneau exige des installations robustes et durables."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Concarneau.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le Finistère.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Concarneau ?",
+      "answer": "CPMI adapte ses installations aux normes PMR."
+    },
+    {
+      "question": "Délai à Concarneau ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

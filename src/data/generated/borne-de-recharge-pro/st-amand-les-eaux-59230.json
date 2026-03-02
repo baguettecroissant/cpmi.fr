@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à St Amand Les Eaux, pour entreprises et copropriétés engagées dans la mobilité durable.",
+  "localContext": {
+    "title": "Transition énergétique à St Amand",
+    "content": "La région Hauts-de-France soutient activement l'installation de bornes. Profitez des aides pour électrifier votre parc automobile et valoriser votre bâtiment."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solution de recharge sur mesure pour votre entreprise à St Amand.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par nos techniciens locaux qualifiés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à St Amand Les Eaux ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

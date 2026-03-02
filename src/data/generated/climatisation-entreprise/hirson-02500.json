@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Hirson, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Hirson",
+    "content": "Bénéficiez d'aides pour l'efficacité énergétique dans l'Aisne. Un climat contrôlé est crucial pour la productivité des entreprises régionales."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI pour une climatisation durable et économique.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Hirson",
+    "Maintenance rapide et efficace dans tout le 02",
+    "Conformité aux normes environnementales locales et nationales"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels de l'Aisne.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Hirson ?",
+      "answer": "CPMI adapte ses solutions aux bâtiments industriels et tertiaires locaux."
+    },
+    {
+      "question": "Délai à Hirson ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur dans les Hauts-de-France."
+    }
+  ]
+}

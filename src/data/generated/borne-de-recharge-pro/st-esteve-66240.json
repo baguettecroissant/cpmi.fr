@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à St Esteve, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à St Esteve",
+    "content": "L'Occitanie encourage l'électromobilité avec des aides. CPMI vous accompagne pour l'installation de bornes adaptées à votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Esteve.",
+    "Solution sur-mesure pour entreprises et copropriétés du 66.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge professionnelles dans les Pyrénées-Orientales.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Esteve ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et respect des normes en vigueur."
+    }
+  ]
+}

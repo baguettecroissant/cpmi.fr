@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Amand Montrond et ses environs.",
+  "localContext": {
+    "title": "Accessibilité 18200",
+    "content": "Améliorez l'accessibilité de vos locaux à St Amand Montrond. Des aides régionales peuvent faciliter votre projet d'installation."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité de votre bâtiment.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure adaptées à vos besoins précis.",
+    "Maintenance et dépannage assurés par des experts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif dans le Cher (18).",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adaptez votre choix à la fréquence d'utilisation."
+    },
+    {
+      "question": "Délai à St Amand Montrond ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

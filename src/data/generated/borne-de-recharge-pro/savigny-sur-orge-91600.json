@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Savigny-sur-Orge, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes 91 : Enjeux",
+    "content": "L'Île-de-France encourage l'électromobilité. Des aides locales existent pour l'installation de bornes en entreprise et copropriété dans l'Essonne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Savigny-sur-Orge.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs et adaptés aux besoins des professionnels de l'Essonne.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Savigny Sur Orge ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

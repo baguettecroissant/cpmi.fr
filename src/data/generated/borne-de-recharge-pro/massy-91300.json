@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge pour entreprises et copropriétés à Massy, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Massy et l'électromobilité",
+    "content": "Massy, en Île-de-France, encourage l'installation de bornes avec des aides régionales. Profitez d'un climat favorable à l'adoption des véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Massy.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Massy (91).",
+  "faq": [
+    {
+      "question": "Aides à Massy ?",
+      "answer": "Aides régionales et nationales cumulables pour votre projet."
+    },
+    {
+      "question": "Délai à Massy ?",
+      "answer": "Installation sous 4 à 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

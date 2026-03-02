@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge à Allonnes, pour une mobilité électrique facilitée en entreprise et copropriété.",
+  "localContext": {
+    "title": "Transition Énergétique à Allonnes",
+    "content": "Allonnes s'engage pour l'électromobilité. Profitez des aides régionales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Anticipez la demande croissante et valorisez votre patrimoine immobilier dès maintenant.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Allonnes.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Suivi personnalisé pour optimiser votre consommation énergétique."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux budgets des entreprises du 72.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Allonnes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI.fr assure un SAV réactif dans la Sarthe."
+    }
+  ]
+}

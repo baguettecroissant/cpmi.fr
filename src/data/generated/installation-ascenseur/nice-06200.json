@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, l'installation d'ascenseurs et monte-charges est cruciale pour l'accessibilité des entreprises et copropriétés, compte tenu de la densité urbaine et du vieillissement de la population. CPMI.fr vous connecte avec des installateurs locaux qualifiés, capables de naviguer les défis spécifiques de la ville, de la Promenade des Anglais au Vieux Nice.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Niçoises pour l'Installation d'Ascenseurs",
+    "content": "L'installation d'ascenseurs à Nice est soumise au Plan Local d'Urbanisme (PLU), avec des règles spécifiques concernant les hauteurs et l'intégration architecturale, particulièrement dans les zones protégées. Les bâtiments situés dans le périmètre des Architectes des Bâtiments de France (ABF) nécessitent des autorisations spéciales. Des aides régionales via la région Provence-Alpes-Côte d'Azur et départementales peuvent être disponibles pour l'amélioration de l'accessibilité, notamment dans les copropriétés. La prise en compte des contraintes climatiques (forte chaleur estivale, risque de corrosion saline) est également essentielle."
+  },
+  "expertAdvice": "Nous savons que l'installation d'un ascenseur ou monte-charge à Nice exige une connaissance approfondie des contraintes locales. Choisir un installateur qui maîtrise les spécificités du bâti niçois, les réglementations d'urbanisme et les aides disponibles est primordial pour garantir un projet réussi et conforme aux normes.",
+  "advantages": [
+    "Connaissance pointue des démarches administratives auprès de la mairie de Nice.",
+    "Réactivité garantie pour les interventions dans tout le département des Alpes-Maritimes.",
+    "Expertise des contraintes techniques des immeubles anciens et modernes de Nice."
+  ],
+  "pricingContext": "Le coût d'installation d'un ascenseur ou monte-charge pour les professionnels à Nice (06) varie considérablement selon le type d'équipement, la complexité du chantier et les spécificités du bâtiment. En moyenne, prévoyez un budget entre 15 000€ et 50 000€, hors travaux de maçonnerie et adaptation du bâtiment.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières spécifiques en Provence-Alpes-Côte d'Azur pour l'installation d'un ascenseur dans une copropriété ?",
+      "answer": "La région Provence-Alpes-Côte d'Azur propose des subventions pour l'amélioration de l'habitat, incluant l'installation d'ascenseurs pour favoriser l'accessibilité. Le montant et les conditions d'éligibilité varient, il est conseillé de se renseigner auprès de l'Agence Nationale de l'Habitat (ANAH) ou du conseil régional."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Nice, en tenant compte des spécificités locales ?",
+      "answer": "Les délais d'installation à Nice peuvent varier de quelques semaines à plusieurs mois, en fonction des autorisations d'urbanisme, de la disponibilité des équipements et de la complexité du chantier. La présence de réseaux souterrains ou de contraintes architecturales peut rallonger les délais."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité et les obligations de maintenance pour un ascenseur installé à Nice ?",
+      "answer": "Les ascenseurs doivent respecter la norme EN 81-20 et faire l'objet d'un contrôle technique tous les 5 ans par un organisme agréé. Un contrat de maintenance est obligatoire pour assurer le bon fonctionnement et la sécurité des usagers. CPMI.fr vous met en relation avec des professionnels certifiés."
+    }
+  ]
+}

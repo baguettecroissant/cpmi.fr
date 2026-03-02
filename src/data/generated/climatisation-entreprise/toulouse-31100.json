@@ -1,0 +1,28 @@
+{
+  "introText": "À Toulouse, le confort thermique des entreprises et des industries est primordial, surtout face aux étés chauds et aux pics de chaleur. CPMI.fr vous connecte avec des installateurs de climatisation tertiaire et industrielle locaux, experts des spécificités de la ville rose et de ses environs. Optimisez la productivité et le bien-être de vos employés grâce à une solution adaptée.",
+  "localContext": {
+    "title": "Climatisation à Toulouse : Réglementations et Aides Locales",
+    "content": "Toulouse, soumise à un climat tempéré avec des étés chauds, impose des contraintes spécifiques pour l'installation de systèmes de climatisation. Le Plan Local d'Urbanisme (PLU) de Toulouse Métropole encadre l'installation d'unités extérieures, notamment dans les zones protégées. Des aides régionales de la Région Occitanie, comme le dispositif Éco-chèque Rénovation, peuvent soutenir financièrement les entreprises dans leur transition énergétique. Il est crucial de vérifier les exigences de la ZFE (Zone à Faibles Émissions) de Toulouse pour les véhicules d'installateurs."
+  },
+  "expertAdvice": "Nous, installateurs partenaires de CPMI.fr à Toulouse, savons que chaque bâtiment tertiaire ou industriel est unique. Une étude préalable est indispensable pour dimensionner correctement votre système de climatisation, en tenant compte de l'isolation, de l'exposition, et des besoins spécifiques de votre activité. Une installation mal dimensionnée entraînera une surconsommation énergétique et un confort thermique insatisfaisant.",
+  "advantages": [
+    "Connaissance approfondie du PLU de Toulouse Métropole et de ses contraintes.",
+    "Intervention rapide et efficace sur l'ensemble du département de la Haute-Garonne (31).",
+    "Maîtrise des installations en bâtiments anciens et récents, respectant les normes en vigueur."
+  ],
+  "pricingContext": "Le coût d'une installation de climatisation tertiaire ou industrielle à Toulouse varie en fonction de la surface à climatiser, du type de système choisi et des contraintes du bâtiment. En moyenne, comptez entre 800 et 1500 euros par kW installé pour un système performant et durable dans le 31.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Occitanie pour l'installation d'une climatisation performante ?",
+      "answer": "La région Occitanie propose des dispositifs comme l'Éco-chèque Rénovation pour les entreprises. Ces aides peuvent couvrir une partie des coûts d'installation d'équipements performants, contribuant à la réduction de la consommation énergétique et à l'amélioration du confort thermique."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'une climatisation pour un bâtiment tertiaire à Toulouse ?",
+      "answer": "Les délais varient selon la complexité du projet et la disponibilité des équipements. En général, comptez entre 2 et 6 semaines entre la signature du devis et la mise en service, en incluant l'étude préalable et les éventuelles démarches administratives."
+    },
+    {
+      "question": "Quelles sont les normes de maintenance à respecter pour assurer la longévité de mon installation à Toulouse ?",
+      "answer": "Une maintenance régulière est essentielle. Elle comprend le contrôle des fluides frigorigènes, le nettoyage des filtres et la vérification de l'étanchéité du système. Un contrat de maintenance avec un professionnel qualifié est fortement recommandé pour prévenir les pannes et optimiser la performance."
+    }
+  ]
+}

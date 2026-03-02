@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Lambersart, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 59",
+    "content": "Lambersart bénéficie d'aides régionales pour l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches et s'adapte aux contraintes climatiques locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Lambersart.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs dans le Nord."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Lambersart.",
+  "faq": [
+    {
+      "question": "Quelles aides à Lambersart ?",
+      "answer": "Contactez la mairie pour les subventions d'accessibilité."
+    },
+    {
+      "question": "Délai à Lambersart ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

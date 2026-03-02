@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Vigneux-sur-Seine, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 91 : Enjeux",
+    "content": "En Île-de-France, les étés chauds nécessitent des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.",
+  "advantages": [
+    "Solutions sur mesure pour le tertiaire et l'industrie.",
+    "Installation rapide et efficace à Vigneux-sur-Seine.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Vigneux ?",
+      "answer": "CPMI vous conseille sur la solution adaptée."
+    },
+    {
+      "question": "Délai à Vigneux Sur Seine ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

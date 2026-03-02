@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Tremblay-en-France, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Tremblay",
+    "content": "La région Île-de-France encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans ces démarches pour une installation optimisée."
+  },
+  "expertAdvice": "Anticipez les besoins futurs de votre flotte ou de vos résidents.",
+  "advantages": [
+    "Installation rapide par des experts certifiés IRVE à Tremblay.",
+    "Solutions personnalisées pour chaque type d'entreprise ou copropriété.",
+    "Maintenance et SAV assurés localement pour une tranquillité durable."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs pour le 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Tremblay En France ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NFC 15-100."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Martin Boulogne, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 62",
+    "content": "Bénéficiez d'aides régionales pour l'installation d'équipements d'accessibilité. Le climat maritime nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Proximité et réactivité à St Martin Boulogne",
+    "Solutions sur mesure pour vos besoins spécifiques",
+    "Respect des normes de sécurité et d'accessibilité"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR local ?",
+      "answer": "Solutions complètes pour l'accessibilité des personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à St Martin Boulogne ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

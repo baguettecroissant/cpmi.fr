@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Maisons-Alfort, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes 94 : Enjeux Locaux",
+    "content": "La région Île-de-France encourage l'électromobilité avec des subventions. Maisons-Alfort s'engage pour un avenir plus vert, incitant à l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour une recharge fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Maisons-Alfort.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Bornes de recharge robustes et connectées pour un suivi optimal."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour l'installation de bornes dans le Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Quelle borne à Maisons-Alfort ?",
+      "answer": "Adaptation aux besoins : standard, accélérée, rapide."
+    },
+    {
+      "question": "Délai à Maisons Alfort ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

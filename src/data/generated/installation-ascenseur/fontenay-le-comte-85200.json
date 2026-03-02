@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Fontenay Le Comte, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Vendée",
+    "content": "La région Pays de la Loire soutient l'accessibilité des entreprises. CPMI vous accompagne pour bénéficier des aides à Fontenay Le Comte."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité à Fontenay."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le 85.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs à Fontenay Le Comte."
+    },
+    {
+      "question": "Délai à Fontenay Le Comte ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV rapide et le respect des normes."
+    }
+  ]
+}

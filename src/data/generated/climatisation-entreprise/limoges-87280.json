@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Limoges, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Limoges",
+    "content": "Les étés chauds à Limoges rendent la climatisation essentielle pour les entreprises. CPMI vous accompagne dans l'optimisation énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore la productivité.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Limoges.",
+    "Installation et maintenance par des experts locaux.",
+    "Réduction des coûts énergétiques grâce à des systèmes performants."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 87.",
+  "faq": [
+    {
+      "question": "Quelle climatisation choisir ?",
+      "answer": "Analyse précise pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Limoges ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

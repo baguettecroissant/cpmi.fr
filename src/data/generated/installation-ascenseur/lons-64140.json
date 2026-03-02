@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Lons, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Lons & Accessibilité",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI s'adapte aux spécificités locales pour des installations optimales à Lons."
+  },
+  "expertAdvice": "Une installation CPMI : sécurité, conformité et valorisation de votre bâtiment.",
+  "advantages": [
+    "Solutions sur mesure pour bâtiments existants à Lons.",
+    "Respect des normes de sécurité en vigueur.",
+    "Amélioration de l'accessibilité et du confort."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 64.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adapté à vos besoins : hydraulique, électrique, sur mesure."
+    },
+    {
+      "question": "Délai à Lons ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP locales."
+    }
+  ]
+}

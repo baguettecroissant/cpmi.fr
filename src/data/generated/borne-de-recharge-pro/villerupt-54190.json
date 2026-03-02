@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Villerupt, soutenant la mobilité électrique locale pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Villerupt",
+    "content": "Le Grand Est encourage l'électromobilité. CPMI.fr vous guide pour les aides disponibles et s'adapte aux spécificités climatiques locales pour une installation optimale."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Villerupt.",
+    "Solutions de recharge sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Aides à Villerupt ?",
+      "answer": "CPMI.fr vous informe sur les subventions locales pour l'installation."
+    },
+    {
+      "question": "Délai à Villerupt ?",
+      "answer": "Installation rapide, généralement sous 4 semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI.fr assure un SAV rapide et efficace à Villerupt."
+    }
+  ]
+}

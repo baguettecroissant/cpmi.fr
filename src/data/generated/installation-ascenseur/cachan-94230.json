@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Cachan, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Cachan",
+    "content": "Cachan bénéficie d'aides pour l'accessibilité des PMR. CPMI vous accompagne dans vos démarches pour l'installation de vos équipements."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers à Cachan.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Cachan.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par CPMI dans le 94."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur pour mon commerce à Cachan ?",
+      "answer": "CPMI vous conseille selon vos besoins et contraintes."
+    },
+    {
+      "question": "Délai à Cachan ?",
+      "answer": "Installation sous 4 à 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

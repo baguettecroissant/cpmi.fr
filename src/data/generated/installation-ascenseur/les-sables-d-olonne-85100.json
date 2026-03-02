@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges aux Sables d'Olonne, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Locales",
+    "content": "La région Pays de la Loire soutient l'accessibilité. CPMI vous guide dans les démarches pour optimiser votre projet d'installation."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Expertise locale : intervention rapide aux Sables d'Olonne.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Conformité aux normes de sécurité et accessibilité (85)."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels du 85.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation ERP."
+    },
+    {
+      "question": "Délai à Les Sables D Olonne ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

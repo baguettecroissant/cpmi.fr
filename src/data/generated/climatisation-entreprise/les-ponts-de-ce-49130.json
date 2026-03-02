@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Les Ponts-de-Cé, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 49",
+    "content": "Le climat tempéré de la région Pays de la Loire exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides locales à la transition énergétique."
+  },
+  "expertAdvice": "Optimisez vos installations avec un entretien régulier pour une performance durable.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Respect des normes environnementales et économies d'énergie."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et des prix compétitifs pour professionnels dans le 49.",
+  "faq": [
+    {
+      "question": "Besoin urgent à Les Ponts-de-Cé ?",
+      "answer": "Intervention rapide pour garantir votre confort thermique."
+    },
+    {
+      "question": "Délai à Les Ponts De Ce ?",
+      "answer": "Intervention sous 48h après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Maine-et-Loire."
+    }
+  ]
+}

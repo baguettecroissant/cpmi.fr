@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Seclin, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Seclin",
+    "content": "Profitez des aides régionales pour l'accessibilité PMR dans le Nord. CPMI s'adapte aux spécificités architecturales locales et aux contraintes du climat nordiste."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes de sécurité.",
+  "advantages": [
+    "Installation rapide et efficace à Seclin et ses environs.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelles aides à Seclin ?",
+      "answer": "Contactez la mairie pour les subventions d'accessibilité."
+    },
+    {
+      "question": "Délai à Seclin ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF EN 81-70."
+    }
+  ]
+}

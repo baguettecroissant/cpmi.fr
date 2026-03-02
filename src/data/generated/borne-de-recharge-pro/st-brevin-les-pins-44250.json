@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à St Brevin Les Pins, contribuant à la mobilité durable des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique",
+    "content": "La région Pays de la Loire encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes de recharge à St Brevin Les Pins."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une borne adaptée à vos besoins.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à St Brevin.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans le 44.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à St Brevin Les Pins ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

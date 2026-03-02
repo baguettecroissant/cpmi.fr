@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Allauch, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Allauch",
+    "content": "Allauch bénéficie d'un ensoleillement important. CPMI vous accompagne pour des solutions de climatisation performantes et adaptées aux besoins spécifiques de votre entreprise."
+  },
+  "expertAdvice": "Optimisez votre confort et réduisez vos coûts énergétiques avec CPMI.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises d'Allauch.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Pourquoi choisir CPMI ?",
+      "answer": "Expertise locale, solutions durables et service client dédié aux entreprises."
+    },
+    {
+      "question": "Délai à Allauch ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et ERP."
+    }
+  ]
+}

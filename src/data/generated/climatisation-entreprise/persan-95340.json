@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Persan, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Persan (95)",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Intervention rapide à Persan et ses environs.",
+    "Solutions sur mesure pour les professionnels.",
+    "Maintenance et dépannage toutes marques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises du Val-d'Oise.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "Étude thermique gratuite pour dimensionner votre installation."
+    },
+    {
+      "question": "Délai à Persan ?",
+      "answer": "Intervention sous 24/48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

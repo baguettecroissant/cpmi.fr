@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à La Roche-sur-Foron.",
+  "localContext": {
+    "title": "Ascenseurs 74800",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Haute-Savoie. CPMI.fr s'adapte aux contraintes climatiques de la région pour une installation durable."
+  },
+  "expertAdvice": "Un ascenseur bien installé améliore l'accessibilité et valorise votre bien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à La Roche-sur-Foron.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance préventive pour une longévité accrue de votre équipement."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 74.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à La Roche Sur Foron ?",
+      "answer": "Sur devis, généralement rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

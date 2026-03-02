@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à St Genis Laval, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à St Genis Laval",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches pour bénéficier d'aides financières locales."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme aux normes et durable.",
+  "advantages": [
+    "Expertise locale en ascenseurs et monte-charges.",
+    "Solutions sur-mesure pour tous les bâtiments.",
+    "Maintenance réactive à St Genis Laval."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 69.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à St Genis ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à St Genis Laval ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

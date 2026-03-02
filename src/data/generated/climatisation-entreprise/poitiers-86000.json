@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Poitiers, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 86",
+    "content": "La Nouvelle-Aquitaine soutient les entreprises pour des solutions climatiques performantes. CPMI vous accompagne dans vos projets de climatisation à Poitiers."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour des économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Poitiers et alentours.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 86.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Poitiers ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

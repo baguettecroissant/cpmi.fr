@@ -1,0 +1,28 @@
+{
+  "introText": "Facilitez la transition énergétique de votre entreprise ou copropriété à Rognac avec CPMI.fr.",
+  "localContext": {
+    "title": "Bornes à Rognac",
+    "content": "Rognac bénéficie d'un ensoleillement exceptionnel, idéal pour le solaire et la recharge de véhicules électriques. Profitez des aides régionales pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Rognac.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les pros du 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Rognac ?",
+      "answer": "Adaptation selon vos besoins et consommation."
+    },
+    {
+      "question": "Délai à Rognac ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

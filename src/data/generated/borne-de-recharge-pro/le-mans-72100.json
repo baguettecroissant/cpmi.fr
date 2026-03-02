@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés au Mans, optimisant votre transition énergétique.",
+  "localContext": {
+    "title": "Transition Énergétique Mancelle",
+    "content": "Le Mans Métropole soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Anticipez les besoins futurs et valorisez votre patrimoine avec des bornes performantes.",
+  "advantages": [
+    "Solution clé en main adaptée aux besoins spécifiques du Mans.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Maintenance locale assurée pour une disponibilité maximale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de la Sarthe (72).",
+  "faq": [
+    {
+      "question": "Bornes : quelles aides au Mans ?",
+      "answer": "Subventions locales et nationales cumulables pour réduire vos coûts."
+    },
+    {
+      "question": "Délai à Le Mans ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur dans la région."
+    }
+  ]
+}

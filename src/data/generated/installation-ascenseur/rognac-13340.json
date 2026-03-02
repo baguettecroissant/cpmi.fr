@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Rognac, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Rognac",
+    "content": "Profitez des aides à l'amélioration de l'habitat en région PACA pour vos projets d'installation. Le climat méditerranéen exige des solutions robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Rognac.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et SAV de proximité pour une tranquillité assurée."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Rognac ?",
+      "answer": "Oui, nous installons des ascenseurs PMR conformes."
+    },
+    {
+      "question": "Délai à Rognac ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

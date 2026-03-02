@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Castelsarrasin, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 82",
+    "content": "Profitez des aides régionales pour l'amélioration de l'habitat et l'accessibilité. CPMI s'adapte aux contraintes architecturales de Castelsarrasin et ses environs."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le Tarn-et-Garonne.",
+  "faq": [
+    {
+      "question": "Normes à respecter ?",
+      "answer": "CPMI garantit la conformité aux normes EN 81-20 et EN 81-70."
+    },
+    {
+      "question": "Délai à Castelsarrasin ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des réglementations locales."
+    }
+  ]
+}

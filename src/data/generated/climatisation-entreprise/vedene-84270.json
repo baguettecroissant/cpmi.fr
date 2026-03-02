@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vedene, assurant confort et efficacité énergétique.",
+  "localContext": {
+    "title": "Climatisation à Vedene",
+    "content": "Profitez des aides régionales pour l'installation de systèmes performants. Le climat provençal exige des solutions de climatisation fiables pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Vedene.",
+  "advantages": [
+    "Installation rapide et efficace à Vedene et environs.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du Vaucluse (84).",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Vedene ?",
+      "answer": "Nous évaluons vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Vedene ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

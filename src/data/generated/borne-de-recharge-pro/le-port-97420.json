@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Le Port, répondant à la demande croissante de mobilité électrique.",
+  "localContext": {
+    "title": "Transition Énergétique",
+    "content": "La Réunion encourage l'électromobilité. Des aides locales peuvent réduire le coût d'installation de bornes pour entreprises et copropriétés."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Le Port.",
+    "Solutions sur mesure pour flottes et résidents en copropriété.",
+    "Maintenance et SAV assurés par nos équipes locales."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux besoins des entreprises réunionnaises.",
+  "faq": [
+    {
+      "question": "Bornes pour mon entreprise ?",
+      "answer": "CPMI dimensionne votre projet selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Le Port ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes en vigueur."
+    }
+  ]
+}

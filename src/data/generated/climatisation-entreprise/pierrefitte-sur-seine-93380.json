@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Pierrefitte-sur-Seine, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 93 : Enjeux locaux",
+    "content": "Pierrefitte-sur-Seine subit des étés chauds. Des aides régionales peuvent faciliter l'installation de systèmes performants pour les entreprises."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts énergétiques et améliore la productivité.",
+  "advantages": [
+    "Solutions adaptées aux besoins spécifiques de chaque entreprise locale.",
+    "Installation rapide et efficace par nos équipes certifiées.",
+    "Maintenance préventive pour assurer la longévité de vos équipements."
+  ],
+  "pricingContext": "Tarifs compétitifs pour les professionnels du 93, devis personnalisé et gratuit.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Pierrefitte ?",
+      "answer": "Calcul précis selon surface, isolation et occupation."
+    },
+    {
+      "question": "Délai à Pierrefitte Sur Seine ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

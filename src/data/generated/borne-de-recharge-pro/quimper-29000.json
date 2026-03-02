@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Quimper, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Quimper",
+    "content": "Le Finistère encourage l'électromobilité. CPMI.fr vous accompagne dans l'obtention d'aides pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés quimpéroises.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge à Quimper (29).",
+  "faq": [
+    {
+      "question": "Quelle borne choisir à Quimper ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Quimper ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

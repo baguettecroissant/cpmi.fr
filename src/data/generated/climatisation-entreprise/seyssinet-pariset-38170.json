@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Seyssinet-Pariset, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 38",
+    "content": "Seyssinet-Pariset bénéficie d'aides régionales pour l'efficacité énergétique. CPMI vous accompagne dans vos projets de climatisation adaptés au climat isérois."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Seyssinet-Pariset.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de l'Isère.",
+  "faq": [
+    {
+      "question": "Climatisation idéale ?",
+      "answer": "Adaptée à votre activité et à la surface de vos locaux."
+    },
+    {
+      "question": "Délai à Seyssinet Pariset ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Petit Bourg, Guadeloupe.",
+  "localContext": {
+    "title": "Ascenseurs en Guadeloupe",
+    "content": "Adaptation aux conditions climatiques tropicales et conformité aux normes spécifiques de la région. CPMI vous guide dans vos projets locaux."
+  },
+  "expertAdvice": "Sécurité et conformité : notre priorité absolue à Petit Bourg.",
+  "advantages": [
+    "Installation rapide et efficace à Petit Bourg.",
+    "Solutions sur mesure pour tous vos besoins.",
+    "Maintenance et dépannage 7j/7 en Guadeloupe."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 971.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Petit Bourg ?",
+      "answer": "Solutions d'accessibilité conformes aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Petit Bourg ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes guadeloupéennes."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Granville, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Normandie Verte",
+    "content": "La Normandie encourage l'électromobilité avec des aides pour l'installation. Granville bénéficie d'un climat favorable à l'adoption des véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Granville.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de bornes à Granville.",
+  "faq": [
+    {
+      "question": "Quelles aides à Granville ?",
+      "answer": "Contactez CPMI pour connaître les aides locales disponibles."
+    },
+    {
+      "question": "Délai à Granville ?",
+      "answer": "Installation rapide, généralement sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

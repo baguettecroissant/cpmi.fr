@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Drancy, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Drancy & Accessibilité",
+    "content": "Drancy bénéficie d'aides pour l'accessibilité des bâtiments. CPMI vous guide dans ces démarches pour une installation conforme et optimisée."
+  },
+  "expertAdvice": "Une installation adaptée valorise votre bien à Drancy.",
+  "advantages": [
+    "Expertise locale à Drancy et connaissance des normes.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Maintenance réactive pour une disponibilité maximale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Drancy (93).",
+  "faq": [
+    {
+      "question": "Normes à Drancy ?",
+      "answer": "Respect des normes ERP et PMR en vigueur localement."
+    },
+    {
+      "question": "Délai à Drancy ?",
+      "answer": "Délais rapides, adaptés à vos contraintes."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV disponible et réactif à Drancy et environs."
+    }
+  ]
+}

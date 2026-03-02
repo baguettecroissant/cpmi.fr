@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Morlaix, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Morlaix",
+    "content": "Morlaix, ville dynamique, encourage l'accessibilité des bâtiments. CPMI vous accompagne dans les démarches et s'adapte aux spécificités climatiques bretonnes pour une installation durable."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Morlaix.",
+    "Solutions sur-mesure adaptées à vos besoins précis.",
+    "Maintenance et SAV réactifs dans tout le Finistère."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 29.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Morlaix ?",
+      "answer": "CPMI assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Morlaix ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et respect des normes en vigueur."
+    }
+  ]
+}

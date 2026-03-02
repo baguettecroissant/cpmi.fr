@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Dammarie-Les-Lys (77190), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec un diagnostic CPMI.fr.",
+  "advantages": [
+    "Installation rapide par nos équipes locales en Seine-et-Marne.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure pour les besoins spécifiques de votre activité."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre climatisation professionnelle dans le 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Dammarie Les Lys ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes en vigueur."
+    }
+  ]
+}

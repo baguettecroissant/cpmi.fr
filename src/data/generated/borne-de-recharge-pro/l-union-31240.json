@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à L'Union, un investissement durable pour votre entreprise et copropriété.",
+  "localContext": {
+    "title": "Transition Énergétique à L'Union",
+    "content": "La région Occitanie soutient activement la mobilité électrique. Profitez des aides locales pour l'installation de bornes de recharge et améliorez votre image verte."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à L'Union.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de l'empreinte carbone et valorisation de votre bien."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans le 31.",
+  "faq": [
+    {
+      "question": "Bornes à L'Union : quelles aides ?",
+      "answer": "Renseignez-vous sur les aides régionales et nationales disponibles pour les entreprises."
+    },
+    {
+      "question": "Délai à L Union ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance locale rapide et respect des normes de sécurité électrique en vigueur."
+    }
+  ]
+}

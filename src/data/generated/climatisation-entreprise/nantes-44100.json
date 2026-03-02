@@ -1,0 +1,28 @@
+{
+  "introText": "Nantes, pôle économique majeur des Pays de la Loire, requiert des solutions de climatisation tertiaire et industrielle performantes pour maintenir la productivité des entreprises. Face à des étés de plus en plus chauds et une densité urbaine importante, CPMI.fr met en relation les professionnels nantais avec des installateurs experts.",
+  "localContext": {
+    "title": "Réglementations Thermiques et Aides Locales à Nantes et en Loire-Atlantique",
+    "content": "L'installation de systèmes de climatisation à Nantes est soumise au Plan Local d'Urbanisme (PLU), avec des contraintes spécifiques selon les zones (notamment les zones ABF près du centre historique). La métropole Nantes Saint-Nazaire Port propose des aides pour l'amélioration énergétique des bâtiments tertiaires, axées sur les technologies à faible impact environnemental. De plus, le Conseil Régional des Pays de la Loire propose des dispositifs d'accompagnement financier pour les entreprises investissant dans des solutions de refroidissement éco-responsables, comme la géothermie ou les systèmes de climatisation à haute efficacité énergétique."
+  },
+  "expertAdvice": "Nous conseillons vivement de faire appel à un installateur local à Nantes. La connaissance des spécificités architecturales (bâtiments historiques, constructions récentes) et des contraintes réglementaires locales (PLU, ZFE) est essentielle pour garantir une installation conforme, performante et durable. Un installateur implanté à Nantes saura également vous conseiller sur les aides financières disponibles.",
+  "advantages": [
+    "Parfaite maîtrise des contraintes architecturales du centre-ville de Nantes",
+    "Intervention rapide et efficace sur l'ensemble de la Loire-Atlantique",
+    "Expertise des solutions de climatisation adaptées aux bâtiments industriels Nantais"
+  ],
+  "pricingContext": "Les prix pour l'installation de climatisation tertiaire et industrielle en Loire-Atlantique varient selon la complexité du projet, la surface à climatiser et le type de matériel. Comptez en moyenne entre 800 et 1500€ par kW installé pour une installation complète.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Pays de la Loire pour l'installation de climatisation performante ?",
+      "answer": "La Région Pays de la Loire propose des subventions pour les entreprises investissant dans des systèmes de climatisation à haute performance énergétique, notamment ceux utilisant des énergies renouvelables. Renseignez-vous auprès de la Chambre de Commerce et d'Industrie (CCI) de Nantes Saint-Nazaire."
+    },
+    {
+      "question": "Quels sont les délais d'installation moyens pour un système de climatisation tertiaire à Nantes ?",
+      "answer": "Les délais varient en fonction de la complexité de l'installation et des autorisations administratives nécessaires (permis de construire, déclarations de travaux). En général, prévoyez entre 4 et 8 semaines, de la signature du devis à la mise en service du système."
+    },
+    {
+      "question": "Quelles sont les normes spécifiques à respecter pour la maintenance d'un système de climatisation à Nantes ?",
+      "answer": "La maintenance des systèmes de climatisation doit être réalisée conformément à la réglementation en vigueur (contrôle d'étanchéité des fluides frigorigènes, entretien des filtres, etc.). Un contrat de maintenance avec un professionnel certifié est fortement recommandé pour garantir la pérennité de votre installation."
+    }
+  ]
+}

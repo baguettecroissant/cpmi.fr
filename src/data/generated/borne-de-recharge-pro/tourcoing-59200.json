@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Tourcoing pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient l'installation de bornes. Profitez des subventions pour réduire vos coûts et verdir votre flotte à Tourcoing."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts locaux.",
+  "advantages": [
+    "Solution sur mesure pour le climat Tourquennois.",
+    "Accès aux aides locales pour entreprises.",
+    "Valorisation immobilière durable à Tourcoing."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le 59, adaptés à vos besoins.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Tourcoing ?",
+      "answer": "Adaptation selon vos véhicules et besoins."
+    },
+    {
+      "question": "Délai à Tourcoing ?",
+      "answer": "Installation rapide : quelques semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "Respect strict des normes en vigueur."
+    }
+  ]
+}

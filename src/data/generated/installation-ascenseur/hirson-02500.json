@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Hirson, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Hirson & Accessibilité",
+    "content": "Les Hauts-de-France soutiennent l'accessibilité des entreprises. CPMI.fr vous accompagne pour adapter vos locaux aux normes régionales."
+  },
+  "expertAdvice": "CPMI.fr : Solutions sur mesure pour une intégration parfaite à Hirson.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hirson.",
+    "Maintenance proactive pour une longévité accrue.",
+    "Solutions adaptées aux contraintes spécifiques locales."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 02.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Hirson ?",
+      "answer": "Oui, CPMI.fr propose des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à Hirson ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

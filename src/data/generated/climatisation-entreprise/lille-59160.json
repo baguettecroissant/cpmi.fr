@@ -1,0 +1,28 @@
+{
+  "introText": "À Lille, maintenir une température optimale dans vos locaux tertiaires et industriels est essentiel, vu le climat contrasté et le dynamisme économique de la métropole. CPMI.fr vous connecte avec des installateurs locaux qualifiés, connaissant les spécificités des bâtiments lillois, des usines aux bureaux modernes.",
+  "localContext": {
+    "title": "Climatisation à Lille : Réglementations et Spécificités Locales",
+    "content": "Lille, avec son climat aux étés parfois chauds et aux hivers froids, impose des solutions de climatisation performantes. La ville est soumise aux réglementations thermiques en vigueur, et les bâtiments situés dans le périmètre des monuments historiques doivent se conformer aux exigences de l'Architecte des Bâtiments de France. Des aides régionales pour la transition énergétique peuvent être disponibles pour les entreprises et copropriétés, facilitant l'installation de systèmes performants et respectueux de l'environnement."
+  },
+  "expertAdvice": "Nous savons que chaque entreprise à Lille a des besoins uniques. C'est pourquoi nous privilégions des installateurs locaux. Ils comprennent les contraintes architecturales lilloises, les réglementations en vigueur et peuvent vous conseiller sur les solutions les plus adaptées à votre activité et à votre budget.",
+  "advantages": [
+    "Respect des contraintes architecturales typiques de Lille",
+    "Intervention rapide et efficace dans tout le département du Nord",
+    "Solutions adaptées aux bâtiments anciens ou aux constructions récentes"
+  ],
+  "pricingContext": "Le coût d'une installation de climatisation tertiaire ou industrielle dans le Nord (59) varie considérablement en fonction de la taille des locaux et de la complexité du système. Comptez en moyenne entre 5 000€ et 30 000€ pour une installation complète.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides financières spécifiques en Hauts-de-France pour l'installation de climatisation performante ?",
+      "answer": "Oui, la région Hauts-de-France propose parfois des dispositifs d'aide à la transition énergétique pour les entreprises et les copropriétés. Il est conseillé de se renseigner auprès de la Chambre de Commerce et d'Industrie ou de la Région."
+    },
+    {
+      "question": "Quels sont les délais typiques pour l'installation d'un système de climatisation dans un bâtiment industriel à Lille ?",
+      "answer": "Les délais varient en fonction de la complexité du projet, mais comptez généralement entre quelques jours et plusieurs semaines, incluant l'étude préalable, la commande du matériel et l'installation par un professionnel qualifié."
+    },
+    {
+      "question": "Quelles sont les obligations de maintenance pour un système de climatisation tertiaire à Lille ?",
+      "answer": "La maintenance régulière est obligatoire pour assurer le bon fonctionnement et la longévité de votre installation. Elle inclut le contrôle d'étanchéité, le nettoyage des filtres et la vérification des performances énergétiques, conformément aux normes en vigueur."
+    }
+  ]
+}

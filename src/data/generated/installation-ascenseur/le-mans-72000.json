@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges au Mans, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Solutions Sarthoises",
+    "content": "Le Mans et la Sarthe encouragent l'accessibilité. CPMI facilite vos projets d'installation avec des solutions adaptées au contexte local et aux bâtiments existants."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et durable, adaptée à vos besoins.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités du Mans.",
+    "Solutions sur-mesure : Adaptées à chaque bâtiment.",
+    "Respect des normes : Sécurité et conformité garanties."
+  ],
+  "pricingContext": "Devis personnalisés pour professionnels au Mans : étudions ensemble votre projet.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Le Mans ?",
+      "answer": "CPMI installe des ascenseurs conformes aux normes PMR, facilitant l'accès à tous."
+    },
+    {
+      "question": "Délai à Le Mans ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur en Sarthe."
+    }
+  ]
+}

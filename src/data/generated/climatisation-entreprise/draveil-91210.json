@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Draveil, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Draveil",
+    "content": "Profitez des aides régionales pour l'efficacité énergétique. Le climat d'Île-de-France exige des solutions de climatisation performantes."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation et maintenance expertes.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Draveil.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Réduction des coûts énergétiques et respect de l'environnement."
+  ],
+  "pricingContext": "Nos tarifs sont adaptés aux budgets des professionnels du 91.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Nous dimensionnons selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Draveil ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

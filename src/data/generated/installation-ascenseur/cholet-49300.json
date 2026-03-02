@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Cholet et sa région.",
+  "localContext": {
+    "title": "Ascenseurs à Cholet",
+    "content": "Bénéficiez d'aides à l'amélioration de l'habitat dans le Maine-et-Loire. CPMI s'adapte aux spécificités architecturales de la région choletaise."
+  },
+  "expertAdvice": "Optimisation et conformité : notre priorité pour votre installation.",
+  "advantages": [
+    "Expertise locale : Connaissance du tissu industriel choletais.",
+    "Solutions sur-mesure : Adaptées à vos besoins spécifiques.",
+    "Maintenance réactive : Assurant la pérennité de vos équipements."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 49.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Cholet ?",
+      "answer": "CPMI : solutions d'accessibilité conformes aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Cholet ?",
+      "answer": "Installation rapide, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Auriol, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable à Auriol",
+    "content": "Profitez des aides régionales pour la transition énergétique. Le climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.fr.",
+  "advantages": [
+    "Installation rapide par des experts locaux certifiés",
+    "Solutions sur mesure pour les entreprises du 13",
+    "Maintenance préventive pour une performance durable"
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon local à Auriol ?",
+      "answer": "CPMI.fr vous conseille la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Auriol ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le 13."
+    }
+  ]
+}

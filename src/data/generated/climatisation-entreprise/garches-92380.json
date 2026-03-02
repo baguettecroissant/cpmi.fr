@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Garches (92380), pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Garches",
+    "content": "Garches, soumise aux variations climatiques, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales en efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Garches.",
+    "Installation et maintenance rapides et efficaces.",
+    "Conformité aux normes environnementales en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Garches.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Garches ?",
+      "answer": "Intervention rapide : contactez-nous !"
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

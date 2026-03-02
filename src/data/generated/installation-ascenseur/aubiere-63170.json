@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Aubière, facilitant l'accessibilité locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Bénéficiez d'aides financières pour l'installation d'ascenseurs dans le Puy-de-Dôme. CPMI vous accompagne dans vos démarches pour améliorer l'accessibilité de vos bâtiments."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à Aubière",
+    "Respect des normes d'accessibilité et de sécurité",
+    "Installation rapide et efficace par des experts locaux"
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour professionnels du 63.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Aubière ?",
+      "answer": "CPMI adapte l'installation aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Aubiere ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides assurés par CPMI."
+    }
+  ]
+}

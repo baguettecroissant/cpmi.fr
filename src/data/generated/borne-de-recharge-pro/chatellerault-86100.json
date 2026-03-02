@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Chatellerault, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique à Chatellerault",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. CPMI.fr vous aide à bénéficier des aides locales pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chatellerault.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Gestion intelligente de la consommation énergétique de vos bornes."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour l'installation de bornes dans le 86.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Chatellerault ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Chatellerault ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

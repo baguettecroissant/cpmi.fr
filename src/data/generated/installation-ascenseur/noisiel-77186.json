@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Noisiel, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Noisiel",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation et de mise aux normes à Noisiel."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure adaptées aux besoins spécifiques à Noisiel.",
+    "Installation rapide et efficace, minimisant l'impact sur votre activité.",
+    "Respect des normes de sécurité en vigueur dans le département 77."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Noisiel (77).",
+  "faq": [
+    {
+      "question": "Normes à Noisiel ?",
+      "answer": "CPMI.fr respecte toutes les normes en vigueur."
+    },
+    {
+      "question": "Délai à Noisiel ?",
+      "answer": "Délais rapides et personnalisés."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible à Noisiel."
+    }
+  ]
+}

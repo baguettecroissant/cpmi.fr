@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Ussel, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Ussel",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI vous accompagne pour adapter vos locaux aux normes et aux besoins locaux spécifiques."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et durable, adaptée à vos contraintes.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité locales.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance préventive assurant longévité et performance."
+  ],
+  "pricingContext": "CPMI offre des devis personnalisés et compétitifs pour les professionnels du 19.",
+  "faq": [
+    {
+      "question": "Ascenseur pour commerce à Ussel ?",
+      "answer": "CPMI propose des solutions adaptées aux commerces locaux et PMR."
+    },
+    {
+      "question": "Délai à Ussel ?",
+      "answer": "Délai variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur localement."
+    }
+  ]
+}

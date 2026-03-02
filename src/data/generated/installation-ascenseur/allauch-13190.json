@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Allauch, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Allauch",
+    "content": "Allauch bénéficie de subventions pour l'amélioration de l'accessibilité. CPMI.fr vous accompagne dans vos démarches pour des installations adaptées au climat méditerranéen."
+  },
+  "expertAdvice": "Installation sécurisée et conforme aux normes en vigueur, par CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à Allauch (13190).",
+    "Solutions sur mesure pour professionnels locaux.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises du 13.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Allauch ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes PMR locales."
+    }
+  ]
+}

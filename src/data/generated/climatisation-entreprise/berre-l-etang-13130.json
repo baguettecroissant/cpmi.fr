@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Berre L'Etang, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable (13)",
+    "content": "Profitez des aides régionales pour la transition énergétique de vos bâtiments. Le climat méditerranéen exige des solutions performantes et adaptées."
+  },
+  "expertAdvice": "Un audit énergétique optimise votre installation et réduit vos coûts.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du secteur.",
+    "Maintenance préventive pour une performance durable.",
+    "Respect des normes environnementales et de sécurité."
+  ],
+  "pricingContext": "Tarifs compétitifs adaptés aux professionnels des Bouches-du-Rhône.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation ?",
+      "answer": "Adapté aux surfaces et contraintes industrielles."
+    },
+    {
+      "question": "Délai à Berre L Etang ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes en vigueur."
+    }
+  ]
+}

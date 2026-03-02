@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Clamart, améliorant le confort et l'efficacité énergétique de vos locaux.",
+  "localContext": {
+    "title": "Climatisation à Clamart",
+    "content": "Clamart, avec ses étés chauds, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne dans l'optimisation énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises à Clamart.",
+    "Installation et maintenance rapides et efficaces.",
+    "Conformité aux normes environnementales en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Clamart (92).",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions pour bureaux, commerces, industries."
+    },
+    {
+      "question": "Délai à Clamart ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012."
+    }
+  ]
+}

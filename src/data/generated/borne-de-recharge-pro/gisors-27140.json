@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Gisors, participant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Normandie Verte Électrique",
+    "content": "La région Normandie soutient activement le déploiement des bornes avec des aides financières. Gisors s'engage pour un avenir plus propre et durable."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Gisors.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de l'empreinte carbone de votre flotte."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans l'Eure.",
+  "faq": [
+    {
+      "question": "Aides à Gisors ?",
+      "answer": "La région propose des subventions pour l'installation de bornes."
+    },
+    {
+      "question": "Délai à Gisors ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV rapide et efficace dans tout le 27."
+    }
+  ]
+}

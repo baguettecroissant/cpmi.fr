@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Villeneuve Loubet, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 06",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'accessibilité. CPMI vous accompagne pour des solutions adaptées au climat méditerranéen et aux normes locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans les Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et parfois existants."
+    },
+    {
+      "question": "Délai à Villeneuve Loubet ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Annecy, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Annecy et mobilité",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électrification des flottes. Profitez des aides locales pour l'installation de vos bornes à Annecy."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour une recharge efficace et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés annéciennes.",
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Maintenance et SAV réactif pour une utilisation sereine."
+  ],
+  "pricingContext": "Nos devis sont personnalisés pour les professionnels du 74, contactez-nous.",
+  "faq": [
+    {
+      "question": "Aides locales à Annecy ?",
+      "answer": "Plusieurs aides financières facilitent l'installation."
+    },
+    {
+      "question": "Délai à Annecy ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

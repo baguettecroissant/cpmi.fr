@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Pontet, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation au Pontet : Enjeux",
+    "content": "Avec le climat provençal, une climatisation performante est cruciale. Des aides locales peuvent faciliter votre investissement dans une solution éco-énergétique."
+  },
+  "expertAdvice": "Choisissez une solution adaptée à vos besoins spécifiques et aux normes en vigueur.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Optimisation de la performance énergétique de vos locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation au Pontet (84).",
+  "faq": [
+    {
+      "question": "Quelle puissance au Pontet ?",
+      "answer": "Dimensionnement précis selon vos locaux par CPMI.fr."
+    },
+    {
+      "question": "Délai à Le Pontet ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "Norme R410A ?",
+      "answer": "Nous respectons les réglementations environnementales en vigueur."
+    }
+  ]
+}

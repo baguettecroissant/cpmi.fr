@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Beauvais, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Beauvais",
+    "content": "Le climat changeant de l'Oise exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI.fr, votre partenaire local.",
+  "advantages": [
+    "Installation rapide et efficace à Beauvais",
+    "Maintenance préventive pour une durabilité accrue",
+    "Solutions sur-mesure pour vos besoins spécifiques"
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels de l'Oise.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Beauvais ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

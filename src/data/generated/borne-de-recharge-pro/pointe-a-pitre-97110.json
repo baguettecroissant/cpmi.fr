@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Pointe-à-Pitre, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Bornes 97110",
+    "content": "La Guadeloupe encourage l'électromobilité. Bénéficiez d'aides locales pour l'installation de bornes et profitez du climat favorable à l'énergie solaire."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge à Pointe-à-Pitre.",
+  "faq": [
+    {
+      "question": "Quelles aides locales ?",
+      "answer": "Contactez CPMI pour un accompagnement personnalisé et identifier les subventions disponibles."
+    },
+    {
+      "question": "Délai à Pointe A Pitre ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et installations conformes aux normes guadeloupéennes en vigueur."
+    }
+  ]
+}

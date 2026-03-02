@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Metz, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Aides et Réglementations à Metz",
+    "content": "Profitez d'aides régionales pour l'accessibilité. Le climat de Metz nécessite des installations robustes et adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments à Metz.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Metz.",
+    "Solutions sur mesure pour bâtiments existants à Metz.",
+    "Maintenance et SAV réactifs dans tout le département 57."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Metz.",
+  "faq": [
+    {
+      "question": "Normes à Metz ?",
+      "answer": "Conformité totale aux normes EN81-20/50 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Metz ?",
+      "answer": "Délais rapides, variables selon projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance préventive et curative assurée par nos équipes locales."
+    }
+  ]
+}

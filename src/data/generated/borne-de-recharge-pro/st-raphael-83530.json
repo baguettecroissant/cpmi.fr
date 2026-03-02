@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Saint-Raphaël, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Transition Énergétique 83",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient activement l'installation de bornes. Profitez d'aides pour accélérer votre projet de mobilité durable à Saint-Raphaël."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un dimensionnement précis de votre infrastructure de recharge.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Saint-Raphaël",
+    "Solutions sur mesure pour entreprises et copropriétés",
+    "Maintenance et SAV garantis dans le département du Var"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne de recharge à Saint-Raphaël.",
+  "faq": [
+    {
+      "question": "Aides locales disponibles ?",
+      "answer": "Contactez-nous pour connaître les aides financières à Saint-Raphaël."
+    },
+    {
+      "question": "Délai à St Raphael ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur dans le Var."
+    }
+  ]
+}

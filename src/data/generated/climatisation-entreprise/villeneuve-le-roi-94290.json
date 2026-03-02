@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villeneuve-Le-Roi (94) pour un confort optimal.",
+  "localContext": {
+    "title": "Climat et Réglementation",
+    "content": "Villeneuve-Le-Roi, soumise aux variations climatiques franciliennes, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne dans le respect des normes environnementales locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr : performance et économies garanties.",
+  "advantages": [
+    "Installation rapide et efficace à Villeneuve-Le-Roi.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour les entreprises du Val-de-Marne."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille sur la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Villeneuve Le Roi ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

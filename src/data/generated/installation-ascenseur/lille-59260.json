@@ -1,0 +1,28 @@
+{
+  "introText": "Lille, avec son architecture variée allant des bâtiments historiques aux constructions modernes, présente des défis uniques pour l'installation d'ascenseurs et monte-charges. CPMI.fr connecte les entreprises et copropriétés lilloises avec des installateurs locaux expérimentés, garantissant des solutions adaptées aux spécificités de la métropole.",
+  "localContext": {
+    "title": "Réglementations et Aides pour Ascenseurs à Lille et dans les Hauts-de-France",
+    "content": "L'installation d'ascenseurs à Lille est soumise au Plan Local d'Urbanisme (PLU) et aux éventuelles contraintes liées aux Bâtiments de France, notamment dans le Vieux-Lille. La région Hauts-de-France propose des aides financières pour l'accessibilité des bâtiments, particulièrement pour les ERP et les copropriétés. Il est crucial de vérifier les critères d'éligibilité et de prendre en compte les conditions climatiques locales, qui peuvent impacter le choix des matériaux et les délais d'installation."
+  },
+  "expertAdvice": "Nous savons que chaque bâtiment à Lille est unique. C'est pourquoi il est essentiel de faire appel à un installateur connaissant les spécificités architecturales locales, les réglementations en vigueur et les aides disponibles. Nous vous mettons en relation avec les meilleurs professionnels pour un projet réussi.",
+  "advantages": [
+    "Connaissance approfondie du tissu urbain lillois et ses particularités.",
+    "Intervention rapide et efficace sur toute la région Hauts-de-France.",
+    "Maîtrise des installations dans les bâtiments anciens et modernes."
+  ],
+  "pricingContext": "Les prix pour l'installation d'ascenseurs et monte-charges dans le Nord (59) varient considérablement en fonction de la complexité du chantier, du type d'appareil et des contraintes architecturales. Il faut prévoir un budget conséquent, en tenant compte des aides potentielles.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Hauts-de-France pour l'installation d'un ascenseur dans une copropriété ?",
+      "answer": "La région Hauts-de-France propose des subventions pour l'amélioration de l'accessibilité des bâtiments existants, notamment pour les copropriétés. Les montants et les conditions d'éligibilité varient, il est donc conseillé de se renseigner auprès des services régionaux ou de la métropole lilloise."
+    },
+    {
+      "question": "Quels sont les délais typiques pour l'installation d'un ascenseur dans un immeuble ancien à Lille ?",
+      "answer": "Les délais d'installation varient en fonction de la complexité du chantier et des autorisations administratives nécessaires. Dans un immeuble ancien à Lille, il faut généralement compter entre 3 et 6 mois, voire plus en cas de contraintes architecturales importantes ou de nécessité de travaux de maçonnerie."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité et les obligations de maintenance pour un ascenseur installé à Lille ?",
+      "answer": "Les ascenseurs doivent répondre aux normes de sécurité en vigueur (EN 81-20 et EN 81-21 pour les ascenseurs neufs). Une maintenance régulière est obligatoire, avec des visites périodiques et des contrôles techniques effectués par des professionnels agréés. Un contrat de maintenance adapté est essentiel."
+    }
+  ]
+}

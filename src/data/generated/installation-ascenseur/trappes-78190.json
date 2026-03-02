@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Trappes, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Trappes",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI vous aide à naviguer les aides pour ascenseurs et monte-charges à Trappes."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure, respect des normes et optimisation des coûts.",
+  "advantages": [
+    "Proximité et réactivité pour vos projets à Trappes.",
+    "Solutions adaptées aux contraintes des bâtiments existants.",
+    "Installation rapide et conforme aux normes de sécurité."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Trappes ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes en vigueur."
+    }
+  ]
+}

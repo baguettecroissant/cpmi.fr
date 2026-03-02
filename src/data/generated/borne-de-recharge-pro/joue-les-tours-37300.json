@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Joué-lès-Tours, optimisant votre transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Joué-lès-Tours",
+    "content": "La région Centre-Val de Loire encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes de recharge et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Un audit énergétique préalable assure une installation optimale et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés Tourangelles.",
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Maintenance et SAV assurés par nos experts à Joué-lès-Tours."
+  ],
+  "pricingContext": "Nos tarifs professionnels sont compétitifs dans le département d'Indre-et-Loire (37).",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons la borne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Joue Les Tours ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

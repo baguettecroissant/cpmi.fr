@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Malo, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Malouine",
+    "content": "St Malo facilite l'accessibilité ! Des aides locales peuvent alléger votre investissement. Le climat marin impose des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et professionnelle à St Malo.",
+    "Solutions sur mesure pour tous vos besoins.",
+    "Maintenance et SAV assurés par nos experts."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Malo ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

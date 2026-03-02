@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Chateauneuf Les Martigues, pour accessibilité et confort.",
+  "localContext": {
+    "title": "Accessibilité 13",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient l'accessibilité. CPMI vous accompagne dans vos projets d'installation et de mise aux normes à Chateauneuf Les Martigues."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur : quelles aides ?",
+      "answer": "Contactez CPMI pour les subventions locales."
+    },
+    {
+      "question": "Délai à Chateauneuf Les Martigues ?",
+      "answer": "Devis rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes."
+    }
+  ]
+}

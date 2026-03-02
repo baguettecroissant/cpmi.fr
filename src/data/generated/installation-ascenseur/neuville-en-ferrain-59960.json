@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Neuville En Ferrain.",
+  "localContext": {
+    "title": "Aides et spécificités régionales",
+    "content": "Hauts-de-France : CPMI vous guide dans les aides financières potentielles. Adaptation aux bâtiments industriels et commerciaux de la région."
+  },
+  "expertAdvice": "Un diagnostic précis pour une installation optimale et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Neuville En Ferrain.",
+    "Solutions sur-mesure pour les entreprises locales.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Neuville ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Neuville En Ferrain ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Sallanches, améliorant l'accessibilité et la fonctionnalité.",
+  "localContext": {
+    "title": "Aides et climat",
+    "content": "La région Auvergne-Rhône-Alpes propose des aides à l'accessibilité. Le climat montagnard de Sallanches exige des installations robustes et fiables."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme aux normes de sécurité.",
+  "advantages": [
+    "Expertise locale à Sallanches et connaissance des spécificités",
+    "Solutions sur-mesure pour bâtiments existants ou neufs",
+    "Maintenance réactive pour une durabilité optimale"
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels du 74.",
+  "faq": [
+    {
+      "question": "Normes à Sallanches ?",
+      "answer": "Conformité aux normes EN 81-20 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Sallanches ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV local CPMI ?",
+      "answer": "SAV rapide et efficace à Sallanches et environs."
+    }
+  ]
+}

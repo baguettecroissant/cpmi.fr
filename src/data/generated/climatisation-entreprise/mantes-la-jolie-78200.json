@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mantes-la-Jolie, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Mantes-la-Jolie, avec ses étés chauds, nécessite des solutions de climatisation performantes. Des aides régionales peuvent faciliter l'investissement pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation : performance et économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour les professionnels de Mantes-la-Jolie.",
+    "Installation rapide et efficace par nos équipes certifiées.",
+    "Maintenance préventive pour une durée de vie prolongée."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique gratuite pour dimensionner votre climatisation."
+    },
+    {
+      "question": "Délai à Mantes La Jolie ?",
+      "answer": "Intervention rapide, sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (RT2012)."
+    }
+  ]
+}

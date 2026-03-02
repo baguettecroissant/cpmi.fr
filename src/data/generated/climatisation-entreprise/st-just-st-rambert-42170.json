@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Climatisation tertiaire et industrielle performante à St Just St Rambert, assurant confort et maîtrise énergétique.",
+  "localContext": {
+    "title": "Climatisation 42",
+    "content": "La région Auvergne-Rhône-Alpes connaît des étés chauds. CPMI vous accompagne avec des solutions adaptées et peut vous informer sur les aides disponibles pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore le confort.",
+  "advantages": [
+    "Expertise locale : intervention rapide à St Just St Rambert.",
+    "Solutions sur mesure pour les besoins industriels.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Just St Rambert ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

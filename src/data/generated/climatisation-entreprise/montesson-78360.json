@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Montesson, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Montesson",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat en Île-de-France exige des solutions de climatisation adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Solutions adaptées aux spécificités des bâtiments à Montesson.",
+    "Maintenance et dépannage rapides en Île-de-France.",
+    "Conformité aux normes environnementales locales (78)."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon activité ?",
+      "answer": "Nous dimensionnons les systèmes selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Montesson ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

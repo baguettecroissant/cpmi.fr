@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Le Pont De Claix.",
+  "localContext": {
+    "title": "Bornes 38800",
+    "content": "La région Auvergne-Rhône-Alpes soutient la mobilité électrique. Profitez des aides locales pour l'installation de vos bornes à Le Pont De Claix."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour votre entreprise ou copropriété.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour le 38.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Le Pont De Claix ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

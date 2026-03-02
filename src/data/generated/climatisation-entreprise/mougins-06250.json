@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Mougins, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Optimale 06",
+    "content": "Profitez du climat méditerranéen avec une climatisation adaptée. CPMI vous guide sur les aides régionales pour une installation performante et économique."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit efficacité et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Mougins.",
+    "Techniciens certifiés pour interventions rapides.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour professionnels du 06.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour bureaux ?",
+      "answer": "Dimensionnement précis selon surface et occupation."
+    },
+    {
+      "question": "Délai à Mougins ?",
+      "answer": "Intervention sous 24/48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012/RE2020."
+    }
+  ]
+}

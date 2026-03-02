@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bayeux, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat à Bayeux",
+    "content": "Le climat normand exige des solutions de climatisation adaptées. CPMI.fr vous conseille sur les aides disponibles pour optimiser votre installation."
+  },
+  "expertAdvice": "CPMI.fr : Des solutions sur-mesure pour les professionnels de Bayeux.",
+  "advantages": [
+    "Installation rapide et efficace à Bayeux et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions éco-énergétiques réduisant vos coûts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les entreprises du Calvados.",
+  "faq": [
+    {
+      "question": "Climatisation idéale pour Bayeux ?",
+      "answer": "Solutions adaptées aux bâtiments et aux besoins spécifiques."
+    },
+    {
+      "question": "Délai à Bayeux ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

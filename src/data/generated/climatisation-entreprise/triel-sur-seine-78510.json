@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Triel-sur-Seine (78), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "En Île-de-France, les étés chauds rendent la climatisation essentielle. CPMI vous guide sur les aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Triel-sur-Seine.",
+    "Installation rapide et efficace par nos équipes certifiées.",
+    "Maintenance préventive pour une performance optimale garantie."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon activité ?",
+      "answer": "CPMI analyse vos besoins pour une solution personnalisée."
+    },
+    {
+      "question": "Délai à Triel Sur Seine ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

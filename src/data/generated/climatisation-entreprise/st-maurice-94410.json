@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Saint-Maurice (94410), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 94 : Enjeux Locaux",
+    "content": "Saint-Maurice subit des étés chauds. CPMI.fr vous aide à optimiser vos installations avec les dernières normes environnementales et aides disponibles en Île-de-France."
+  },
+  "expertAdvice": "Un système bien entretenu est synonyme d'économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Saint-Maurice.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI.fr analyse vos besoins et propose la solution adaptée."
+    },
+    {
+      "question": "Délai à St Maurice ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes en vigueur à St Maurice."
+    }
+  ]
+}

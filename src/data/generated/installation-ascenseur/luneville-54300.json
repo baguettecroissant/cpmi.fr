@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Lunéville, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Grand Est",
+    "content": "Profitez des aides à l'accessibilité dans le Grand Est pour vos projets. CPMI.fr s'adapte aux spécificités climatiques et architecturales locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Lunéville.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Luneville ?",
+      "answer": "CPMI.fr assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Luneville ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Lunéville."
+    }
+  ]
+}

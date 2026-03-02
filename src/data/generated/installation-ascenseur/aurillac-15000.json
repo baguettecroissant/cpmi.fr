@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Aurillac, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Cantal",
+    "content": "Profitez des aides à l'amélioration de l'habitat du Cantal. CPMI s'adapte aux contraintes climatiques et architecturales locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Aurillac.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour professionnels du 15.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Aurillac ?",
+      "answer": "CPMI assure une conformité totale PMR."
+    },
+    {
+      "question": "Délai à Aurillac ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

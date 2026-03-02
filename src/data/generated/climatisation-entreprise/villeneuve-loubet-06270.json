@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villeneuve Loubet, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 06",
+    "content": "Villeneuve Loubet bénéficie d'un climat méditerranéen chaud. CPMI vous aide à optimiser vos installations avec les aides régionales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du 06.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels des Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour bureaux ?",
+      "answer": "Solutions VRV/DRV adaptées aux besoins spécifiques de chaque entreprise."
+    },
+    {
+      "question": "Délai à Villeneuve Loubet ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à St Orens, un atout pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique Locale",
+    "content": "La région Occitanie soutient activement la mobilité électrique. Profitez des aides disponibles pour l'installation de bornes à St Orens."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Orens",
+    "Solutions personnalisées pour entreprises et copropriétés",
+    "Maintenance et SAV assurés par nos équipes locales"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de la région toulousaine.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Orens De Gameville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Longwy, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Longwy",
+    "content": "Le climat contrasté de Longwy exige des solutions de climatisation fiables. CPMI.fr vous guide vers les aides disponibles pour les entreprises locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par des professionnels qualifiés à Longwy.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels.",
+    "Maintenance préventive pour une performance durable garantie."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Longwy ?",
+      "answer": "Solutions robustes pour les variations climatiques locales."
+    },
+    {
+      "question": "Délai à Longwy ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

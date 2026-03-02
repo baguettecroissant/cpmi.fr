@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bois-Colombes, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Durable 92",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Adaptez vos locaux aux étés chauds et aux hivers doux d'Île-de-France."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bois-Colombes.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Étude thermique précise pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Bois Colombes ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

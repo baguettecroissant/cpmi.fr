@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Fécamp, optimisant confort et performance énergétique de vos bâtiments.",
+  "localContext": {
+    "title": "Climatisation & Normandie",
+    "content": "Les étés chauds en Normandie rendent la climatisation indispensable. CPMI vous guide sur les aides régionales pour une installation performante et économique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques à long terme.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Fécamp",
+    "Techniciens certifiés pour une installation durable",
+    "Maintenance rapide et efficace dans le 76"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Fécamp.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Nous analysons vos besoins spécifiques pour une solution optimale."
+    },
+    {
+      "question": "Délai à Fecamp ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

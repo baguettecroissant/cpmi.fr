@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Neuilly-sur-Marne, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Bornes à Neuilly",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Profitez d'aides pour installer des bornes dans votre entreprise ou copropriété à Neuilly-sur-Marne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés du 93.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisation de votre patrimoine immobilier et engagement durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Neuilly ?",
+      "answer": "Adaptation selon vos besoins et la capacité électrique disponible."
+    },
+    {
+      "question": "Délai à Neuilly Sur Marne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

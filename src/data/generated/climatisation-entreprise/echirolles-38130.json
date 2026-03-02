@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Échirolles, pour un confort optimal et des performances énergétiques accrues.",
+  "localContext": {
+    "title": "Climatisation Durable à Échirolles",
+    "content": "La région Auvergne-Rhône-Alpes soutient les entreprises dans la transition énergétique. Profitez d'un climat intérieur idéal, adapté aux étés chauds et aux hivers froids."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Échirolles",
+    "Installation et maintenance par des experts certifiés",
+    "Respect des normes environnementales et de sécurité"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 38.",
+  "faq": [
+    {
+      "question": "Pourquoi choisir CPMI à Échirolles ?",
+      "answer": "Proximité, expertise locale et solutions adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à Echirolles ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

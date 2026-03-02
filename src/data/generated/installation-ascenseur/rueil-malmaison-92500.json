@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Rueil-Malmaison, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Ascenseurs à Rueil",
+    "content": "Rueil-Malmaison facilite l'accessibilité. CPMI.fr vous guide dans les aides financières régionales pour l'installation de vos équipements."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable à Rueil.",
+  "advantages": [
+    "Installation rapide et efficace à Rueil-Malmaison.",
+    "Solutions sur mesure pour tous vos besoins.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 92.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Rueil ?",
+      "answer": "CPMI.fr adapte ses installations aux normes PMR."
+    },
+    {
+      "question": "Délai à Rueil Malmaison ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV performant et respect strict des normes en vigueur."
+    }
+  ]
+}

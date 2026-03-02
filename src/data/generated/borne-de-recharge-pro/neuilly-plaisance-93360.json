@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Neuilly-Plaisance pour les entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Recharge 93",
+    "content": "Le département de Seine-Saint-Denis encourage l'électromobilité. Profitez des subventions pour l'installation de bornes et améliorez votre bilan carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec nos solutions de recharge intelligentes et durables.",
+  "advantages": [
+    "Solution clé en main pour entreprise et copropriété à Neuilly.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Tarifs compétitifs et personnalisés pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Neuilly Plaisance ?",
+      "answer": "Installation sous 4 à 6 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

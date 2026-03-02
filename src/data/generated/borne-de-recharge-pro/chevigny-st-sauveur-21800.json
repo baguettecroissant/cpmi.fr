@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Chevigny-Saint-Sauveur, pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Transition Énergétique 21",
+    "content": "La Bourgogne-Franche-Comté soutient activement l'électromobilité. Des aides locales peuvent réduire significativement le coût de votre installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge durables.",
+  "advantages": [
+    "Valorisation immobilière accrue à Chevigny-Saint-Sauveur",
+    "Attractivité employeur : véhicule électrique facilité",
+    "Solution de recharge adaptée à vos besoins spécifiques"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 21.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Chevigny St Sauveur ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes."
+    }
+  ]
+}

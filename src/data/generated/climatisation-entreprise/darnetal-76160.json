@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Darnetal, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Darnetal",
+    "content": "Les étés chauds à Darnetal rendent la climatisation cruciale. CPMI.fr vous guide sur les aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore l'efficacité.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Darnetal.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Clim adaptée à mon activité ?",
+      "answer": "CPMI.fr propose des solutions sur-mesure pour chaque secteur d'activité."
+    },
+    {
+      "question": "Délai à Darnetal ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

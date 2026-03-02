@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chatou, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Les entreprises de Chatou bénéficient d'aides régionales pour l'installation de systèmes de climatisation performants. Le climat en Île-de-France nécessite des solutions adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Chatou.",
+  "advantages": [
+    "Installation rapide et efficace à Chatou et ses environs.",
+    "Maintenance préventive pour une durabilité maximale.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Chatou ?",
+      "answer": "CPMI.fr vous conseille la solution la plus adaptée à votre espace."
+    },
+    {
+      "question": "Délai à Chatou ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

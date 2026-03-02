@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Thiais (94320) pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Thiais",
+    "content": "Les entreprises de Thiais bénéficient d'aides régionales pour l'installation de systèmes de climatisation performants. Un climat tempéré nécessite des solutions adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du 94.",
+    "Installation rapide et efficace par des experts certifiés.",
+    "Maintenance préventive pour assurer la longévité de vos équipements."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Thiais ?",
+      "answer": "Solutions performantes pour locaux industriels et bureaux."
+    },
+    {
+      "question": "Délai à Thiais ?",
+      "answer": "Intervention rapide : 24-48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes environnementales locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Gentilly pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Gentilly",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Profitez des aides locales pour l'installation de vos bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec un partenaire local.",
+  "advantages": [
+    "Solution sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Valorisation de votre image d'entreprise éco-responsable.",
+    "Accès à un réseau de partenaires qualifiés à Gentilly."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Dimensionnement selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Gentilly ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et conformité aux normes en vigueur."
+    }
+  ]
+}

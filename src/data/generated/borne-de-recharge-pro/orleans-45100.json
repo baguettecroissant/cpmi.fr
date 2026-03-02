@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Orléans pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique à Orléans",
+    "content": "La région Centre-Val de Loire encourage l'électromobilité. Profitez des aides locales pour l'installation de vos bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins.",
+  "advantages": [
+    "Installation rapide par des experts certifiés IRVE à Orléans.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés localement dans le Loiret."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Orléans.",
+  "faq": [
+    {
+      "question": "Quelles aides à Orléans ?",
+      "answer": "Subventions régionales et nationales disponibles."
+    },
+    {
+      "question": "Délai à Orleans ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

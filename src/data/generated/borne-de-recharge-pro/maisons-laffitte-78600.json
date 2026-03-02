@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge à Maisons-Laffitte, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique 78",
+    "content": "Yvelines encourage l'électromobilité. Profitez des aides régionales et accélérez votre transition énergétique avec CPMI."
+  },
+  "expertAdvice": "Optimisez votre installation avec un diagnostic personnalisé CPMI.",
+  "advantages": [
+    "Solution sur-mesure pour votre entreprise à Maisons-Laffitte.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Maintenance et SAV garantis pour une recharge sereine."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Maisons Laffitte ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "Norme et SAV ?",
+      "answer": "Installation conforme aux normes, SAV local réactif."
+    }
+  ]
+}

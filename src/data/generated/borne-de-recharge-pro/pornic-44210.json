@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Pornic, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Pornic : Enjeux",
+    "content": "La région Pays de la Loire encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides disponibles pour votre projet d'installation."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et professionnelle à Pornic et alentours.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Pornic.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Pornic ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

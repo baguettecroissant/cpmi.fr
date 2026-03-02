@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Oullins, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Performante à Oullins",
+    "content": "Oullins subit des étés chauds. CPMI vous aide à choisir la climatisation adaptée à vos bâtiments et aux normes environnementales de la région Auvergne-Rhône-Alpes."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises d'Oullins.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 69.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Oullins ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

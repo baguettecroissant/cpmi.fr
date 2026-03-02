@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Villeneuve St Georges.",
+  "localContext": {
+    "title": "Accessibilité Val-de-Marne",
+    "content": "Des aides régionales facilitent l'installation. Le climat économique local favorise l'investissement dans l'amélioration de l'accessibilité."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Amélioration de l'accessibilité et du confort."
+  ],
+  "pricingContext": "Tarifs compétitifs et adaptés aux besoins des professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, monte-charges industriels et PMR."
+    },
+    {
+      "question": "Délai à Villeneuve St Georges ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP et accessibilité."
+    }
+  ]
+}

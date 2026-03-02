@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Royan (17200) pour entreprises et copropriétés. Facilitez la transition énergétique !",
+  "localContext": {
+    "title": "Aides Locales Bornes",
+    "content": "La région Nouvelle-Aquitaine soutient l'installation de bornes. Royan bénéficie d'un ensoleillement favorable à l'énergie solaire, complémentaire aux bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Royan",
+    "Solution sur mesure pour votre entreprise ou copropriété",
+    "Maintenance et SAV assurés par CPMI dans le 17"
+  ],
+  "pricingContext": "Devis personnalisé pour bornes professionnelles à Royan et en Charente-Maritime.",
+  "faq": [
+    {
+      "question": "Bornes et copropriétés à Royan ?",
+      "answer": "CPMI vous accompagne dans votre projet de A à Z."
+    },
+    {
+      "question": "Délai à Royan ?",
+      "answer": "Installation sous 4 à 6 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes IRVE."
+    }
+  ]
+}

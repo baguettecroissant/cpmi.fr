@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Thonon-les-Bains, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 74",
+    "content": "À Thonon-les-Bains, les étés peuvent être chauds. CPMI vous accompagne avec des solutions adaptées et performantes pour vos locaux professionnels."
+  },
+  "expertAdvice": "Optimisation énergétique : un investissement rentable pour votre entreprise.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques du tertiaire.",
+    "Installation rapide et efficace par des professionnels qualifiés.",
+    "Maintenance préventive pour une durabilité accrue de vos équipements."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet en Haute-Savoie.",
+  "faq": [
+    {
+      "question": "Pourquoi choisir CPMI à Thonon ?",
+      "answer": "Expertise locale et solutions adaptées aux entreprises."
+    },
+    {
+      "question": "Délai à Thonon Les Bains ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

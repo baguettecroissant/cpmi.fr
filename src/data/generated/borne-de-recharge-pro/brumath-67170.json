@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Brumath, facilitant la transition énergétique de votre entreprise.",
+  "localContext": {
+    "title": "Transition Énergétique à Brumath",
+    "content": "La région Grand Est soutient activement l'installation de bornes avec des aides financières. Brumath s'engage pour un avenir plus vert, profitez-en !"
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec nos solutions sur mesure pour Brumath.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Brumath.",
+    "Solutions adaptées aux besoins spécifiques des entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du Bas-Rhin (67).",
+  "faq": [
+    {
+      "question": "Bornes éligibles à Brumath ?",
+      "answer": "Nous vous conseillons sur les modèles subventionnés."
+    },
+    {
+      "question": "Délai à Brumath ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Vaux Le Penil, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation en Seine-et-Marne",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat francilien exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez vos installations pour une efficacité énergétique maximale durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Vaux Le Penil.",
+    "Réduction des coûts énergétiques et amélioration du confort.",
+    "Respect des normes environnementales et réglementations locales."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon local ?",
+      "answer": "Analyse et solutions adaptées à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Vaux Le Penil ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (RT2012, etc.)."
+    }
+  ]
+}

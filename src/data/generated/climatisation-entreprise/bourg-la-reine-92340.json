@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bourg-la-Reine (92340), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Optimale à Bourg-la-Reine",
+    "content": "Profitez des aides régionales pour l'efficacité énergétique. Le climat francilien exige des solutions de climatisation performantes pour les entreprises."
+  },
+  "expertAdvice": "Un système adapté réduit les coûts et améliore la productivité.",
+  "advantages": [
+    "Installation rapide et professionnelle à Bourg-la-Reine.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon bureau ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Bourg La Reine ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

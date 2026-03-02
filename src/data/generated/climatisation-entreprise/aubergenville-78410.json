@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Aubergenville, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "Aubergenville subit des étés de plus en plus chauds. CPMI vous aide à bénéficier des aides régionales pour une climatisation performante."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et économique.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Aubergenville.",
+    "Maintenance et dépannage rapides en Île-de-France.",
+    "Conformité aux normes environnementales et énergétiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Aubergenville ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

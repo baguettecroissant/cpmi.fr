@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Beaumont, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 63",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des PMR. CPMI vous accompagne dans vos démarches pour bénéficier d'aides financières."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par CPMI Beaumont."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du Puy-de-Dôme.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Beaumont ?",
+      "answer": "CPMI propose des solutions sur mesure, conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Beaumont ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bergerac, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 24 : Spécificités",
+    "content": "Le climat de Bergerac exige des solutions performantes. CPMI.fr vous guide vers les aides disponibles en Nouvelle-Aquitaine pour les professionnels."
+  },
+  "expertAdvice": "Adaptez votre climatisation aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Installation rapide et efficace à Bergerac et environs.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 24.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions pour bureaux, entrepôts, commerces à Bergerac."
+    },
+    {
+      "question": "Délai à Bergerac ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

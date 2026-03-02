@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Rivière Salée, Martinique.",
+  "localContext": {
+    "title": "Ascenseurs à Rivière Salée",
+    "content": "Profitez des aides régionales pour l'accessibilité. Le climat tropical exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Rivière Salée.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Respect des normes : Conformité avec les réglementations en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Rivière Salée (972).",
+  "faq": [
+    {
+      "question": "Ascenseur adapté PMR ?",
+      "answer": "Oui, nous proposons des solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Riviere Salee ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes antillaises strictes."
+    }
+  ]
+}

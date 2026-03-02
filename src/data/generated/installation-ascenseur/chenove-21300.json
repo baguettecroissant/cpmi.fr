@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Chenôve, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 21300",
+    "content": "Chenôve bénéficie d'aides pour l'accessibilité des commerces. CPMI vous accompagne dans vos démarches et s'adapte au climat bourguignon."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et efficace à Chenôve et ses environs.",
+    "Solutions sur mesure pour tous les bâtiments professionnels.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 21.",
+  "faq": [
+    {
+      "question": "Normes à Chenôve ?",
+      "answer": "Conformité totale avec les normes EN81-20 et EN81-70."
+    },
+    {
+      "question": "Délai à Chenove ?",
+      "answer": "Délais rapides, adaptés à votre projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes locales en vigueur."
+    }
+  ]
+}

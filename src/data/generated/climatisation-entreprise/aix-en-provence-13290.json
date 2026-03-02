@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Aix-en-Provence, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Performante 13",
+    "content": "Aix requiert des solutions robustes face aux étés chauds. CPMI vous guide sur les aides régionales pour une installation efficace et durable."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un bilan énergétique précis.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Aix.",
+    "Techniciens certifiés et réactifs dans le 13.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à Aix-en-Provence.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Aix En Provence ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

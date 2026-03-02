@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle au Pré Saint-Gervais, assurant confort et performance.",
+  "localContext": {
+    "title": "Climatisation 93 : Défis & Solutions",
+    "content": "Le Pré Saint-Gervais subit des étés chauds. CPMI vous aide à optimiser vos installations avec des solutions performantes et éco-responsables."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance expertes par des professionnels qualifiés.",
+    "Réduction de vos coûts énergétiques grâce à des systèmes performants."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée au Pré ?",
+      "answer": "Nous évaluons vos besoins pour une solution optimisée."
+    },
+    {
+      "question": "Délai à Le Pre St Gervais ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes et maintenance ?",
+      "answer": "Respect des normes et maintenance préventive assurée."
+    }
+  ]
+}

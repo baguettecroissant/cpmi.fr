@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Saint-Maur-des-Fossés, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 94 : Enjeux Locaux",
+    "content": "Le climat francilien exige des solutions performantes. CPMI vous accompagne dans la mise en conformité et l'optimisation énergétique de vos installations."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation adaptée aux spécificités de votre activité.",
+  "advantages": [
+    "Réduction des coûts énergétiques à Saint-Maur.",
+    "Amélioration du confort des employés.",
+    "Conformité aux normes environnementales."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation pour mon entreprise ?",
+      "answer": "CPMI vous conseille selon vos besoins précis."
+    },
+    {
+      "question": "Délai à St Maur Des Fosses ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

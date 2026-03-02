@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Les Ponts De Ce.",
+  "localContext": {
+    "title": "Solutions adaptées",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. Le climat ligérien nécessite des installations robustes et durables."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la fonctionnalité de vos locaux professionnels.",
+  "advantages": [
+    "Expertise locale à Les Ponts De Ce et alentours.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 49.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et certaines rénovations."
+    },
+    {
+      "question": "Délai à Les Ponts De Ce ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

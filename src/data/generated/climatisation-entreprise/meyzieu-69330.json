@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Meyzieu (69330), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climat et aides à Meyzieu",
+    "content": "Meyzieu subit des étés chauds. CPMI vous aide à bénéficier des aides régionales pour une clim performante et éco-responsable."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec un entretien régulier par CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Meyzieu et alentours.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels.",
+    "Maintenance préventive pour une durabilité accrue de vos équipements."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 69.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entrepôt ?",
+      "answer": "CPMI vous conseille la solution adaptée à vos besoins précis."
+    },
+    {
+      "question": "Délai à Meyzieu ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

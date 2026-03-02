@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert local pour l'installation d'ascenseurs et monte-charges au Bourget, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité au Bourget",
+    "content": "Le Bourget bénéficie d'aides à l'accessibilité pour les entreprises. CPMI.fr vous accompagne dans vos démarches pour une installation conforme."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV de proximité assurés."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels au Bourget et dans le 93.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "Adapté à votre activité et à la configuration du bâtiment."
+    },
+    {
+      "question": "Délai à Le Bourget ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes d'accessibilité en vigueur."
+    }
+  ]
+}

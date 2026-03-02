@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Pierrefitte-Sur-Seine, facilitant la transition énergétique de votre entreprise.",
+  "localContext": {
+    "title": "Bornes à Pierrefitte",
+    "content": "Île-de-France : aides régionales pour l'installation de bornes en entreprise et copropriété. CPMI vous accompagne dans vos démarches à Pierrefitte-Sur-Seine (93380)."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux besoins des entreprises locales.",
+    "Maintenance et SAV garantis à Pierrefitte."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI évalue vos besoins précisément."
+    },
+    {
+      "question": "Délai à Pierrefitte Sur Seine ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

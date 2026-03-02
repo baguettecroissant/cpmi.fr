@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Dizier (52100), pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 52 : Spécificités",
+    "content": "Le climat continental de St Dizier exige des solutions de climatisation fiables. CPMI.fr vous guide dans les aides disponibles pour les entreprises du Grand Est."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies garanties.",
+  "advantages": [
+    "Installation rapide par des professionnels qualifiés à St Dizier.",
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Respect des normes environnementales et économies d'énergie."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 52.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à St Dizier ?",
+      "answer": "Intervention rapide : 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Guebwiller, soutenant la mobilité électrique locale pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique à Guebwiller",
+    "content": "La région Grand Est encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans vos démarches pour une installation optimisée."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Guebwiller.",
+    "Solutions de recharge intelligentes pour une gestion optimisée.",
+    "Maintenance assurée par des experts locaux CPMI."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge, adaptés aux besoins des entreprises du 68.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Guebwiller ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

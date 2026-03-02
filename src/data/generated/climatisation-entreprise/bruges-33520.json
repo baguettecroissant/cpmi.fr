@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bruges, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable à Bruges",
+    "content": "La Nouvelle-Aquitaine encourage les solutions de climatisation performantes. Profitez d'aides pour des systèmes éco-responsables adaptés au climat local."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit performance et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Bruges.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une climatisation durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Bruges ?",
+      "answer": "Analyse des besoins, solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à Bruges ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

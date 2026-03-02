@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Nanterre, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Nanterre",
+    "content": "Bénéficiez des aides de la région Île-de-France pour optimiser votre installation. Adaptez votre climatisation aux variations climatiques de Nanterre."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Nanterre.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Nanterre.",
+    "Installation rapide et efficace en Île-de-France.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Calcul précis selon la superficie et l'activité."
+    },
+    {
+      "question": "Délai à Nanterre ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à La Flèche, pour accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Fléchoise",
+    "content": "La région Pays de la Loire soutient l'accessibilité. CPMI.fr vous accompagne pour adapter vos bâtiments aux normes et bénéficier d'aides locales."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et durable, adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à La Flèche.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à La Flèche (72).",
+  "faq": [
+    {
+      "question": "Ascenseur : quelle réglementation ?",
+      "answer": "Normes strictes respectées par CPMI.fr pour votre sécurité."
+    },
+    {
+      "question": "Délai à La Fleche ?",
+      "answer": "Devis + Installation : délai rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

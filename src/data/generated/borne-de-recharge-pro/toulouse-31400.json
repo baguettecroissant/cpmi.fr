@@ -1,0 +1,28 @@
+{
+  "introText": "À Toulouse, ville en pleine croissance économique et soucieuse de son environnement, l'installation de bornes de recharge pour véhicules électriques en entreprise et copropriété est un enjeu majeur. Facilitez la transition énergétique de vos collaborateurs et résidents tout en valorisant votre patrimoine immobilier dans la Ville Rose.",
+  "localContext": {
+    "title": "Réglementations et Aides Locales en Haute-Garonne",
+    "content": "L'Occitanie encourage activement l'électromobilité. Outre les aides nationales, la région propose des dispositifs spécifiques pour les entreprises et copropriétés. Toulouse métropole, bien que n'étant pas officiellement une ZFE à ce jour, renforce les restrictions sur les véhicules polluants. De plus, le PLU de Toulouse impose des règles précises pour l'installation de bornes, notamment en zones protégées ou à proximité de bâtiments historiques. CPMI.fr vous aide à naviguer ces complexités."
+  },
+  "expertAdvice": "Nous savons que l'installation de bornes IRVE à Toulouse nécessite une connaissance approfondie des spécificités locales. Des contraintes architecturales des bâtiments toulousains aux démarches administratives auprès de la mairie et de la métropole, notre expertise vous assure une installation conforme et optimisée pour vos besoins.",
+  "advantages": [
+    "Parfaite maîtrise des contraintes architecturales toulousaines.",
+    "Intervention rapide et efficace sur toute la Haute-Garonne.",
+    "Expertise des installations en milieu urbain dense et varié."
+  ],
+  "pricingContext": "Le coût d'installation d'une borne de recharge pour entreprises et copropriétés à Toulouse varie en fonction de la puissance, du nombre de bornes et de la complexité des travaux. En moyenne, comptez entre 1500€ et 5000€ par borne, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides spécifiques de la région Occitanie pour l'installation de bornes IRVE en entreprise ?",
+      "answer": "La région Occitanie propose des aides financières directes et des dispositifs d'accompagnement pour les entreprises souhaitant installer des bornes de recharge. CPMI.fr vous aide à identifier et à obtenir ces aides."
+    },
+    {
+      "question": "Quels sont les délais d'installation d'une borne de recharge en copropriété à Toulouse ?",
+      "answer": "Les délais varient en fonction de la complexité du projet et des démarches administratives. Comptez généralement entre 2 et 6 mois, incluant l'étude de faisabilité, les autorisations et les travaux."
+    },
+    {
+      "question": "Qui assure la maintenance des bornes de recharge installées via CPMI.fr à Toulouse ?",
+      "answer": "CPMI.fr travaille avec des installateurs locaux qui assurent un service de maintenance réactif et efficace. Nous proposons des contrats de maintenance adaptés à vos besoins et à votre budget."
+    }
+  ]
+}

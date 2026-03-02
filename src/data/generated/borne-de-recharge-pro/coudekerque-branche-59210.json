@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Coudekerque Branche, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Coudekerque",
+    "content": "La région Hauts-de-France soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes, améliorant l'attractivité de votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide par des experts locaux",
+    "Solutions personnalisées pour entreprises et copropriétés",
+    "Valorisation de votre image éco-responsable"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de bornes dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance à l'usage: bornes rapides ou standards."
+    },
+    {
+      "question": "Délai à Coudekerque Branche ?",
+      "answer": "Installation sous 4 à 6 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (IRVE)."
+    }
+  ]
+}

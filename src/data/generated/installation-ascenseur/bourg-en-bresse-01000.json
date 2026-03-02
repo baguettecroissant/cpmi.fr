@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bourg-en-Bresse, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 01",
+    "content": "Bourg-en-Bresse bénéficie de subventions pour l'accessibilité des bâtiments. Le climat économique local favorise les investissements dans l'amélioration des infrastructures."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien immobilier.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bourg-en-Bresse.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans l'Ain.",
+  "faq": [
+    {
+      "question": "Normes à Bourg ?",
+      "answer": "Conformité RT2012 et accessibilité PMR garanties."
+    },
+    {
+      "question": "Délai à Bourg En Bresse ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

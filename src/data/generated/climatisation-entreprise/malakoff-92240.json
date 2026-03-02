@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Malakoff, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 92",
+    "content": "Malakoff subit des étés chauds. CPMI.fr vous aide à optimiser votre climatisation, en tenant compte des aides régionales pour la transition énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Intervention rapide à Malakoff et dans le 92.",
+    "Solutions sur-mesure pour les entreprises locales.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Malakoff ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes RT2012."
+    }
+  ]
+}

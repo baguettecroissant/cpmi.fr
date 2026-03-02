@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Sevran, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Sevran : Accessibilité",
+    "content": "Sevran améliore l'accessibilité des bâtiments. Des aides régionales peuvent faciliter l'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Conformité aux normes d'accessibilité à Sevran et en IDF.",
+    "Solutions sur-mesure pour les entreprises à Sevran.",
+    "Installation rapide et efficace par CPMI dans le 93."
+  ],
+  "pricingContext": "CPMI propose des prix compétitifs pour les professionnels à Sevran.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Sevran ?",
+      "answer": "CPMI : Solutions PMR complètes et conformes."
+    },
+    {
+      "question": "Délai à Sevran ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Montbéliard (25200), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Montbéliard",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat continental exige une climatisation adaptée aux étés chauds."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide par nos équipes locales à Montbéliard.",
+    "Maintenance préventive pour une performance durable.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour vos projets de climatisation professionnelle dans le 25.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "Nous dimensionnons votre climatisation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Montbeliard ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes environnementales locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local à Kingersheim (68260) pour l'installation d'ascenseurs et monte-charges, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et Réglementations",
+    "content": "Profitez des aides régionales du Grand Est pour faciliter l'installation. CPMI vous guide à travers les normes spécifiques du Haut-Rhin."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec des solutions sur-mesure durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux contraintes de Kingersheim.",
+    "Maintenance réactive assurée par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 68.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi, pour les bâtiments recevant du public."
+    },
+    {
+      "question": "Délai à Kingersheim ?",
+      "answer": "Devis sous 48h, installation selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-20/50 et accessibilité."
+    }
+  ]
+}

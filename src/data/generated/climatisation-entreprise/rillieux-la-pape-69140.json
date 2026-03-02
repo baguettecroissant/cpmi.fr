@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Rillieux La Pape, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 69140",
+    "content": "Rillieux La Pape, étés chauds : une clim performante est vitale. CPMI vous guide sur les aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI pour des économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Rillieux La Pape.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Solutions sur-mesure pour chaque type de bâtiment."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels du 69.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Rillieux La Pape ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

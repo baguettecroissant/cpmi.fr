@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Londe Les Maures, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "La région PACA encourage les solutions éco-énergétiques. CPMI.fr vous accompagne pour des installations performantes et respectueuses de l'environnement, adaptées au climat local."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une expertise locale reconnue.",
+  "advantages": [
+    "Installation rapide et efficace à La Londe.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 83.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à La Londe Les Maures ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

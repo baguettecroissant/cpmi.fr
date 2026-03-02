@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à St Brieuc, répondant aux besoins croissants des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à St Brieuc",
+    "content": "La région Bretagne encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge dans votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en bornes de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Brieuc.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone de votre flotte."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 22.",
+  "faq": [
+    {
+      "question": "Quelle puissance à St Brieuc ?",
+      "answer": "Adaptez la puissance à vos besoins."
+    },
+    {
+      "question": "Délai à St Brieuc ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

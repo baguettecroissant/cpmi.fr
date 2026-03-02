@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Le Cannet, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Le Cannet",
+    "content": "Le Cannet bénéficie de subventions pour l'accessibilité des PMR. Son climat doux favorise la durabilité des installations extérieures."
+  },
+  "expertAdvice": "Optimisez l'espace et choisissez un modèle adapté à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour bâtiments résidentiels et commerciaux.",
+    "Amélioration de la valeur immobilière et de l'accessibilité."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 06.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Le Cannet ?",
+      "answer": "Conformité et adaptation aux besoins spécifiques des PMR."
+    },
+    {
+      "question": "Délai à Le Cannet ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Flers, Normandie, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Flers",
+    "content": "Le climat normand exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et éco-responsable.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Flers.",
+    "Maintenance et dépannage rapides en Normandie.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 61.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI.fr dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Flers ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2020."
+    }
+  ]
+}

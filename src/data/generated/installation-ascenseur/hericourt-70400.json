@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Hericourt et ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Hericourt : Spécificités Locales",
+    "content": "Bénéficiez des aides à l'accessibilité en Bourgogne-Franche-Comté. CPMI.fr s'adapte aux contraintes architecturales d'Hericourt pour une installation optimale."
+  },
+  "expertAdvice": "CPMI.fr : Expertise et solutions sur-mesure pour votre projet.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hericourt.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et SAV de proximité pour une tranquillité durable."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés et compétitifs dans le 70.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type pour Hericourt ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Hericourt ?",
+      "answer": "Variable selon projet, devis précis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

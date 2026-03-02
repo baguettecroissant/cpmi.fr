@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bernay, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Bernay & Accessibilité",
+    "content": "Bernay, ville historique, encourage l'accessibilité. Des aides locales peuvent faciliter l'installation d'ascenseurs, améliorant le confort de tous."
+  },
+  "expertAdvice": "Optimisez l'espace et respectez les normes avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure adaptées aux bâtiments de Bernay.",
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du 27.",
+  "faq": [
+    {
+      "question": "Normes à Bernay ?",
+      "answer": "Conformité aux normes européennes et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Bernay ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible 7j/7 pour votre ascenseur."
+    }
+  ]
+}

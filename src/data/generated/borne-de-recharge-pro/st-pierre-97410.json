@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à St Pierre, pour entreprises et copropriétés soucieuses de mobilité durable.",
+  "localContext": {
+    "title": "Transition Énergétique à St Pierre",
+    "content": "La Réunion encourage l'électromobilité. Des aides locales facilitent l'installation de bornes, soutenant un avenir plus vert et économique pour les entreprises."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en bornes de recharge.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés à St Pierre.",
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Réduction de l'empreinte carbone et valorisation de votre image."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs et adaptés aux besoins des professionnels réunionnais.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à St Pierre ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

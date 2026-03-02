@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Martigues, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable à Martigues",
+    "content": "Profitez des aides régionales pour la transition énergétique. Le climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Optimisez votre efficacité énergétique avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et professionnelle à Martigues et environs.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions éco-responsables pour réduire votre empreinte carbone."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "Analyse de vos besoins et solutions adaptées."
+    },
+    {
+      "question": "Délai à Martigues ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Sainte-Maxime, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité 83",
+    "content": "Ste Maxime bénéficie d'aides pour l'accessibilité des PMR. Le climat doux favorise l'installation d'équipements durables et fiables."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme aux normes et sécurisée.",
+  "advantages": [
+    "Installation rapide et efficace à Ste Maxime.",
+    "Solutions sur mesure pour tous les bâtiments.",
+    "Maintenance et SAV de proximité assurés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le Var.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à Ste Maxime ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF."
+    }
+  ]
+}

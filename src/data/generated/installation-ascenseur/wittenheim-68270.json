@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Wittenheim, pour faciliter l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité PMR de vos bâtiments à Wittenheim. CPMI vous accompagne dans vos démarches et s'adapte au climat industriel local."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Solutions sur-mesure adaptées aux besoins spécifiques du Haut-Rhin.",
+    "Installation rapide et conforme aux normes de sécurité en vigueur.",
+    "Maintenance et dépannage assurés par nos techniciens qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 68.",
+  "faq": [
+    {
+      "question": "Normes à Wittenheim ?",
+      "answer": "Conformité aux normes EN 81-20/50 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Wittenheim ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV local CPMI ?",
+      "answer": "Intervention rapide et efficace 7j/7 dans le Haut-Rhin."
+    }
+  ]
+}

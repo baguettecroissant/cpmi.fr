@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Brieuc, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 22",
+    "content": "Saint-Brieuc et ses environs bénéficient d'aides à l'accessibilité. CPMI vous accompagne dans vos projets d'élévation, adaptés au climat breton."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Proximité et réactivité à St Brieuc et alentours.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Respect des normes de sécurité en vigueur (Ascenseurs)."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 22.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à St Brieuc ?",
+      "answer": "CPMI propose des solutions complètes PMR."
+    },
+    {
+      "question": "Délai à St Brieuc ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ascenseurs."
+    }
+  ]
+}

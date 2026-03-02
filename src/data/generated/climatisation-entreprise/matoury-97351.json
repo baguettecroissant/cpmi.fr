@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Matoury, Guyane. Des solutions adaptées à vos besoins spécifiques.",
+  "localContext": {
+    "title": "Climat Guyanais",
+    "content": "La climatisation performante est cruciale à Matoury. CPMI.fr vous accompagne pour optimiser votre confort et réduire vos coûts énergétiques face à la chaleur tropicale."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit efficacité et longévité.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Matoury",
+    "Maintenance et dépannage rapides en Guyane",
+    "Conformité aux normes environnementales locales"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Matoury ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes guyanaises."
+    }
+  ]
+}

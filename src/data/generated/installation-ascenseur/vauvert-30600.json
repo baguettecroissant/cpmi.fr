@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vauvert, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Vauvert",
+    "content": "Vauvert et le Gard encouragent l'accessibilité. CPMI facilite vos démarches et vous conseille sur les aides disponibles en Occitanie pour vos projets."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Vauvert",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et SAV assurés par CPMI près de chez vous"
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le Gard (30).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Vauvert ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Vauvert ?",
+      "answer": "Délais rapides, devis personnalisé."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

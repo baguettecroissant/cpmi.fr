@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : votre partenaire local à Bischheim pour l'installation d'ascenseurs et monte-charges, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Bischheim",
+    "content": "Profitez des aides à l'accessibilité de la région Grand Est pour vos projets. CPMI s'adapte aux spécificités architecturales locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Bischheim.",
+    "Solutions sur mesure pour tous types de bâtiments professionnels.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 67.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bischheim ?",
+      "answer": "CPMI propose des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à Bischheim ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

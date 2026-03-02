@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Schiltigheim, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité à Schiltigheim",
+    "content": "La région Grand Est soutient l'accessibilité PMR. CPMI.fr vous accompagne dans vos projets d'élévation, en respectant les normes locales et les spécificités architecturales."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure adaptées à Schiltigheim et ses environs.",
+    "Installation rapide et efficace par des professionnels qualifiés.",
+    "Respect des normes de sécurité et d'accessibilité en vigueur."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Schiltigheim ?",
+      "answer": "CPMI.fr propose des solutions d'ascenseurs PMR conformes."
+    },
+    {
+      "question": "Délai à Schiltigheim ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes EN 81-70."
+    }
+  ]
+}

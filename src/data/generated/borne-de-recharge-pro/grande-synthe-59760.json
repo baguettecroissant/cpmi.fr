@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Grande Synthe, favorisant la mobilité électrique.",
+  "localContext": {
+    "title": "Transition Énergétique à Grande Synthe",
+    "content": "La région Hauts-de-France soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes en entreprise et copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, experts en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Grande Synthe.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Maintenance et SAV de proximité pour une tranquillité durable."
+  ],
+  "pricingContext": "Tarifs compétitifs et transparents pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle borne pour ma flotte ?",
+      "answer": "CPMI vous conseille la solution adaptée à vos véhicules."
+    },
+    {
+      "question": "Délai à Grande Synthe ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Chartres, contribuant à la mobilité verte locale.",
+  "localContext": {
+    "title": "Bornes à Chartres",
+    "content": "Le Centre-Val de Loire encourage l'électromobilité. CPMI vous aide à naviguer les aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Installation rapide par des experts certifiés IRVE à Chartres.",
+    "Solutions sur mesure pour chaque entreprise ou copropriété.",
+    "Maintenance et SAV de proximité garantis par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 28.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Chartres ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes en vigueur."
+    }
+  ]
+}

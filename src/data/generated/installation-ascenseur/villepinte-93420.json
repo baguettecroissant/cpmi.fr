@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Villepinte, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Villepinte & Accessibilité",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI.fr facilite vos projets d'installation d'ascenseurs et monte-charges, en conformité avec les normes locales."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Villepinte.",
+    "Respect des normes de sécurité et d'accessibilité.",
+    "Installation rapide et efficace par des professionnels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel modèle choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Villepinte ?",
+      "answer": "Installation rapide, délais précis sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

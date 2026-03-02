@@ -1,0 +1,28 @@
+{
+  "introText": "À Dreux, CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Bornes à Dreux",
+    "content": "La région Centre-Val de Loire encourage la mobilité verte. CPMI vous guide pour obtenir les aides locales et nationales pour votre projet."
+  },
+  "expertAdvice": "CPMI : l'expertise locale pour une installation optimisée et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Dreux.",
+    "Solutions sur mesure pour vos besoins spécifiques drouais.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 28.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à Dreux ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Dreux ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

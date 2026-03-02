@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Chamalières, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides à Chamalières",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité avec des aides financières. Profitez du climat favorable aux énergies renouvelables pour votre borne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chamalières.",
+    "Solutions personnalisées pour entreprises et copropriétés locales.",
+    "Maintenance et SAV assurés par CPMI dans le Puy-de-Dôme."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 63.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Chamalières ?",
+      "answer": "Adaptez la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Chamalieres ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

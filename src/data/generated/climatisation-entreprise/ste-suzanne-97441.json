@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ste Suzanne, pour un confort optimal toute l'année.",
+  "localContext": {
+    "title": "Climatisation Durable 974",
+    "content": "La forte chaleur à La Réunion exige des solutions performantes. CPMI.fr vous aide à optimiser votre consommation énergétique grâce aux aides disponibles."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore l'efficacité.",
+  "advantages": [
+    "Installation rapide et soignée à Ste Suzanne",
+    "Maintenance préventive pour une durée de vie accrue",
+    "Solutions sur mesure pour tous les budgets"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à La Réunion.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Ste Suzanne ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes réunionnaises."
+    }
+  ]
+}

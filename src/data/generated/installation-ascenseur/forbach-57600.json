@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Forbach, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Accessibilité Forbach",
+    "content": "Forbach bénéficie de subventions pour l'amélioration de l'habitat. CPMI vous accompagne dans vos démarches pour faciliter l'installation."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Forbach",
+    "Solutions personnalisées pour tous les bâtiments",
+    "Maintenance locale pour une tranquillité assurée"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Forbach ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Forbach ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

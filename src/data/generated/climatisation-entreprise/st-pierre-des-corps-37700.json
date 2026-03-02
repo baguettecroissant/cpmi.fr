@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Pierre Des Corps (37700).",
+  "localContext": {
+    "title": "Climatisation 37 : Enjeux Locaux",
+    "content": "Le climat du Centre-Val de Loire exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un système bien dimensionné assure confort et économies durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance préventive pour une performance optimale.",
+    "Dépannage urgent 24/7 à St Pierre Des Corps."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Quel type de clim pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille sur la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à St Pierre Des Corps ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

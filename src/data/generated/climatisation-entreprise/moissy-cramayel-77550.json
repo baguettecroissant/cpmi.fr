@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Moissy-Cramayel, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux Locaux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser vos installations à Moissy-Cramayel."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Moissy-Cramayel.",
+    "Installation rapide et efficace par nos techniciens certifiés.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs adaptés aux professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon local à Moissy ?",
+      "answer": "Nous dimensionnons votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Moissy Cramayel ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur en Île-de-France."
+    }
+  ]
+}

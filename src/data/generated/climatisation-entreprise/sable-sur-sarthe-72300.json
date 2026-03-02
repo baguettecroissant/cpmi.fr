@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sablé-sur-Sarthe, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 72 : Enjeux",
+    "content": "Le climat de la Sarthe exige des solutions de climatisation performantes. CPMI vous accompagne pour optimiser votre consommation et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Sablé-sur-Sarthe.",
+    "Maintenance experte pour une longévité accrue.",
+    "Solutions sur mesure pour les besoins industriels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 72.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Sable Sur Sarthe ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

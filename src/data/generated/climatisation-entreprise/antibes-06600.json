@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Antibes, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Durable 06",
+    "content": "Le climat méditerranéen exige des solutions performantes. CPMI vous guide dans les aides régionales pour une climatisation éco-responsable à Antibes."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance préventive assurant la pérennité de vos équipements.",
+    "Intervention rapide et efficace pour minimiser les interruptions."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour des tarifs compétitifs dans les Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément selon vos locaux."
+    },
+    {
+      "question": "Délai à Antibes ?",
+      "answer": "Intervention sous 24h/48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

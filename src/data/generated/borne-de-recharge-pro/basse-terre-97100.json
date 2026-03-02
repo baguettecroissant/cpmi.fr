@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Basse-Terre, pour entreprises et copropriétés, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Guadeloupe Électrique",
+    "content": "La région encourage l'électromobilité. Profitez des aides pour l'installation de bornes et contribuez à un environnement plus propre à Basse-Terre."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec nos solutions de recharge sur mesure.",
+  "advantages": [
+    "Solution adaptée aux besoins spécifiques de votre entreprise.",
+    "Valorisation de votre image éco-responsable à Basse-Terre.",
+    "Installation rapide et conforme aux normes en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Basse-Terre (971).",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Basse Terre ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes guadeloupéennes."
+    }
+  ]
+}

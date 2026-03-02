@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Croix, pour un confort optimal et durable.",
+  "localContext": {
+    "title": "Climatisation à Croix",
+    "content": "Le climat variable du Nord nécessite des solutions performantes. CPMI vous accompagne pour optimiser votre efficacité énergétique et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation et maintenance expertes.",
+  "advantages": [
+    "Proximité et réactivité pour vos besoins spécifiques à Croix.",
+    "Solutions sur-mesure pour optimiser votre consommation énergétique.",
+    "Maintenance préventive pour une durabilité accrue de vos installations."
+  ],
+  "pricingContext": "Des tarifs compétitifs adaptés aux professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Croix ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "CPMI respecte les réglementations environnementales."
+    }
+  ]
+}

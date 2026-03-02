@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Portes-lès-Valence, favorisant la mobilité électrique en entreprise et copropriété.",
+  "localContext": {
+    "title": "Transition Énergétique Drôme",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'installation de bornes. Profitez d'aides financières pour votre projet de mobilité durable à Portes-lès-Valence."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge personnalisées.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Portes-lès-Valence.",
+    "Solutions adaptées aux besoins spécifiques des entreprises et copropriétés.",
+    "Maintenance et SAV de proximité pour une tranquillité d'esprit durable."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre installation dans la Drôme.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages professionnels."
+    },
+    {
+      "question": "Délai à Portes Les Valence ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

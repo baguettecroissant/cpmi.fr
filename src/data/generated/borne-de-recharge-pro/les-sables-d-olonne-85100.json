@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés aux Sables d'Olonne, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Transition Énergétique 85",
+    "content": "La région Pays de la Loire encourage l'électromobilité. Des aides locales peuvent réduire le coût d'installation de vos bornes aux Sables d'Olonne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Les Sables.",
+    "Solutions sur-mesure pour flottes et parkings privés.",
+    "Maintenance et SAV de proximité en Vendée."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet aux Sables d'Olonne.",
+  "faq": [
+    {
+      "question": "Bornes : quelles aides locales ?",
+      "answer": "CPMI.fr vous informe sur les subventions disponibles en Vendée."
+    },
+    {
+      "question": "Délai à Les Sables D Olonne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

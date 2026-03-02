@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Blanquefort, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 33 : Enjeux",
+    "content": "La Nouvelle-Aquitaine subit des étés chauds. CPMI vous accompagne pour des solutions de climatisation performantes et éco-responsables, avec aides possibles."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et adaptée à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Blanquefort.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques et confort garanti."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet de climatisation à Blanquefort.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Blanquefort ?",
+      "answer": "CPMI analyse vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Blanquefort ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Lézignan-Corbières, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Mobilité Verte Audoise",
+    "content": "L'Occitanie encourage l'électromobilité. CPMI.fr vous accompagne pour bénéficier des aides disponibles pour l'installation de bornes en entreprise et copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions de recharge intelligentes et évolutives.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels audois.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules."
+    },
+    {
+      "question": "Délai à Lezignan Corbieres ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

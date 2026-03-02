@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges au Blanc-Mesnil.",
+  "localContext": {
+    "title": "Accessibilité & Seine-Saint-Denis",
+    "content": "Le Blanc-Mesnil facilite l'accessibilité. Des aides locales peuvent alléger vos coûts d'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes du 93.",
+    "Solutions sur-mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé adapté à votre budget au Blanc-Mesnil.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Adapté à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Le Blanc Mesnil ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

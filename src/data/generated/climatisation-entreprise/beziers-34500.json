@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Béziers, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable à Béziers",
+    "content": "Béziers, avec son climat méditerranéen, exige des solutions de climatisation performantes. Profitez des aides régionales pour une installation éco-responsable."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Béziers.",
+    "Solutions sur mesure pour les besoins industriels.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 34.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Beziers ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

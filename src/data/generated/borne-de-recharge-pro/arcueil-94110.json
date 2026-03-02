@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Arcueil, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Arcueil et l'électrique",
+    "content": "Arcueil bénéficie d'aides régionales pour l'installation de bornes. CPMI.fr vous accompagne dans ces démarches pour une mobilité durable en Île-de-France."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI.fr : solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Arcueil.",
+    "Solutions adaptées aux besoins des entreprises locales.",
+    "Maintenance et SAV de proximité dans le Val-de-Marne."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Arcueil ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

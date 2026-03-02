@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure le confort thermique des entreprises à St Malo avec des solutions de climatisation tertiaire et industrielle performantes.",
+  "localContext": {
+    "title": "Climatisation à St Malo : Spécificités",
+    "content": "Le climat maritime de St Malo exige des systèmes robustes. CPMI vous conseille sur les aides disponibles en Bretagne pour optimiser votre investissement."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation et maintenance expertes.",
+  "advantages": [
+    "Solutions adaptées aux bâtiments tertiaires et industriels malouins.",
+    "Maintenance préventive pour une performance durable.",
+    "Réduction des coûts énergétiques et conformité réglementaire."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "CPMI évalue vos besoins précisément."
+    },
+    {
+      "question": "Délai à St Malo ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

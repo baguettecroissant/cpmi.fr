@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Clermont-Ferrand, pour un confort optimal et des performances énergétiques.",
+  "localContext": {
+    "title": "Climatisation 63 : Enjeux",
+    "content": "Clermont-Ferrand, avec ses étés chauds, nécessite des solutions de climatisation performantes. Bénéficiez d'aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour le tertiaire et l'industrie 63.",
+    "Installation et maintenance par des experts qualifiés.",
+    "Respect des normes environnementales et économies d'énergie."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels de Clermont-Ferrand.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Clermont Ferrand ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

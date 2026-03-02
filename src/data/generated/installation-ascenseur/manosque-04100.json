@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Manosque, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Manosque",
+    "content": "Manosque bénéficie d'aides à l'accessibilité pour les entreprises. CPMI.fr vous accompagne dans vos démarches et s'adapte au climat provençal."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales (04).",
+    "Solutions sur mesure pour bâtiments industriels et commerciaux.",
+    "Maintenance proactive pour une longévité accrue de vos équipements."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Manosque ?",
+      "answer": "CPMI.fr propose des solutions complètes PMR."
+    },
+    {
+      "question": "Délai à Manosque ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

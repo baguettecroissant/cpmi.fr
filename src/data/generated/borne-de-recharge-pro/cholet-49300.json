@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Cholet, soutenant la transition énergétique des entreprises et copropriétés locales.",
+  "localContext": {
+    "title": "Bornes à Cholet : Un Enjeu",
+    "content": "La région Pays de la Loire encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides disponibles et adapter votre infrastructure."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Cholet.",
+    "Solutions personnalisées pour chaque type d'entreprise ou copropriété.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du Maine-et-Loire.",
+  "faq": [
+    {
+      "question": "Quelles aides à Cholet ?",
+      "answer": "Aides régionales et nationales cumulables, CPMI vous conseille."
+    },
+    {
+      "question": "Délai à Cholet ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV local garanti ?",
+      "answer": "SAV rapide et efficace assuré par nos techniciens locaux."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Dombasle Sur Meurthe, garantissant confort et performance.",
+  "localContext": {
+    "title": "Climatisation 54 : Enjeux Locaux",
+    "content": "Le climat du Grand Est exige des solutions de climatisation performantes. CPMI vous accompagne pour optimiser vos installations et profiter des aides régionales."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Dombasle.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Dombasle Sur Meurthe ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

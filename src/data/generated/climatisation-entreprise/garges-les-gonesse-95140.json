@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Garges-lès-Gonesse, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation & Enjeux Locaux",
+    "content": "Garges-lès-Gonesse bénéficie d'aides pour l'efficacité énergétique. Un climat maîtrisé est crucial pour la productivité des entreprises locales."
+  },
+  "expertAdvice": "Choisissez CPMI pour une solution de climatisation adaptée à vos besoins précis.",
+  "advantages": [
+    "Installation rapide et efficace à Garges-lès-Gonesse.",
+    "Maintenance préventive pour une performance durable.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Installation complexe à Garges ?",
+      "answer": "CPMI maîtrise tous les types d'installations."
+    },
+    {
+      "question": "Délai à Garges Les Gonesse ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

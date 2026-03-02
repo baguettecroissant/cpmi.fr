@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Ouen l'Aumône, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs 95 : Spécificités",
+    "content": "Le Val d'Oise soutient l'accessibilité. CPMI.fr vous guide dans les démarches administratives et les normes en vigueur pour votre projet."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bâtiment avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à St Ouen L'Aumône.",
+    "Solutions sur mesure pour les entreprises locales.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Normes à St Ouen ?",
+      "answer": "Respect des normes ERP et PMR obligatoire."
+    },
+    {
+      "question": "Délai à St Ouen L Aumone ?",
+      "answer": "Variable selon projet : contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance préventive et corrective, respect des normes."
+    }
+  ]
+}

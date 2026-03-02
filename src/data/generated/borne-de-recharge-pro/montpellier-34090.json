@@ -1,0 +1,28 @@
+{
+  "introText": "Montpellier, métropole dynamique de l'Occitanie, est un terrain fertile pour l'électromobilité. L'installation de bornes de recharge pour entreprises et copropriétés est cruciale pour accompagner la croissance verte et répondre aux besoins croissants des utilisateurs de véhicules électriques, tout en profitant du climat ensoleillé favorable à l'énergie solaire.",
+  "localContext": {
+    "title": "Réglementations et Aides IRVE à Montpellier et en Occitanie",
+    "content": "L'Occitanie encourage activement l'installation de bornes IRVE avec des aides régionales complémentaires aux dispositifs nationaux, notamment pour les entreprises et les copropriétés. Montpellier, soucieuse de la qualité de son air, applique des réglementations d'urbanisme spécifiques, notamment dans les zones proches des monuments historiques où l'avis de l'ABF est requis. Il est essentiel de connaître les contraintes du PLU local et les particularités climatiques (fort ensoleillement) pour optimiser le choix et l'installation de vos bornes."
+  },
+  "expertAdvice": "Nous savons que l'installation de bornes de recharge à Montpellier demande une expertise locale pointue. Les spécificités des réseaux électriques existants, les autorisations d'urbanisme et les aides disponibles varient. Confier votre projet à un installateur CPMI.fr local, c'est garantir une installation conforme, optimisée et éligible aux aides financières.",
+  "advantages": [
+    "Connaissance approfondie du réseau électrique de Montpellier.",
+    "Réactivité et disponibilité sur l'ensemble du département de l'Hérault.",
+    "Adaptation aux spécificités des bâtiments montpelliérains (neufs et anciens)."
+  ],
+  "pricingContext": "Le coût d'installation d'une borne de recharge pour entreprises ou copropriétés dans l'Hérault varie en fonction de la puissance, du nombre de bornes et de la complexité du chantier. Comptez en moyenne entre 1500€ et 5000€ par point de charge, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales spécifiques en Occitanie pour l'installation de bornes IRVE en entreprise ?",
+      "answer": "La région Occitanie propose des aides financières complémentaires aux dispositifs nationaux, notamment via des appels à projets spécifiques. Ces aides peuvent couvrir une partie des coûts d'installation et de raccordement, favorisant ainsi l'électromobilité des entreprises."
+    },
+    {
+      "question": "Quels sont les délais typiques d'installation d'une borne de recharge à Montpellier, pour une copropriété ?",
+      "answer": "Les délais varient en fonction de la complexité du projet et des autorisations nécessaires. Généralement, comptez entre 2 et 6 mois, incluant l'étude de faisabilité, les démarches administratives et l'installation effective par un professionnel qualifié."
+    },
+    {
+      "question": "Quelles sont les normes de maintenance spécifiques à respecter pour les bornes de recharge à Montpellier ?",
+      "answer": "Les bornes doivent être maintenues conformément aux normes en vigueur (NF C 15-100 et ses amendements). Un contrat de maintenance préventive est recommandé pour garantir la sécurité et la pérennité de l'installation, ainsi que le bon fonctionnement des bornes."
+    }
+  ]
+}

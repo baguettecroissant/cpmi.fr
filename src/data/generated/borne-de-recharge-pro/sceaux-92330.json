@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Sceaux, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Sceaux",
+    "content": "La région Île-de-France encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes dans votre entreprise ou copropriété à Sceaux."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Sceaux.",
+    "Solutions de recharge intelligentes et personnalisées.",
+    "Maintenance assurée par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Sceaux (92).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Sceaux ?",
+      "answer": "Adaptez la puissance à vos besoins et au réseau local."
+    },
+    {
+      "question": "Délai à Sceaux ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF et IRVE."
+    }
+  ]
+}

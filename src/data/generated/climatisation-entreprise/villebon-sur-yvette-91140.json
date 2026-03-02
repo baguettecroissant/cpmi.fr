@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villebon-sur-Yvette, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 91 : Enjeux",
+    "content": "Les étés chauds en Île-de-France rendent la climatisation performante indispensable. Des aides régionales peuvent faciliter l'investissement pour les entreprises."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI pour une efficacité durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Villebon.",
+    "Maintenance proactive pour éviter les arrêts coûteux.",
+    "Conformité aux normes environnementales et énergétiques."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Villebon Sur Yvette ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

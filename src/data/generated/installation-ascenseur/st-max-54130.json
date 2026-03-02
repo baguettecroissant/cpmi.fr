@@ -1,0 +1,28 @@
+{
+  "introText": "Optimisez l'accessibilité de vos locaux à St Max avec CPMI, experts en installation d'ascenseurs et monte-charges.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité des entreprises. Le climat d'investissement à St Max est favorable aux projets d'amélioration."
+  },
+  "expertAdvice": "CPMI : Votre partenaire pour une installation conforme et durable.",
+  "advantages": [
+    "Adaptation aux bâtiments existants à St Max.",
+    "Solutions sur-mesure pour besoins spécifiques.",
+    "Maintenance et dépannage rapides en local."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Max ?",
+      "answer": "CPMI assure une installation aux normes PMR."
+    },
+    {
+      "question": "Délai à St Max ?",
+      "answer": "Devis rapide et clair."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Villefranche-de-Rouergue, facilitant la transition énergétique de votre entreprise.",
+  "localContext": {
+    "title": "Transition Énergétique en Occitanie",
+    "content": "La région Occitanie soutient activement l'installation de bornes avec des aides financières. Profitez d'un climat ensoleillé idéal pour l'énergie solaire et les véhicules électriques."
+  },
+  "expertAdvice": "Anticipez les besoins futurs de vos employés et clients en électromobilité.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Accès aux aides financières disponibles en Occitanie."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 12.",
+  "faq": [
+    {
+      "question": "Quelles aides à Villefranche ?",
+      "answer": "Aides régionales et nationales cumulables, contactez-nous."
+    },
+    {
+      "question": "Délai à Villefranche De Rouergue ?",
+      "answer": "Installation sous 4 à 6 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes IRVE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Choisy-le-Roi (94) pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Choisy",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat d'Île-de-France exige des solutions de climatisation adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez votre confort thermique et réduisez vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Choisy-le-Roi.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et dépannage 7j/7 en Île-de-France."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons votre climatisation selon vos locaux."
+    },
+    {
+      "question": "Délai à Choisy Le Roi ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

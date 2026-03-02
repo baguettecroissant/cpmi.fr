@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Charenton-le-Pont, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs 94 : Spécificités Locales",
+    "content": "Charenton-le-Pont bénéficie d'aides pour l'amélioration de l'habitat. CPMI adapte ses installations aux contraintes architecturales de la région Île-de-France."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Connaissance approfondie des normes à Charenton-le-Pont",
+    "Solutions sur mesure pour bâtiments existants et neufs",
+    "Intervention rapide et efficace dans le Val-de-Marne"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour le 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à Charenton Le Pont ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes."
+    }
+  ]
+}

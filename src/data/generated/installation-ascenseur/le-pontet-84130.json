@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges au Pontet, pour faciliter l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "Profitez des aides régionales pour l'amélioration de l'accessibilité. Le climat ensoleillé du Vaucluse rend les installations extérieures durables."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des experts locaux qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 84.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR au Pontet ?",
+      "answer": "CPMI propose des solutions PMR sur mesure pour votre entreprise."
+    },
+    {
+      "question": "Délai à Le Pontet ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

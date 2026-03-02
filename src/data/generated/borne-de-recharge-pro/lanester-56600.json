@@ -1,0 +1,28 @@
+{
+  "introText": "À Lanester, CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Lanester",
+    "content": "Le Morbihan encourage l'électromobilité. CPMI.fr vous aide à bénéficier des aides régionales pour l'installation de bornes de recharge à Lanester."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Lanester.",
+    "Solutions adaptées à vos besoins spécifiques d'entreprise.",
+    "Maintenance et SAV de proximité pour une recharge sereine."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Morbihan.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Lanester ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

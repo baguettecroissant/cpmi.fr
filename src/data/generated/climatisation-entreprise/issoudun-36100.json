@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Issoudun (36100), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 36 : Enjeux Locaux",
+    "content": "Le Centre-Val de Loire connaît des étés chauds. CPMI vous accompagne pour des solutions de climatisation performantes et éligibles aux aides locales."
+  },
+  "expertAdvice": "Un système bien dimensionné assure performance et économies durables.",
+  "advantages": [
+    "Installation rapide et soignée à Issoudun et ses environs",
+    "Maintenance préventive pour une durée de vie prolongée",
+    "Solutions sur mesure adaptées à vos besoins spécifiques"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 36.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Issoudun ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Issoudun ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

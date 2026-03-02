@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Eysines, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 33",
+    "content": "La Nouvelle-Aquitaine soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches pour bénéficier des aides disponibles à Eysines."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour chaque configuration à Eysines.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Eysines.",
+    "Solutions adaptées aux contraintes architecturales existantes.",
+    "Maintenance et dépannage assurés par nos techniciens qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels en Gironde.",
+  "faq": [
+    {
+      "question": "Normes à Eysines ?",
+      "answer": "Respect des normes ERP et accessibilité PMR en vigueur."
+    },
+    {
+      "question": "Délai à Eysines ?",
+      "answer": "Selon complexité."
+    },
+    {
+      "question": "SAV CPMI ?",
+      "answer": "SAV rapide et efficace pour minimiser l'arrêt de vos équipements."
+    }
+  ]
+}

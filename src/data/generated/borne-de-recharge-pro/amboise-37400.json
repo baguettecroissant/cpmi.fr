@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Amboise, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides à Amboise",
+    "content": "La région Centre-Val de Loire encourage l'électromobilité. CPMI vous guide dans les aides financières pour l'installation de bornes à Amboise."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés d'Amboise.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Amboise ?",
+      "answer": "CPMI adapte la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Amboise ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

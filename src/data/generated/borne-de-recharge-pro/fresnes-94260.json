@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Fresnes (94260), répondant à une demande croissante.",
+  "localContext": {
+    "title": "Transition Énergétique à Fresnes",
+    "content": "La région Île-de-France soutient activement l'électromobilité avec des aides financières. Fresnes s'engage pour un avenir plus vert et des infrastructures adaptées."
+  },
+  "expertAdvice": "Optimisez votre infrastructure et attirez les talents grâce à l'électromobilité.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Fresnes.",
+    "Solution complète : diagnostic, installation, maintenance.",
+    "Bornes adaptées à tous types de véhicules électriques."
+  ],
+  "pricingContext": "Nos tarifs pour professionnels à Fresnes sont compétitifs et transparents.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Fresnes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

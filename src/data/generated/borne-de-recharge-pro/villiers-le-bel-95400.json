@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Villiers Le Bel. Facilitez la transition énergétique !",
+  "localContext": {
+    "title": "Bornes 95 : Enjeux",
+    "content": "Le Val-d'Oise encourage la mobilité verte. Profitez des aides régionales pour l'installation de bornes et réduisez votre empreinte carbone localement."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec nos solutions sur-mesure.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés du 95",
+    "Installation rapide et conforme aux normes à Villiers Le Bel",
+    "Maintenance et SAV local pour une tranquillité optimale"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Val-d'Oise.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance aux besoins de vos employés/résidents."
+    },
+    {
+      "question": "Délai à Villiers Le Bel ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "Normes et maintenance ?",
+      "answer": "Respect des normes IRVE et maintenance préventive assurée."
+    }
+  ]
+}

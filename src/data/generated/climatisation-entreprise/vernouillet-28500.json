@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vernouillet, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Eure-et-Loir",
+    "content": "Le climat continental de Vernouillet exige des solutions de climatisation performantes. Profitez des aides régionales pour les entreprises en Centre-Val de Loire."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr pour un environnement de travail idéal.",
+  "advantages": [
+    "Installation rapide et efficace à Vernouillet (28500).",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 28.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon la superficie et l'activité."
+    },
+    {
+      "question": "Délai à Vernouillet ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (RT2012)."
+    }
+  ]
+}

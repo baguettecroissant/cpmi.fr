@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Ste Rose, Guadeloupe. Optimisez l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Guadeloupe",
+    "content": "Ste Rose bénéficie d'aides pour l'accessibilité des PMR. Le climat tropical exige des installations robustes et adaptées aux intempéries."
+  },
+  "expertAdvice": "Choisissez un matériel durable, adapté au climat et aux normes locales.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs et adaptés aux professionnels de Ste Rose.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Ste Rose ?",
+      "answer": "Obligatoire pour ERP, CPMI vous conseille sur les normes."
+    },
+    {
+      "question": "Délai à Ste Rose ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes AFNOR en vigueur."
+    }
+  ]
+}

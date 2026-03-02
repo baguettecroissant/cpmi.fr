@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Epinal, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Epinal : Accessibilité & Réglementation",
+    "content": "Le Grand Est soutient l'accessibilité des bâtiments. CPMI.fr vous guide à travers les aides financières et les normes en vigueur à Epinal."
+  },
+  "expertAdvice": "CPMI.fr : Expertise locale pour une installation durable et sécurisée.",
+  "advantages": [
+    "Connaissance des spécificités architecturales spinaliennes.",
+    "Intervention rapide et efficace dans le département 88.",
+    "Solutions sur-mesure pour bâtiments neufs ou rénovés."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels à Epinal et dans les Vosges.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, PMR, monte-charges industriels : CPMI.fr vous conseille."
+    },
+    {
+      "question": "Délai à Epinal ?",
+      "answer": "Devis rapide, installation selon vos contraintes."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

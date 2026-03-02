@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Pertuis, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité & Pertuis",
+    "content": "Profitez des subventions régionales pour l'amélioration de l'accessibilité. Le climat ensoleillé de Pertuis nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et professionnelle à Pertuis et alentours.",
+    "Solutions sur mesure pour tous types de bâtiments B2B.",
+    "Maintenance et dépannage assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le Vaucluse.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Pertuis ?",
+      "answer": "CPMI assure une conformité totale aux normes PMR."
+    },
+    {
+      "question": "Délai à Pertuis ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Vitrolles, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "Vitrolles bénéficie d'aides pour l'accessibilité des bâtiments. CPMI.fr vous accompagne dans vos projets d'élévation, adaptés au climat méditerranéen."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et durable.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Vitrolles.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Conformité : Respect des normes en vigueur (ERP, etc.)"
+  ],
+  "pricingContext": "CPMI.fr : Devis personnalisés et compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Vitrolles ?",
+      "answer": "CPMI.fr propose des solutions PMR certifiées."
+    },
+    {
+      "question": "Délai à Vitrolles ?",
+      "answer": "Délais rapides, sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité."
+    }
+  ]
+}

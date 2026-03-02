@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mende, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Mende",
+    "content": "La Lozère bénéficie d'aides pour la transition énergétique. Optimisez votre climatisation avec CPMI.fr pour un meilleur confort thermique."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts et l'impact environnemental.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Mende.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour les besoins industriels."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les pros du 48.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre installation sur-mesure."
+    },
+    {
+      "question": "Délai à Mende ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

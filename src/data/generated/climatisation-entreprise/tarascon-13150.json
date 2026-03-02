@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Tarascon, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Tarascon",
+    "content": "Le climat méditerranéen exige des solutions performantes. Profitez des aides locales pour une installation éco-responsable de votre climatisation."
+  },
+  "expertAdvice": "Un système adapté garantit performance et économies d'énergie.",
+  "advantages": [
+    "Installation rapide et efficace à Tarascon et alentours.",
+    "Maintenance experte pour une durabilité accrue.",
+    "Solutions sur mesure pour tous les besoins industriels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique gratuite pour un dimensionnement précis."
+    },
+    {
+      "question": "Délai à Tarascon ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

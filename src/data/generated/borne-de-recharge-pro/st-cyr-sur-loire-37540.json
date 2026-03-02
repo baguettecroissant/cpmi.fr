@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à St Cyr Sur Loire, un atout pour les entreprises et copropriétés locales.",
+  "localContext": {
+    "title": "Transition Énergétique",
+    "content": "La région Centre-Val de Loire soutient activement la mobilité électrique. Profitez des aides pour l'installation de bornes de recharge et valorisez votre image."
+  },
+  "expertAdvice": "Optimisez votre infrastructure et attirez de nouveaux clients avec une solution durable.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés à St Cyr.",
+    "Installation rapide par des experts certifiés IRVE.",
+    "Bornes adaptées à vos besoins spécifiques et à votre budget."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de recharge à St Cyr.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI vous conseille la solution adaptée à vos besoins."
+    },
+    {
+      "question": "Délai à St Cyr Sur Loire ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local réactif et bornes conformes aux normes en vigueur."
+    }
+  ]
+}

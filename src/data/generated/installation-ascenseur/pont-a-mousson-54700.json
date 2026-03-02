@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Pont-à-Mousson, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Réglementations",
+    "content": "Profitez des aides régionales Grand Est pour l'accessibilité. CPMI vous accompagne dans le respect des normes en vigueur à Pont-à-Mousson."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et efficace à Pont-à-Mousson.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon l'accessibilité ERP."
+    },
+    {
+      "question": "Délai à Pont A Mousson ?",
+      "answer": "Sur devis, variable."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF."
+    }
+  ]
+}

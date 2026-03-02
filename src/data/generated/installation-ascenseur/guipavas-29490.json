@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Guipavas, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Finistère",
+    "content": "Le Finistère soutient l'accessibilité des entreprises. CPMI vous accompagne pour bénéficier des aides régionales et adapter vos locaux aux normes."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Guipavas.",
+    "Solutions personnalisées pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 29.",
+  "faq": [
+    {
+      "question": "Normes à Guipavas ?",
+      "answer": "Respect des normes ERP et accessibilité PMR garanties."
+    },
+    {
+      "question": "Délai à Guipavas ?",
+      "answer": "Délais d'installation rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et mise aux normes continue."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Yvetot, pour faciliter l'accès à tous vos bâtiments.",
+  "localContext": {
+    "title": "Normandie Accessibilité",
+    "content": "Yvetot bénéficie d'aides régionales pour l'accessibilité des bâtiments. CPMI.fr vous accompagne dans vos démarches et s'adapte au climat normand."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Yvetot.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux professionnels du 76.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Yvetot ?",
+      "answer": "CPMI.fr assure une installation conforme aux normes PMR."
+    },
+    {
+      "question": "Délai à Yvetot ?",
+      "answer": "Devis et installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur en Normandie."
+    }
+  ]
+}

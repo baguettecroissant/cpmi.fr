@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Dourdan (91), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Dourdan",
+    "content": "Dourdan connaît des étés chauds. CPMI vous accompagne avec des solutions de climatisation adaptées aux besoins spécifiques des entreprises locales et aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Dourdan.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Dourdan et alentours.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales et réglementaires."
+  ],
+  "pricingContext": "Devis personnalisés pour climatisation industrielle et tertiaire dans le 91.",
+  "faq": [
+    {
+      "question": "Clim compatible RT2020 ?",
+      "answer": "Oui, nos solutions respectent les normes RT2020."
+    },
+    {
+      "question": "Délai à Dourdan ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local CPMI ?",
+      "answer": "SAV réactif et local, garantie de sérénité."
+    }
+  ]
+}

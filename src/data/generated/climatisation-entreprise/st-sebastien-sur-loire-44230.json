@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Sébastien Sur Loire, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 44 : Enjeux",
+    "content": "Le climat changeant en Pays de la Loire accentue le besoin de solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique et énergétique."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance et dépannage rapides à St Sébastien Sur Loire.",
+    "Optimisation énergétique et réduction de l'empreinte carbone."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Climatisation : quel intérêt localement ?",
+      "answer": "Amélioration du confort et de la productivité, conformité réglementaire."
+    },
+    {
+      "question": "Délai à St Sebastien Sur Loire ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et ERP."
+    }
+  ]
+}

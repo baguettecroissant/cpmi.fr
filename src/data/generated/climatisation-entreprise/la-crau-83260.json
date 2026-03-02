@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à La Crau. Performance et confort pour vos locaux.",
+  "localContext": {
+    "title": "Climatisation Optimale à La Crau",
+    "content": "Profitez d'aides régionales pour l'efficacité énergétique. Le climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de La Crau.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Une étude thermique précise dimensionne votre installation."
+    },
+    {
+      "question": "Délai à La Crau ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

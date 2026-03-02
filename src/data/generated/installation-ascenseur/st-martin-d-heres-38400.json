@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Martin D Heres, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides à l'accessibilité en Isère. Le climat montagnard impose des installations robustes et adaptées aux variations de température."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et durable.",
+  "advantages": [
+    "Installation rapide et respectueuse des normes locales.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez des devis compétitifs pour professionnels dans le 38.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Adapté à vos besoins : PMR, résidentiel, industriel."
+    },
+    {
+      "question": "Délai à St Martin D Heres ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP en vigueur."
+    }
+  ]
+}

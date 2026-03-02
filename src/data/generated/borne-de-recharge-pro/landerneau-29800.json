@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Landerneau pour entreprises et copropriétés, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Landerneau",
+    "content": "Le Finistère soutient l'électromobilité. Profitez des aides locales pour l'installation de bornes, un investissement durable pour votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux besoins spécifiques du Finistère.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Landerneau.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Adaptez la puissance à vos besoins réels."
+    },
+    {
+      "question": "Délai à Landerneau ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Aix-en-Provence, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité avec des aides financières. Aix bénéficie d'un ensoleillement idéal pour l'énergie solaire complémentaire."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide à Aix et ses environs.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Aix En Provence ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

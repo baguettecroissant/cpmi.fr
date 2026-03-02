@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Hayange, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Hayange",
+    "content": "Hayange bénéficie d'aides à l'amélioration de l'habitat. CPMI vous accompagne dans vos démarches pour faciliter l'installation."
+  },
+  "expertAdvice": "CPMI assure une installation conforme aux normes de sécurité en vigueur.",
+  "advantages": [
+    "Expertise locale à Hayange et réactivité.",
+    "Solutions sur-mesure pour chaque besoin.",
+    "Maintenance et dépannage rapides et efficaces."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet d'ascenseur ou monte-charge dans le 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Hayange ?",
+      "answer": "Solutions PMR complètes et adaptées aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Hayange ?",
+      "answer": "Selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide, respect des normes en Moselle."
+    }
+  ]
+}

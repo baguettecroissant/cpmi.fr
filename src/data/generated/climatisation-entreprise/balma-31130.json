@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Balma, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Balma",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Le climat chaud de Balma exige des solutions de climatisation fiables et adaptées."
+  },
+  "expertAdvice": "Un dimensionnement précis garantit efficacité et longévité de votre installation.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels à Balma.",
+    "Installation et maintenance par des experts certifiés en Occitanie.",
+    "Réduction de votre empreinte carbone grâce à des technologies performantes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Balma.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr réalise un bilan thermique précis pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Balma ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bagneux (92) pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Bagneux",
+    "content": "Bagneux, avec ses étés chauds, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort tout en respectant les normes environnementales."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par des experts locaux.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les entreprises du 92."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Bagneux.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Bagneux ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes RT2012 et ERP."
+    }
+  ]
+}

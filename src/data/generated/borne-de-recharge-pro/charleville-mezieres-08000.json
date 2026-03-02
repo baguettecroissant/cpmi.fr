@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Charleville-Mézières, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Grand Est Électrique",
+    "content": "La région Grand Est soutient activement la mobilité électrique. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone à Charleville."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un dimensionnement précis de votre infrastructure de recharge.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Charleville-Mézières.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance et SAV garantis pour une recharge fiable et durable."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour bornes de recharge adaptées à votre budget professionnel.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Charleville Mezieres ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes IRVE."
+    }
+  ]
+}

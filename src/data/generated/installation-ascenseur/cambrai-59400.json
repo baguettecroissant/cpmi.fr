@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Cambrai, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Cambrai",
+    "content": "Cambrai améliore l'accessibilité des bâtiments. CPMI vous accompagne pour bénéficier des aides régionales en Hauts-de-France, adaptées à vos besoins."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure et respect des normes en vigueur.",
+  "advantages": [
+    "Amélioration de l'accessibilité des bâtiments à Cambrai.",
+    "Installation rapide et efficace par des experts locaux.",
+    "Solutions adaptées aux contraintes architecturales existantes."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Normes à Cambrai ?",
+      "answer": "Respect strict des normes de sécurité et d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Cambrai ?",
+      "answer": "Délais rapides, adaptés à votre projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible pour une maintenance optimale."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Chennevières-sur-Marne, répondant aux besoins croissants des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Chennevières",
+    "content": "La région Île-de-France soutient activement la mobilité électrique. Profitez d'aides pour l'installation de bornes dans le Val-de-Marne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chennevières.",
+    "Solutions de recharge sur mesure pour entreprises et copropriétés.",
+    "Valorisation de votre patrimoine et engagement pour l'environnement."
+  ],
+  "pricingContext": "Prix compétitifs et solutions de financement adaptées aux entreprises du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance à l'usage de vos véhicules."
+    },
+    {
+      "question": "Délai à Chennevieres Sur Marne ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et conformité aux normes IRVE."
+    }
+  ]
+}

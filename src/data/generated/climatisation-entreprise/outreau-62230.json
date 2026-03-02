@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Outreau, garantissant confort et performance énergétique pour vos bâtiments.",
+  "localContext": {
+    "title": "Climat Outreau",
+    "content": "Outreau subit des variations climatiques importantes. CPMI vous aide à bénéficier des aides régionales pour une climatisation performante et économique."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation adaptée aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Installation rapide et efficace à Outreau et environs",
+    "Solutions sur-mesure pour industries et bureaux",
+    "Maintenance et dépannage 24/7 dans le Pas-de-Calais"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Outreau ?",
+      "answer": "CPMI propose des solutions adaptées au climat local et aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Outreau ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes HQE et RT2012."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Châlons-en-Champagne.",
+  "localContext": {
+    "title": "Ascenseurs à Châlons",
+    "content": "Bénéficiez des aides à l'adaptation du logement dans la Marne. Le climat champenois exige des installations robustes et fiables."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Châlons.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 51.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Châlons ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Chalons En Champagne ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

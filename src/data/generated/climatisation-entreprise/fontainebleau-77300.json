@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fontainebleau, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 77",
+    "content": "Fontainebleau connaît des étés chauds. CPMI vous aide à choisir une climatisation adaptée à vos besoins, en tenant compte des aides régionales disponibles."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et professionnelle à Fontainebleau et environs.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels.",
+    "Maintenance préventive pour prolonger la durée de vie de votre système."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation dans le 77.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Fontainebleau ?",
+      "answer": "CPMI vous conseille sur les solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à Fontainebleau ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

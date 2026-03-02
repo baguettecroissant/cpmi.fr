@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Onet Le Chateau, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Onet : Accessibilité & Réglementation",
+    "content": "Profitez des aides régionales Occitanie pour l'amélioration de l'habitat. CPMI vous accompagne dans la conformité aux normes d'accessibilité en vigueur."
+  },
+  "expertAdvice": "Optimisez l'espace et la performance de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et SAV de proximité garantis par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 12.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et contraintes."
+    },
+    {
+      "question": "Délai à Onet Le Chateau ?",
+      "answer": "Variable selon projet. Contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en Occitanie."
+    }
+  ]
+}

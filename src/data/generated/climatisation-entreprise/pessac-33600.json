@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Pessac, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 33",
+    "content": "La région Nouvelle-Aquitaine bénéficie d'aides pour l'efficacité énergétique. CPMI vous accompagne dans vos projets de climatisation à Pessac."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à Pessac et ses environs.",
+    "Solutions sur mesure pour les entreprises locales.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos locaux."
+    },
+    {
+      "question": "Délai à Pessac ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

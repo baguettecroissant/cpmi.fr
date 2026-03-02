@@ -1,0 +1,28 @@
+{
+  "introText": "Besoin d'un ascenseur ou monte-charge à Lourdes ? CPMI.fr, votre expert local, vous accompagne.",
+  "localContext": {
+    "title": "Accessibilité 65",
+    "content": "Lourdes bénéficie d'aides à l'accessibilité. CPMI.fr vous guide pour optimiser votre projet selon les normes locales et le climat pyrénéen."
+  },
+  "expertAdvice": "CPMI.fr : Solutions sur-mesure pour professionnels lourdais.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Lourdes.",
+    "Maintenance et dépannage assurés par nos techniciens.",
+    "Solutions adaptées à tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour le 65.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Lourdes ?",
+      "answer": "CPMI.fr assure la conformité PMR."
+    },
+    {
+      "question": "Délai à Lourdes ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

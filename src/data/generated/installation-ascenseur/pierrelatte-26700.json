@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Pierrelatte, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 26",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches pour bénéficier d'aides financières locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec CPMI, votre partenaire local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Pierrelatte.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 26.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Pierrelatte ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Pierrelatte ?",
+      "answer": "Délais rapides, nous consulter."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

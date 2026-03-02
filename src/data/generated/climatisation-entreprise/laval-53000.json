@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Laval (53) pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Laval : Enjeux",
+    "content": "Le climat changeant de la Mayenne nécessite des solutions de climatisation performantes. Profitez des aides locales pour l'efficacité énergétique des bâtiments tertiaires et industriels."
+  },
+  "expertAdvice": "Un système bien dimensionné est crucial pour la performance et la durabilité.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Laval et sa région.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Optimisation énergétique pour réduire vos coûts d'exploitation."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux budgets des entreprises mayennaises.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entrepôt à Laval ?",
+      "answer": "Étude personnalisée pour déterminer la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Laval ?",
+      "answer": "Intervention rapide : diagnostic sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

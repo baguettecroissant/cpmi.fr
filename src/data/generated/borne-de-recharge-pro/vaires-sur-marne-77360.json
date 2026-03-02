@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Vaires-sur-Marne, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Vaires-sur-Marne",
+    "content": "L'Île-de-France encourage l'électromobilité avec des aides financières. Profitez d'un climat favorable pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge adaptées à vos besoins.",
+  "advantages": [
+    "Valorisation immobilière accrue pour les copropriétés locales.",
+    "Réduction des coûts de carburant pour les employés.",
+    "Image d'entreprise éco-responsable renforcée."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Vaires-sur-Marne.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance à vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Vaires Sur Marne ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

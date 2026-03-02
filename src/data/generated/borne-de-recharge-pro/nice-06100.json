@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, ville dynamique et soucieuse de son environnement, l'installation de bornes de recharge pour véhicules électriques est devenue une nécessité pour les entreprises et copropriétés. CPMI.fr vous connecte avec des installateurs locaux qualifiés, capables de répondre aux besoins spécifiques de la région niçoise et de ses infrastructures.",
+  "localContext": {
+    "title": "Réglementations et Aides en Provence-Alpes-Côte D'Azur",
+    "content": "La région Provence-Alpes-Côte d'Azur, et Nice en particulier, bénéficie de plusieurs aides pour l'installation de bornes IRVE, cumulables avec les aides nationales. La ZFE de Nice impose des restrictions de circulation pour les véhicules les plus polluants, incitant à l'électrification. De plus, l'architecture variée de Nice, allant des bâtiments historiques aux constructions modernes, exige une expertise spécifique pour une installation conforme aux normes et respectueuse du patrimoine, notamment en zone ABF."
+  },
+  "expertAdvice": "Nous savons que l'installation de bornes de recharge à Nice exige une connaissance approfondie des spécificités locales. Des contraintes d'urbanisme aux particularités des réseaux électriques existants, en passant par les aides disponibles, nous vous mettons en relation avec des experts qui sauront vous conseiller et vous accompagner efficacement.",
+  "advantages": [
+    "Connaissance approfondie des spécificités du réseau électrique niçois.",
+    "Réactivité et suivi personnalisé pour les entreprises des Alpes-Maritimes.",
+    "Expertise dans l'installation en copropriétés et bâtiments tertiaires niçois."
+  ],
+  "pricingContext": "Dans les Alpes-Maritimes (06), les prix pour l'installation de bornes de recharge varient en fonction de la puissance, du nombre de points de charge et de la complexité de l'installation. En moyenne, les entreprises peuvent prévoir un budget allant de 1500€ à 5000€ par borne, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides spécifiques de la région Provence-Alpes-Côte d'Azur pour l'installation de bornes IRVE en entreprise ?",
+      "answer": "La région propose des dispositifs d'aides financières complémentaires aux aides nationales, notamment pour les entreprises et collectivités. Ces aides peuvent couvrir une partie des coûts d'installation et de raccordement, et sont soumises à conditions d'éligibilité."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'une borne de recharge pour une copropriété à Nice ?",
+      "answer": "Les délais peuvent varier en fonction de la complexité du projet, des autorisations nécessaires (notamment en zone ABF) et de la disponibilité des installateurs. En général, il faut compter entre 1 et 3 mois entre la demande de devis et la mise en service."
+    },
+    {
+      "question": "Qui prend en charge la maintenance et le SAV des bornes de recharge installées à Nice ?",
+      "answer": "CPMI.fr vous met en relation avec des installateurs locaux qui assurent la maintenance et le SAV des bornes installées. Des contrats de maintenance peuvent être proposés pour garantir le bon fonctionnement et la pérennité de votre installation."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Combs-la-Ville (77), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux Locaux",
+    "content": "Combs-la-Ville subit des étés chauds. CPMI vous aide à optimiser votre climatisation, en tenant compte des réglementations thermiques en vigueur en Île-de-France."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide à Combs-la-Ville et environs",
+    "Maintenance préventive pour une durée de vie accrue",
+    "Solutions sur mesure pour chaque type de bâtiment"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Un bilan thermique précis est nécessaire pour dimensionner correctement."
+    },
+    {
+      "question": "Délai à Combs La Ville ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

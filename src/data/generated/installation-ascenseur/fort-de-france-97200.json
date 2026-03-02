@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Fort-de-France, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Martinique",
+    "content": "Profitez des aides régionales pour l'adaptation des bâtiments. Le climat tropical exige des installations robustes et adaptées à l'humidité."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Expertise locale en ascenseurs et monte-charges",
+    "Solutions sur-mesure pour bâtiments existants",
+    "Maintenance rapide et efficace à Fort-de-France"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour l'installation de votre ascenseur ou monte-charge à Fort-de-France.",
+  "faq": [
+    {
+      "question": "Normes en Martinique ?",
+      "answer": "Respect des normes européennes et adaptation au climat local."
+    },
+    {
+      "question": "Délai à Fort De France ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et pièces détachées disponibles localement."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges à La Londe Les Maures, facilitant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Région",
+    "content": "La région PACA encourage l'accessibilité. CPMI vous accompagne dans vos projets d'installation en tenant compte du climat méditerranéen."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par des experts."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels du 83.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR La Londe ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à La Londe Les Maures ?",
+      "answer": "Délais rapides, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

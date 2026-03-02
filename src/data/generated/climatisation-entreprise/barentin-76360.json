@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Barentin, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Normand",
+    "content": "Barentin subit des étés chauds. CPMI vous aide à optimiser vos installations avec les aides régionales pour la transition énergétique."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore la productivité.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Barentin.",
+    "Installation et maintenance par des professionnels certifiés.",
+    "Réduction de la consommation énergétique de vos bâtiments."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Pourquoi une clim pro ?",
+      "answer": "Améliore le confort, la productivité et réduit les coûts énergétiques."
+    },
+    {
+      "question": "Délai à Barentin ?",
+      "answer": "Devis rapide, installation selon vos impératifs."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Andrézieux-Bouthéon.",
+  "localContext": {
+    "title": "Aides et climat",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. Le climat industriel local favorise les projets d'amélioration des bâtiments."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Connaissance approfondie des normes locales à Andrézieux-Bouthéon.",
+    "Solutions sur-mesure pour les entreprises de la région.",
+    "Installation rapide et efficace par des experts certifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et certains bâtiments existants."
+    },
+    {
+      "question": "Délai à Andrezieux Boutheon ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

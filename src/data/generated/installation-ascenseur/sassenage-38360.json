@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Sassenage, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 38",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches d'installation et de conformité à Sassenage."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Sassenage.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 38.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Sassenage ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Sassenage ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

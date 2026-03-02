@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Vichy, contribuant à une mobilité durable.",
+  "localContext": {
+    "title": "Vichy et l'électrique",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. Des aides locales peuvent réduire le coût de votre installation de borne à Vichy."
+  },
+  "expertAdvice": "Optimisez votre installation avec un diagnostic précis de vos besoins énergétiques.",
+  "advantages": [
+    "Solution de recharge adaptée aux besoins spécifiques de votre entreprise.",
+    "Valorisation de votre image d'entreprise éco-responsable.",
+    "Installation conforme aux normes en vigueur à Vichy."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans l'Allier.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Vichy ?",
+      "answer": "Adaptez la puissance selon vos véhicules et leur utilisation quotidienne."
+    },
+    {
+      "question": "Délai à Vichy ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Nous assurons un SAV réactif et le respect des normes IRVE."
+    }
+  ]
+}

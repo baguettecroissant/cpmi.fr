@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Onet-le-Château, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Optimale à Onet",
+    "content": "Profitez des aides régionales pour l'efficacité énergétique. Un climat maîtrisé est essentiel pour la productivité des entreprises aveyronnaises."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation rapide et efficace par des experts locaux.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 12.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Onet Le Chateau ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

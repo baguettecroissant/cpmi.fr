@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Septèmes-les-Vallons pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique 13",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. CPMI vous accompagne pour les aides disponibles et l'installation de vos bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Septèmes-les-Vallons.",
+    "Solutions de recharge sur mesure pour entreprises et copropriétés.",
+    "Gestion énergétique optimisée pour réduire vos coûts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Septemes Les Vallons ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

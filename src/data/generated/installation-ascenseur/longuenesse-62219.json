@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Longuenesse, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et Région",
+    "content": "Longuenesse bénéficie de dispositifs régionaux pour l'accessibilité. CPMI vous guide à travers les aides disponibles pour vos projets d'installation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Expertise locale en ascenseurs et monte-charges à Longuenesse.",
+    "Solutions sur mesure pour les entreprises du Pas-de-Calais.",
+    "Respect des normes d'accessibilité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés pour professionnels à Longuenesse et ses environs.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Longuenesse ?",
+      "answer": "CPMI installe des ascenseurs conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Longuenesse ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes régionales en vigueur."
+    }
+  ]
+}

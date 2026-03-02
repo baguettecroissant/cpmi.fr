@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Villepreux, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Villepreux",
+    "content": "Villepreux soutient l'accessibilité. Des aides locales peuvent faciliter l'installation d'ascenseurs et monte-charges pour les entreprises et bâtiments publics."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien avec CPMI.",
+  "advantages": [
+    "Expertise locale à Villepreux et dans les Yvelines.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans le 78.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce à Villepreux ?",
+      "answer": "CPMI vous conseille sur le modèle adapté."
+    },
+    {
+      "question": "Délai à Villepreux ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

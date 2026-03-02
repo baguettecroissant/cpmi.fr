@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Morne-à-l'Eau, contribuant à la mobilité durable.",
+  "localContext": {
+    "title": "Guadeloupe : Éco-mobilité",
+    "content": "La région encourage l'électrification des flottes avec des subventions. Le climat tropical favorise l'adoption des véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr pour un avenir énergétique durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour besoins spécifiques.",
+    "Réduction des coûts énergétiques à long terme."
+  ],
+  "pricingContext": "CPMI.fr propose des solutions de bornes de recharge adaptées aux budgets des professionnels du 971.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules."
+    },
+    {
+      "question": "Délai à Morne A L Eau ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

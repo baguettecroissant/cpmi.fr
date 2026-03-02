@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Jean (31240).",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides locales pour l'accessibilité. Le climat occitan favorise des installations durables et performantes."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Jean.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Jean ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à St Jean ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible à St Jean."
+    }
+  ]
+}

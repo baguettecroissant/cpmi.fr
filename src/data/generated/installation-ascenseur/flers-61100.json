@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Flers, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Flers : Enjeux Locaux",
+    "content": "La Normandie encourage l'accessibilité. Des aides existent pour faciliter l'installation d'ascenseurs, améliorant le confort de vie et l'attractivité locale."
+  },
+  "expertAdvice": "Optimisez l'espace et choisissez un modèle adapté à vos besoins spécifiques à Flers.",
+  "advantages": [
+    "Accompagnement personnalisé à Flers pour votre projet.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis précis et compétitif pour votre installation à Flers (61).",
+  "faq": [
+    {
+      "question": "Ascenseur : quel espace minimum ?",
+      "answer": "L'espace varie selon le modèle ; CPMI vous conseille."
+    },
+    {
+      "question": "Délai à Flers ?",
+      "answer": "Varie selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur à Flers."
+    }
+  ]
+}

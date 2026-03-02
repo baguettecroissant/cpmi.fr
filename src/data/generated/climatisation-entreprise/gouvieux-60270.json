@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Gouvieux, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat Gouvieux",
+    "content": "Gouvieux, soumis aux variations climatiques, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne dans le choix de systèmes adaptés et éligibles aux aides."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Gouvieux.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de votre empreinte carbone et de vos coûts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 60.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Gouvieux ?",
+      "answer": "Étude thermique précise pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Gouvieux ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans l'Oise."
+    }
+  ]
+}

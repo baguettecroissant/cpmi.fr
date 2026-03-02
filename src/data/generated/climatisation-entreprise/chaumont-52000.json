@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chaumont, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Chaumont",
+    "content": "Le climat continental de Chaumont exige des systèmes performants. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une solution adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et professionnelle dans tout le 52.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions éco-responsables pour réduire votre empreinte."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Chaumont.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Chaumont ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

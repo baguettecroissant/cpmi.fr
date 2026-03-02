@@ -1,0 +1,28 @@
+{
+  "introText": "Nantes, métropole dynamique des Pays de la Loire, connaît une forte croissance de son parc automobile électrique. Pour les entreprises et copropriétés, l'installation de bornes de recharge devient un atout majeur, répondant aux besoins de mobilité durable des collaborateurs et résidents, tout en valorisant votre image et votre engagement environnemental.",
+  "localContext": {
+    "title": "Réglementations, Aides et Spécificités Nantaises",
+    "content": "L'installation de bornes IRVE à Nantes est soumise au Plan Local d'Urbanisme (PLU) de la métropole, avec des règles spécifiques selon les zones. La région Pays de la Loire propose des aides financières, cumulables avec les dispositifs nationaux (ADVENIR), pour encourager l'électromobilité. Nantes Métropole est particulièrement attentive à l'intégration paysagère des bornes, notamment dans les zones protégées et le long de la Loire, où des autorisations spécifiques peuvent être nécessaires."
+  },
+  "expertAdvice": "Nous savons que chaque installation à Nantes est unique. L'ancienneté de certains bâtiments, les spécificités du réseau électrique local, et les exigences esthétiques de la ville nécessitent une expertise pointue. Faire appel à un installateur local comme ceux référencés sur CPMI.fr, c'est s'assurer d'une installation conforme, durable et adaptée à vos besoins.",
+  "advantages": [
+    "Maîtrise des contraintes architecturales du centre-ville de Nantes.",
+    "Accompagnement personnalisé pour les entreprises de Loire-Atlantique.",
+    "Adaptation aux variations climatiques (humidité, vents) pour une durabilité accrue."
+  ],
+  "pricingContext": "Le coût d'installation d'une borne de recharge pour entreprises et copropriétés à Nantes varie en fonction de la puissance, du nombre de points de charge et de la complexité des travaux. En moyenne, comptez entre 1500€ et 5000€ par point de charge, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales spécifiques pour l'installation de bornes IRVE en Pays de la Loire ?",
+      "answer": "La région Pays de la Loire propose des subventions pour les entreprises et collectivités, cumulables avec le programme ADVENIR, visant à réduire le coût d'installation des bornes et à encourager l'électromobilité sur le territoire."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'une borne de recharge à Nantes pour une entreprise ou une copropriété ?",
+      "answer": "Les délais varient en fonction de la complexité du projet (étude électrique, travaux de génie civil, raccordement). En moyenne, comptez entre 4 et 8 semaines après validation du devis et obtention des autorisations nécessaires."
+    },
+    {
+      "question": "Quelles sont les normes de maintenance à respecter pour une borne de recharge installée à Nantes ?",
+      "answer": "Il est crucial de réaliser une maintenance préventive annuelle pour garantir le bon fonctionnement et la sécurité de vos bornes. Cela inclut le contrôle des connexions, la vérification des dispositifs de sécurité et la mise à jour des logiciels."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Bolbec, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Aides et Normandie",
+    "content": "La Normandie soutient l'électromobilité. CPMI.fr vous guide à Bolbec pour obtenir les aides à l'installation de bornes de recharge et réduire vos coûts."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI.fr, expert en solutions de recharge à Bolbec.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bolbec.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour l'installation de bornes de recharge dans le 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Bolbec ?",
+      "answer": "CPMI.fr dimensionne votre borne selon vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à Bolbec ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI.fr assure un SAV réactif pour votre borne à Bolbec."
+    }
+  ]
+}

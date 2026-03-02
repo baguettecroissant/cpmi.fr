@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Avon pour les entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Avon : Électromobilité",
+    "content": "La région Île-de-France soutient activement l'installation de bornes. Profitez d'aides financières pour votre projet de recharge à Avon."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un dimensionnement précis de vos bornes.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Avon.",
+    "Solutions sur mesure pour chaque besoin d'entreprise.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour Avon (77).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Avon ?",
+      "answer": "Adaptez la puissance à votre flotte et usage."
+    },
+    {
+      "question": "Délai à Avon ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Norme et SAV ?",
+      "answer": "Installation conforme IRVE et SAV local réactif."
+    }
+  ]
+}

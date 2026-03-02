@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge à Mouvaux, pour une mobilité électrique facilitée en entreprise et copropriété.",
+  "localContext": {
+    "title": "Électromobilité à Mouvaux",
+    "content": "Les Hauts-de-France encouragent l'installation de bornes. Profitez des aides régionales pour une transition énergétique réussie dans votre entreprise ou copropriété."
+  },
+  "expertAdvice": "Optimisez votre installation avec un dimensionnement précis selon vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Mouvaux.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels dans le Nord (59), devis sur mesure.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Mouvaux ?",
+      "answer": "Adaptée à vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Mouvaux ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

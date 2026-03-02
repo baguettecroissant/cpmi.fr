@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Lillers (62190), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Lillers",
+    "content": "Le climat des Hauts-de-France exige une climatisation performante. Profitez d'aides locales pour optimiser votre installation tertiaire ou industrielle."
+  },
+  "expertAdvice": "Un entretien régulier prolonge la durée de vie de votre installation.",
+  "advantages": [
+    "Solutions sur-mesure pour les professionnels de Lillers.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de vos coûts énergétiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Lillers.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Lillers ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur dans le Pas-de-Calais."
+    }
+  ]
+}

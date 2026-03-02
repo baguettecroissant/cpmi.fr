@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, le confort thermique des espaces tertiaires et industriels est crucial. CPMI.fr vous connecte avec des installateurs locaux experts en climatisation. Face à un climat méditerranéen exigeant et un tissu économique dynamique, une solution de climatisation adaptée est un investissement pour la productivité et le bien-être de vos équipes.",
+  "localContext": {
+    "title": "Réglementations Thermiques et Opportunités à Nice et en PACA",
+    "content": "Nice, soumise à un fort ensoleillement, est particulièrement concernée par les réglementations thermiques. Le Plan Local d'Urbanisme (PLU) de Nice impose des normes strictes en matière d'efficacité énergétique pour les nouvelles constructions et rénovations. De plus, la région Provence-Alpes-Côte d'Azur propose des aides financières pour les entreprises qui investissent dans des systèmes de climatisation performants et respectueux de l'environnement. La ZFE de Nice pourrait également impacter le choix des équipements en fonction de leur consommation énergétique."
+  },
+  "expertAdvice": "Nous savons que chaque entreprise à Nice a des besoins spécifiques. C'est pourquoi il est essentiel de choisir un installateur qui comprend les enjeux locaux, les contraintes architecturales niçoises (bâtiments anciens, constructions modernes) et les réglementations en vigueur. Un expert local vous garantit une installation optimale et durable.",
+  "advantages": [
+    "Connaissance approfondie du PLU et des exigences architecturales de Nice.",
+    "Intervention rapide et efficace sur l'ensemble du département des Alpes-Maritimes.",
+    "Expertise en climatisation adaptée aux spécificités des bâtiments tertiaires et industriels niçois."
+  ],
+  "pricingContext": "En moyenne, pour les entreprises et copropriétés des Alpes-Maritimes (06), le coût d'une installation de climatisation tertiaire ou industrielle varie en fonction de la surface, du type de système et des contraintes du bâtiment. Comptez entre 500€ et 1200€ par kW installé.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Provence-Alpes-Côte d'Azur pour l'installation de climatisation dans les entreprises ?",
+      "answer": "La région PACA propose des dispositifs d'aides à la rénovation énergétique des bâtiments, incluant parfois des subventions pour l'installation de systèmes de climatisation performants. Renseignez-vous auprès de la Chambre de Commerce et d'Industrie (CCI) Nice Côte d'Azur."
+    },
+    {
+      "question": "Quels sont les délais typiques pour l'installation d'un système de climatisation dans un bâtiment tertiaire à Nice ?",
+      "answer": "Les délais varient en fonction de la complexité du projet et de la disponibilité des équipements. En général, il faut compter entre 2 à 8 semaines, de la phase d'étude à la mise en service, pour un projet standard à Nice."
+    },
+    {
+      "question": "Quelles sont les normes spécifiques à respecter pour la maintenance d'un système de climatisation à Nice ?",
+      "answer": "La maintenance des systèmes de climatisation est soumise à des réglementations strictes concernant la manipulation des fluides frigorigènes et le contrôle d'étanchéité. Un contrat de maintenance avec un professionnel certifié est fortement recommandé."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Chauny, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Réglementation à Chauny",
+    "content": "Bénéficiez d'aides locales pour l'accessibilité PMR. CPMI connaît les spécificités des Hauts-de-France et les normes en vigueur à Chauny."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chauny.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs dans tout le département 02."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 02.",
+  "faq": [
+    {
+      "question": "Normes à Chauny ?",
+      "answer": "CPMI assure la conformité avec les normes ERP locales."
+    },
+    {
+      "question": "Délai à Chauny ?",
+      "answer": "Délais rapides, variables selon le projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV disponible rapidement à Chauny et ses environs."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés aux Lilas, améliorant l'accès à la mobilité électrique.",
+  "localContext": {
+    "title": "Bornes aux Lilas",
+    "content": "Île-de-France : aides pour l'installation de bornes. CPMI.fr facilite votre transition énergétique avec des solutions adaptées au climat local."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, experts aux Lilas.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés aux Lilas.",
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Valorisation de votre patrimoine et engagement environnemental fort."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Les Lilas ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

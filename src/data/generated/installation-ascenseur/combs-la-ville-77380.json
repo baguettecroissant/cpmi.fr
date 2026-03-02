@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Combs-la-Ville, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 77",
+    "content": "Combs-la-Ville bénéficie d'aides régionales pour l'accessibilité. CPMI.fr vous guide dans vos démarches et s'adapte au climat francilien."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec une installation professionnelle et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Combs-la-Ville.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactif pour une sérénité durable."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs et transparents pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Normes à Combs ?",
+      "answer": "Respect des normes ERP et PMR en vigueur pour votre sécurité."
+    },
+    {
+      "question": "Délai à Combs La Ville ?",
+      "answer": "Devis rapide, installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité locales."
+    }
+  ]
+}

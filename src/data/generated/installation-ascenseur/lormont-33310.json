@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Lormont, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Lormont & Mobilité",
+    "content": "Lormont bénéficie d'aides à l'accessibilité. CPMI adapte ses installations aux spécificités de la région Nouvelle-Aquitaine."
+  },
+  "expertAdvice": "Sécurité et optimisation : un ascenseur CPMI valorise votre bien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Lormont.",
+    "Solutions personnalisées pour bâtiments existants et neufs.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels en Gironde.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Lormont ?",
+      "answer": "CPMI assure une installation conforme PMR."
+    },
+    {
+      "question": "Délai à Lormont ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

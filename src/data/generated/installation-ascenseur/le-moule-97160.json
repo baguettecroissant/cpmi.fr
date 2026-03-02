@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges au Moule, Guadeloupe.",
+  "localContext": {
+    "title": "Accessibilité Guadeloupe",
+    "content": "Le climat tropical humide du Moule exige des installations robustes. CPMI.fr vous accompagne dans les démarches d'aide à l'accessibilité en Guadeloupe."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien au Moule.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 971.",
+  "faq": [
+    {
+      "question": "Ascenseur adapté au climat ?",
+      "answer": "Oui, nos modèles sont conçus pour résister à l'humidité."
+    },
+    {
+      "question": "Délai à Le Moule ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur en Guadeloupe."
+    }
+  ]
+}

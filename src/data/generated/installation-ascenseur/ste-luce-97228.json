@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Ste Luce, Martinique.",
+  "localContext": {
+    "title": "Adaptation Climatique",
+    "content": "À Ste Luce, l'installation doit tenir compte de l'humidité. CPMI.fr vous conseille sur les normes anticycloniques et aides régionales."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et conforme aux normes locales.",
+  "advantages": [
+    "Installation rapide et professionnelle à Ste Luce.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés et compétitifs pour les professionnels à Ste Luce.",
+  "faq": [
+    {
+      "question": "Ascenseur adapté PMR ?",
+      "answer": "Oui, CPMI.fr propose des solutions PMR conformes."
+    },
+    {
+      "question": "Délai à Ste Luce ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes martiniquaises."
+    }
+  ]
+}

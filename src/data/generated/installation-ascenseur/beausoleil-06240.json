@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Beausoleil, pour faciliter l'accès à tous les bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs 06 : Spécificités Locales",
+    "content": "Beausoleil bénéficie de subventions pour l'accessibilité. Le climat méditerranéen exige des ascenseurs résistants à la corrosion et aux variations de température."
+  },
+  "expertAdvice": "Choisissez un matériel adapté au relief de Beausoleil.",
+  "advantages": [
+    "Installation rapide respectant les normes locales à Beausoleil.",
+    "Solutions sur-mesure pour les bâtiments existants.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels à Beausoleil.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Beausoleil ?",
+      "answer": "CPMI.fr installe des ascenseurs conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Beausoleil ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur à Beausoleil."
+    }
+  ]
+}

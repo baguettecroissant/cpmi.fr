@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Chantilly, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Chantilly & Accessibilité",
+    "content": "Profitez des aides régionales pour l'amélioration de l'habitat. CPMI s'adapte aux contraintes architecturales de Chantilly et ses environs."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour chaque projet.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés dans le 60.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Chantilly ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure et certifiées."
+    },
+    {
+      "question": "Délai à Chantilly ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans l'Oise."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Hénin-Beaumont, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 62",
+    "content": "Hénin-Beaumont bénéficie d'aides à l'accessibilité. Le climat des Hauts-de-France exige des installations robustes et durables."
+  },
+  "expertAdvice": "Privilégiez un matériel adapté aux contraintes locales.",
+  "advantages": [
+    "Connaissance des normes d'accessibilité à Hénin-Beaumont.",
+    "Installation rapide et efficace par CPMI.",
+    "Maintenance assurée dans tout le département 62."
+  ],
+  "pricingContext": "Nos tarifs sont adaptés aux professionnels du Pas-de-Calais.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité ERP à Hénin-Beaumont."
+    },
+    {
+      "question": "Délai à Henin Beaumont ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF et ERP."
+    }
+  ]
+}

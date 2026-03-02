@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villepreux (78450), pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Villepreux",
+    "content": "Villepreux, avec son climat variable, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Villepreux et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Villepreux ?",
+      "answer": "Analyse personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Villepreux ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

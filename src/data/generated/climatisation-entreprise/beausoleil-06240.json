@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Beausoleil, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Beausoleil",
+    "content": "Bénéficiez des aides locales pour l'installation de systèmes performants. Le climat méditerranéen exige une climatisation adaptée aux professionnels."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et efficace.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Beausoleil.",
+    "Maintenance rapide et fiable par des experts.",
+    "Respect des normes environnementales et énergétiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Beausoleil ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

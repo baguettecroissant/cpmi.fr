@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Woippy, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Woippy : Enjeux",
+    "content": "Le climat continental de Woippy exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un système adapté garantit confort et performance durable pour votre activité.",
+  "advantages": [
+    "Expertise locale pour les besoins spécifiques du Grand Est.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance et dépannage rapides à Woippy et environs."
+  ],
+  "pricingContext": "Nos prix sont adaptés aux professionnels du secteur à Woippy (57).",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée pour un système adapté à vos locaux."
+    },
+    {
+      "question": "Délai à Woippy ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le 57."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Yzeure, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 03",
+    "content": "À Yzeure, CPMI.fr vous conseille sur les aides régionales pour l'efficacité énergétique. Maîtrisez le climat de vos locaux face aux étés chauds."
+  },
+  "expertAdvice": "Optimisez vos installations avec un diagnostic précis de CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à Yzeure et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels de l'Allier.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Yzeure ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

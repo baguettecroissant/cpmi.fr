@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Narbonne, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat Narbonne",
+    "content": "Narbonne subit des étés chauds. CPMI vous aide à bénéficier des aides régionales pour une climatisation performante et éco-responsable."
+  },
+  "expertAdvice": "Un système adapté réduit les coûts et améliore la productivité.",
+  "advantages": [
+    "Installation rapide et efficace à Narbonne et ses environs.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 11.",
+  "faq": [
+    {
+      "question": "Type de climatisation ?",
+      "answer": "Systèmes VRV, rooftops, pompes à chaleur air/air et air/eau."
+    },
+    {
+      "question": "Délai à Narbonne ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

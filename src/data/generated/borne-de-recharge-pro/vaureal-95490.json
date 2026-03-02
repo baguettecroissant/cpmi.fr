@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation de bornes de recharge à Vaureal, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "Vaureal et l'Île-de-France soutiennent l'installation de bornes. Profitez des subventions pour réduire vos coûts et valoriser votre engagement environnemental."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide à Vaureal et environs.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité."
+  ],
+  "pricingContext": "Tarifs compétitifs et personnalisés pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Vaureal ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

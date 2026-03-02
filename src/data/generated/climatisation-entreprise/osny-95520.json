@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Osny, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat Osny : Enjeux",
+    "content": "Osny, avec son climat variable, nécessite des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre efficacité énergétique, en tenant compte des réglementations locales."
+  },
+  "expertAdvice": "Un système bien dimensionné est crucial pour éviter les surconsommations.",
+  "advantages": [
+    "Solutions sur-mesure pour locaux tertiaires et industriels à Osny",
+    "Installation et maintenance par des experts certifiés",
+    "Réduction des coûts énergétiques grâce à des systèmes performants"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Osny.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Osny ?",
+      "answer": "Nous dimensionnons selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Osny ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Nous respectons les normes environnementales et de sécurité."
+    }
+  ]
+}

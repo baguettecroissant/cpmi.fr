@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert local pour l'installation d'ascenseurs et monte-charges à Rixheim, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Rixheim",
+    "content": "Profitez des aides à l'adaptation du logement dans le Haut-Rhin. CPMI s'adapte aux contraintes architecturales locales pour une installation optimale."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Rixheim.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 68.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Rixheim ?",
+      "answer": "CPMI installe des ascenseurs adaptés aux normes PMR."
+    },
+    {
+      "question": "Délai à Rixheim ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

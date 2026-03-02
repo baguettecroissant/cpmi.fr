@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, le confort thermique des espaces tertiaires et industriels est primordial. Le dynamisme économique de la ville, combiné à un climat méditerranéen chaud, exige des solutions de climatisation performantes et adaptées. CPMI.fr vous connecte avec des installateurs locaux experts pour répondre à ces besoins spécifiques.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Niçoises pour la Climatisation",
+    "content": "Nice, avec son Plan Local d'Urbanisme (PLU), impose des règles strictes en matière d'esthétique urbaine et d'intégration des équipements, notamment pour les bâtiments situés dans les zones protégées ou à proximité des monuments historiques. La région Provence-Alpes-Côte d'Azur propose des aides financières pour encourager l'installation de systèmes de climatisation performants et respectueux de l'environnement, comme des primes pour les pompes à chaleur air-air ou air-eau à haute efficacité énergétique. Les entreprises doivent aussi anticiper les évolutions de la ZFE (Zone à Faibles Émissions) et privilégier des solutions à faible impact environnemental."
+  },
+  "expertAdvice": "Nous savons que l'installation de climatisation tertiaire et industrielle à Nice nécessite une connaissance approfondie des contraintes locales. Choisir un installateur référencé sur CPMI.fr, c'est s'assurer d'une expertise pointue des normes urbanistiques niçoises, des aides régionales disponibles, et des spécificités techniques liées aux bâtiments locaux.",
+  "advantages": [
+    "Connaissance approfondie du PLU et des contraintes architecturales de Nice.",
+    "Réactivité et disponibilité garanties sur l'ensemble du département des Alpes-Maritimes (06).",
+    "Expertise des systèmes de climatisation adaptés aux bâtiments anciens et modernes de Nice."
+  ],
+  "pricingContext": "En moyenne, pour une installation de climatisation tertiaire ou industrielle à Nice (06), les prix varient en fonction de la surface, de la complexité du système et des contraintes du bâtiment. Comptez entre 80€ et 200€ par mètre carré, installation comprise, pour une solution standard.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Provence-Alpes-Côte d'Azur pour l'installation de climatisation dans les locaux professionnels ?",
+      "answer": "La région propose des aides pour les entreprises investissant dans des systèmes de climatisation performants, notamment les pompes à chaleur. Le montant et les conditions d'éligibilité varient, il est donc conseillé de se renseigner auprès des services régionaux ou de la CCI."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation de climatisation à prendre en compte dans le centre-ville de Nice ?",
+      "answer": "Le centre-ville de Nice est soumis à des règles d'urbanisme strictes. Il est crucial de respecter les contraintes architecturales et d'obtenir les autorisations nécessaires avant d'installer un système de climatisation, notamment en zone ABF (Architecte des Bâtiments de France)."
+    },
+    {
+      "question": "Comment assurer la maintenance et le SAV de mon installation de climatisation à Nice ?",
+      "answer": "CPMI.fr vous met en relation avec des installateurs locaux proposant des contrats de maintenance adaptés à vos besoins. Un entretien régulier est essentiel pour garantir la performance et la longévité de votre installation, ainsi que pour respecter les normes en vigueur."
+    }
+  ]
+}

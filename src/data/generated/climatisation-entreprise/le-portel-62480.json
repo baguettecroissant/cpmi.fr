@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Portel, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat Portelois",
+    "content": "Le climat maritime du Portel exige des solutions de climatisation performantes. CPMI vous accompagne avec des installations adaptées et éligibles aux aides régionales."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à votre activité.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du Portel.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de votre empreinte carbone locale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation au 62.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau au Portel ?",
+      "answer": "CPMI vous conseille sur les solutions les plus adaptées."
+    },
+    {
+      "question": "Délai à Le Portel ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

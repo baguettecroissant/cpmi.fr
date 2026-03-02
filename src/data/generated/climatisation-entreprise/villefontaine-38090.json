@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Villefontaine, pour un confort optimal de vos locaux professionnels.",
+  "localContext": {
+    "title": "Climat Villefontaine",
+    "content": "Villefontaine subit des étés chauds. CPMI vous accompagne pour des solutions de climatisation performantes et éligibles aux aides régionales pour entreprises."
+  },
+  "expertAdvice": "Optimisez votre productivité avec une climatisation adaptée.",
+  "advantages": [
+    "Installation rapide par nos équipes locales à Villefontaine.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 38.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Nous dimensionnons selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Villefontaine ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

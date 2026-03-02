@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Yvetot, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Optimale à Yvetot",
+    "content": "Yvetot, en Normandie, bénéficie d'aides pour l'efficacité énergétique. CPMI adapte ses solutions aux variations climatiques locales pour un confort maximal."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts et votre impact environnemental.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Yvetot.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Yvetot ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

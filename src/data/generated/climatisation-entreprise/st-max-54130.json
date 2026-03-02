@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Max, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à St Max",
+    "content": "Bénéficiez des aides locales pour la transition énergétique de vos bâtiments. Le climat continental nécessite des solutions de climatisation performantes."
+  },
+  "expertAdvice": "Optimisez votre consommation énergétique avec nos solutions sur mesure.",
+  "advantages": [
+    "Solutions adaptées aux besoins spécifiques des entreprises locales.",
+    "Installation et maintenance rapides et efficaces.",
+    "Conformité aux normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "Notre étude thermique détermine la puissance idéale."
+    },
+    {
+      "question": "Délai à St Max ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des réglementations en vigueur."
+    }
+  ]
+}

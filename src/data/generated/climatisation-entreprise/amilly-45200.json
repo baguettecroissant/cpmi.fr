@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Amilly, pour un confort optimal et une productivité accrue.",
+  "localContext": {
+    "title": "Climatisation : Enjeux locaux",
+    "content": "Le climat du Centre-Val de Loire exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Respect des normes environnementales et réglementaires."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Amilly.",
+  "faq": [
+    {
+      "question": "Climatisation idéale ?",
+      "answer": "Adaptée à vos contraintes et à votre budget."
+    },
+    {
+      "question": "Délai à Amilly ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Alès, Occitanie. Solutions sur-mesure pour professionnels.",
+  "localContext": {
+    "title": "Climatisation Durable à Alès",
+    "content": "Alès, avec son climat méditerranéen, exige des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Alès et ses environs.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux spécificités industrielles."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 30.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Alès ?",
+      "answer": "Analyse de vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Ales ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

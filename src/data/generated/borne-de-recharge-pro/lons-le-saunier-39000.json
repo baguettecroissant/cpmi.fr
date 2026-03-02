@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Lons-le-Saunier, favorisant la mobilité verte en entreprise et copropriété.",
+  "localContext": {
+    "title": "Bornes à Lons : Transition Énergétique",
+    "content": "Le Jura encourage l'électromobilité. Des aides régionales facilitent l'installation de bornes pour les entreprises et copropriétés à Lons-le-Saunier et alentours."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins locaux.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 39.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise à Lons ?",
+      "answer": "Analyse personnalisée pour un choix optimal."
+    },
+    {
+      "question": "Délai à Lons Le Saunier ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes en vigueur."
+    }
+  ]
+}

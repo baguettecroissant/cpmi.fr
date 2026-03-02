@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Tarnos, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 40",
+    "content": "Tarnos, avec son climat océanique, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour l'installation de systèmes éco-énergétiques."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et professionnelle à Tarnos et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure adaptées aux besoins industriels et tertiaires."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 40.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Tarnos ?",
+      "answer": "Dimensionnement précis selon vos locaux."
+    },
+    {
+      "question": "Délai à Tarnos ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

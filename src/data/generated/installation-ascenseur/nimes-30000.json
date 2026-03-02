@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Nîmes, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Nîmoise",
+    "content": "Nîmes encourage l'accessibilité PMR. Profitez du climat ensoleillé pour moderniser vos bâtiments avec des solutions d'élévation durables."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Nîmes.",
+    "Solutions sur mesure pour tous types de bâtiments professionnels.",
+    "Maintenance et SAV réactifs dans tout le département du Gard."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 30.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Nîmes ?",
+      "answer": "CPMI : solutions d'accessibilité conformes aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Nimes ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes d'accessibilité à Nîmes."
+    }
+  ]
+}

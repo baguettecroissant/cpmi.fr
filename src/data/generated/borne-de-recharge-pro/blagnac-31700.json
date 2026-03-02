@@ -1,0 +1,28 @@
+{
+  "introText": "À Blagnac, CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Transition énergétique à Blagnac",
+    "content": "La région Occitanie soutient activement l'électromobilité. Profitez des aides locales pour réduire vos coûts d'installation et verdir votre flotte."
+  },
+  "expertAdvice": "CPMI.fr : L'expertise locale pour une installation optimale et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Blagnac.",
+    "Solutions sur mesure pour flottes d'entreprise et copropriétés.",
+    "Maintenance et SAV assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Blagnac.",
+  "faq": [
+    {
+      "question": "Aides à Blagnac ?",
+      "answer": "Subventions régionales et nationales disponibles pour les entreprises."
+    },
+    {
+      "question": "Délai à Blagnac ?",
+      "answer": "Installation sous 4 à 8 semaines."
+    },
+    {
+      "question": "Norme locale ?",
+      "answer": "Respect des normes IRVE et des spécificités locales à Blagnac."
+    }
+  ]
+}

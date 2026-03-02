@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fontaine, pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation 38",
+    "content": "Fontaine, avec ses étés chauds, nécessite des solutions performantes. Profitez des aides régionales pour une installation éco-responsable avec CPMI.fr."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore votre productivité.",
+  "advantages": [
+    "Installation rapide et efficace à Fontaine et environs.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux professionnels du 38.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "CPMI.fr analyse vos besoins spécifiques pour une solution optimale."
+    },
+    {
+      "question": "Délai à Fontaine ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "Norme locale ?",
+      "answer": "CPMI.fr respecte scrupuleusement les normes en vigueur."
+    }
+  ]
+}

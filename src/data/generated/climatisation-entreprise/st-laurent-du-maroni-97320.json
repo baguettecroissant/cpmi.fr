@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire climatisation tertiaire et industrielle à St Laurent Du Maroni, assurant confort et performance.",
+  "localContext": {
+    "title": "Climat Guyane",
+    "content": "Le climat équatorial de St Laurent exige des systèmes performants. CPMI vous accompagne pour optimiser vos installations et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un entretien régulier prolonge la durée de vie de vos installations.",
+  "advantages": [
+    "Solutions sur-mesure pour besoins spécifiques en Guyane.",
+    "Techniciens certifiés et expérimentés à votre service.",
+    "Respect des normes environnementales et de sécurité."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 973.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos locaux et contraintes."
+    },
+    {
+      "question": "Délai à St Laurent Du Maroni ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

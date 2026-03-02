@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Trets pour entreprises et copropriétés, favorisant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient l'installation de bornes. Profitez du soleil de Trets pour une énergie verte et économique !"
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr : Solutions sur-mesure à Trets.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Trets.",
+    "Bornes adaptées à vos besoins spécifiques (flotte, résidents).",
+    "Maintenance et SAV assurés par CPMI dans le 13."
+  ],
+  "pricingContext": "Devis personnalisés pour entreprises et copropriétés à Trets, contactez-nous.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Trets ?",
+      "answer": "Adaptation selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Trets ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes IRVE."
+    }
+  ]
+}

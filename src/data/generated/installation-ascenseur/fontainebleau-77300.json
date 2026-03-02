@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Fontainebleau et ses environs.",
+  "localContext": {
+    "title": "Fontainebleau & Accessibilité",
+    "content": "Améliorez l'accessibilité de vos bâtiments à Fontainebleau. Des aides de la région Île-de-France peuvent être disponibles pour vos projets."
+  },
+  "expertAdvice": "Une installation conforme aux normes et adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Fontainebleau.",
+    "Solutions sur-mesure : Adaptées à chaque type de bâtiment.",
+    "Maintenance réactive : Pour une disponibilité optimale."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Fontainebleau ?",
+      "answer": "Oui, nous proposons des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Fontainebleau ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

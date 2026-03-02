@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Valbonne pour entreprises et copropriétés, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Valbonne & Électromobilité",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité avec des aides pour l'installation de bornes. Profitez du soleil de Valbonne en rechargeant votre véhicule électrique."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, experts locaux.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Valbonne.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 06.",
+  "faq": [
+    {
+      "question": "Aides à Valbonne ?",
+      "answer": "Des subventions locales existent, renseignez-vous auprès de la commune."
+    },
+    {
+      "question": "Délai à Valbonne ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

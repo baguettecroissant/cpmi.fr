@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Cyr Sur Loire.",
+  "localContext": {
+    "title": "Aides Locales",
+    "content": "Des aides à l'accessibilité existent en région Centre-Val de Loire. CPMI vous accompagne dans vos démarches pour votre projet."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et dépannage assurés par des experts CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 37.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à St Cyr ?",
+      "answer": "CPMI propose des solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à St Cyr Sur Loire ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

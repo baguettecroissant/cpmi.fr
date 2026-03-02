@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Hautmont, pour entreprises et copropriétés engagées.",
+  "localContext": {
+    "title": "Transition énergétique à Hautmont",
+    "content": "La région Hauts-de-France soutient activement la mobilité électrique. Profitez des aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hautmont.",
+    "Solution sur mesure pour chaque besoin d'entreprise.",
+    "Valorisation immobilière et engagement durable affirmé."
+  ],
+  "pricingContext": "CPMI propose des solutions tarifaires adaptées aux budgets des professionnels du 59.",
+  "faq": [
+    {
+      "question": "Bornes compatibles à Hautmont ?",
+      "answer": "Toutes bornes compatibles avec véhicules électriques et hybrides rechargeables."
+    },
+    {
+      "question": "Délai à Hautmont ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

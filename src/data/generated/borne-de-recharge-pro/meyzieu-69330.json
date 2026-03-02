@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Meyzieu, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Bornes à Meyzieu : un enjeu",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. CPMI vous accompagne pour bénéficier des aides disponibles et verdir votre parc automobile."
+  },
+  "expertAdvice": "Optimisez votre installation avec un diagnostic personnalisé CPMI.",
+  "advantages": [
+    "Solution adaptée aux besoins spécifiques de votre entreprise.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par des experts locaux CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Meyzieu.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Meyzieu ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Avion, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat à Avion",
+    "content": "Le climat variable du Pas-de-Calais exige des solutions de climatisation performantes. CPMI vous accompagne dans l'optimisation énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un audit énergétique précis pour des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Avion et ses environs.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux spécificités industrielles."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Pourquoi CPMI à Avion ?",
+      "answer": "Expertise locale et réactivité garanties pour votre entreprise."
+    },
+    {
+      "question": "Délai à Avion ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

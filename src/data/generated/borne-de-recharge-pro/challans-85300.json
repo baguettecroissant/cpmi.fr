@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Challans, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Challans",
+    "content": "La région Pays de la Loire encourage l'installation de bornes. CPMI vous guide dans l'obtention d'aides locales pour votre projet à Challans."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Challans.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Suivi personnalisé et maintenance locale assurée."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et adaptés aux besoins professionnels à Challans.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Challans ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

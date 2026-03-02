@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Castelnaudary, facilitant l'accessibilité et le transport vertical.",
+  "localContext": {
+    "title": "Accessibilité Chaurienne",
+    "content": "Castelnaudary bénéficie d'aides à l'adaptation du logement. CPMI.fr accompagne les entreprises locales dans leurs projets d'élévation, en tenant compte du climat occitan."
+  },
+  "expertAdvice": "Optimisez vos flux avec un matériel adapté, installé par des experts.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Castelnaudary",
+    "Solutions sur-mesure pour tous types de bâtiments industriels",
+    "Maintenance préventive pour une durabilité accrue de vos équipements"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans l'Aude.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Chaurien ?",
+      "answer": "Solutions complètes d'accessibilité PMR pour vos locaux."
+    },
+    {
+      "question": "Délai à Castelnaudary ?",
+      "answer": "Installation rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes de sécurité en vigueur."
+    }
+  ]
+}

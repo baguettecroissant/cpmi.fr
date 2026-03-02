@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Ollioules, pour faciliter l'accès à vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Ollioules",
+    "content": "Ollioules bénéficie d'un climat favorable à l'installation d'ascenseurs extérieurs. CPMI.fr vous conseille sur les aides disponibles pour l'accessibilité."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide par des experts locaux",
+    "Conformité aux normes de sécurité",
+    "Solutions sur mesure pour chaque bâtiment"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Var (83).",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce à Ollioules ?",
+      "answer": "CPMI.fr vous guide vers la solution idéale."
+    },
+    {
+      "question": "Délai à Ollioules ?",
+      "answer": "Variable selon le modèle, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et le respect des normes en vigueur."
+    }
+  ]
+}

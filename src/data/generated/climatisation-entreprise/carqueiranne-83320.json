@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Carqueiranne, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Profitez des aides régionales pour l'installation de systèmes performants. Le climat méditerranéen exige des solutions de climatisation adaptées aux fortes chaleurs."
+  },
+  "expertAdvice": "Un entretien régulier assure performance et longévité de vos installations.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Carqueiranne.",
+    "Techniciens certifiés et expérimentés en climatisation industrielle.",
+    "Réduction des coûts énergétiques grâce à nos systèmes performants."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Var.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Carqueiranne ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

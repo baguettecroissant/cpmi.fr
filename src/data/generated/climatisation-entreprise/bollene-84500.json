@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bollène (84500), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Bollène",
+    "content": "Bollène subit des étés chauds. CPMI vous aide à choisir une climatisation adaptée et performante pour vos locaux professionnels."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises à Bollène.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance et dépannage climatisation industrielle."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre climatisation à Bollène.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Bollene ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

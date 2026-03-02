@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Salon-de-Provence, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'installation de bornes avec des aides financières. Profitez du climat ensoleillé pour optimiser votre consommation avec des panneaux solaires."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec un partenaire local expérimenté.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions personnalisées pour flottes et copropriétés.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans le 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules."
+    },
+    {
+      "question": "Délai à Salon De Provence ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

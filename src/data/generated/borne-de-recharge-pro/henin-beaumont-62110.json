@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Hénin-Beaumont pour entreprises et copropriétés. Facilitez la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Les Hauts-de-France soutiennent l'électromobilité. CPMI vous aide à identifier les aides pour votre borne à Hénin-Beaumont."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Hénin-Beaumont.",
+    "Bornes adaptées à vos besoins : puissance, accès, gestion.",
+    "Maintenance et SAV assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Henin Beaumont ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes IRVE."
+    }
+  ]
+}

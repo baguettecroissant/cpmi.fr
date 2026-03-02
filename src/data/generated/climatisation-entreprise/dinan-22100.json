@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Dinan, pour un confort optimal de vos locaux professionnels.",
+  "localContext": {
+    "title": "Climatisation à Dinan : Enjeux Locaux",
+    "content": "Dinan, avec son climat tempéré, nécessite des solutions de climatisation adaptées. Bénéficiez d'aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Un système bien dimensionné assure performance et économies d'énergie.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Installation et maintenance par des experts qualifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du 22.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux à Dinan ?",
+      "answer": "Une étude thermique précise dimensionnera votre installation."
+    },
+    {
+      "question": "Délai à Dinan ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

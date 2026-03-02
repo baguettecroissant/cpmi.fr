@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Vandoeuvre-lès-Nancy.",
+  "localContext": {
+    "title": "Transition énergétique à Vandoeuvre",
+    "content": "Le Grand Est encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et déployer votre infrastructure de recharge."
+  },
+  "expertAdvice": "Optimisez votre installation avec un expert CPMI.",
+  "advantages": [
+    "Solution sur-mesure pour votre entreprise à Vandoeuvre.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par nos équipes locales."
+  ],
+  "pricingContext": "Devis personnalisé et compétitif pour les pros du 54.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Vandoeuvre Les Nancy ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes."
+    }
+  ]
+}

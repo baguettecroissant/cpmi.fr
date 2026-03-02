@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à La Trinité pour entreprises et copropriétés, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Transition Énergétique 06",
+    "content": "Provence-Alpes-Côte d'Azur soutient l'électromobilité. Profitez d'aides pour l'installation de bornes à La Trinité, améliorant la qualité de l'air."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, experts en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à La Trinité.",
+    "Solutions personnalisées pour flottes et copropriétés.",
+    "Maintenance et SAV assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge, adaptés aux besoins des entreprises azuréennes.",
+  "faq": [
+    {
+      "question": "Bornes pour ma société ?",
+      "answer": "Solutions sur-mesure pour tous types d'entreprises à La Trinité."
+    },
+    {
+      "question": "Délai à La Trinite ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur localement."
+    }
+  ]
+}

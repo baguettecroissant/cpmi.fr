@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Allonnes (72700), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation en Sarthe",
+    "content": "Allonnes subit des étés chauds. CPMI vous aide à choisir une climatisation adaptée et performante, en tenant compte des aides disponibles pour les entreprises."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour locaux professionnels à Allonnes.",
+    "Installation rapide et efficace par nos experts locaux.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Allonnes ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

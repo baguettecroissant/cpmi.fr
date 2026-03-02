@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Armentières, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Armentières",
+    "content": "La région Hauts-de-France soutient l'électromobilité. Profitez d'aides pour l'installation de bornes et améliorez votre empreinte environnementale."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises à Armentières.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance locale assurée par des experts CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Armentieres ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises."
+    }
+  ]
+}

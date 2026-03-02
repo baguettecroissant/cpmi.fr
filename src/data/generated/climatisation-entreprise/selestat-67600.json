@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Sélestat, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Sélestat",
+    "content": "Le climat alsacien exige des solutions de climatisation fiables. Profitez des aides régionales pour optimiser votre installation tertiaire ou industrielle."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Sélestat.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 67.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Sélestat ?",
+      "answer": "Analyse de vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Selestat ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

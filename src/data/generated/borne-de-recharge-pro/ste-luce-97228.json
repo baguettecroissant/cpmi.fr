@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Ste Luce, pour une mobilité électrique adaptée aux entreprises et copropriétés.",
+  "localContext": {
+    "title": "Martinique Électrique",
+    "content": "La Martinique encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes et réduisez votre empreinte carbone sous le soleil antillais."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Gestion optimisée de la consommation énergétique des bornes."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels à Ste Luce et dans toute la Martinique.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Ste Luce ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes martiniquaises."
+    }
+  ]
+}

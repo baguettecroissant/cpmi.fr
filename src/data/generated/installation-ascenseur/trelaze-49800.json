@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Trelaze, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Trelaze",
+    "content": "La région Pays de la Loire soutient l'accessibilité. CPMI vous accompagne dans vos projets d'élévation, en tenant compte du climat local."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Expertise locale à Trelaze et ses environs.",
+    "Solutions sur-mesure pour les professionnels.",
+    "Conformité aux normes en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises du 49.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Trelaze ?",
+      "answer": "CPMI adapte l'installation aux normes PMR."
+    },
+    {
+      "question": "Délai à Trelaze ?",
+      "answer": "Délais rapides et respectés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes locales."
+    }
+  ]
+}

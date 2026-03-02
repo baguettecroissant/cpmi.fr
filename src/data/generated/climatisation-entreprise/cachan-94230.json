@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Cachan (94). Solutions sur-mesure pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Cachan",
+    "content": "Le climat francilien exige des systèmes performants. CPMI vous accompagne dans l'obtention d'aides pour l'efficacité énergétique de vos locaux."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI pour des économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Cachan et IDF",
+    "Maintenance préventive pour éviter les pannes",
+    "Solutions éco-responsables pour réduire votre empreinte"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de climatisation à Cachan.",
+  "faq": [
+    {
+      "question": "Quelle clim pour bureaux à Cachan ?",
+      "answer": "Solutions VRV/DRV adaptées à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Cachan ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

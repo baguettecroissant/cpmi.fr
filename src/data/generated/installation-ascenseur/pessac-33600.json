@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Pessac, améliorant l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Pessac",
+    "content": "Pessac soutient l'accessibilité des entreprises. CPMI vous guide dans les aides régionales pour l'installation d'ascenseurs, adaptés au climat local."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Pessac.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs dans toute la Gironde."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Pessac.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Pessac ?",
+      "answer": "CPMI propose des solutions conformes et adaptées."
+    },
+    {
+      "question": "Délai à Pessac ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

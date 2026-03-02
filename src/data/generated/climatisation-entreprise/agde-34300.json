@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Agde (34300), pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation Durable à Agde",
+    "content": "Agde, soumise aux étés chauds, nécessite des solutions performantes. CPMI vous guide vers les aides régionales pour une climatisation éco-responsable."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec CPMI, votre partenaire climatisation.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels dans l'Hérault.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Agde ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Agde ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et suivantes."
+    }
+  ]
+}

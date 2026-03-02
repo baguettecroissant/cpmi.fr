@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Liévin, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat à Liévin",
+    "content": "Les étés chauds du Pas-de-Calais nécessitent une climatisation performante. CPMI vous accompagne pour bénéficier des aides régionales à la transition énergétique."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI pour une performance durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Liévin",
+    "Maintenance et dépannage rapides et efficaces",
+    "Conformité aux normes environnementales en vigueur"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Liévin ?",
+      "answer": "Solutions robustes pour les conditions locales."
+    },
+    {
+      "question": "Délai à Lievin ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

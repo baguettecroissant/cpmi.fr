@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à St Gilles, améliorant l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité Occitanie",
+    "content": "La région Occitanie soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches pour des installations conformes et optimisées à St Gilles."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure adaptées à vos besoins.",
+    "Maintenance et SAV réactifs à St Gilles."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du Gard.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs, monte-charges, plateformes élévatrices : CPMI vous conseille."
+    },
+    {
+      "question": "Délai à St Gilles ?",
+      "answer": "Délai rapide, devis sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes ERP en vigueur."
+    }
+  ]
+}

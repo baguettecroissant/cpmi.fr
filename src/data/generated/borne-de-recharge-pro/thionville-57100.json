@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Thionville, soutenant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Bornes à Thionville",
+    "content": "Le Grand Est encourage l'électromobilité. CPMI vous guide à travers les aides locales pour une installation optimisée de vos bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Thionville.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par nos équipes locales."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs adaptés aux besoins des professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Thionville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

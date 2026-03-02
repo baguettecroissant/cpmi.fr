@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Poissy, pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation à Poissy",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Le climat en Île-de-France exige une solution adaptée."
+  },
+  "expertAdvice": "Optimisez la performance énergétique de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques des entreprises locales.",
+    "Installation et maintenance par des experts certifiés à Poissy.",
+    "Réduction des coûts énergétiques et amélioration du confort intérieur."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Poissy ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Poissy ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

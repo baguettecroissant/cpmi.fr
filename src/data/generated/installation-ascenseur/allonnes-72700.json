@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Allonnes (72700).",
+  "localContext": {
+    "title": "Solutions sur mesure",
+    "content": "Profitez des aides régionales en Pays de la Loire pour faciliter l'accessibilité de vos locaux. CPMI.fr vous accompagne dans vos projets d'élévation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec des solutions adaptées.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Allonnes.",
+    "Maintenance assurée par des experts locaux.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 72.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs, monte-charges adaptés à votre activité."
+    },
+    {
+      "question": "Délai à Allonnes ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

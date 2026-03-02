@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Villers-lès-Nancy, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Bénéficiez d'aides régionales pour l'adaptation de vos locaux. Le climat d'investissement à Villers-lès-Nancy est favorable aux entreprises."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales",
+    "Solutions sur mesure pour chaque type de bâtiment",
+    "Maintenance et SAV de proximité à Villers-lès-Nancy"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur."
+    },
+    {
+      "question": "Délai à Villers Les Nancy ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP."
+    }
+  ]
+}

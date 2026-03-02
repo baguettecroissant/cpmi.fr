@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Gradignan (33170), pour un confort optimal.",
+  "localContext": {
+    "title": "Climat Gradignan",
+    "content": "Gradignan subit des étés chauds. Optimisez votre climatisation avec les aides régionales pour les entreprises en Nouvelle-Aquitaine."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et efficace à Gradignan.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur mesure pour chaque type de bâtiment."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels de Gradignan et sa région.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Gradignan ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

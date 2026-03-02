@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ploufragan, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable 22",
+    "content": "La région Bretagne encourage les solutions écoénergétiques. CPMI vous aide à bénéficier des aides pour une climatisation performante et respectueuse de l'environnement."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI : performance et économies garanties.",
+  "advantages": [
+    "Installation rapide et efficace à Ploufragan.",
+    "Solutions sur-mesure pour besoins industriels.",
+    "Maintenance et dépannage 7j/7 en Bretagne."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 22.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions personnalisées pour chaque entreprise."
+    },
+    {
+      "question": "Délai à Ploufragan ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes en vigueur."
+    }
+  ]
+}

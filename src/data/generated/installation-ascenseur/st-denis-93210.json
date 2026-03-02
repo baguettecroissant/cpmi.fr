@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Denis (93210), pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à St Denis",
+    "content": "St Denis améliore l'accessibilité des bâtiments. Profitez des subventions potentielles pour l'installation d'ascenseurs et monte-charges, adaptées au climat urbain dense."
+  },
+  "expertAdvice": "Optimisez l'espace et la conformité avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Denis.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à St Denis.",
+  "faq": [
+    {
+      "question": "Aides financières à St Denis ?",
+      "answer": "Vérifiez les aides de la ville et de la région."
+    },
+    {
+      "question": "Délai à St Denis ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

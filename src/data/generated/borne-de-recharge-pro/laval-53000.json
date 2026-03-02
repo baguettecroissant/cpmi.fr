@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Laval, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Laval : Enjeux",
+    "content": "La région Pays de la Loire encourage l'électromobilité. Des aides locales peuvent réduire le coût d'installation de bornes pour les professionnels."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide de bornes adaptées à vos besoins à Laval.",
+    "Solutions de recharge intelligentes et connectées pour votre entreprise.",
+    "Maintenance et SAV assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge à Laval.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Laval ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Laval ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "Normes et SAV ?",
+      "answer": "CPMI assure conformité et maintenance locale."
+    }
+  ]
+}

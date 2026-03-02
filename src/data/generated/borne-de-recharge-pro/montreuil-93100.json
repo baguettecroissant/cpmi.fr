@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Montreuil.",
+  "localContext": {
+    "title": "Bornes à Montreuil",
+    "content": "La région Île-de-France soutient l'électrification. CPMI.fr vous guide pour obtenir les aides locales et les installer facilement."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et certifiée à Montreuil.",
+    "Solutions personnalisées pour chaque besoin.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Montreuil.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Montreuil ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

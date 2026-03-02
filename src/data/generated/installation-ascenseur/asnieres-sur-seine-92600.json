@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Asnières-sur-Seine, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 92",
+    "content": "Asnières-sur-Seine facilite l'accessibilité des bâtiments. Des aides locales peuvent réduire vos coûts d'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI, votre partenaire de confiance.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Asnières.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV réactifs dans tout le 92."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Asnières-sur-Seine.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Asnières ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Asnieres Sur Seine ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes en vigueur."
+    }
+  ]
+}

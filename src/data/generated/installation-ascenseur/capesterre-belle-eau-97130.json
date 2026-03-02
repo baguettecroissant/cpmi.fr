@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Capesterre Belle Eau, Guadeloupe.",
+  "localContext": {
+    "title": "Ascenseurs en Guadeloupe",
+    "content": "Profitez des aides à l'accessibilité en Guadeloupe. L'humidité nécessite des ascenseurs adaptés aux conditions tropicales."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et conforme aux normes antillaises.",
+  "advantages": [
+    "Installation rapide et efficace à Capesterre Belle Eau.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet d'ascenseur en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Ascenseur adapté ici ?",
+      "answer": "Oui, nous proposons des modèles résistants à la corrosion et à l'humidité."
+    },
+    {
+      "question": "Délai à Capesterre Belle Eau ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur en Guadeloupe."
+    }
+  ]
+}

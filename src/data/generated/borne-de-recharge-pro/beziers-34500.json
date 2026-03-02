@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Béziers, contribuant à une mobilité durable.",
+  "localContext": {
+    "title": "Bornes à Béziers",
+    "content": "L'Occitanie encourage l'électromobilité avec des aides pour l'installation de bornes. Profitez du climat ensoleillé pour recharger vos véhicules avec des solutions durables."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec un partenaire local fiable.",
+  "advantages": [
+    "Installation rapide par des professionnels certifiés à Béziers.",
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour des tarifs compétitifs dans l'Hérault.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Béziers ?",
+      "answer": "Adaptez la puissance à vos besoins et aux véhicules de vos collaborateurs."
+    },
+    {
+      "question": "Délai à Beziers ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Respect des normes IRVE et SAV rapide à Béziers et environs."
+    }
+  ]
+}

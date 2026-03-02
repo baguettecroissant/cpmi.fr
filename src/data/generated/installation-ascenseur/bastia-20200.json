@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Bastia, Corse.",
+  "localContext": {
+    "title": "Accessibilité à Bastia",
+    "content": "Améliorez l'accessibilité de vos bâtiments à Bastia grâce à CPMI. Profitez des aides potentielles pour l'adaptation des logements en Corse."
+  },
+  "expertAdvice": "CPMI assure une installation conforme aux normes de sécurité les plus strictes.",
+  "advantages": [
+    "Installation rapide et efficace à Bastia et ses environs.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet d'installation avec CPMI.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Bastia ?",
+      "answer": "CPMI propose des ascenseurs adaptés aux personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Bastia ?",
+      "answer": "Délais rapides, contactez-nous !"
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Bastia."
+    }
+  ]
+}

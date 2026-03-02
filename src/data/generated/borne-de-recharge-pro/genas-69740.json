@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Genas (69740), favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Genas & Électromobilité",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'installation de bornes. Profitez des aides pour électrifier votre flotte ou copropriété à Genas."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Genas.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité, assurés par CPMI."
+  ],
+  "pricingContext": "Tarifs compétitifs pour bornes de recharge professionnelles dans le Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Genas ?",
+      "answer": "Adaptons la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Genas ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "Respect des normes IRVE, garantie de sécurité et performance."
+    }
+  ]
+}

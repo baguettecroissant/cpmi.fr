@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Villeparisis, améliorant l'accessibilité et la valeur de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs 77 : Spécificités Locales",
+    "content": "Seine-et-Marne : CPMI vous guide sur les aides régionales pour l'accessibilité. Le climat francilien exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'espace et respectez les normes avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Villeparisis.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Villeparisis ?",
+      "answer": "CPMI garantit la conformité PMR de vos installations."
+    },
+    {
+      "question": "Délai à Villeparisis ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

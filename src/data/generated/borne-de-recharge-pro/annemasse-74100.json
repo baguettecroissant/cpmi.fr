@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Annemasse, favorisant la mobilité électrique en entreprise et copropriété.",
+  "localContext": {
+    "title": "Annemasse & Électromobilité",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement le déploiement des bornes. Profitez d'aides pour votre installation à Annemasse et contribuez à un avenir plus vert."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique pour une recharge performante et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Annemasse.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité garantis par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge à Annemasse.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Annemasse ?",
+      "answer": "Adaptez la puissance à vos besoins spécifiques pour une recharge optimale."
+    },
+    {
+      "question": "Délai à Annemasse ?",
+      "answer": "Installation sous quelques semaines après validation."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

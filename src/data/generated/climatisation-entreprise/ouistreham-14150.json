@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure le confort thermique des entreprises à Ouistreham avec des solutions de climatisation performantes.",
+  "localContext": {
+    "title": "Climatisation à Ouistreham",
+    "content": "La région Normandie bénéficie d'aides pour l'amélioration énergétique. CPMI adapte ses solutions aux besoins spécifiques du climat local."
+  },
+  "expertAdvice": "Optimisez votre climatisation tertiaire avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et efficace à Ouistreham et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 14.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions pour bureaux, commerces et industries."
+    },
+    {
+      "question": "Délai à Ouistreham ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

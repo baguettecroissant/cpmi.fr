@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Capesterre Belle Eau, soutenant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Transition Énergétique",
+    "content": "La Guadeloupe encourage l'électromobilité. CPMI aide les entreprises et copropriétés à bénéficier des incitations régionales pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en bornes de recharge.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par une équipe locale réactive."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux besoins des professionnels guadeloupéens.",
+  "faq": [
+    {
+      "question": "Type de bornes à Capesterre ?",
+      "answer": "Bornes AC et DC, adaptées à vos véhicules."
+    },
+    {
+      "question": "Délai à Capesterre Belle Eau ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes guadeloupéennes."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Deuil La Barre.",
+  "localContext": {
+    "title": "Accessibilité & Innovation",
+    "content": "Deuil La Barre bénéficie d'aides à l'accessibilité. CPMI.fr s'adapte aux spécificités architecturales de la région Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Deuil La Barre.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 95.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins et contraintes."
+    },
+    {
+      "question": "Délai à Deuil La Barre ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (95)."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Rumilly, pour une mobilité électrique facilitée en entreprise et copropriété.",
+  "localContext": {
+    "title": "Bornes à Rumilly : Enjeux",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes, améliorant l'attractivité de vos bâtiments."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Solution sur mesure pour les entreprises et copropriétés à Rumilly.",
+    "Installation rapide et conforme aux normes en vigueur (IRVE).",
+    "Gestion énergétique optimisée pour réduire vos coûts."
+  ],
+  "pricingContext": "Prix compétitifs et adaptés aux besoins des professionnels du 74.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Rumilly ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et conformité aux normes IRVE garantis."
+    }
+  ]
+}

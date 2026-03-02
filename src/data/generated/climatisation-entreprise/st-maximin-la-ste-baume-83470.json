@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à St Maximin La Ste Baume, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable 83",
+    "content": "Le climat chaud exige des solutions performantes. Des aides régionales peuvent faciliter votre transition vers une climatisation éco-responsable."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par des experts locaux certifiés.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure pour tout type de bâtiment."
+  ],
+  "pricingContext": "Tarifs compétitifs adaptés aux professionnels du Var (83).",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Une étude thermique précise dimensionne votre installation."
+    },
+    {
+      "question": "Délai à St Maximin La Ste Baume ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

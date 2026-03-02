@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Auray, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Auray",
+    "content": "Auray bénéficie de subventions pour l'amélioration de l'accessibilité. CPMI vous accompagne dans vos démarches pour des installations conformes aux normes bretonnes."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour les entreprises d'Auray.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du Morbihan (56).",
+  "faq": [
+    {
+      "question": "Quelle capacité à Auray ?",
+      "answer": "Nos monte-charges s'adaptent à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Auray ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP et PMR."
+    }
+  ]
+}

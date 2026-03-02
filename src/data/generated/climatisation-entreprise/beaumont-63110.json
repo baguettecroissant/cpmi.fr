@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Beaumont, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat à Beaumont",
+    "content": "Les étés chauds du Puy-de-Dôme exigent des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels",
+    "Installation rapide et efficace par des experts locaux",
+    "Maintenance préventive pour une performance durable"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 63.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Beaumont ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Beaumont ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "Norme ou SAV ?",
+      "answer": "Respect des normes et SAV réactif 7j/7."
+    }
+  ]
+}

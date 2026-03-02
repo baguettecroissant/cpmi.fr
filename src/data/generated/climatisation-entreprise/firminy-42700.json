@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Firminy, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Firminy",
+    "content": "La climatisation est essentielle pour le confort des entreprises à Firminy, surtout avec les étés de plus en plus chauds. Des aides locales peuvent faciliter l'investissement."
+  },
+  "expertAdvice": "Optimisez votre climatisation : un entretien régulier garantit performance et longévité.",
+  "advantages": [
+    "Installation rapide et efficace à Firminy et ses environs.",
+    "Solutions sur mesure pour tous types de bâtiments industriels.",
+    "Maintenance préventive pour éviter les pannes coûteuses."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs et transparents pour les professionnels du 42.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon entreprise à Firminy ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Firminy ?",
+      "answer": "Intervention rapide, généralement sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

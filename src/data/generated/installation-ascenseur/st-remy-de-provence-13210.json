@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à St Remy De Provence, pour accessibilité et confort accrus.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "Profitez des aides locales pour l'adaptation de logements. Le climat ensoleillé de Provence favorise l'installation d'équipements fiables et durables."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Remy.",
+    "Solutions adaptées aux contraintes architecturales locales.",
+    "Maintenance et dépannage assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon les normes d'accessibilité ERP."
+    },
+    {
+      "question": "Délai à St Remy De Provence ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (PACA)."
+    }
+  ]
+}

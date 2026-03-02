@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Clermont, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Clermont (60)",
+    "content": "Bénéficiez des aides régionales pour l'accessibilité. Le climat des Hauts-de-France exige des installations robustes et durables."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation conforme et sécurisée.",
+  "advantages": [
+    "Expertise locale à Clermont et ses environs",
+    "Solutions sur mesure pour vos besoins spécifiques",
+    "Installation rapide et respect des normes en vigueur"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Clermont.",
+  "faq": [
+    {
+      "question": "Normes à Clermont ?",
+      "answer": "CPMI.fr garantit le respect des normes en vigueur."
+    },
+    {
+      "question": "Délai à Clermont ?",
+      "answer": "Délais rapides, adaptés à votre urgence."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et connaissance des spécificités locales."
+    }
+  ]
+}

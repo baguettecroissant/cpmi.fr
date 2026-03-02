@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Loudéac (22), assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Bretagne",
+    "content": "Loudéac, en Bretagne, subit des variations climatiques importantes. Des solutions de climatisation performantes aident à maîtriser les coûts énergétiques."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Loudéac.",
+    "Installation et maintenance expertes en Bretagne.",
+    "Réduction des coûts énergétiques garantie."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 22.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "Analyse des besoins et solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à Loudeac ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

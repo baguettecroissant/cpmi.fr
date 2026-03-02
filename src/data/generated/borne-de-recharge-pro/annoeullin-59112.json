@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation de bornes de recharge à Annoeullin, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Annoeullin et l'électrique",
+    "content": "La région Hauts-de-France encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes en entreprise ou copropriété à Annoeullin."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI : solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Annoeullin.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Maintenance et support technique assurés par CPMI.fr."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos usages."
+    },
+    {
+      "question": "Délai à Annoeullin ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

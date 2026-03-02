@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vieux-Condé, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Les Hauts-de-France soutiennent l'accessibilité. Le climat local exige des installations robustes et adaptées aux variations thermiques."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et durable.",
+  "advantages": [
+    "Expertise locale à Vieux-Condé et réactivité garantie.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Conformité aux normes de sécurité et accessibilité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Vieux Conde ?",
+      "answer": "CPMI propose des solutions complètes PMR."
+    },
+    {
+      "question": "Délai à Vieux Conde ?",
+      "answer": "Installation rapide, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes NF EN 81-70."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges au Plessis Trevise, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité 94",
+    "content": "Le Plessis Trevise bénéficie d'aides à l'accessibilité pour les PMR. CPMI vous accompagne dans vos démarches et projets d'installation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Le Plessis Trevise",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et dépannage assurés par nos experts locaux"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Le Plessis ?",
+      "answer": "CPMI propose des solutions d'ascenseurs PMR sur mesure."
+    },
+    {
+      "question": "Délai à Le Plessis Trevise ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

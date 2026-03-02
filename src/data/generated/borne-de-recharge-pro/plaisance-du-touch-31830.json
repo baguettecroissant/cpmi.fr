@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Plaisance du Touch, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes 31 : un enjeu local",
+    "content": "L'Occitanie encourage la mobilité électrique. Profitez des aides régionales et d'un climat favorable à l'adoption des VE."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI : solutions personnalisées.",
+  "advantages": [
+    "Installation rapide à Plaisance du Touch et environs.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de recharge en entreprise.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Plaisance Du Touch ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

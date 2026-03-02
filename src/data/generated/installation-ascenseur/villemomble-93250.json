@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Villemomble, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Villemomble & Accessibilité",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI vous accompagne dans vos projets d'élévation, en respectant les normes locales et les aides disponibles."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme à Villemomble.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Villemomble.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Villemomble ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Villemomble ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

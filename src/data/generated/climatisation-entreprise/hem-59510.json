@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Hem, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Hem",
+    "content": "Les entreprises à Hem bénéficient d'aides pour l'efficacité énergétique. Un climat variable exige des solutions de climatisation fiables et adaptées."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et efficace à Hem et environs.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de climatisation dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Hem ?",
+      "answer": "CPMI vous conseille la solution idéale selon vos besoins."
+    },
+    {
+      "question": "Délai à Hem ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

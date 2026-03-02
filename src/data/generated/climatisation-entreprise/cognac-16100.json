@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Cognac, pour un confort optimal et une efficacité énergétique garantie.",
+  "localContext": {
+    "title": "Climatisation à Cognac",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Le climat charentais exige des solutions adaptées aux bâtiments tertiaires et industriels."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Cognac.",
+    "Installation et maintenance par des experts locaux.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 16.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "Un audit énergétique précis détermine vos besoins."
+    },
+    {
+      "question": "Délai à Cognac ?",
+      "answer": "Intervention rapide selon urgence."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2020."
+    }
+  ]
+}

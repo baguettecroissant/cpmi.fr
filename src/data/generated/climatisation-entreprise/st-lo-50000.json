@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Saint-Lô, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Saint-Lô",
+    "content": "Bénéficiez d'aides pour l'efficacité énergétique. Le climat normand exige des solutions de climatisation fiables et adaptées aux entreprises locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et efficace à Saint-Lô et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 50.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "Analyse des besoins et solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à St Lo ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

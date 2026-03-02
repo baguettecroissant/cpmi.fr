@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Roquebrune Cap Martin, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 06",
+    "content": "Roquebrune Cap Martin : CPMI vous accompagne face aux étés chauds. Solutions adaptées et aides potentielles pour les entreprises."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et efficace à Roquebrune Cap Martin.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 06.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Roquebrune Cap Martin ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

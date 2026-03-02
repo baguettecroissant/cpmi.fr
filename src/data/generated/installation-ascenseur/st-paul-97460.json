@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation d'ascenseurs et monte-charges à St Paul, La Réunion.",
+  "localContext": {
+    "title": "Ascenseurs 974",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. Le climat tropical exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments à St Paul.",
+  "advantages": [
+    "Adaptation aux contraintes spécifiques de St Paul",
+    "Installation rapide et conforme aux normes",
+    "Solutions sur-mesure pour tous les bâtiments"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 974.",
+  "faq": [
+    {
+      "question": "Ascenseur adapté à St Paul ?",
+      "answer": "Solutions résistantes à l'humidité et aux variations climatiques."
+    },
+    {
+      "question": "Délai à St Paul ?",
+      "answer": "Installation rapide, généralement sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et conformité aux normes en vigueur à La Réunion."
+    }
+  ]
+}

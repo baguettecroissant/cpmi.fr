@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Jacques De La Lande, pour une accessibilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité 35",
+    "content": "La région Bretagne encourage l'accessibilité PMR. CPMI vous accompagne dans vos projets d'installation et de mise aux normes à St Jacques De La Lande."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Jacques De La Lande.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs en Ille-et-Vilaine."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Obligatoire dans les ERP neufs recevant du public."
+    },
+    {
+      "question": "Délai à St Jacques De La Lande ?",
+      "answer": "Sur devis, variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

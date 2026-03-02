@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Luçon, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Luçon",
+    "content": "Le climat vendéen exige des solutions performantes. CPMI vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à Luçon et ses environs.",
+    "Solutions sur-mesure pour locaux tertiaires et industriels.",
+    "Maintenance et dépannage 7j/7 par des experts locaux."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à Luçon.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Solutions sur-mesure selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Lucon ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local performant ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

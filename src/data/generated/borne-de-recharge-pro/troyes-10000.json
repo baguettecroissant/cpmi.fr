@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Troyes, soutenant la mobilité durable locale.",
+  "localContext": {
+    "title": "Aides à Troyes",
+    "content": "La région Grand Est encourage l'installation de bornes avec des subventions. Profitez-en pour électrifier votre flotte ou copropriété à Troyes!"
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI pour un avenir énergétique efficient.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Troyes.",
+    "Solutions sur mesure pour chaque besoin d'entreprise.",
+    "Maintenance et SAV garantis pour une sérénité totale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Troyes avec CPMI.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Troyes ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Troyes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

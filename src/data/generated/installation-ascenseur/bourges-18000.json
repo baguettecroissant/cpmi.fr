@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Bourges, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Bourges",
+    "content": "Bourges et le Centre-Val de Loire soutiennent l'accessibilité. CPMI vous aide à naviguer les aides financières pour vos projets d'élévation."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure, respect des normes et optimisation de l'espace.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités du bâti berruyer.",
+    "Solutions adaptées : Ascenseurs et monte-charges personnalisés.",
+    "SAV de proximité : Intervention rapide et efficace à Bourges."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels à Bourges et dans le Cher (18).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bourges ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure et conformes."
+    },
+    {
+      "question": "Délai à Bourges ?",
+      "answer": "Devis et installation rapide."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides par nos équipes locales."
+    }
+  ]
+}

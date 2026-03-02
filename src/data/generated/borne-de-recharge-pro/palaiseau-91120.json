@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Palaiseau (91120) pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Palaiseau",
+    "content": "La région Île-de-France soutient l'électromobilité. CPMI.fr vous accompagne pour bénéficier des aides locales à l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Palaiseau.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des professionnels locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes à Palaiseau.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins et usages réels."
+    },
+    {
+      "question": "Délai à Palaiseau ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

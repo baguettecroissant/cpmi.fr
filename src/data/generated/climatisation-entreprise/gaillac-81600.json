@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Gaillac, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Gaillac",
+    "content": "Gaillac, avec son climat chaud, exige des solutions de climatisation performantes. Des aides locales peuvent faciliter l'investissement pour les professionnels."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation et maintenance expertes.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Gaillac.",
+    "Techniciens certifiés pour une installation fiable.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les pros du 81.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Gaillac ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

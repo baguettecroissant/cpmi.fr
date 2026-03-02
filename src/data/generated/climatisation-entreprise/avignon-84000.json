@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Avignon, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climat Avignon & Réglementations",
+    "content": "Le climat provençal exige des solutions de climatisation performantes. CPMI vous guide sur les aides régionales et les normes en vigueur dans le Vaucluse."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI pour des économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Avignon et ses environs.",
+    "Maintenance préventive pour une durabilité accrue de vos systèmes.",
+    "Solutions sur mesure adaptées aux besoins spécifiques de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 84.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI évalue vos besoins précisément."
+    },
+    {
+      "question": "Délai à Avignon ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Colomiers, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Occitanie Verte",
+    "content": "La région Occitanie soutient activement l'installation de bornes. Profitez des aides pour électrifier votre flotte ou copropriété à Colomiers."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une installation adaptée à vos besoins énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Colomiers.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Bornes robustes et fiables, adaptées à l'usage intensif."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne à Colomiers.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous guide vers la solution idéale selon vos besoins."
+    },
+    {
+      "question": "Délai à Colomiers ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et respect des normes IRVE en Occitanie."
+    }
+  ]
+}

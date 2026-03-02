@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Marly, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Profitez des aides régionales pour l'amélioration de l'habitat. CPMI s'adapte aux spécificités climatiques de Marly pour une installation durable."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité à Marly.",
+    "Solutions sur-mesure pour bâtiments industriels et commerciaux.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Normes à Marly ?",
+      "answer": "Conformité ERP et accessibilité PMR garanties par CPMI."
+    },
+    {
+      "question": "Délai à Marly ?",
+      "answer": "Installation rapide : délai sur devis."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible dans tout le département 57."
+    }
+  ]
+}

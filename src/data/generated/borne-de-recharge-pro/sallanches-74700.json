@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Sallanches, pour entreprises et copropriétés, favorisant la mobilité durable locale.",
+  "localContext": {
+    "title": "Sallanches Électrique",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge à Sallanches et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Anticipez la transition énergétique : équipez-vous dès maintenant.",
+  "advantages": [
+    "Valorisation immobilière accrue à Sallanches et alentours.",
+    "Solution durable pour vos employés et résidents.",
+    "Conformité aux réglementations environnementales en vigueur."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels et copropriétés du 74.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Sallanches ?",
+      "answer": "Installation rapide, sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

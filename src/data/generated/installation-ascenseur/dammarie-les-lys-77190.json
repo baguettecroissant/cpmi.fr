@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Dammarie-les-Lys, pour une accessibilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité 77",
+    "content": "Dammarie-les-Lys bénéficie d'aides pour l'accessibilité des bâtiments. CPMI vous guide dans vos démarches pour une installation conforme."
+  },
+  "expertAdvice": "CPMI : Solutions sur-mesure et conformité garantie.",
+  "advantages": [
+    "Installation rapide et efficace à Dammarie-les-Lys.",
+    "Solutions adaptées aux contraintes locales.",
+    "Maintenance et dépannage assurés en Seine-et-Marne."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Normes à Dammarie ?",
+      "answer": "Respect des normes ERP et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Dammarie Les Lys ?",
+      "answer": "Selon complexité et type d'installation."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

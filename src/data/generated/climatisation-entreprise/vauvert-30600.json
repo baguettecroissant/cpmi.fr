@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vauvert, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climat Vauvert",
+    "content": "Le climat chaud de Vauvert exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une climatisation adaptée aux besoins spécifiques de votre entreprise.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Vauvert",
+    "Techniciens qualifiés et réactifs dans le Gard",
+    "Maintenance et dépannage rapides et efficaces"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 30, adaptés à chaque budget.",
+  "faq": [
+    {
+      "question": "Clim adaptée à Vauvert ?",
+      "answer": "Oui, nous analysons vos besoins pour une solution optimale."
+    },
+    {
+      "question": "Délai à Vauvert ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Nous respectons les normes environnementales et de sécurité."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Talence, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Talence",
+    "content": "Talence favorise l'accessibilité. CPMI.fr vous guide sur les subventions régionales pour l'installation d'ascenseurs, améliorant le confort urbain."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bâtiment avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Talence.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Amélioration de l'accessibilité et du confort local."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de Talence.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "CPMI.fr propose une large gamme adaptée à vos besoins."
+    },
+    {
+      "question": "Délai à Talence ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

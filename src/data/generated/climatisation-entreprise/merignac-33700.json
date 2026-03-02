@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Mérignac, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 33 : Enjeux locaux",
+    "content": "La Nouvelle-Aquitaine bénéficie d'aides pour l'efficacité énergétique. CPMI adapte ses solutions aux fortes chaleurs estivales de Mérignac."
+  },
+  "expertAdvice": "Choisissez un système adapté à vos besoins spécifiques et aux normes en vigueur.",
+  "advantages": [
+    "Installation rapide et efficace à Mérignac et alentours.",
+    "Maintenance préventive pour une durabilité maximale.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels de Mérignac.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "CPMI évalue vos besoins et propose la solution idéale."
+    },
+    {
+      "question": "Délai à Merignac ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Garantie et SAV local ?",
+      "answer": "CPMI assure un SAV réactif et une garantie optimale."
+    }
+  ]
+}

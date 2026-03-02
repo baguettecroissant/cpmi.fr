@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Dieppe, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Dieppe : Enjeux",
+    "content": "La région Normandie bénéficie de dispositifs d'aides pour l'efficacité énergétique. Une climatisation adaptée est cruciale pour le confort des entreprises dieppoises face aux variations climatiques."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit performance et durabilité.",
+  "advantages": [
+    "Installation rapide et efficace à Dieppe et ses environs.",
+    "Solutions sur mesure pour tous types de bâtiments industriels.",
+    "Maintenance préventive pour éviter les pannes coûteuses."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon entrepôt ?",
+      "answer": "Une étude thermique précise dimensionne votre installation."
+    },
+    {
+      "question": "Délai à Dieppe ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Arcachon, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Arcachon Électrique",
+    "content": "La Nouvelle-Aquitaine soutient l'électrification. Profitez du soleil d'Arcachon en rechargeant vos véhicules avec CPMI.fr."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec des solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance et SAV de proximité à Arcachon."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Bornes en copropriété ?",
+      "answer": "Installation simplifiée et gestion optimisée."
+    },
+    {
+      "question": "Délai à Arcachon ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Condé-sur-l'Escaut, assurant confort et performance.",
+  "localContext": {
+    "title": "Climatisation Optimale",
+    "content": "Dans le Hauts-de-France, une climatisation performante est cruciale. CPMI.fr vous aide à optimiser votre consommation énergétique grâce aux aides régionales."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et économique.",
+  "advantages": [
+    "Installation rapide et efficace à Condé-sur-l'Escaut.",
+    "Solutions sur mesure pour les besoins industriels.",
+    "Maintenance préventive pour une durée de vie maximale."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Subventions locales ?",
+      "answer": "CPMI.fr vous informe sur les aides disponibles."
+    },
+    {
+      "question": "Délai à Conde Sur L Escaut ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et certifié près de chez vous."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à La Celle St Cloud, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "La Celle St Cloud subit des étés chauds. CPMI vous aide à optimiser votre climatisation et à profiter des aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Analyse et solution adaptée à vos besoins précis."
+    },
+    {
+      "question": "Délai à La Celle St Cloud ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Achères (78260), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Achères : Défis et Solutions",
+    "content": "Achères, en Île-de-France, subit des étés chauds. CPMI vous aide à bénéficier des aides régionales pour une climatisation performante."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un diagnostic précis de CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace à Achères et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure pour les besoins spécifiques des entreprises."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour climatisation professionnelle dans le 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Acheres ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales locales."
+    }
+  ]
+}

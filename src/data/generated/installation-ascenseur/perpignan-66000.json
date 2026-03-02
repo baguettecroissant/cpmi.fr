@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Perpignan, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité 66",
+    "content": "La région Occitanie soutient l'accessibilité des bâtiments. CPMI.fr vous accompagne dans vos démarches d'installation et de mise aux normes à Perpignan."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et dépannage assurés par des experts locaux"
+  ],
+  "pricingContext": "CPMI.fr offre des devis personnalisés et compétitifs pour les professionnels du 66.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Perpignan ?",
+      "answer": "CPMI.fr installe des ascenseurs adaptés aux personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Perpignan ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes d'accessibilité en vigueur."
+    }
+  ]
+}

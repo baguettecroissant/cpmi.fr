@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Vienne, favorisant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Transition Énergétique à Vienne",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. Profitez des aides locales pour installer vos bornes de recharge à Vienne."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts en solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Vienne.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Gestion énergétique optimisée pour réduire vos coûts."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 38.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à Vienne ?",
+      "answer": "CPMI vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Vienne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes IRVE."
+    }
+  ]
+}

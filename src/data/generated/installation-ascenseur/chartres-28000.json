@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Chartres, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Chartres",
+    "content": "La région Centre-Val de Loire soutient l'accessibilité. CPMI vous guide dans les aides pour l'installation d'ascenseurs et monte-charges à Chartres."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chartres.",
+    "Maintenance et dépannage assurés par nos experts locaux.",
+    "Solutions adaptées à tous types de bâtiments à Chartres."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 28.",
+  "faq": [
+    {
+      "question": "Normes à Chartres ?",
+      "answer": "Respect des normes ERP et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Chartres ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

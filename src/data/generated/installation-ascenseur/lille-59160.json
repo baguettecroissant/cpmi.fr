@@ -1,0 +1,28 @@
+{
+  "introText": "Lille, métropole dynamique des Hauts-de-France, présente des défis uniques pour l'installation d'ascenseurs et monte-charges, notamment dans ses bâtiments anciens et ses zones industrielles en reconversion. CPMI.fr connecte les entreprises et copropriétés lilloises avec des installateurs locaux qualifiés pour répondre à ces besoins spécifiques.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Lilloises pour l'Installation d'Ascenseurs",
+    "content": "Lille, avec son architecture variée allant des bâtiments haussmanniens aux constructions modernes, impose des contraintes spécifiques pour l'installation d'ascenseurs. Le Plan Local d'Urbanisme (PLU) de Lille, consultable en mairie, définit les règles d'urbanisme à respecter. De plus, si votre bâtiment est situé dans le périmètre d'un monument historique, l'avis de l'Architecte des Bâtiments de France (ABF) est obligatoire. Bien qu'il n'y ait pas d'aides régionales spécifiquement dédiées aux ascenseurs, des dispositifs d'amélioration de l'habitat peuvent être mobilisés, notamment via l'Agence Nationale de l'Habitat (ANAH)."
+  },
+  "expertAdvice": "Nous savons que l'installation d'un ascenseur ou monte-charge à Lille requiert une connaissance approfondie des normes locales et des spécificités des bâtiments. Faire appel à un installateur référencé sur CPMI.fr, c'est s'assurer d'une installation conforme, durable et adaptée aux contraintes lilloises, évitant ainsi les mauvaises surprises.",
+  "advantages": [
+    "Connaissance approfondie du PLU et des contraintes architecturales de Lille",
+    "Intervention rapide et efficace dans tout le département du Nord (59)",
+    "Expertise des ascenseurs adaptés aux bâtiments anciens et aux nouvelles constructions"
+  ],
+  "pricingContext": "Le coût d'installation d'un ascenseur ou monte-charge pour les professionnels dans le Nord (59) varie considérablement en fonction de la complexité du projet, des contraintes du bâtiment et des finitions souhaitées. Comptez en moyenne entre 15 000€ et 50 000€.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides spécifiques pour l'installation d'ascenseurs dans les Hauts-de-France?",
+      "answer": "Bien qu'il n'y ait pas d'aides régionales dédiées, l'ANAH peut financer une partie des travaux d'amélioration de l'habitat, y compris l'installation d'ascenseurs, sous certaines conditions de ressources et d'éligibilité des travaux."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation d'un ascenseur dans un bâtiment ancien à Lille?",
+      "answer": "Dans les bâtiments anciens lillois, il est crucial de prendre en compte les contraintes architecturales existantes, de respecter les normes de sécurité en vigueur et d'obtenir les autorisations nécessaires auprès de la mairie et éventuellement de l'ABF."
+    },
+    {
+      "question": "Quelles sont les obligations de maintenance pour un ascenseur installé à Lille?",
+      "answer": "La loi impose un contrat de maintenance avec un professionnel qualifié, incluant des visites régulières et des interventions en cas de panne. Le carnet d'entretien doit être tenu à jour et accessible aux utilisateurs."
+    }
+  ]
+}

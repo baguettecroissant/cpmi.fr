@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Saint-Cloud (92210), facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Saint-Cloud",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Des aides locales existent pour l'installation de bornes, améliorant la qualité de l'air."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour une recharge performante et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Saint-Cloud.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour professionnels dans les Hauts-de-Seine.",
+  "faq": [
+    {
+      "question": "Quelles aides à Saint-Cloud ?",
+      "answer": "Renseignez-vous auprès de la mairie et de la région pour les subventions."
+    },
+    {
+      "question": "Délai à St Cloud ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur localement."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Montbrison, pour entreprises et copropriétés engagées dans la mobilité verte.",
+  "localContext": {
+    "title": "Bornes à Montbrison : Transition Énergétique",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'électromobilité. Profitez d'aides pour l'installation de bornes et contribuez à un air plus pur à Montbrison."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solutions sur-mesure.",
+  "advantages": [
+    "Expertise locale à Montbrison et dans la Loire",
+    "Solutions adaptées aux besoins des entreprises",
+    "Installation rapide et conforme aux normes"
+  ],
+  "pricingContext": "Prix compétitifs pour bornes de recharge professionnelles dans le 42.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Montbrison ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

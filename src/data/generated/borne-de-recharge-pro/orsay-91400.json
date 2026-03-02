@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Orsay (91400) pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à Orsay",
+    "content": "La région Île-de-France soutient l'installation de bornes. Profitez d'aides pour électrifier votre parking d'entreprise ou de copropriété à Orsay."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique pour une recharge efficiente à Orsay.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés à Orsay.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Bornes adaptées à tous types de véhicules électriques."
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels et copropriétés du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Orsay ?",
+      "answer": "Adaptation selon vos besoins et contraintes électriques."
+    },
+    {
+      "question": "Délai à Orsay ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

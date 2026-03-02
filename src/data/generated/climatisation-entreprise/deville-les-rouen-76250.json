@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Déville-lès-Rouen, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Normand",
+    "content": "Les étés chauds et hivers doux nécessitent une climatisation performante. Profitez des aides régionales pour l'efficacité énergétique de vos bâtiments à Déville-lès-Rouen."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Dimensionnement précis selon votre espace et activité."
+    },
+    {
+      "question": "Délai à Deville Les Rouen ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des réglementations en vigueur."
+    }
+  ]
+}

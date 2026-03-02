@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Chassieu, contribuant à une mobilité durable pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Mobilité Verte à Chassieu",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électrification des flottes d'entreprises. Profitez des aides locales pour l'installation de vos bornes à Chassieu !"
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Chassieu.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI localement."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Chassieu ?",
+      "answer": "CPMI adapte la puissance à vos besoins."
+    },
+    {
+      "question": "Délai à Chassieu ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "CPMI garantit une installation conforme IRVE."
+    }
+  ]
+}

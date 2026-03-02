@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Saintes (17100).",
+  "localContext": {
+    "title": "Climatisation Durable 17",
+    "content": "Saintes connaît des étés chauds. Des aides régionales pour les entreprises facilitent l'installation de systèmes performants et écologiques."
+  },
+  "expertAdvice": "Optimisation énergétique : un investissement rentable.",
+  "advantages": [
+    "Solutions sur-mesure pour les professionnels Saintais.",
+    "Installation rapide et efficace en Charente-Maritime.",
+    "Maintenance préventive pour une durée de vie accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les entreprises.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Saintes ?",
+      "answer": "Étude thermique précise indispensable."
+    },
+    {
+      "question": "Délai à Saintes ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Respect des normes et SAV réactif."
+    }
+  ]
+}

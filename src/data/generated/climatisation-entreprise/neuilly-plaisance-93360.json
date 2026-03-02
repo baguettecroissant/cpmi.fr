@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Neuilly-Plaisance (93360), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 93 : Enjeux Locaux",
+    "content": "La région Île-de-France subit des étés de plus en plus chauds. CPMI vous aide à optimiser la performance énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts et améliore le confort.",
+  "advantages": [
+    "Installation rapide et efficace à Neuilly-Plaisance.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis clairs et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Neuilly Plaisance ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

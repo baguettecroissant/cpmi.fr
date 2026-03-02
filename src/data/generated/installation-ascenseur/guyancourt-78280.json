@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Guyancourt, facilitant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Guyancourt",
+    "content": "Guyancourt soutient l'accessibilité PMR. CPMI.fr vous accompagne dans la mise aux normes de vos locaux professionnels, en tenant compte des spécificités climatiques de l'Île-de-France."
+  },
+  "expertAdvice": "Anticipez les besoins futurs d'accessibilité de votre entreprise.",
+  "advantages": [
+    "Connaissance des normes spécifiques à Guyancourt.",
+    "Installation rapide et efficace, minimisant les perturbations.",
+    "Solutions sur mesure pour les entreprises locales."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Guyancourt ?",
+      "answer": "CPMI.fr assure la conformité aux normes PMR locales."
+    },
+    {
+      "question": "Délai à Guyancourt ?",
+      "answer": "Installation rapide selon projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides à Guyancourt et environs."
+    }
+  ]
+}

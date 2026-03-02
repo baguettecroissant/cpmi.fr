@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Chalette-sur-Loing, améliorant l'accessibilité locale.",
+  "localContext": {
+    "title": "Accessibilité 45120",
+    "content": "Le Centre-Val de Loire soutient l'accessibilité. CPMI facilite vos projets d'installation d'ascenseurs et monte-charges, adaptés aux besoins locaux et aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Chalette.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 45.",
+  "faq": [
+    {
+      "question": "Normes à Chalette ?",
+      "answer": "Respect des normes ERP et PMR locales garanti."
+    },
+    {
+      "question": "Délai à Chalette Sur Loing ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

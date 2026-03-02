@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à L'Isle-Adam, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Val d'Oise",
+    "content": "Le Val d'Oise encourage l'accessibilité des bâtiments. CPMI vous accompagne pour adapter vos locaux aux normes régionales."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à L'Isle-Adam.",
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à L Isle Adam ?",
+      "answer": "CPMI propose des solutions adaptées aux personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à L Isle Adam ?",
+      "answer": "Installation rapide, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

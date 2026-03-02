@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Les Clayes Sous Bois, pour faciliter l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 78",
+    "content": "Bénéficiez d'aides régionales pour l'adaptation des bâtiments aux normes d'accessibilité. Le climat des Yvelines favorise des installations durables et performantes."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec une installation sur-mesure.",
+  "advantages": [
+    "Solutions adaptées aux contraintes architecturales locales.",
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Maintenance assurée pour une longévité optimale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR local ?",
+      "answer": "Conformité totale aux normes handicapés, sur-mesure."
+    },
+    {
+      "question": "Délai à Les Clayes Sous Bois ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Pierrelatte, favorisant la mobilité électrique en entreprise et copropriété.",
+  "localContext": {
+    "title": "Transition Énergétique à Pierrelatte",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et s'adapter au climat énergétique."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme à Pierrelatte (26).",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 26.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Pierrelatte ?",
+      "answer": "Adaptation selon vos besoins et contraintes locales."
+    },
+    {
+      "question": "Délai à Pierrelatte ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à La Roche Sur Yon, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Transition Énergétique Vendée",
+    "content": "La région Pays de la Loire soutient activement l'installation de bornes. Profitez des aides locales pour accélérer votre transition énergétique avec CPMI."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI pour une gestion énergétique efficace.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales (IRVE 85).",
+    "Solutions personnalisées pour flottes et employés à La Roche.",
+    "Maintenance et SAV assurés par CPMI en Vendée."
+  ],
+  "pricingContext": "CPMI propose des solutions de recharge sur mesure, adaptées à votre budget professionnel en Vendée.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne la borne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à La Roche Sur Yon ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et le respect des normes IRVE."
+    }
+  ]
+}

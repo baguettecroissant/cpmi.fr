@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Portet-sur-Garonne. Optimisation énergétique garantie.",
+  "localContext": {
+    "title": "Climatisation 31 : Spécificités",
+    "content": "La région Occitanie bénéficie d'aides pour l'efficacité énergétique. CPMI.fr adapte ses solutions aux contraintes climatiques locales et aux bâtiments."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts et améliore le confort.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Portet-sur-Garonne",
+    "Installation rapide et efficace par des professionnels qualifiés",
+    "Maintenance préventive pour assurer la longévité de vos équipements"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Portet Sur Garonne ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vertou, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Solutions à Vertou",
+    "content": "Bénéficiez des aides régionales pour l'accessibilité PMR. Le climat économique favorable de Vertou soutient les projets d'installation et de modernisation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec un ascenseur adapté.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Vertou.",
+    "Solutions sur-mesure pour bâtiments professionnels.",
+    "Maintenance assurée par nos équipes locales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Vertou.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour Vertou ?",
+      "answer": "Adapté à votre activité et aux normes ERP."
+    },
+    {
+      "question": "Délai à Vertou ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Brive-la-Gaillarde, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Brive",
+    "content": "La Nouvelle-Aquitaine bénéficie d'aides pour la transition énergétique. CPMI.fr adapte ses solutions aux spécificités climatiques de Brive et ses environs."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI.fr pour une efficacité durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Brive.",
+    "Maintenance et dépannage rapides en Corrèze.",
+    "Conformité aux normes environnementales locales."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour vos besoins spécifiques à Brive (19).",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Brive La Gaillarde ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Romainville, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Romainville",
+    "content": "Romainville bénéficie d'aides régionales pour l'efficacité énergétique. Une climatisation adaptée est cruciale face aux variations climatiques croissantes en Île-de-France."
+  },
+  "expertAdvice": "Optimisez vos installations pour une performance durable et économique.",
+  "advantages": [
+    "Installation rapide et efficace à Romainville et alentours.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur mesure pour les besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour bureaux ?",
+      "answer": "Solutions VRV/DRV adaptées aux espaces tertiaires."
+    },
+    {
+      "question": "Délai à Romainville ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes environnementales."
+    }
+  ]
+}

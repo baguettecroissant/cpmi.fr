@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Sarreguemines pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Transition énergétique à Sarreguemines",
+    "content": "Le Grand Est encourage l'électromobilité. CPMI vous aide à bénéficier des aides locales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en bornes de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour les entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des professionnels locaux."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Sarreguemines ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

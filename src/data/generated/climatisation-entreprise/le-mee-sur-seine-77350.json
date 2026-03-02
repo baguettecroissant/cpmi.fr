@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Mée-sur-Seine, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux Locaux",
+    "content": "Le Mée-sur-Seine subit des étés chauds. CPMI.fr vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique pour votre entreprise."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec un diagnostic précis de CPMI.fr.",
+  "advantages": [
+    "Installation rapide et efficace au Mée-sur-Seine.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Le Mee Sur Seine ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012."
+    }
+  ]
+}

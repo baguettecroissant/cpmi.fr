@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Villetaneuse, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Villetaneuse",
+    "content": "Villetaneuse améliore l'accessibilité des bâtiments. CPMI.fr vous accompagne dans vos projets, en tenant compte des spécificités locales et des aides disponibles en Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Villetaneuse.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Ascenseur : permis requis ?",
+      "answer": "Oui, selon les normes et la complexité de l'installation."
+    },
+    {
+      "question": "Délai à Villetaneuse ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

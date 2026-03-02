@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Igny (91) pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Igny",
+    "content": "Igny, avec ses étés chauds, requiert des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques à Igny.",
+  "advantages": [
+    "Installation rapide et efficace à Igny et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Étude personnalisée pour dimensionner votre installation."
+    },
+    {
+      "question": "Délai à Igny ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

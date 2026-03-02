@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Saint-Maur-des-Fossés.",
+  "localContext": {
+    "title": "Ascenseurs 94 : Enjeux Locaux",
+    "content": "Saint-Maur-des-Fossés bénéficie d'aides à l'accessibilité. CPMI.fr adapte ses installations aux spécificités architecturales de la région Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Expertise locale : Connaissance des normes à Saint-Maur.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Installation rapide : Minimisation de l'impact sur votre activité."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Saint-Maur ?",
+      "answer": "CPMI.fr propose des solutions complètes conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à St Maur Des Fosses ?",
+      "answer": "Installation rapide, délais précis sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes de sécurité en vigueur."
+    }
+  ]
+}

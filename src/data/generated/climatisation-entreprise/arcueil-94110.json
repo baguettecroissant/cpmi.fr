@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Arcueil (94110), pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Arcueil",
+    "content": "Arcueil subit des étés chauds. Profitez des aides régionales pour l'installation de systèmes de climatisation performants dans vos locaux professionnels."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Arcueil et dans le 94.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Arcueil ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales."
+    }
+  ]
+}

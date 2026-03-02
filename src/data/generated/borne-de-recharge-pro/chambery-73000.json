@@ -1,0 +1,28 @@
+{
+  "introText": "Facilitez la mobilité électrique à Chambéry avec CPMI.fr, votre expert en bornes de recharge pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique à Chambéry",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'installation de bornes. Profitez des aides locales pour accélérer votre transition vers la mobilité verte à Chambéry."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge : CPMI vous conseille.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Chambéry.",
+    "Solutions de recharge adaptées à vos besoins spécifiques.",
+    "Gestion simplifiée de l'accès et de la facturation."
+  ],
+  "pricingContext": "CPMI offre des solutions de recharge compétitives pour les professionnels du 73.",
+  "faq": [
+    {
+      "question": "Quelles aides à Chambéry ?",
+      "answer": "Subventions régionales et nationales disponibles pour les installations."
+    },
+    {
+      "question": "Délai à Chambery ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

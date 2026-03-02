@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Cavaillon, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Cavaillon : Enjeux",
+    "content": "Le climat provençal exige des solutions de climatisation performantes. Des aides locales peuvent faciliter votre investissement dans un système adapté."
+  },
+  "expertAdvice": "Choisissez une solution éco-énergétique pour réduire vos coûts à long terme.",
+  "advantages": [
+    "Installation rapide et efficace par nos techniciens locaux.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Cavaillon.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Cavaillon ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

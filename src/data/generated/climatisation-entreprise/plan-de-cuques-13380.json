@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Plan de Cuques, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 13380",
+    "content": "Le climat méditerranéen exige des solutions de climatisation performantes. Profitez des aides locales pour l'efficacité énergétique des entreprises."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée et durable.",
+  "advantages": [
+    "Installation rapide et professionnelle à Plan de Cuques.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Plan De Cuques ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

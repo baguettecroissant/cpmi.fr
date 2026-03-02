@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Valréas, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Valréas",
+    "content": "Valréas, avec son climat ensoleillé, bénéficie d'aides pour l'amélioration de l'habitat. Facilitez l'accès à vos locaux professionnels grâce à CPMI."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure, respect des normes et adaptation à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à Valréas et ses environs.",
+    "Solutions adaptées aux contraintes architecturales locales.",
+    "Maintenance et SAV assurés par des experts CPMI."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans le Vaucluse (84).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Valréas ?",
+      "answer": "Solutions complètes pour accessibilité PMR, conformes aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Valreas ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

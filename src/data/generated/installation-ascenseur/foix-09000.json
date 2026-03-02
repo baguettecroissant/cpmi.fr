@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Foix, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Ariège",
+    "content": "L'Occitanie soutient l'accessibilité des entreprises. CPMI vous accompagne pour adapter vos locaux aux normes PMR et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Un ascenseur bien installé valorise votre bien et améliore le confort de tous.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Foix",
+    "Solutions sur mesure pour bâtiments existants",
+    "Maintenance proactive pour une fiabilité durable"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé compétitif pour votre projet à Foix (09).",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce à Foix ?",
+      "answer": "CPMI vous conseille sur la solution idéale selon vos besoins et contraintes."
+    },
+    {
+      "question": "Délai à Foix ?",
+      "answer": "Devis sous 48h, installation selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide en Ariège et respect des normes en vigueur."
+    }
+  ]
+}

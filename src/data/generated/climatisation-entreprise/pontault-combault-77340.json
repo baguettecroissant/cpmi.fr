@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Pontault-Combault, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux",
+    "content": "Maîtrisez la température de vos locaux à Pontault-Combault. Des aides régionales existent pour l'installation de systèmes performants et économes."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par nos équipes locales.",
+    "Maintenance experte : performance durable.",
+    "Solutions sur-mesure pour vos besoins précis."
+  ],
+  "pricingContext": "Tarifs compétitifs pour les professionnels de Seine-et-Marne.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Un bilan thermique précis est nécessaire."
+    },
+    {
+      "question": "Délai à Pontault Combault ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

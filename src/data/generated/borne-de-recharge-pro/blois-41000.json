@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Blois, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Blois : Transition Énergétique",
+    "content": "La région Centre-Val de Loire encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge à Blois."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Solution personnalisée pour les besoins spécifiques de votre entreprise.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale réactive."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels à Blois (41).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Blois ?",
+      "answer": "Adaptation selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Blois ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "CPMI garantit une installation conforme IRVE."
+    }
+  ]
+}

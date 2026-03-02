@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés aux Pavillons-sous-Bois, améliorant l'accès à la mobilité électrique.",
+  "localContext": {
+    "title": "Bornes 93 : Enjeux Locaux",
+    "content": "Le développement durable est une priorité en Île-de-France. Des aides régionales facilitent l'installation de bornes pour les entreprises et copropriétés."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, expert en bornes de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur (93).",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone de votre flotte."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Les Pavillons Sous Bois ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

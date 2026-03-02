@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Mende (48) pour entreprises et copropriétés. Facilitez la transition énergétique !",
+  "localContext": {
+    "title": "Lozère Électrique",
+    "content": "La région Occitanie encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes dans votre entreprise ou copropriété à Mende."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, expert local.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés lozériennes.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisation de votre image et attractivité à Mende."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 48.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à Mende ?",
+      "answer": "Adaptez la puissance à vos besoins et usages."
+    },
+    {
+      "question": "Délai à Mende ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

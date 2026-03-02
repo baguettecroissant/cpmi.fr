@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire climatisation tertiaire et industrielle à Biarritz, pour un confort optimal et des performances énergétiques.",
+  "localContext": {
+    "title": "Climat Biarritz",
+    "content": "Le climat doux de Biarritz exige des solutions de climatisation performantes. Bénéficiez d'aides régionales pour l'installation de systèmes éco-énergétiques dans le 64."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un audit énergétique professionnel.",
+  "advantages": [
+    "Solutions adaptées aux spécificités des bâtiments à Biarritz.",
+    "Réduction des coûts énergétiques pour les entreprises locales.",
+    "Maintenance et dépannage rapides dans le département 64."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet de climatisation à Biarritz.",
+  "faq": [
+    {
+      "question": "Type climatisation idéal ?",
+      "answer": "Adapté à la surface et aux besoins énergétiques."
+    },
+    {
+      "question": "Délai à Biarritz ?",
+      "answer": "Selon complexité installation."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

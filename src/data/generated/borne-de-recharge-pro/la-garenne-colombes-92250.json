@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à La Garenne-Colombes, soutenant la mobilité verte des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes 92 : Enjeux Locaux",
+    "content": "La région Île-de-France encourage activement l'électrification des véhicules avec des aides spécifiques. CPMI vous accompagne dans ces démarches à La Garenne-Colombes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une installation professionnelle et durable.",
+  "advantages": [
+    "Solution sur-mesure pour vos besoins spécifiques à La Garenne.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Valorisation de votre bien immobilier et réduction de votre empreinte."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos usages et véhicules."
+    },
+    {
+      "question": "Délai à La Garenne Colombes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

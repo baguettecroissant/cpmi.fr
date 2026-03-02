@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Cluses, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Cluses",
+    "content": "Le climat montagnard exige des solutions performantes. Profitez des aides régionales pour l'efficacité énergétique de votre entreprise."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Installation rapide par des professionnels qualifiés à Cluses.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du 74.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon atelier ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Cluses ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

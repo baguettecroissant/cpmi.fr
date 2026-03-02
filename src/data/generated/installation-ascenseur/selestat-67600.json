@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Sélestat, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Sélestat",
+    "content": "Profitez des aides régionales Grand Est pour l'accessibilité. CPMI adapte ses solutions aux contraintes architecturales locales et climatiques."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec des solutions sur-mesure et durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions adaptées aux bâtiments existants à Sélestat.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Bas-Rhin (67).",
+  "faq": [
+    {
+      "question": "Normes à Sélestat ?",
+      "answer": "Conformité aux normes EN81-20 et accessibilité PMR garanties."
+    },
+    {
+      "question": "Délai à Selestat ?",
+      "answer": "Installation sous 4 à 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et efficace, respect des réglementations locales."
+    }
+  ]
+}

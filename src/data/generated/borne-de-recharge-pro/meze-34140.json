@@ -1,0 +1,28 @@
+{
+  "introText": "À Mèze, CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Transition Énergétique à Mèze",
+    "content": "L'Occitanie encourage l'électromobilité avec des aides. Profitez du climat ensoleillé pour optimiser votre consommation d'énergie verte à Mèze."
+  },
+  "expertAdvice": "CPMI.fr : Expertise locale pour une installation optimisée et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Mèze.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone et valorisation immobilière."
+  ],
+  "pricingContext": "Tarifs compétitifs et transparents pour les professionnels du 34.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Meze ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Boulogne-sur-Mer, contribuant à la mobilité durable.",
+  "localContext": {
+    "title": "Bornes à Boulogne : Enjeux",
+    "content": "Les Hauts-de-France soutiennent activement la transition énergétique. Profitez des aides locales pour l'installation de bornes et améliorez votre image."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solution clé en main pour entreprises locales",
+    "Installation rapide et conforme aux normes",
+    "Accès aux subventions régionales disponibles"
+  ],
+  "pricingContext": "Prix compétitifs pour les professionnels du 62, devis personnalisé sur demande.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Boulogne ?",
+      "answer": "Adaptez la puissance selon vos véhicules et besoins des employés."
+    },
+    {
+      "question": "Délai à Boulogne Sur Mer ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

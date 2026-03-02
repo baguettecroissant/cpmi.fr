@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Malakoff, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Malakoff",
+    "content": "Malakoff, en Île-de-France, encourage l'accessibilité des bâtiments. CPMI vous aide à naviguer les réglementations et à bénéficier des aides locales pour vos projets."
+  },
+  "expertAdvice": "Un ascenseur bien installé valorise votre bien et améliore le quotidien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Malakoff.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels dans le 92, devis personnalisé.",
+  "faq": [
+    {
+      "question": "Ascenseur pour PMR ?",
+      "answer": "CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Malakoff ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

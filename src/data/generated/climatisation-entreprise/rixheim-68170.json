@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Rixheim, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Rixheim",
+    "content": "Bénéficiez des aides locales pour la transition énergétique de votre entreprise. Le climat continental de Rixheim exige des solutions de climatisation performantes."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec un diagnostic CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Rixheim et environs.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour des tarifs compétitifs dans le Haut-Rhin.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Rixheim ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

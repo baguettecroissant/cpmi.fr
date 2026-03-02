@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à L'Isle Adam, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 95 : Enjeux Locaux",
+    "content": "Le climat en Île-de-France exige des solutions performantes. CPMI vous accompagne pour bénéficier des aides régionales en matière d'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises du Val-d'Oise.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales et de sécurité."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "Étude personnalisée pour des solutions adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à L Isle Adam ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et ERP."
+    }
+  ]
+}

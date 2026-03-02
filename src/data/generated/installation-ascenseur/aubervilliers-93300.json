@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Aubervilliers, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 93",
+    "content": "Aubervilliers bénéficie d'aides pour l'accessibilité des bâtiments. CPMI.fr vous guide dans vos démarches, en tenant compte du contexte urbain dense."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec une installation sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Aubervilliers",
+    "Solutions adaptées aux contraintes des bâtiments existants",
+    "Maintenance et SAV assurés par des experts locaux"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Aubervilliers.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Nous proposons des solutions sur-mesure adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à Aubervilliers ?",
+      "answer": "Délais rapides, variables selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

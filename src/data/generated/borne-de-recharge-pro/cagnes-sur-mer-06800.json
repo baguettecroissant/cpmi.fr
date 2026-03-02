@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Cagnes-sur-Mer pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique 06",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et adapter votre infrastructure."
+  },
+  "expertAdvice": "Optimisez votre parking avec des solutions de recharge durables.",
+  "advantages": [
+    "Installation rapide par des professionnels locaux.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV assurés par CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif dans les Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Cagnes Sur Mer ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI garantit un SAV réactif et conforme aux normes."
+    }
+  ]
+}

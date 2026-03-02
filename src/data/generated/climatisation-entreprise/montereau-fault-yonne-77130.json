@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Montereau-Fault-Yonne, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 77",
+    "content": "En Île-de-France, CPMI aide les entreprises à optimiser leur climatisation face aux étés chauds et aux réglementations énergétiques. Des aides locales peuvent être disponibles."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté à vos besoins.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Montereau.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet en Seine-et-Marne.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "CPMI vous guide vers la solution idéale."
+    },
+    {
+      "question": "Délai à Montereau Fault Yonne ?",
+      "answer": "Intervention rapide, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

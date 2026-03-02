@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Redon (35600), pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Redon",
+    "content": "Le climat breton exige des solutions de climatisation fiables. CPMI.fr vous accompagne dans le choix d'installations performantes et adaptées aux besoins spécifiques de votre entreprise, avec potentiellement des aides locales."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec un système adapté.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Redon et alentours.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques et amélioration du confort."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les pros du 35.",
+  "faq": [
+    {
+      "question": "Climatisation idéale pour Redon ?",
+      "answer": "Systèmes performants adaptés à l'humidité et aux variations climatiques."
+    },
+    {
+      "question": "Délai à Redon ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes bretonnes en vigueur."
+    }
+  ]
+}

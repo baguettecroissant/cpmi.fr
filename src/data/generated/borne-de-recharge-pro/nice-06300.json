@@ -1,0 +1,28 @@
+{
+  "introText": "À Nice, ville dynamique et soucieuse de son environnement, l'installation de bornes de recharge pour véhicules électriques est un enjeu majeur pour les entreprises et copropriétés. CPMI.fr facilite votre transition vers la mobilité verte en vous connectant avec des installateurs locaux qualifiés, adaptés aux spécificités niçoises et azuréennes.",
+  "localContext": {
+    "title": "Réglementations et Aides Locales en Provence-Alpes-Côte D'azur",
+    "content": "La région Provence-Alpes-Côte D'azur soutient activement le déploiement des bornes IRVE avec des aides complémentaires au programme national ADVENIR. À Nice, l'installation peut être soumise aux contraintes du PLU, notamment dans les zones protégées par les Architectes des Bâtiments de France (ABF), fréquentes dans le Vieux-Nice et le centre-ville. La connaissance des spécificités des réseaux électriques locaux et des normes de sécurité est primordiale pour une installation conforme et durable. Les conditions climatiques (fort ensoleillement) nécessitent des bornes robustes."
+  },
+  "expertAdvice": "Nous, CPMI.fr, insistons sur l'importance de choisir un installateur connaissant les défis spécifiques de Nice. L'intégration esthétique dans le paysage urbain, le respect des normes locales et la capacité à naviguer les procédures administratives sont des atouts majeurs pour une installation réussie et pérenne.",
+  "advantages": [
+    "Parfaite connaissance du PLU et des contraintes ABF à Nice",
+    "Réactivité et suivi personnalisé sur l'ensemble des Alpes-Maritimes",
+    "Expertise des installations en copropriétés et bâtiments tertiaires niçois"
+  ],
+  "pricingContext": "Dans les Alpes-Maritimes (06), le coût d'installation d'une borne de recharge pour professionnels varie considérablement selon la puissance, le nombre de bornes et la complexité du chantier. Il faut prévoir en moyenne entre 1500€ et 5000€ par point de charge, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales cumulables avec le programme ADVENIR en Provence-Alpes-Côte D'azur pour l'installation de bornes IRVE ?",
+      "answer": "La région propose des dispositifs complémentaires, souvent axés sur l'innovation et l'accessibilité. Il est crucial de vérifier les critères d'éligibilité et les dates limites auprès des organismes locaux (CCI, ADEME)."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation de bornes de recharge dans les parkings souterrains des copropriétés à Nice et quels sont les délais typiques ?",
+      "answer": "Les parkings souterrains nécessitent une ventilation adéquate et des dispositifs de sécurité incendie spécifiques. Les délais peuvent varier de quelques semaines à plusieurs mois, selon l'ampleur des travaux et les autorisations nécessaires."
+    },
+    {
+      "question": "Comment assurer la maintenance et le SAV des bornes de recharge installées à Nice, en particulier en cas de forte chaleur estivale ?",
+      "answer": "Un contrat de maintenance préventive est essentiel pour garantir la longévité des bornes. Nos installateurs partenaires proposent des services de surveillance à distance et d'intervention rapide en cas de panne, adaptés aux conditions climatiques locales."
+    }
+  ]
+}

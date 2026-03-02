@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Dugny (93440), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Durable à Dugny",
+    "content": "Dugny bénéficie d'aides régionales pour l'efficacité énergétique. CPMI vous guide dans vos projets de climatisation respectueux de l'environnement."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Dugny et sa région.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions éco-responsables pour réduire votre empreinte carbone."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre entreprise à Dugny.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Dugny ?",
+      "answer": "Nous dimensionnons la solution selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Dugny ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Saint-Quentin, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à St Quentin",
+    "content": "La région Hauts-de-France encourage l'électromobilité. Profitez des aides pour l'installation de bornes et réduisez votre empreinte carbone localement."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour chaque besoin professionnel.",
+    "Valorisation de votre image éco-responsable."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Saint-Quentin (02).",
+  "faq": [
+    {
+      "question": "Quelle puissance à St Quentin ?",
+      "answer": "Adaptez la puissance à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Quentin ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

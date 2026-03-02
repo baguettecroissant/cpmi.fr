@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Aire-sur-la-Lys, pour accessibilité et confort accrus.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Le Hauts-de-France soutient l'accessibilité. CPMI vous guide dans les démarches pour vos projets d'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'espace et respectez les normes avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Aire-sur-la-Lys.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Amélioration de l'accessibilité et valorisation de votre bien."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 62.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité ERP."
+    },
+    {
+      "question": "Délai à Aire Sur La Lys ?",
+      "answer": "Sur devis, variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70."
+    }
+  ]
+}

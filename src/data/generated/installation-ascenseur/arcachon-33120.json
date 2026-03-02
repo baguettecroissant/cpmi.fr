@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Arcachon, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Arcachon et Accessibilité",
+    "content": "Arcachon facilite l'accessibilité des bâtiments. Profitez d'aides locales pour l'installation d'ascenseurs adaptés aux spécificités du climat marin."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à Arcachon.",
+    "Conformité aux normes de sécurité en vigueur.",
+    "Installation rapide et efficace par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Arcachon ?",
+      "answer": "Oui, solutions complètes et conformes PMR."
+    },
+    {
+      "question": "Délai à Arcachon ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

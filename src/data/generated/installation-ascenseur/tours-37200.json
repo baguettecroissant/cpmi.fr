@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert local pour l'installation d'ascenseurs et monte-charges à Tours, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Tours",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. Le climat tempéré de Tours favorise la durabilité des installations extérieures."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Tours.",
+    "Solutions sur mesure adaptées à l'architecture locale.",
+    "Maintenance proactive pour une longévité accrue de votre équipement."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Tours.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, ERP, monte-plats : CPMI vous conseille."
+    },
+    {
+      "question": "Délai à Tours ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes PMR en vigueur."
+    }
+  ]
+}

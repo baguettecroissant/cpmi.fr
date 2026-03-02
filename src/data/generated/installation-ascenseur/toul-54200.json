@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Toul, pour une accessibilité optimale de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à Toul",
+    "content": "Bénéficiez d'aides à l'accessibilité pour les entreprises à Toul (54). CPMI.fr adapte ses solutions aux contraintes architecturales du Grand Est."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre entreprise avec une installation sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Toul.",
+    "Solutions adaptées à tous types de bâtiments.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "CPMI.fr : Des prix compétitifs pour les professionnels du 54.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Toul ?",
+      "answer": "CPMI.fr : Installation d'ascenseurs adaptés aux personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Toul ?",
+      "answer": "Devis rapide, installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

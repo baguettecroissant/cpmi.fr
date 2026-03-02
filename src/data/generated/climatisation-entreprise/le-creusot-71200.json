@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle au Creusot, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Creusot",
+    "content": "Le climat continental du Creusot exige des systèmes performants. Profitez des aides régionales pour optimiser votre installation de climatisation."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore votre productivité.",
+  "advantages": [
+    "Installation rapide par nos techniciens locaux qualifiés.",
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 71.",
+  "faq": [
+    {
+      "question": "Quelle puissance au Creusot ?",
+      "answer": "Dimensionnement précis selon vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à Le Creusot ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

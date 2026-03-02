@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Marly Le Roi, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 78160",
+    "content": "Marly Le Roi subit des étés chauds. CPMI vous accompagne pour optimiser votre climatisation et potentiellement bénéficier d'aides régionales."
+  },
+  "expertAdvice": "Un système adapté réduit les coûts et améliore la productivité.",
+  "advantages": [
+    "Installation rapide et efficace à Marly Le Roi.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "CPMI dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Marly Le Roi ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "Normes ERP ?",
+      "answer": "Respect des normes en vigueur et certifications."
+    }
+  ]
+}

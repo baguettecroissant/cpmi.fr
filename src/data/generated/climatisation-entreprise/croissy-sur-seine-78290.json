@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Croissy-sur-Seine, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. Des aides régionales peuvent financer vos installations tertiaires et industrielles."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et efficace à Croissy-sur-Seine.",
+    "Solutions sur-mesure pour les professionnels du 78.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les entreprises du 78.",
+  "faq": [
+    {
+      "question": "Climatisation : quel impact local ?",
+      "answer": "Amélioration du confort et de la productivité."
+    },
+    {
+      "question": "Délai à Croissy Sur Seine ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

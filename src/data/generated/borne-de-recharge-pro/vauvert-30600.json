@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Vauvert pour entreprises et copropriétés. Facilitez la mobilité électrique !",
+  "localContext": {
+    "title": "Aides Bornes Vauvert",
+    "content": "La région Occitanie soutient l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre impact environnemental."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et professionnelle à Vauvert.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV garantis par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et adaptés aux professionnels du Gard.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Vauvert ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Vauvert ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et bornes conformes aux normes françaises."
+    }
+  ]
+}

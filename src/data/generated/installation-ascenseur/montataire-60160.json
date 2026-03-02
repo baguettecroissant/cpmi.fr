@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Montataire, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Solutions Adaptées",
+    "content": "Montataire, ville en développement, bénéficie d'aides pour l'accessibilité. CPMI adapte ses installations aux spécificités du climat des Hauts-de-France."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour chaque besoin à Montataire.",
+  "advantages": [
+    "Accessibilité optimisée pour les bâtiments de Montataire.",
+    "Conformité aux normes de sécurité en vigueur.",
+    "Installation rapide et efficace par CPMI."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs et transparents pour les professionnels du 60.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Montataire ?",
+      "answer": "CPMI propose des solutions PMR complètes et personnalisées."
+    },
+    {
+      "question": "Délai à Montataire ?",
+      "answer": "Installation rapide, devis précis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

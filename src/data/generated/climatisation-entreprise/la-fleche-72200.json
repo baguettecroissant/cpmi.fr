@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Flèche, pour un confort optimal toute l'année.",
+  "localContext": {
+    "title": "Climatisation adaptée à La Flèche",
+    "content": "Le climat de la Sarthe exige des solutions performantes. CPMI vous accompagne pour bénéficier des aides à la rénovation énergétique disponibles dans le 72."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par nos experts.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de La Flèche.",
+    "Installation rapide et efficace, minimisant l'impact sur votre activité.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour les professionnels du 72.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à La Fleche ?",
+      "answer": "Intervention rapide selon vos besoins."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

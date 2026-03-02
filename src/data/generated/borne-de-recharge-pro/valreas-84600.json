@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Valréas, soutenant la mobilité électrique locale pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides Régionales 84",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'installation de bornes avec des aides financières. Profitez d'un climat ensoleillé idéal pour l'énergie solaire et les véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Valréas.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Réduction de l'empreinte carbone et valorisation immobilière."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour des tarifs compétitifs dans le Vaucluse.",
+  "faq": [
+    {
+      "question": "Bornes pour flottes ?",
+      "answer": "Oui, CPMI propose des solutions adaptées aux flottes d'entreprise."
+    },
+    {
+      "question": "Délai à Valreas ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "CPMI respecte les normes IRVE en vigueur dans le Vaucluse."
+    }
+  ]
+}

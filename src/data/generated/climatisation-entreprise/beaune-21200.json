@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Beaune, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Beaune",
+    "content": "Bénéficiez des aides régionales pour l'amélioration énergétique de vos bâtiments. Le climat bourguignon exige des solutions de climatisation performantes."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec un partenaire local de confiance.",
+  "advantages": [
+    "Installation rapide et efficace à Beaune et alentours",
+    "Maintenance préventive pour une durée de vie accrue",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour vos projets en Côte-d'Or.",
+  "faq": [
+    {
+      "question": "Quelle clim pour Beaune ?",
+      "answer": "Adaptée à vos volumes et aux variations climatiques locales."
+    },
+    {
+      "question": "Délai à Beaune ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

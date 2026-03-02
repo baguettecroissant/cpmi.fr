@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à La Possession, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 974",
+    "content": "La Possession : climat tropical exigeant des solutions robustes. CPMI vous aide à optimiser vos installations et à naviguer les réglementations énergétiques locales."
+  },
+  "expertAdvice": "Un audit énergétique précis pour des solutions sur mesure et durables.",
+  "advantages": [
+    "Installation rapide et efficace à La Possession.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions éco-énergétiques pour réduire vos coûts."
+  ],
+  "pricingContext": "Tarifs compétitifs et transparents pour les professionnels réunionnais.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à La Possession ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

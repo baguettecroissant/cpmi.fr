@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vernon, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Vernon",
+    "content": "La région Normandie soutient les entreprises pour l'efficacité énergétique. CPMI.fr vous aide à optimiser vos installations face aux variations climatiques locales."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et professionnelle à Vernon et ses environs.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour une performance durable garantie."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de l'Eure (27).",
+  "faq": [
+    {
+      "question": "Quel type de climatisation pour mon entreprise à Vernon ?",
+      "answer": "Nous évaluons vos besoins pour une solution sur mesure."
+    },
+    {
+      "question": "Délai à Vernon ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

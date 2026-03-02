@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Couëron, pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Bornes à Couëron",
+    "content": "La région Pays de la Loire encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes dans votre entreprise ou copropriété à Couëron."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI.fr, experts locaux.",
+  "advantages": [
+    "Solution de recharge adaptée aux besoins spécifiques de votre entreprise.",
+    "Valorisation immobilière et engagement environnemental durable.",
+    "Installation rapide et conforme aux normes en vigueur à Couëron."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à Couëron ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Couëron ?",
+      "answer": "Installation rapide après validation."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance assurée et respect des normes locales."
+    }
+  ]
+}

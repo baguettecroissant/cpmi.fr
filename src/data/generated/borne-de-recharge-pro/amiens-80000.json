@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Amiens et ses environs.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient l'électromobilité. Profitez des subventions pour l'installation de bornes à Amiens et réduisez votre investissement initial."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts locaux.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Amiens.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI dans la Somme."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Amiens (80).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Amiens ?",
+      "answer": "CPMI adapte la puissance à vos besoins réels."
+    },
+    {
+      "question": "Délai à Amiens ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Norme IRVE locale ?",
+      "answer": "CPMI garantit la conformité IRVE à Amiens."
+    }
+  ]
+}

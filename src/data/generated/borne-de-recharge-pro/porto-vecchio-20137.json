@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Facilitez la transition énergétique de votre entreprise ou copropriété à Porto-Vecchio avec nos bornes de recharge.",
+  "localContext": {
+    "title": "Transition Énergétique à Porto-Vecchio",
+    "content": "La Corse encourage l'électromobilité. Profitez des aides régionales pour l'installation de bornes de recharge et réduisez votre empreinte carbone sous le soleil porto-vecchiais."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI : solutions sur mesure et durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Porto-Vecchio.",
+    "Bornes adaptées aux besoins spécifiques des entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts locaux certifiés IRVE."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels en Corse-du-Sud.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos usages et besoins spécifiques."
+    },
+    {
+      "question": "Délai à Porto Vecchio ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur à Porto-Vecchio."
+    }
+  ]
+}

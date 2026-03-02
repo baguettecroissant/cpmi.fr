@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ste Luce Sur Loire, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 44 : Enjeux Locaux",
+    "content": "La région Pays de la Loire bénéficie d'aides pour l'efficacité énergétique. CPMI.fr vous accompagne dans vos projets de climatisation adaptés aux besoins locaux."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Ste Luce.",
+    "Installation et maintenance par des experts locaux.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre climatisation professionnelle dans le 44.",
+  "faq": [
+    {
+      "question": "Climatisation : Quel impact environnemental local ?",
+      "answer": "CPMI.fr privilégie des solutions à faible impact environnemental."
+    },
+    {
+      "question": "Délai à Ste Luce Sur Loire ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (RT2012)."
+    }
+  ]
+}

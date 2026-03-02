@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Annoeullin, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Réglementations",
+    "content": "Hauts-de-France : bénéficiez d'aides à l'accessibilité. CPMI vous guide dans les démarches et respecte les normes en vigueur à Annoeullin."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Annoeullin.",
+    "Solutions sur mesure pour tous types de bâtiments professionnels.",
+    "Maintenance et SAV réactifs pour une tranquillité assurée."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Annoeullin ?",
+      "answer": "CPMI propose des solutions PMR adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à Annoeullin ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

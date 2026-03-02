@@ -1,0 +1,28 @@
+{
+  "introText": "À Toulouse, le confort thermique des espaces tertiaires et industriels est primordial pour la productivité. CPMI.fr vous connecte avec des installateurs locaux experts en climatisation, capables de répondre aux défis spécifiques de la ville rose : bâtiments anciens, enjeux énergétiques et réglementations strictes.",
+  "localContext": {
+    "title": "Climatisation à Toulouse : Entre Réglementation et Performance",
+    "content": "L'Occitanie, et Toulouse en particulier, bénéficie d'un ensoleillement important, nécessitant des solutions de climatisation performantes. La Zone à Faibles Émissions (ZFE) de Toulouse Métropole impacte le choix des équipements, privilégiant les solutions à faible impact environnemental. De plus, la présence de nombreux bâtiments classés nécessite une attention particulière aux contraintes architecturales et aux exigences des Architectes des Bâtiments de France (ABF). Des aides régionales, comme les dispositifs de l'ADEME, peuvent soutenir financièrement les entreprises dans leur transition énergétique."
+  },
+  "expertAdvice": "Nous savons que chaque entreprise à Toulouse a des besoins uniques. Faire appel à un installateur local via CPMI.fr, c'est s'assurer d'une solution sur-mesure, respectueuse des normes locales et adaptée aux spécificités de votre bâtiment. Profitez de notre réseau d'experts pour un climat de travail optimal.",
+  "advantages": [
+    "Maîtrise des contraintes architecturales toulousaines (ABF, PLU)",
+    "Suivi personnalisé et réactif en Haute-Garonne (31)",
+    "Solutions adaptées aux bâtiments anciens et aux normes RT2012"
+  ],
+  "pricingContext": "À Toulouse (31), les tarifs pour l'installation de climatisation tertiaire et industrielle varient en fonction de la surface, du type de système et des contraintes du bâtiment. Comptez en moyenne entre 80 et 200 € par mètre carré, hors travaux annexes.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Occitanie pour l'installation de climatisation performante ?",
+      "answer": "La région Occitanie propose des dispositifs d'aide via l'ADEME et des subventions locales pour encourager l'installation de systèmes de climatisation à haute efficacité énergétique. CPMI.fr vous met en relation avec des professionnels qui connaissent ces aides."
+    },
+    {
+      "question": "Quels sont les délais d'installation moyens pour un système de climatisation dans un bâtiment tertiaire à Toulouse ?",
+      "answer": "Les délais varient en fonction de la complexité de l'installation, mais comptez généralement entre 2 et 6 semaines pour un projet standard. Nos installateurs partenaires s'engagent à respecter les délais convenus et à minimiser les perturbations pour votre activité."
+    },
+    {
+      "question": "Comment assurer la maintenance et le SAV de mon système de climatisation à Toulouse ?",
+      "answer": "CPMI.fr vous connecte avec des installateurs proposant des contrats de maintenance adaptés à vos besoins. Un entretien régulier est essentiel pour garantir la performance et la longévité de votre installation, tout en respectant les normes en vigueur."
+    }
+  ]
+}

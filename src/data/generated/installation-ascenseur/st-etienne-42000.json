@@ -1,0 +1,28 @@
+{
+  "introText": "À Saint-Étienne, ville au riche patrimoine industriel et à la topographie parfois escarpée, l'installation d'ascenseurs et monte-charges est cruciale pour l'accessibilité des entreprises et des copropriétés. CPMI.fr vous connecte aux meilleurs installateurs locaux, capables de répondre aux défis spécifiques de la ville et de ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Saint-Étienne : Réglementations et Aides Locales",
+    "content": "L'installation d'ascenseurs à Saint-Étienne est soumise au PLU de la ville, particulièrement attentif à l'intégration architecturale dans les quartiers historiques. La ZFE (Zone à Faibles Émissions) de la Métropole de Saint-Étienne impacte également les choix de matériel et les déplacements des installateurs. Des aides régionales Auvergne-Rhône-Alpes, cumulables avec les dispositifs nationaux, peuvent alléger le coût des travaux, notamment pour l'amélioration de l'accessibilité des ERP et copropriétés. Certaines aides sont aussi disponibles pour les travaux d'amélioration énergétique liés à l'installation."
+  },
+  "expertAdvice": "Nous savons que Saint-Étienne possède une architecture variée, allant des bâtiments industriels réhabilités aux immeubles haussmanniens. Il est donc primordial de choisir un installateur maîtrisant les contraintes techniques spécifiques à chaque type de bâtiment. Une connaissance approfondie des réglementations locales et des aides disponibles est également essentielle pour un projet réussi.",
+  "advantages": [
+    "Connaissance des particularités architecturales de Saint-Étienne (bâtiments miniers, etc.)",
+    "Suivi personnalisé et réactivité pour les entreprises de la Loire (42)",
+    "Expertise des installations dans les bâtiments classés ou soumis à des contraintes spécifiques"
+  ],
+  "pricingContext": "Dans le département de la Loire (42), les prix d'installation d'ascenseurs et de monte-charges pour les professionnels varient en fonction de la complexité du chantier, du type d'appareil et des finitions. Comptez en moyenne entre 15 000 € et 50 000 € HT, hors maçonnerie, pour une installation standard.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides spécifiques de la région Auvergne-Rhône-Alpes pour l'installation d'un ascenseur dans un ERP à Saint-Étienne ?",
+      "answer": "La région propose des aides à l'accessibilité pour les ERP, cumulables avec les aides nationales. Le montant et les conditions d'éligibilité varient en fonction du projet et de la situation de l'entreprise. CPMI.fr peut vous aider à identifier les dispositifs pertinents."
+    },
+    {
+      "question": "Quels sont les délais d'installation moyens d'un ascenseur dans un bâtiment existant à Saint-Étienne, et comment sont-ils impactés par les contraintes locales ?",
+      "answer": "Les délais varient de quelques semaines à plusieurs mois, en fonction de la complexité des travaux et des autorisations administratives (permis de construire, etc.). La présence de réseaux souterrains ou de contraintes architecturales peut rallonger les délais. Une étude préalable est indispensable."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité spécifiques à respecter pour l'installation et la maintenance d'un ascenseur à Saint-Étienne ?",
+      "answer": "Les ascenseurs doivent respecter les normes européennes (EN 81-20 et EN 81-50) et la réglementation française en vigueur. La maintenance doit être effectuée par un professionnel qualifié et respecter les périodicités imposées par la loi. Un contrat de maintenance est obligatoire."
+    }
+  ]
+}

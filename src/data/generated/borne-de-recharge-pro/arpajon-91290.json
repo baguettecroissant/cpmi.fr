@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Arpajon, contribuant à la mobilité durable.",
+  "localContext": {
+    "title": "Arpajon et bornes",
+    "content": "L'Île-de-France soutient activement l'électrification des véhicules. Profitez d'aides pour installer vos bornes à Arpajon et valoriser votre engagement environnemental."
+  },
+  "expertAdvice": "Optimisez l'accès aux bornes pour vos employés et visiteurs.",
+  "advantages": [
+    "Solution clé en main pour Arpajon et ses environs",
+    "Installation rapide par des experts certifiés IRVE",
+    "Maintenance assurée pour une recharge sereine"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes à Arpajon.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Arpajon ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules."
+    },
+    {
+      "question": "Délai à Arpajon ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes en vigueur."
+    }
+  ]
+}

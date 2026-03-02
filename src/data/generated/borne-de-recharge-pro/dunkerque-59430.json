@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Dunkerque, soutenant la mobilité durable.",
+  "localContext": {
+    "title": "Dunkerque Électrique",
+    "content": "La région Hauts-de-France encourage l'électrification des flottes. Profitez d'aides locales pour l'installation de bornes de recharge à Dunkerque."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec un partenaire local certifié IRVE.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Dunkerque.",
+    "Solutions de recharge sur mesure pour chaque entreprise.",
+    "Gestion énergétique optimisée et réduction des coûts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Dunkerque (59).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Dunkerque ?",
+      "answer": "Adaptez la puissance à vos besoins locaux."
+    },
+    {
+      "question": "Délai à Dunkerque ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et conformité aux normes en vigueur."
+    }
+  ]
+}

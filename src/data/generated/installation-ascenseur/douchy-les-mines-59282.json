@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert local pour l'installation d'ascenseurs et monte-charges à Douchy-les-Mines, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Douchy",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. Le climat industriel des Hauts-de-France favorise les solutions de levage performantes."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et durable, adaptée à vos besoins.",
+  "advantages": [
+    "Proximité et réactivité à Douchy-les-Mines et ses environs.",
+    "Solutions sur-mesure pour bâtiments industriels et commerciaux.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Douchy ?",
+      "answer": "CPMI assure une installation conforme aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Douchy Les Mines ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70 et ERP."
+    }
+  ]
+}

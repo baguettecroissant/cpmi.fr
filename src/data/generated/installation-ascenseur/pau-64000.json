@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Pau, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Pau",
+    "content": "La région Nouvelle-Aquitaine encourage l'accessibilité. CPMI.fr vous accompagne dans vos projets d'installation en tenant compte des spécificités locales et des aides disponibles."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Pau.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Pau.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel modèle à Pau ?",
+      "answer": "Adaptez le modèle à l'usage et à l'espace disponible."
+    },
+    {
+      "question": "Délai à Pau ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

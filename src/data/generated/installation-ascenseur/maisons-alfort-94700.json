@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Maisons-Alfort (94700), pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Maisons-Alfort",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI vous accompagne dans vos projets d'élévation, en tenant compte du climat urbain spécifique."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes actuelles.",
+  "advantages": [
+    "Installation rapide et efficace à Maisons-Alfort.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV de proximité dans le Val-de-Marne."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels à Maisons-Alfort.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Maisons-Alfort ?",
+      "answer": "CPMI propose des solutions conformes aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Maisons Alfort ?",
+      "answer": "Délais rapides, devis personnalisé."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité locales."
+    }
+  ]
+}

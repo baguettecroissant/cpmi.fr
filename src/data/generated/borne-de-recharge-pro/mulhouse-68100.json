@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Mulhouse, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Le Grand Est soutient l'installation de bornes. Profitez des incitations financières pour électrifier votre flotte ou parking à Mulhouse."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solutions personnalisées pour entreprises et copropriétés mulhousiennes.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Demandez un devis personnalisé adapté à vos besoins spécifiques dans le 68.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Mulhouse ?",
+      "answer": "Installation rapide sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

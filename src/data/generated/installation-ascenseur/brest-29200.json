@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Brest, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Brest : Accessibilité",
+    "content": "Brest et sa région encouragent l'accessibilité des bâtiments. CPMI.fr vous accompagne dans vos projets d'installation et de mise aux normes."
+  },
+  "expertAdvice": "CPMI.fr : Expertise locale pour des installations fiables et durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Brest.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 29.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Brest ?",
+      "answer": "CPMI.fr propose des solutions adaptées PMR."
+    },
+    {
+      "question": "Délai à Brest ?",
+      "answer": "Délais rapides, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes bretonnes."
+    }
+  ]
+}

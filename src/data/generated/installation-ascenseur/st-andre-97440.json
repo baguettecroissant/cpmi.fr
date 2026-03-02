@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Saint-André, La Réunion. Solutions sur mesure pour professionnels.",
+  "localContext": {
+    "title": "Accessibilité 974",
+    "content": "Saint-André bénéficie d'aides pour l'accessibilité des commerces. CPMI vous accompagne dans vos démarches et adapte ses installations au climat tropical."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux contraintes spécifiques du site.",
+    "Maintenance assurée par des experts basés à La Réunion."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Saint-André.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Saint-André ?",
+      "answer": "CPMI propose des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à St Andre ?",
+      "answer": "Délais rapides, sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes réunionnaises."
+    }
+  ]
+}

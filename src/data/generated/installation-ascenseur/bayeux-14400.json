@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Bayeux, pour faciliter l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à Bayeux",
+    "content": "La région Normandie soutient l'accessibilité des commerces. Profitez d'aides pour l'installation d'ascenseurs et monte-charges, améliorant l'attractivité de votre entreprise."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec nos solutions sur-mesure.",
+  "advantages": [
+    "Solutions adaptées aux bâtiments historiques de Bayeux.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Amélioration de l'accessibilité pour vos clients et employés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet d'ascenseur ou monte-charge dans le Calvados.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bayeux ?",
+      "answer": "Conformité totale aux normes PMR pour une accessibilité optimale."
+    },
+    {
+      "question": "Délai à Bayeux ?",
+      "answer": "Installation rapide : délai selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

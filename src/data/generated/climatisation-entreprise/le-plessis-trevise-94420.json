@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Plessis-Trévise. Performance et fiabilité garanties.",
+  "localContext": {
+    "title": "Climatisation 94 : Enjeux Locaux",
+    "content": "Le climat francilien exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique et réduire votre impact environnemental."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation et maintenance optimales.",
+  "advantages": [
+    "Installation rapide et efficace au Plessis-Trévise.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur-mesure adaptées à vos besoins."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Le Plessis Trevise ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Coulommiers, soutenant la mobilité électrique locale pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique Coulommiers",
+    "content": "La région Île-de-France encourage l'électromobilité avec des aides financières. CPMI.fr vous accompagne dans l'obtention de ces subventions à Coulommiers."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés à Coulommiers.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Coulommiers (77).",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Coulommiers ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

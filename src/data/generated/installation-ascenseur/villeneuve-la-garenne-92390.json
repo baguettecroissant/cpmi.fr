@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Villeneuve-la-Garenne (92) pour une mobilité optimale.",
+  "localContext": {
+    "title": "Accessibilité & Innovation",
+    "content": "Villeneuve-la-Garenne facilite l'accès aux PMR. CPMI.fr s'engage pour des solutions sur-mesure, adaptées aux défis urbains et aux besoins locaux."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Proximité et réactivité à Villeneuve-la-Garenne",
+    "Solutions personnalisées pour tous types de bâtiments",
+    "Respect des normes de sécurité et d'accessibilité"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans le 92.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR : quelles aides ?",
+      "answer": "Subventions possibles : contactez la mairie."
+    },
+    {
+      "question": "Délai à Villeneuve La Garenne ?",
+      "answer": "Étude sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

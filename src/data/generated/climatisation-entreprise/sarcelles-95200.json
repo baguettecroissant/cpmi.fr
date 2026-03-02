@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sarcelles (95), assurant confort et performance.",
+  "localContext": {
+    "title": "Climatisation 95 : Enjeux Locaux",
+    "content": "Sarcelles, avec ses étés chauds, exige des systèmes performants. Des aides régionales existent pour l'installation de climatiseurs écoénergétiques."
+  },
+  "expertAdvice": "Optimisez vos installations pour réduire les coûts énergétiques à Sarcelles.",
+  "advantages": [
+    "Intervention rapide et efficace sur Sarcelles et sa région.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Conformité aux normes environnementales locales et nationales."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du Val-d'Oise.",
+  "faq": [
+    {
+      "question": "Quel climatiseur pour Sarcelles ?",
+      "answer": "Adapté à la surface et aux besoins énergétiques."
+    },
+    {
+      "question": "Délai à Sarcelles ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

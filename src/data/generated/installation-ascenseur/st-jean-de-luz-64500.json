@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges à St Jean De Luz, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Pays Basque",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI vous aide à naviguer les aides pour l'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Jean De Luz",
+    "Solutions sur mesure pour bâtiments existants ou neufs",
+    "Amélioration de l'accessibilité et valorisation de votre bien"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 64.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et parfois en rénovation."
+    },
+    {
+      "question": "Délai à St Jean De Luz ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et la conformité réglementaire."
+    }
+  ]
+}

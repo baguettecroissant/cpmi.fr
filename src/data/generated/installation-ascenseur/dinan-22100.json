@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Dinan, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Dinan",
+    "content": "Dinan bénéficie d'aides à l'accessibilité pour les entreprises. Le climat breton exige des installations robustes et adaptées aux variations météorologiques."
+  },
+  "expertAdvice": "Un ascenseur bien installé valorise votre bien immobilier à Dinan.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Dinan.",
+  "faq": [
+    {
+      "question": "Normes à Dinan ?",
+      "answer": "Conformité aux normes EN 81-20/50 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Dinan ?",
+      "answer": "Délais variables selon le projet. Contactez-nous."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV rapide et efficace à Dinan et sa région."
+    }
+  ]
+}

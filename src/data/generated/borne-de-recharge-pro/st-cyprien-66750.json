@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à St Cyprien, pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à St Cyprien",
+    "content": "La région Occitanie encourage l'électromobilité avec des aides. CPMI.fr vous accompagne pour en bénéficier et s'adapter au climat ensoleillé."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr : solution durable et économique.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à St Cyprien.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction des coûts et valorisation immobilière garantie."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 66. Contactez-nous pour un devis.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins et usages professionnels."
+    },
+    {
+      "question": "Délai à St Cyprien ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales par CPMI.fr."
+    }
+  ]
+}

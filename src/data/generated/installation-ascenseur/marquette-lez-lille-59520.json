@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Marquette Lez Lille.",
+  "localContext": {
+    "title": "Aides & Région",
+    "content": "Hauts-de-France : bénéficiez d'aides à la rénovation. CPMI vous accompagne dans vos démarches pour votre projet d'ascenseur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Expertise locale : intervention rapide à Marquette Lez Lille.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans le 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Marquette ?",
+      "answer": "CPMI adapte ses installations aux normes PMR."
+    },
+    {
+      "question": "Délai à Marquette Lez Lille ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local réactif et respect des normes NF."
+    }
+  ]
+}

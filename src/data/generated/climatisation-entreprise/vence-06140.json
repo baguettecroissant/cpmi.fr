@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vence, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Vence",
+    "content": "Le climat méditerranéen exige des solutions de climatisation fiables. CPMI vous accompagne dans vos projets avec des solutions adaptées aux spécificités régionales."
+  },
+  "expertAdvice": "Optimisez vos installations pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Vence",
+    "Installation et maintenance par des experts locaux",
+    "Respect des normes environnementales et de sécurité"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 06.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour bureaux ?",
+      "answer": "Solutions VRV/DRV adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à Vence ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des réglementations en vigueur."
+    }
+  ]
+}

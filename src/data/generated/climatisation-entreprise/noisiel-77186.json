@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Noisiel, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 77 : Enjeux",
+    "content": "Noisiel, en Île-de-France, subit des étés chauds. CPMI.fr vous aide à optimiser votre climatisation tout en profitant des aides régionales pour les entreprises."
+  },
+  "expertAdvice": "Choisissez une solution adaptée à vos besoins spécifiques pour une efficacité maximale.",
+  "advantages": [
+    "Installation rapide et efficace à Noisiel et sa région.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur-mesure pour tous types de bâtiments tertiaires."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs et adaptés aux budgets des entreprises du 77.",
+  "faq": [
+    {
+      "question": "Quel type de clim pour mon bureau à Noisiel ?",
+      "answer": "Nous évaluons vos besoins pour proposer la solution la plus adaptée."
+    },
+    {
+      "question": "Délai à Noisiel ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Croix (59170) pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Croix",
+    "content": "La région Hauts-de-France encourage l'électromobilité. Profitez des aides pour l'installation de bornes et améliorez votre image verte."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour une recharge efficace et durable.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Croix.",
+    "Solutions sur mesure pour tous types de besoins.",
+    "Maintenance et SAV garantis pour une sérénité totale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Croix et dans le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Croix ?",
+      "answer": "Adaptez la puissance à votre flotte et usage."
+    },
+    {
+      "question": "Délai à Croix ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes en vigueur."
+    }
+  ]
+}

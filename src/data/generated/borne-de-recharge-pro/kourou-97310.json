@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Kourou, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Énergie à Kourou",
+    "content": "Kourou bénéficie d'un ensoleillement idéal pour l'énergie solaire, réduisant les coûts de recharge. Des aides locales peuvent aussi faciliter l'installation."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI pour un avenir durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Kourou.",
+    "Solution sur mesure pour flottes et résidents.",
+    "Gestion intelligente de la consommation d'énergie."
+  ],
+  "pricingContext": "CPMI offre des solutions tarifaires compétitives adaptées au marché guyanais.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Kourou ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Kourou ?",
+      "answer": "Installation sous 4 semaines en général."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes françaises et locales."
+    }
+  ]
+}

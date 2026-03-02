@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Bry-Sur-Marne, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "Val-de-Marne propose des aides à l'accessibilité. CPMI vous guide dans les démarches pour optimiser votre projet d'installation."
+  },
+  "expertAdvice": "Optimisez l'espace et la conformité de votre installation avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bry-sur-Marne.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bry ?",
+      "answer": "CPMI propose des solutions PMR complètes et adaptées."
+    },
+    {
+      "question": "Délai à Bry Sur Marne ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

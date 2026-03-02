@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Metz, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Metz",
+    "content": "Le climat continental de Metz exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur à Metz.",
+    "Maintenance préventive pour une longévité accrue de vos équipements.",
+    "Solutions sur mesure pour les spécificités de votre activité."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet en Moselle.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Metz ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes du Grand Est."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à St Omer, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation : Enjeux à St Omer",
+    "content": "Le climat variable du Pas-de-Calais exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales en efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un audit énergétique personnalisé par CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à St Omer et environs.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour une durabilité maximale."
+  ],
+  "pricingContext": "Prix compétitifs et devis gratuits pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à St Omer ?",
+      "answer": "Intervention rapide, sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "L'installation d'ascenseurs et monte-charges à Nice est un enjeu majeur, compte tenu de la densité urbaine et de la diversité architecturale, allant des bâtiments haussmanniens du centre-ville aux constructions modernes. Faciliter l'accès aux personnes à mobilité réduite et optimiser la logistique verticale sont des priorités pour les entreprises et copropriétés niçoises.",
+  "localContext": {
+    "title": "Réglementations et Spécificités Niçoises pour l'Installation d'Ascenseurs",
+    "content": "À Nice, l'installation d'ascenseurs est soumise à des réglementations d'urbanisme strictes, notamment en raison de la présence de nombreux bâtiments anciens et de zones protégées. Le Plan Local d'Urbanisme (PLU) de Nice encadre les modifications de façade et les extensions. De plus, la proximité de la mer peut imposer des contraintes liées à la corrosion. Bien qu'il n'y ait pas d'aides spécifiquement niçoises, il convient de se renseigner sur les dispositifs régionaux de la Provence-Alpes-Côte d'Azur pour l'amélioration de l'habitat et l'accessibilité."
+  },
+  "expertAdvice": "Nous savons que chaque installation d'ascenseur à Nice est unique. Le respect des normes d'accessibilité, l'adaptation aux contraintes architecturales locales et la coordination avec les différents corps de métier exigent une expertise pointue. C'est pourquoi nous recommandons vivement de choisir un installateur qui connaît parfaitement le tissu urbain niçois.",
+  "advantages": [
+    "Connaissance approfondie du PLU de Nice et des contraintes architecturales locales",
+    "Réactivité et disponibilité garanties pour les entreprises et copropriétés des Alpes-Maritimes",
+    "Expertise dans l'installation d'ascenseurs dans les bâtiments haussmanniens et les constructions modernes niçoises"
+  ],
+  "pricingContext": "Le coût d'installation d'un ascenseur ou monte-charge pour les professionnels dans les Alpes-Maritimes varie considérablement en fonction de la complexité du projet, du type d'appareil et des travaux préparatoires nécessaires. En moyenne, il faut prévoir un budget allant de 15 000€ à 50 000€.",
+  "faq": [
+    {
+      "question": "Existe-t-il des aides régionales spécifiques en Provence-Alpes-Côte d'Azur pour l'installation d'ascenseurs dans les entreprises ?",
+      "answer": "Bien qu'il n'y ait pas d'aides spécifiquement dédiées aux entreprises, la région Provence-Alpes-Côte d'Azur propose des dispositifs pour l'amélioration de l'habitat et l'accessibilité, auxquels les entreprises peuvent être éligibles sous certaines conditions. Il est important de se renseigner auprès des organismes compétents."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Nice, en tenant compte des autorisations administratives ?",
+      "answer": "Les délais varient considérablement en fonction de la complexité du projet et des autorisations nécessaires (permis de construire, autorisation de travaux...). Il faut généralement compter entre 3 et 6 mois, en incluant les démarches administratives et les travaux d'installation."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité et les obligations de maintenance à respecter pour un ascenseur installé à Nice ?",
+      "answer": "Les ascenseurs doivent répondre aux normes de sécurité en vigueur (norme EN 81-20 et EN 81-50). Un contrat de maintenance avec un professionnel agréé est obligatoire pour assurer le bon fonctionnement et la sécurité de l'appareil, conformément à la réglementation."
+    }
+  ]
+}

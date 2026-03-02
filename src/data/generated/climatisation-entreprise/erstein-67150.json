@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Erstein, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Erstein",
+    "content": "Le climat alsacien exige des solutions performantes. CPMI.fr vous accompagne pour bénéficier des aides à la transition énergétique dans le Bas-Rhin."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI.fr, votre partenaire local.",
+  "advantages": [
+    "Installation rapide et efficace à Erstein.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "CPMI.fr propose des prix compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins."
+    },
+    {
+      "question": "Délai à Erstein ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

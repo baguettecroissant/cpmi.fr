@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Athis-Mons, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Athis-Mons Électrique",
+    "content": "La région Île-de-France encourage activement l'électromobilité. Profitez des aides locales pour l'installation de bornes, améliorant ainsi la qualité de l'air à Athis-Mons."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge sur mesure.",
+  "advantages": [
+    "Installation rapide par des professionnels certifiés IRVE à Athis-Mons.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés localement par CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Athis-Mons (91).",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Athis Mons ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Cernay, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Cernay",
+    "content": "Cernay, avec ses étés chauds, exige des solutions de climatisation performantes. Profitez des aides régionales pour l'efficacité énergétique dans le Haut-Rhin."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire les coûts et l'impact environnemental.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels à Cernay.",
+    "Installation et maintenance par des experts locaux certifiés RGE.",
+    "Réduction des coûts énergétiques grâce à des systèmes performants."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 68.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Cernay ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Cernay ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

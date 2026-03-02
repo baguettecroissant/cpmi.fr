@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Lens, optimisant le confort de vos locaux professionnels.",
+  "localContext": {
+    "title": "Climatisation Lens (62)",
+    "content": "Bénéficiez des aides régionales pour l'efficacité énergétique. Un climat maîtrisé est essentiel pour la productivité dans le climat variable des Hauts-de-France."
+  },
+  "expertAdvice": "Un système performant réduit les coûts et améliore le bien-être.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Lens.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés pour une climatisation adaptée à votre budget pro dans le 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau à Lens ?",
+      "answer": "Une étude thermique précise dimensionne au mieux."
+    },
+    {
+      "question": "Délai à Lens ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes environnementales en vigueur."
+    }
+  ]
+}

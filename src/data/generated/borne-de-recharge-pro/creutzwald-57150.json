@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Creutzwald, pour une mobilité électrique facilitée en entreprise et copropriété.",
+  "localContext": {
+    "title": "Électromobilité à Creutzwald",
+    "content": "Le Grand Est soutient l'électromobilité. CPMI.fr vous aide à bénéficier des aides pour l'installation de bornes dans le 57150."
+  },
+  "expertAdvice": "Optimisez votre transition énergétique avec CPMI.fr, expert local.",
+  "advantages": [
+    "Bornes adaptées aux besoins spécifiques des entreprises locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe de proximité."
+  ],
+  "pricingContext": "Devis personnalisés pour les professionnels de Creutzwald et sa région.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Creutzwald ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises."
+    }
+  ]
+}

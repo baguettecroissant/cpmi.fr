@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Laon pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Laon",
+    "content": "La région Hauts-de-France soutient l'accessibilité. CPMI.fr vous guide dans les démarches pour l'installation de vos équipements à Laon."
+  },
+  "expertAdvice": "Une installation conforme aux normes locales assure sécurité et durabilité.",
+  "advantages": [
+    "Amélioration de l'accessibilité des bâtiments à Laon.",
+    "Valorisation de votre bien immobilier.",
+    "Conformité aux normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour l'installation de vos équipements à Laon (02).",
+  "faq": [
+    {
+      "question": "Normes à Laon ?",
+      "answer": "CPMI.fr respecte les normes ERP et PMR locales."
+    },
+    {
+      "question": "Délai à Laon ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance rapide et efficace à Laon et ses environs."
+    }
+  ]
+}

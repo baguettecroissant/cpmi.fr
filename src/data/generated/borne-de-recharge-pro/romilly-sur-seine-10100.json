@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation de bornes de recharge à Romilly-sur-Seine, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "Le Grand Est soutient l'électromobilité. Profitez des aides régionales pour l'installation de bornes, améliorant l'attractivité de votre entreprise à Romilly."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée.",
+  "advantages": [
+    "Solutions sur mesure pour entreprises et copropriétés à Romilly.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels et copropriétés du 10.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptée à vos besoins et véhicules."
+    },
+    {
+      "question": "Délai à Romilly Sur Seine ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

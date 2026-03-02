@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Castres, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Castres",
+    "content": "Le climat du Tarn nécessite des solutions adaptées. CPMI vous guide vers les aides disponibles pour optimiser votre investissement en climatisation."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation performante et adaptée.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Castres et sa région.",
+    "Installation et maintenance par des experts locaux.",
+    "Réduction des coûts énergétiques grâce à nos solutions."
+  ],
+  "pricingContext": "Devis personnalisés pour climatisation industrielle et tertiaire dans le Tarn (81).",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Castres ?",
+      "answer": "Analyse des besoins et solutions sur-mesure pour chaque projet."
+    },
+    {
+      "question": "Délai à Castres ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Tarn."
+    }
+  ]
+}

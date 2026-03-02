@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Ville d'Avray, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité 92410",
+    "content": "Ville d'Avray facilite l'accessibilité des bâtiments. CPMI vous guide sur les aides régionales et les spécificités du climat francilien pour une installation durable."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et sécurisée.",
+  "advantages": [
+    "Installation rapide et efficace à Ville d'Avray.",
+    "Solutions sur-mesure pour tous les bâtiments.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Ville d'Avray ?",
+      "answer": "CPMI adapte l'installation aux normes PMR."
+    },
+    {
+      "question": "Délai à Ville D Avray ?",
+      "answer": "Devis rapide et installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes NF EN 81-20."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Wittenheim, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 68 : Enjeux",
+    "content": "Wittenheim, avec son climat continental, nécessite des systèmes performants. Profitez des aides régionales pour optimiser votre installation de climatisation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels",
+    "Installation et maintenance par des experts certifiés",
+    "Optimisation énergétique et réduction de l'empreinte carbone"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Haut-Rhin.",
+  "faq": [
+    {
+      "question": "Type de climatisation ?",
+      "answer": "Nous proposons des solutions VRV, rooftops et systèmes split."
+    },
+    {
+      "question": "Délai à Wittenheim ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

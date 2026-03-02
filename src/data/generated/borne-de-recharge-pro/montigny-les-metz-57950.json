@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Montigny Les Metz, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Montigny",
+    "content": "Le Grand Est encourage l'électromobilité. Profitez d'aides locales pour l'installation de bornes de recharge, réduisant vos coûts."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide à Montigny Les Metz et environs.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance assurée par des experts locaux qualifiés."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du département 57.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Nous dimensionnons selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Montigny Les Metz ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Nazaire, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Durable 44",
+    "content": "St Nazaire bénéficie d'aides régionales pour l'efficacité énergétique. CPMI adapte ses solutions aux spécificités du climat ligérien, optimisant votre investissement."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Installation rapide par des experts locaux.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Conformité aux normes environnementales strictes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé compétitif pour votre projet à St Nazaire.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "CPMI dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à St Nazaire ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2020."
+    }
+  ]
+}

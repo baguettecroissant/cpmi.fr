@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Sorgues (84). Des solutions performantes pour votre activité.",
+  "localContext": {
+    "title": "Climatisation à Sorgues",
+    "content": "Bénéficiez d'aides pour l'installation de climatisation performante. Le climat provençal exige des solutions adaptées aux professionnels."
+  },
+  "expertAdvice": "Optimisez votre confort thermique et réduisez vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Sorgues.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance et dépannage 7j/7 dans le Vaucluse."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à Sorgues (84).",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "Nous évaluons vos besoins pour une solution sur-mesure."
+    },
+    {
+      "question": "Délai à Sorgues ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

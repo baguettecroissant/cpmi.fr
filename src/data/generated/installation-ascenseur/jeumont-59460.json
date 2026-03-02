@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Jeumont, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Les Hauts-de-France soutiennent l'accessibilité. CPMI vous guide à Jeumont pour optimiser vos demandes de subventions liées à vos installations."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions personnalisées pour chaque besoin à Jeumont.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Jeumont.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour bâtiments existants et neufs."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels dans le 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Jeumont ?",
+      "answer": "CPMI : Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Jeumont ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes en vigueur."
+    }
+  ]
+}

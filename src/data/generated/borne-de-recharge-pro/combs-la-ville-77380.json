@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Combs-la-Ville, répondant à la demande croissante des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Combs-la-Ville",
+    "content": "La région Île-de-France encourage l'électromobilité avec des aides financières. CPMI.fr vous accompagne dans ces démarches pour votre projet local."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Combs-la-Ville.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne de recharge dans le 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Combs La Ville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes en vigueur."
+    }
+  ]
+}

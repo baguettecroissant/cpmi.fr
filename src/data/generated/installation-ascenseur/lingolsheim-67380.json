@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Lingolsheim, pour faciliter l'accès à tous les bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Grand Est",
+    "content": "Le Grand Est soutient l'accessibilité des bâtiments. Profitez d'aides pour l'installation d'ascenseurs et monte-charges, améliorant le quotidien des habitants."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité à Lingolsheim."
+  ],
+  "pricingContext": "Tarifs compétitifs pour professionnels dans le Bas-Rhin.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Lingolsheim ?",
+      "answer": "Solutions complètes pour Personnes à Mobilité Réduite."
+    },
+    {
+      "question": "Délai à Lingolsheim ?",
+      "answer": "Devis rapide et installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN81-70 et ERP."
+    }
+  ]
+}

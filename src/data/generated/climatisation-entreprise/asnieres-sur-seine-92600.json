@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Asnières-sur-Seine, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 92 : Défis & Solutions",
+    "content": "Asnières-sur-Seine subit des étés chauds. CPMI.fr adapte vos systèmes aux normes environnementales et aux aides disponibles en Île-de-France."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour des économies durables.",
+  "advantages": [
+    "Installation rapide et efficace à Asnières-sur-Seine",
+    "Maintenance préventive pour éviter les pannes coûteuses",
+    "Solutions sur-mesure pour tous types de bâtiments tertiaires"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Asnières ?",
+      "answer": "Nous analysons vos besoins pour une solution optimisée."
+    },
+    {
+      "question": "Délai à Asnieres Sur Seine ?",
+      "answer": "Intervention rapide : 24-48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et HQE."
+    }
+  ]
+}

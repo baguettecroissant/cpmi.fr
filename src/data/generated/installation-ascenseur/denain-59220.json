@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Denain, assurant accessibilité et confort pour vos locaux.",
+  "localContext": {
+    "title": "Aides & Accessibilité",
+    "content": "La région Hauts-de-France soutient l'accessibilité PMR. CPMI vous guide dans les démarches pour bénéficier d'aides financières locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre bâtiment avec un ascenseur adapté.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Denain.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI localement."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le 59.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur pour Denain ?",
+      "answer": "Nous proposons des solutions adaptées à chaque besoin et budget."
+    },
+    {
+      "question": "Délai à Denain ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

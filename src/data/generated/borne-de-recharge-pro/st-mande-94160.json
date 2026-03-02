@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Saint-Mandé (94160), facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Saint-Mandé",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Profitez d'aides pour installer vos bornes et améliorez votre bilan carbone localement."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de votre empreinte carbone à Saint-Mandé."
+  ],
+  "pricingContext": "Prix compétitifs et solutions personnalisées pour les pros du 94.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Mande ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

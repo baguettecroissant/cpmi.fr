@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Etienne Du Rouvray, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 76 : Enjeux",
+    "content": "En Normandie, les étés chauds exigent des solutions de climatisation fiables. CPMI vous accompagne pour optimiser vos installations et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore le confort de vos employés.",
+  "advantages": [
+    "Installation rapide par nos équipes locales à St Etienne Du Rouvray.",
+    "Maintenance préventive pour une performance durable de vos équipements.",
+    "Solutions sur mesure pour tous types de bâtiments tertiaires et industriels."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels de Seine-Maritime (76).",
+  "faq": [
+    {
+      "question": "Quel type de climatisation ?",
+      "answer": "Nous proposons des solutions VRV, rooftops et systèmes split adaptées à vos besoins."
+    },
+    {
+      "question": "Délai à St Etienne Du Rouvray ?",
+      "answer": "Intervention rapide : sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012 et ERP en vigueur."
+    }
+  ]
+}

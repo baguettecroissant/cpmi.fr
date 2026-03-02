@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Carpentras pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Carpentras",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. Profitez d'aides pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une borne adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés à Carpentras.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction des coûts énergétiques et valorisation immobilière."
+  ],
+  "pricingContext": "Tarifs compétitifs et solutions de financement adaptées aux professionnels du Vaucluse.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Carpentras ?",
+      "answer": "Installation rapide, généralement sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

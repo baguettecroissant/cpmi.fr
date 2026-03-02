@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ploemeur, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Ploemeur",
+    "content": "Le climat océanique de Ploemeur exige des systèmes performants. CPMI vous accompagne pour bénéficier des aides à la rénovation énergétique disponibles dans le Morbihan."
+  },
+  "expertAdvice": "Un audit précis pour une solution de climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et soignée par nos équipes locales.",
+    "Maintenance préventive pour une durabilité maximale.",
+    "Solutions éco-responsables pour réduire votre empreinte carbone."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Morbihan (56).",
+  "faq": [
+    {
+      "question": "Climatisation idéale ?",
+      "answer": "Adaptée à vos locaux et à vos exigences métiers."
+    },
+    {
+      "question": "Délai à Ploemeur ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

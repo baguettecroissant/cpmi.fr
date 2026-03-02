@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Athis-Mons, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 91",
+    "content": "Athis-Mons, climat variable. Profitez des aides régionales pour l'installation de systèmes performants et économes en énergie pour vos bâtiments."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises d'Athis-Mons.",
+    "Installation et maintenance par des professionnels certifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon la surface et l'activité."
+    },
+    {
+      "question": "Délai à Athis Mons ?",
+      "answer": "Intervention rapide, sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et ERP."
+    }
+  ]
+}

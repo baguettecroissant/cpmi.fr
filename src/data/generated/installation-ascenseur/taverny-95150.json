@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Taverny, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Taverny & Accessibilité",
+    "content": "Profitez des subventions régionales pour l'amélioration de l'accessibilité des commerces et bâtiments à Taverny. Le climat économique local favorise ces investissements."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.fr.",
+  "advantages": [
+    "Expertise locale à Taverny et dans le Val-d'Oise.",
+    "Solutions sur-mesure pour chaque type de bâtiment.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quel ascenseur pour mon commerce à Taverny ?",
+      "answer": "CPMI.fr vous conseille sur le modèle adapté."
+    },
+    {
+      "question": "Délai à Taverny ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

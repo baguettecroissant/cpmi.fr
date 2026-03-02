@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Fosses (95470), pour un confort optimal.",
+  "localContext": {
+    "title": "Climat à Fosses",
+    "content": "Fosses subit des étés chauds : une climatisation performante est cruciale. CPMI.fr vous conseille sur les aides disponibles en Île-de-France."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Fosses et environs.",
+    "Maintenance préventive pour éviter les pannes coûteuses.",
+    "Solutions sur-mesure pour tous types de bâtiments industriels."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Fosses.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Fosses ?",
+      "answer": "Nous analysons votre bâtiment pour une solution optimale."
+    },
+    {
+      "question": "Délai à Fosses ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

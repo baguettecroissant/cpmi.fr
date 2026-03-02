@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Montargis, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides locales",
+    "content": "La région Centre-Val de Loire soutient activement l'électromobilité. Profitez des aides pour l'installation de bornes à Montargis et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Montargis.",
+    "Solutions personnalisées pour flottes et employés.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne à Montargis.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Montargis ?",
+      "answer": "Installation sous 4 semaines en moyenne."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Alfortville, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Alfortville",
+    "content": "Bénéficiez des aides régionales pour l'installation de systèmes performants. Le climat francilien exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Alfortville.",
+    "Installation rapide et efficace par nos équipes qualifiées.",
+    "Maintenance préventive pour assurer la longévité de vos équipements."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et des tarifs compétitifs dans le 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Nous dimensionnons selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Alfortville ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

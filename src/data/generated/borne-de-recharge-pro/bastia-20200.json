@@ -1,0 +1,28 @@
+{
+  "introText": "Facilitez la transition énergétique de votre entreprise ou copropriété à Bastia avec nos bornes de recharge.",
+  "localContext": {
+    "title": "Bornes à Bastia : un enjeu",
+    "content": "La Corse encourage l'électromobilité. Profitez d'aides régionales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une infrastructure adaptée.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Bastia.",
+    "Solution sur mesure pour entreprises et copropriétés.",
+    "Maintenance assurée pour une durabilité optimale."
+  ],
+  "pricingContext": "Devis personnalisé pour bornes de recharge adaptées à vos besoins B2B.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Bastia ?",
+      "answer": "Adaptez la puissance à vos besoins et véhicules."
+    },
+    {
+      "question": "Délai à Bastia ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes corses."
+    }
+  ]
+}

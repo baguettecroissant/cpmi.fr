@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Andresy, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Andresy",
+    "content": "Profitez des aides à l'adaptation du logement en Île-de-France. Le climat local favorise la durabilité des installations grâce à CPMI."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Andresy.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance proactive pour une longévité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Selon la réglementation en vigueur pour les ERP."
+    },
+    {
+      "question": "Délai à Andresy ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

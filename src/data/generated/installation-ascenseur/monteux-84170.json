@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Monteux, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Vaucluse",
+    "content": "Le Vaucluse soutient l'accessibilité des bâtiments. CPMI.fr adapte ses installations aux spécificités climatiques de Monteux."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et soignée à Monteux et alentours.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Respect des normes de sécurité et d'accessibilité."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 84.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Monteux ?",
+      "answer": "CPMI.fr propose des solutions PMR complètes et adaptées."
+    },
+    {
+      "question": "Délai à Monteux ?",
+      "answer": "Délais rapides après étude."
+    },
+    {
+      "question": "SAV local ascenseur ?",
+      "answer": "SAV réactif et disponible dans tout le Vaucluse."
+    }
+  ]
+}

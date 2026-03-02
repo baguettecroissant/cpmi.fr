@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Cesson-Sévigné, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 35",
+    "content": "Le climat breton exige des solutions de climatisation adaptées. Profitez des aides régionales pour optimiser votre installation tertiaire ou industrielle."
+  },
+  "expertAdvice": "Choisissez un système adapté aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Cesson-Sévigné",
+    "Optimisation énergétique et réduction des coûts",
+    "Maintenance et dépannage rapides en Ille-et-Vilaine"
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour professionnels du 35.",
+  "faq": [
+    {
+      "question": "Quelle clim pour bureaux ?",
+      "answer": "Solutions VRV/DRV pour un confort optimal."
+    },
+    {
+      "question": "Délai à Cesson Sevigne ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

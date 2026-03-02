@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure la climatisation tertiaire et industrielle à Mulhouse, optimisant confort et performance énergétique de vos bâtiments.",
+  "localContext": {
+    "title": "Climatisation à Mulhouse",
+    "content": "Le climat continental de Mulhouse exige des systèmes de climatisation performants. Des aides régionales peuvent faciliter l'investissement dans des solutions écoénergétiques."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation adaptée aux besoins spécifiques de votre activité.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des experts locaux.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du Grand Est.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "CPMI dimensionne les systèmes selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Mulhouse ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des réglementations thermiques."
+    }
+  ]
+}

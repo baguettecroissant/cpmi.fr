@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Gravelines, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Transition Énergétique 59",
+    "content": "La région Hauts-de-France soutient activement l'installation de bornes avec des aides financières. CPMI.fr vous accompagne dans ces démarches locales pour un avenir plus vert."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution de recharge adaptée et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Gravelines.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI.fr."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs et transparents pour votre projet dans le Nord.",
+  "faq": [
+    {
+      "question": "Aides locales disponibles ?",
+      "answer": "CPMI.fr vous guide dans les aides régionales."
+    },
+    {
+      "question": "Délai à Gravelines ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

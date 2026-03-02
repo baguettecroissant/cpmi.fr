@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Aubenas, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Aubenas",
+    "content": "Bénéficiez d'aides à la rénovation pour l'accessibilité dans l'Ardèche. CPMI s'adapte aux contraintes architecturales d'Aubenas et de sa région."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Aubenas.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à Aubenas (07).",
+  "faq": [
+    {
+      "question": "Normes à Aubenas ?",
+      "answer": "CPMI respecte les normes ERP et PMR en vigueur."
+    },
+    {
+      "question": "Délai à Aubenas ?",
+      "answer": "Selon complexité."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV réactif en Ardèche."
+    }
+  ]
+}

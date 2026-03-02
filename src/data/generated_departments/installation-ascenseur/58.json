@@ -1,0 +1,28 @@
+{
+  "introText": "À {CITY_NAME} ({ZIP}), l'installation d'ascenseurs et monte-charge est cruciale pour l'accessibilité et la logistique des entreprises, ERP et copropriétés. Le dynamisme urbain et la présence de bâtiments variés, du centre historique aux zones d'activités, exigent des solutions fiables. Nos installateurs locaux garantissent des équipements adaptés aux spécificités {CITY_NAME_ADJECTIVE}, améliorant la mobilité verticale.",
+  "localContext": {
+    "title": "Réglementations, Aides et Spécificités en Bourgogne-Franche-Comté",
+    "content": "L'installation d'ascenseurs à {CITY_NAME} ({ZIP}) doit impérativement respecter le Plan Local d'Urbanisme (PLU) de la ville, particulièrement pour l'intégration architecturale dans des zones sensibles ou historiques. La proximité de monuments classés peut également exiger l'avis des Architectes des Bâtiments de France (ABF). Au niveau régional, la Bourgogne-Franche-Comté encourage l'accessibilité, avec des dispositifs comme des subventions pour la mise en conformité des ERP ou des aides à l'amélioration de l'habitat pour les copropriétés, souvent cumulables avec des aides nationales. Le climat tempéré local ne présente pas de contraintes extrêmes, mais une conception robuste est toujours de mise pour assurer la longévité des installations."
+  },
+  "expertAdvice": "Chez CPMI.fr, nous savons qu'à {CITY_NAME}, chaque projet d'installation d'ascenseur ou monte-charge est unique. Faire appel à un installateur local est fondamental. Il maîtrisera non seulement les normes techniques, mais aussi les subtilités du PLU {CITY_NAME_ADJECTIVE}, les exigences des Bâtiments de France et les procédures administratives locales. Cette connaissance approfondie garantit une installation conforme, rapide et sans imprévus, essentielle pour la pérennité de votre investissement et la sécurité des usagers.",
+  "advantages": [
+    "Connaissance parfaite du PLU de {CITY_NAME} et des exigences des Bâtiments de France pour une intégration harmonieuse.",
+    "Réactivité garantie sur {CITY_NAME} et l'ensemble du département 58 pour toute intervention ou maintenance rapide.",
+    "Expertise dans l'adaptation aux bâtiments {CITY_NAME_ADJECTIVE}, des immeubles anciens du centre-ville aux structures industrielles."
+  ],
+  "pricingContext": "Dans le département de la Nièvre (58), les prix d'installation d'ascenseurs et monte-charge pour les professionnels varient selon la complexité et le type d'équipement. Attendez-vous à des devis personnalisés, mais des études récentes montrent une fourchette moyenne pour des projets standards.",
+  "faq": [
+    {
+      "question": "Quelles sont les principales aides régionales en Bourgogne-Franche-Comté pour l'installation d'un ascenseur ou monte-charge ?",
+      "answer": "La région propose des subventions pour l'accessibilité des ERP et l'amélioration de l'habitat en copropriété, souvent via des fonds spécifiques ou en complément des dispositifs nationaux comme MaPrimeRénov'. Il est crucial de consulter les appels à projets régionaux et locaux."
+    },
+    {
+      "question": "Y a-t-il des spécificités d'installation ou des délais particuliers à prévoir pour un projet à {CITY_NAME} ?",
+      "answer": "À {CITY_NAME}, les délais peuvent être influencés par la nécessité d'obtenir des autorisations spécifiques, notamment en zones protégées par les ABF ou en fonction des exigences du PLU. Un installateur local anticipera ces démarches pour optimiser le calendrier."
+    },
+    {
+      "question": "Comment assurer la maintenance et le Service Après-Vente (SAV) d'un ascenseur installé à {CITY_NAME} ?",
+      "answer": "Nos partenaires locaux à {CITY_NAME} proposent des contrats de maintenance préventive et corrective, garantissant un SAV rapide et efficace. Cette proximité assure une intervention dans les meilleurs délais, minimisant les interruptions de service pour votre entreprise ou copropriété."
+    }
+  ]
+}

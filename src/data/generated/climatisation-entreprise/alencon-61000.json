@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Alençon, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Alençon",
+    "content": "La Normandie offre des aides pour l'efficacité énergétique. CPMI.fr adapte ses solutions aux contraintes climatiques locales pour un confort durable."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Alençon et sa région.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 61.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Alençon ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

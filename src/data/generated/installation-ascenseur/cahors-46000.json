@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Cahors, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Cahors",
+    "content": "Profitez des aides locales pour l'adaptation des logements. Le climat ensoleillé de l'Occitanie rend l'accessibilité d'autant plus importante."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec une installation adaptée.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments existants à Cahors",
+    "Respect des normes de sécurité en vigueur",
+    "Installation rapide et efficace par des experts locaux"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet d'installation à Cahors et ses environs.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Cahors ?",
+      "answer": "Conformité totale aux normes PMR pour faciliter l'accès à tous."
+    },
+    {
+      "question": "Délai à Cahors ?",
+      "answer": "Installation sous 4 semaines, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité locales."
+    }
+  ]
+}

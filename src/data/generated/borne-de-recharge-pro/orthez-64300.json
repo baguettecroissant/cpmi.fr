@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Orthez, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Orthez Électrique",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. Profitez des aides régionales pour installer vos bornes de recharge à Orthez et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge intelligentes et durables.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Orthez.",
+    "Solutions personnalisées pour flottes et résidents du 64.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Orthez.",
+  "faq": [
+    {
+      "question": "Bornes : quel impact local ?",
+      "answer": "Valorisation immobilière et engagement RSE renforcé pour votre entreprise."
+    },
+    {
+      "question": "Délai à Orthez ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur à Orthez."
+    }
+  ]
+}

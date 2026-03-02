@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert local pour l'installation d'ascenseurs et monte-charges à Cosne Cours Sur Loire.",
+  "localContext": {
+    "title": "Ascenseurs 58 : Context Local",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Bourgogne-Franche-Comté. CPMI.fr s'adapte aux spécificités architecturales locales."
+  },
+  "expertAdvice": "Un ascenseur adapté améliore l'accessibilité et valorise votre bien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité locales.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 58.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Cosne ?",
+      "answer": "CPMI.fr propose des solutions PMR sur mesure pour tous les bâtiments."
+    },
+    {
+      "question": "Délai à Cosne Cours Sur Loire ?",
+      "answer": "Délais rapides, devis personnalisé."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

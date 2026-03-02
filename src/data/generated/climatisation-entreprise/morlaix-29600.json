@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Morlaix, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Morlaix",
+    "content": "Morlaix connaît des étés nécessitant une climatisation performante. CPMI vous accompagne dans vos projets avec des solutions adaptées et éligibles aux aides régionales."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Morlaix et alentours.",
+    "Solutions sur mesure pour les besoins spécifiques B2B.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation dans le Finistère.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Morlaix ?",
+      "answer": "CPMI dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Morlaix ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

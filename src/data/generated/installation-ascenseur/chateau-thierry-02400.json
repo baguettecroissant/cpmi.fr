@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Château-Thierry, pour une accessibilité optimale de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 02",
+    "content": "Bénéficiez d'aides à l'accessibilité pour votre commerce à Château-Thierry. Le climat économique favorable soutient les entreprises locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien immobilier.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et dépannage assurés par nos techniciens locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans l'Aisne.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Chateau Thierry ?",
+      "answer": "Installation conforme aux normes handicapés, sur mesure."
+    },
+    {
+      "question": "Délai à Chateau Thierry ?",
+      "answer": "Devis sous 48h, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

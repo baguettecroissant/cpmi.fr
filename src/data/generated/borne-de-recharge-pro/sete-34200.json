@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Sète, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Sète",
+    "content": "La région Occitanie encourage l'électromobilité avec des aides financières. Sète, avec son climat ensoleillé, est idéale pour l'énergie solaire et les véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Sète.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV de proximité garantis par CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de recharge à Sète avec CPMI.",
+  "faq": [
+    {
+      "question": "Aides locales pour bornes ?",
+      "answer": "La région Occitanie propose des subventions pour l'installation."
+    },
+    {
+      "question": "Délai à Sete ?",
+      "answer": "Installation sous 4 semaines en général."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV rapide et respecte la norme IRVE."
+    }
+  ]
+}

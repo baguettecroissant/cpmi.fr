@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à St Brevin Les Pins, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 44",
+    "content": "Le climat océanique de St Brevin nécessite des solutions de climatisation adaptées. Bénéficiez d'aides régionales pour l'installation de systèmes performants."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système de climatisation adapté à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à St Brevin Les Pins.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bâtiment ?",
+      "answer": "Nous évaluons vos besoins pour une solution optimale."
+    },
+    {
+      "question": "Délai à St Brevin Les Pins ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

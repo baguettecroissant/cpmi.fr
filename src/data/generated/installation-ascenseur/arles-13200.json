@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Arles, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Adaptation Arlésienne",
+    "content": "Arles, ville d'art et d'histoire, bénéficie d'aides pour l'accessibilité. CPMI adapte ses installations aux contraintes climatiques provençales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien à Arles avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés par CPMI."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Arles ?",
+      "answer": "CPMI installe des ascenseurs conformes aux normes PMR à Arles."
+    },
+    {
+      "question": "Délai à Arles ?",
+      "answer": "Installation rapide, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

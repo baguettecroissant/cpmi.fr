@@ -1,0 +1,28 @@
+{
+  "introText": "À Strasbourg, l'adoption de bornes de recharge pour véhicules électriques est cruciale pour soutenir le dynamisme économique et répondre aux enjeux environnementaux. CPMI.fr connecte les entreprises, ERP et copropriétés strasbourgeoises avec des installateurs IRVE qualifiés, facilitant ainsi la transition vers une mobilité durable adaptée au climat local.",
+  "localContext": {
+    "title": "Strasbourg : Aides Régionales et Contraintes Urbaines",
+    "content": "L'installation de bornes IRVE à Strasbourg doit tenir compte du Plan Local d'Urbanisme (PLU) et des éventuelles contraintes liées aux Bâtiments de France (ABF), notamment dans le centre historique. La région Grand Est propose des aides financières pour encourager cette transition, cumulables potentiellement avec des dispositifs nationaux. Ces aides visent à réduire le coût d'installation et à accélérer le déploiement des infrastructures de recharge pour les entreprises et les copropriétés."
+  },
+  "expertAdvice": "Nous, experts CPMI.fr, recommandons vivement de choisir un installateur connaissant les spécificités de Strasbourg. L'expertise locale garantit le respect des normes d'urbanisme, l'optimisation des coûts et un service après-vente réactif. Une installation réussie maximise les bénéfices de votre borne et assure sa pérennité.",
+  "advantages": [
+    "Connaissance approfondie du réseau électrique de Strasbourg",
+    "Intervention rapide dans tout le département du Bas-Rhin (67)",
+    "Adaptation aux spécificités des bâtiments alsaciens (isolation, accès)"
+  ],
+  "pricingContext": "Dans le Bas-Rhin (67), les prix pour l'installation de bornes de recharge varient en fonction de la puissance, du type d'installation et des contraintes du site. Les entreprises et copropriétés doivent prévoir un budget allant de 1500€ à 5000€ par borne, hors aides et subventions.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides spécifiques de la région Grand Est pour l'installation de bornes IRVE en entreprise ?",
+      "answer": "La région Grand Est propose des subventions pour l'installation de bornes IRVE, notamment via des appels à projets spécifiques. Ces aides peuvent couvrir une partie des coûts d'installation et sont cumulables avec le programme ADVENIR."
+    },
+    {
+      "question": "Quels sont les délais d'installation d'une borne de recharge à Strasbourg pour une copropriété ?",
+      "answer": "Les délais varient en fonction de la complexité du projet et des autorisations nécessaires. Il faut compter en moyenne 2 à 4 mois, incluant l'étude de faisabilité, la demande de raccordement et les travaux d'installation."
+    },
+    {
+      "question": "Qui prend en charge la maintenance des bornes de recharge installées par CPMI.fr à Strasbourg ?",
+      "answer": "CPMI.fr travaille avec des installateurs locaux assurant un service après-vente réactif et une maintenance préventive et corrective de qualité. Des contrats de maintenance adaptés aux besoins de chaque client sont proposés."
+    }
+  ]
+}

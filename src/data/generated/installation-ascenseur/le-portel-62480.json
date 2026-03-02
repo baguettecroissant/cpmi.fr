@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges au Portel, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 62",
+    "content": "Le Portel bénéficie d'aides régionales pour l'amélioration de l'accessibilité. CPMI.fr vous accompagne dans vos démarches et s'adapte aux contraintes climatiques locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes au Portel.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure adaptées à vos besoins."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Pas-de-Calais.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Le Portel ?",
+      "answer": "CPMI.fr installe des ascenseurs conformes PMR."
+    },
+    {
+      "question": "Délai à Le Portel ?",
+      "answer": "Devis rapide et installation sous 8 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

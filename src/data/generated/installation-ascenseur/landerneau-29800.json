@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Landerneau, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité Finistère",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Bretagne. CPMI s'adapte aux contraintes architecturales locales."
+  },
+  "expertAdvice": "CPMI : Solutions sur-mesure, respectant les normes de sécurité.",
+  "advantages": [
+    "Installation rapide et efficace à Landerneau.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux besoins des professionnels."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 29.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Landerneau ?",
+      "answer": "Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Landerneau ?",
+      "answer": "Délais rapides, sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

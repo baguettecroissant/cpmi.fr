@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à St Martin Boulogne pour les entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique",
+    "content": "Les Hauts-de-France encouragent la mobilité électrique. Profitez des aides régionales pour l'installation de bornes de recharge."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI : solution durable et rentable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Martin Boulogne.",
+    "Solution personnalisée pour entreprises et copropriétés du Pas-de-Calais.",
+    "Valorisation immobilière et engagement RSE renforcé."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Martin Boulogne ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

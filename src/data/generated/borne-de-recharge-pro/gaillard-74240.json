@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Gaillard, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Transition à Gaillard",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans vos démarches pour l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec une solution adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Gaillard.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Accès aux aides financières locales pour l'installation."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 74.",
+  "faq": [
+    {
+      "question": "Aides à Gaillard ?",
+      "answer": "Aides régionales et nationales cumulables via CPMI."
+    },
+    {
+      "question": "Délai à Gaillard ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV rapide et efficace à Gaillard."
+    }
+  ]
+}

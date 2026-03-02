@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Voisins-le-Bretonneux, favorisant la mobilité durable.",
+  "localContext": {
+    "title": "Bornes à Voisins",
+    "content": "La région Île-de-France encourage l'électromobilité avec des subventions. CPMI.fr vous accompagne dans ces démarches pour un avenir plus vert."
+  },
+  "expertAdvice": "Optimisez votre infrastructure et attirez de nouveaux talents grâce à l'électromobilité.",
+  "advantages": [
+    "Solution clé en main adaptée aux besoins de votre entreprise.",
+    "Valorisation de votre image et engagement environnemental.",
+    "Installation rapide et conforme aux normes en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans le 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Voisins Le Bretonneux ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI.fr assure maintenance et conformité locale (IRVE)."
+    }
+  ]
+}

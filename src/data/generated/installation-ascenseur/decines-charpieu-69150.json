@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Décines-Charpieu.",
+  "localContext": {
+    "title": "Accessibilité à Décines",
+    "content": "Améliorez l'accessibilité de vos locaux. Des aides régionales peuvent faciliter votre projet d'installation d'ascenseur ou monte-charge."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bien avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés à Décines."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 69.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Selon l'ERP, oui. CPMI vous conseille."
+    },
+    {
+      "question": "Délai à Decines Charpieu ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

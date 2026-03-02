@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge à Villeneuve St Georges, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes 94",
+    "content": "Île-de-France encourage l'électromobilité. CPMI vous guide à Villeneuve St Georges pour optimiser vos installations et aides régionales. "
+  },
+  "expertAdvice": "Installation experte et solutions sur-mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Solutions adaptées aux entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes à Villeneuve.",
+    "Maintenance et SAV assurés par CPMI dans le 94."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour entreprises à Villeneuve St Georges.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptation selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Villeneuve St Georges ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

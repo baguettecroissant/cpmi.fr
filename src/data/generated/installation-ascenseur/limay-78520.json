@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Limay, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Limay",
+    "content": "Limay bénéficie d'aides à l'accessibilité. CPMI vous accompagne dans vos projets d'installation, en tenant compte des spécificités de l'Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'espace et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Limay.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV garantis par CPMI dans le 78."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels à Limay (78).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Limay ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Limay ?",
+      "answer": "Devis et délais rapides."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

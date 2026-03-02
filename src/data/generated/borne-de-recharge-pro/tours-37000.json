@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Tours, améliorant l'accès à la mobilité électrique.",
+  "localContext": {
+    "title": "Bornes à Tours",
+    "content": "La région Centre-Val de Loire encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans l'obtention de ces subventions pour votre projet."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec des solutions de recharge adaptées.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés Tourangelles.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Bornes compatibles avec tous les types de véhicules."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne de recharge à Tours.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir à Tours ?",
+      "answer": "Adaptez la puissance selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Tours ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

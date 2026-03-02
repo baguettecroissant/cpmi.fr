@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bischwiller, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Bas-Rhin",
+    "content": "Bischwiller bénéficie d'aides régionales pour l'efficacité énergétique. Adaptez vos systèmes de climatisation aux étés chauds d'Alsace avec CPMI.fr."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à Bischwiller et environs",
+    "Maintenance préventive pour une durabilité accrue",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée pour un confort optimal et des économies d'énergie."
+    },
+    {
+      "question": "Délai à Bischwiller ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

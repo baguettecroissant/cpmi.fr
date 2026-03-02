@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Andernos Les Bains.",
+  "localContext": {
+    "title": "Accessibilité & Région",
+    "content": "La Nouvelle-Aquitaine encourage l'accessibilité. CPMI facilite vos projets d'élévation en tenant compte du climat marin local."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Andernos.",
+    "Solutions sur-mesure pour bâtiments existants ou neufs.",
+    "Maintenance et dépannage assurés par nos équipes locales."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Andernos ?",
+      "answer": "CPMI : solutions adaptées aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Andernos Les Bains ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité."
+    }
+  ]
+}

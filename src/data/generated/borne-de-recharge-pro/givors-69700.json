@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Givors, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Givors Électrique",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'électromobilité avec des subventions. Profitez d'un climat favorable à l'adoption des véhicules électriques à Givors."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Solutions adaptées aux besoins spécifiques de Givors.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par une équipe locale réactive."
+  ],
+  "pricingContext": "Devis personnalisés pour les professionnels à Givors et dans le Rhône.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Givors ?",
+      "answer": "Adaptation selon vos véhicules et besoins énergétiques."
+    },
+    {
+      "question": "Délai à Givors ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

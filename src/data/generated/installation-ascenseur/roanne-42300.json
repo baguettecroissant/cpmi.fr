@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Roanne, améliorant l'accessibilité et la valeur de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs Roannais",
+    "content": "Roanne et la région Auvergne-Rhône-Alpes soutiennent l'accessibilité. CPMI facilite vos projets d'installation, en tenant compte des spécificités climatiques locales."
+  },
+  "expertAdvice": "Optimisez votre investissement avec un ascenseur adapté à vos besoins spécifiques à Roanne.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Roanne.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre installation à Roanne (42).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Roanne ?",
+      "answer": "CPMI propose des solutions PMR sur mesure, conformes aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Roanne ?",
+      "answer": "Délai variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur à Roanne."
+    }
+  ]
+}

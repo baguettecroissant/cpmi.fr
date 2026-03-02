@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges au Pecq, assurant accessibilité et confort pour vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité 78",
+    "content": "Le Pecq bénéficie d'aides régionales pour l'accessibilité des commerces. CPMI vous accompagne dans vos démarches et l'adaptation aux contraintes locales."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité de votre bâtiment.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR au Pecq ?",
+      "answer": "Oui, CPMI propose des solutions adaptées aux normes PMR."
+    },
+    {
+      "question": "Délai à Le Pecq ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

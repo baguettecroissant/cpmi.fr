@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI assure une climatisation tertiaire et industrielle performante à Rivière Salée, adaptée aux besoins spécifiques des entreprises locales.",
+  "localContext": {
+    "title": "Climat et Aides",
+    "content": "La chaleur intense à Rivière Salée exige des systèmes fiables. CPMI vous guide sur les aides financières disponibles pour optimiser votre investissement."
+  },
+  "expertAdvice": "Choisissez CPMI pour une climatisation durable et éco-responsable.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance proactive pour éviter les pannes coûteuses.",
+    "Respect des normes environnementales locales en vigueur."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels du 972.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Riviere Salee ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur en Martinique."
+    }
+  ]
+}

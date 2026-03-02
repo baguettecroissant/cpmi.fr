@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Digne-les-Bains, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité 04",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient l'accessibilité. CPMI vous guide dans les démarches pour les aides à l'installation d'ascenseurs."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Digne.",
+    "Solutions sur mesure pour bâtiments existants ou neufs.",
+    "Maintenance et SAV réactifs dans les Alpes-de-Haute-Provence."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 04.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "CPMI vous conseille selon vos besoins B2B."
+    },
+    {
+      "question": "Délai à Digne Les Bains ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de proximité pour l'installation d'ascenseurs et monte-charges à Bures-sur-Yvette.",
+  "localContext": {
+    "title": "Ascenseurs à Bures : Spécificités Locales",
+    "content": "L'Essonne encourage l'accessibilité. CPMI.fr s'adapte aux normes locales et aux bâtiments existants de Bures-sur-Yvette, en tenant compte du climat francilien."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bures.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs en Île-de-France."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Bures ?",
+      "answer": "CPMI.fr : Solutions complètes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Bures Sur Yvette ?",
+      "answer": "Étude personnalisée, installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes en vigueur."
+    }
+  ]
+}

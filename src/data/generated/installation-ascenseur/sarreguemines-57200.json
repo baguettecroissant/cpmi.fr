@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Sarreguemines, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 57",
+    "content": "Profitez des aides régionales Grand Est pour l'amélioration de l'accessibilité. Sarreguemines : adaptation aux besoins des entreprises locales."
+  },
+  "expertAdvice": "CPMI assure une installation sur-mesure, respectant les normes en vigueur.",
+  "advantages": [
+    "Installation rapide et efficace à Sarreguemines.",
+    "Solutions adaptées aux bâtiments existants.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs."
+    },
+    {
+      "question": "Délai à Sarreguemines ?",
+      "answer": "Sur devis, variable."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide, respect des normes EN 81-20."
+    }
+  ]
+}

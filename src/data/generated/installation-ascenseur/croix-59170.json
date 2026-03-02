@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Croix pour faciliter l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité à Croix",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité des ERP à Croix. Le climat économique favorable encourage l'investissement dans des solutions de mobilité verticale."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Croix.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Croix ?",
+      "answer": "Oui, nous installons des ascenseurs conformes PMR."
+    },
+    {
+      "question": "Délai à Croix ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

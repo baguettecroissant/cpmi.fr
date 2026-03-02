@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Anglet, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition à Anglet",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. Profitez d'aides locales pour installer vos bornes de recharge avec CPMI à Anglet."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide par des professionnels certifiés IRVE à Anglet.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI dans le Pays Basque."
+  ],
+  "pricingContext": "CPMI offre des devis personnalisés et compétitifs dans le 64.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à Anglet ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

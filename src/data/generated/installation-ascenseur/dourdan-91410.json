@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Dourdan, améliorant l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à Dourdan",
+    "content": "Dourdan et le 91 soutiennent l'accessibilité PMR. CPMI.fr vous accompagne dans vos démarches et vous conseille sur les aides disponibles en Île-de-France."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Dourdan.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité en Essonne."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Dourdan ?",
+      "answer": "Solutions adaptées aux normes handicapés."
+    },
+    {
+      "question": "Délai à Dourdan ?",
+      "answer": "Devis rapide et installation efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

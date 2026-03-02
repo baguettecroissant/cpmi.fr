@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Seclin, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Seclin",
+    "content": "Les étés chauds du Nord nécessitent des solutions de climatisation fiables. CPMI vous accompagne pour optimiser vos installations et bénéficier des aides régionales."
+  },
+  "expertAdvice": "Optimisez vos systèmes pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Seclin.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques grâce à nos solutions."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Seclin ?",
+      "answer": "Nous évaluons vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à Seclin ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

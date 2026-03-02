@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Avon (77). Des solutions adaptées à vos besoins locaux.",
+  "localContext": {
+    "title": "Climatisation 77 : Spécificités",
+    "content": "Le climat en Île-de-France exige des systèmes performants. CPMI.fr vous accompagne pour optimiser vos installations et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un diagnostic précis pour une solution de climatisation durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises d'Avon.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales et énergétiques."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 77.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local à Avon ?",
+      "answer": "CPMI.fr dimensionne votre installation au plus juste."
+    },
+    {
+      "question": "Délai d'installation ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "Maintenance : quelles obligations à Avon ?",
+      "answer": "CPMI.fr assure la conformité et le suivi de vos installations."
+    }
+  ]
+}

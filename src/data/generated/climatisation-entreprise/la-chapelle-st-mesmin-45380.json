@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Chapelle St Mesmin, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 45 : Enjeux Locaux",
+    "content": "Le Centre-Val de Loire connaît des étés chauds. CPMI.fr vous accompagne pour des solutions adaptées, éligibles aux aides locales pour les entreprises."
+  },
+  "expertAdvice": "Optimisez vos performances avec une climatisation adaptée à vos besoins industriels.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du Loiret.",
+    "Installation et maintenance rapides et efficaces.",
+    "Respect des normes environnementales locales."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 45.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon entreprise ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins."
+    },
+    {
+      "question": "Délai à La Chapelle St Mesmin ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Loiret."
+    }
+  ]
+}

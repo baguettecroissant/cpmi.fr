@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Mans, garantissant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Durable 72",
+    "content": "Le Mans, avec ses étés chauds, nécessite des solutions de climatisation performantes. Profitez des aides régionales pour une installation éco-responsable."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et industries du Mans",
+    "Installation et maintenance par des experts locaux",
+    "Conformité aux normes environnementales en vigueur"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet au Mans.",
+  "faq": [
+    {
+      "question": "Quelle puissance au Mans ?",
+      "answer": "Dimensionnement précis selon vos locaux et usages."
+    },
+    {
+      "question": "Délai à Le Mans ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance réactive et respect des normes Pays de la Loire."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Mulhouse et dans le Haut-Rhin.",
+  "localContext": {
+    "title": "Solutions adaptées",
+    "content": "Mulhouse, ville dynamique, bénéficie d'aides à l'accessibilité. CPMI vous accompagne dans vos projets d'installation et de mise aux normes."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels du 68.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Mulhouse ?",
+      "answer": "CPMI : solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Mulhouse ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

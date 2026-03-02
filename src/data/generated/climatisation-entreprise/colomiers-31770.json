@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Colomiers, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Durable 31",
+    "content": "Colomiers, avec son climat chaud, nécessite des solutions de climatisation performantes. CPMI.fr vous informe sur les aides régionales pour une transition énergétique réussie."
+  },
+  "expertAdvice": "Optimisez vos installations avec CPMI.fr pour un confort durable.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Colomiers.",
+    "Installation et maintenance assurées par des experts locaux.",
+    "Réduction des coûts énergétiques grâce à nos technologies."
+  ],
+  "pricingContext": "CPMI.fr : Des tarifs compétitifs pour les professionnels de Colomiers.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Colomiers ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Colomiers ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Amiens, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Amiens",
+    "content": "Amiens subit des étés chauds : une climatisation performante est cruciale. CPMI vous guide dans les aides disponibles pour les entreprises locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Amiens et sa région.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre climatisation professionnelle dans la Somme.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins."
+    },
+    {
+      "question": "Délai à Amiens ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

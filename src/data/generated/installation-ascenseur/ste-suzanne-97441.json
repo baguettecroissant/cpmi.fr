@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Ste Suzanne, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 974",
+    "content": "Bénéficiez d'aides régionales pour l'amélioration de l'accessibilité. CPMI adapte ses installations aux contraintes climatiques de La Réunion."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Ste Suzanne.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des professionnels expérimentés."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour votre projet à La Réunion.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Ste Suzanne ?",
+      "answer": "CPMI propose des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à Ste Suzanne ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

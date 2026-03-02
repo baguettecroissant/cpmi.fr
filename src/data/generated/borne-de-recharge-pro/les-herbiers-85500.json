@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés aux Herbiers, contribuant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes aux Herbiers : Enjeux",
+    "content": "La région Pays de la Loire encourage l'électromobilité. Des aides locales peuvent alléger l'investissement initial pour les entreprises et copropriétés."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées à chaque entreprise ou copropriété.",
+    "Maintenance et SAV disponibles aux Herbiers."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 85.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Les Herbiers ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte la norme IRVE."
+    }
+  ]
+}

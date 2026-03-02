@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Chelles (77500), pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 77",
+    "content": "Chelles bénéficie d'aides à l'accessibilité pour les entreprises. CPMI vous accompagne dans vos démarches et s'adapte aux spécificités régionales."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et durable à Chelles.",
+  "advantages": [
+    "Installation rapide et efficace à Chelles et environs.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels en Seine-et-Marne (77).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Chelles ?",
+      "answer": "CPMI propose des solutions PMR adaptées aux normes locales."
+    },
+    {
+      "question": "Délai à Chelles ?",
+      "answer": "Délai variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

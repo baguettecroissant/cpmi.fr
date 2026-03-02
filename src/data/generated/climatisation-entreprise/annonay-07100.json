@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Annonay (07100), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Annonay",
+    "content": "Le climat ardéchois exige des solutions performantes. CPMI vous accompagne dans le choix d'une climatisation adaptée aux enjeux énergétiques et réglementaires locaux."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour des économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Annonay et alentours.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques grâce à nos solutions performantes."
+  ],
+  "pricingContext": "Tarifs compétitifs pour les professionnels de l'Ardèche.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Annonay ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur en Ardèche."
+    }
+  ]
+}

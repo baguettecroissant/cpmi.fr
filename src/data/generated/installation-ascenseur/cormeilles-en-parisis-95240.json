@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Cormeilles-en-Parisis, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Aides & Accessibilité 95",
+    "content": "Bénéficiez d'aides à l'accessibilité pour votre commerce à Cormeilles-en-Parisis. CPMI vous accompagne dans vos démarches et installations."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs à Cormeilles-en-Parisis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour le Val-d'Oise.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Cormeilles ?",
+      "answer": "Oui, CPMI propose des solutions PMR adaptées."
+    },
+    {
+      "question": "Délai à Cormeilles En Parisis ?",
+      "answer": "Sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

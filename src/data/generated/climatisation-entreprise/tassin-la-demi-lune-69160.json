@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Tassin La Demi Lune, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable (69)",
+    "content": "La région Auvergne-Rhône-Alpes soutient les entreprises pour l'efficacité énergétique. CPMI vous aide à bénéficier de ces aides pour votre climatisation."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour des économies d'énergie durables.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Tassin.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de votre empreinte carbone et des coûts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 69.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à mon activité ?",
+      "answer": "CPMI analyse vos besoins pour une solution performante."
+    },
+    {
+      "question": "Délai à Tassin La Demi Lune ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

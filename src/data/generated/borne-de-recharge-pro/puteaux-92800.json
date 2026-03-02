@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Puteaux pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Puteaux",
+    "content": "Puteaux, engagée pour la mobilité verte, offre des aides pour l'installation. CPMI.fr vous accompagne dans ces démarches et s'adapte aux besoins locaux."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, experts locaux.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Puteaux.",
+    "Installation rapide et conforme aux normes en vigueur (IRVE).",
+    "Bornes robustes, adaptées à l'usage intensif professionnel."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour Puteaux et le 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne la borne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Puteaux ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales garantis."
+    }
+  ]
+}

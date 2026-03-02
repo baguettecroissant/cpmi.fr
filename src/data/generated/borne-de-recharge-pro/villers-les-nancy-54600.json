@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Villers-lès-Nancy pour entreprises et copropriétés. Facilitez la transition énergétique !",
+  "localContext": {
+    "title": "Bornes à Villers",
+    "content": "Le Grand Est soutient activement la mobilité électrique. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance assurée par des professionnels qualifiés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge dans le 54.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins énergétiques."
+    },
+    {
+      "question": "Délai à Villers Les Nancy ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

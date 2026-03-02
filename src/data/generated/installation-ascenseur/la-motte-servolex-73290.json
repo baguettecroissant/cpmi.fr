@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à La Motte Servolex, facilitant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Savoie",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. CPMI.fr vous accompagne pour adapter vos locaux aux normes en vigueur et aux spécificités climatiques locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la sécurité de votre bâtiment.",
+  "advantages": [
+    "Expertise locale à La Motte Servolex et environs.",
+    "Solutions sur-mesure pour chaque besoin professionnel.",
+    "Installation rapide et conforme aux normes en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels en Savoie.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à La Motte ?",
+      "answer": "CPMI.fr : Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à La Motte Servolex ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Vedène, facilitant la transition énergétique de votre entreprise et copropriété.",
+  "localContext": {
+    "title": "Bornes à Vedène (84)",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Vedène.",
+    "Solutions de recharge intelligentes et évolutives.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Vedène (84).",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "Adaptons la puissance à votre flotte et usage."
+    },
+    {
+      "question": "Délai à Vedene ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

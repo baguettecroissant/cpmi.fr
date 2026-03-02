@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chanteloup-les-Vignes, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat d'Île-de-France exige une climatisation adaptée aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises à Chanteloup.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction des coûts énergétiques et amélioration du confort."
+  ],
+  "pricingContext": "Tarifs compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Chanteloup Les Vignes ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

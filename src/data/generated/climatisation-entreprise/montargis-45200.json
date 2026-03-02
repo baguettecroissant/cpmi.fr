@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Montargis, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 45",
+    "content": "Le climat du Centre-Val de Loire exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser vos installations avec les aides disponibles."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts énergétiques à long terme.",
+  "advantages": [
+    "Expertise locale pour les besoins spécifiques du Loiret.",
+    "Solutions sur mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance et dépannage rapides à Montargis et environs."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 45.",
+  "faq": [
+    {
+      "question": "Quelle clim pour bureau à Montargis ?",
+      "answer": "Adaptation précise selon la superficie et l'usage."
+    },
+    {
+      "question": "Délai à Montargis ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

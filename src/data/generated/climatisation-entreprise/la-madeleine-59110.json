@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Madeleine, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable",
+    "content": "Bénéficiez des aides régionales pour l'efficacité énergétique de vos systèmes. Le climat variable des Hauts-de-France exige des solutions performantes."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation et maintenance expertes.",
+  "advantages": [
+    "Réduction des coûts énergétiques pour les entreprises locales.",
+    "Amélioration du confort des employés et de la productivité.",
+    "Solutions sur mesure adaptées aux besoins industriels spécifiques."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels dans le département du Nord.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à La Madeleine ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "Normes en vigueur ?",
+      "answer": "Respect des réglementations environnementales et de sécurité."
+    }
+  ]
+}

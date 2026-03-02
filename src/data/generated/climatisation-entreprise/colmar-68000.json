@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Colmar, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Colmar",
+    "content": "Colmar, avec ses étés chauds, exige des solutions de climatisation performantes. Des aides régionales peuvent faciliter l'investissement des entreprises."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une efficacité énergétique maximale et des économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Prix compétitifs et transparents pour les professionnels du Haut-Rhin.",
+  "faq": [
+    {
+      "question": "Quelle clim B2B ?",
+      "answer": "Adaptée à vos surfaces, usage, et budget."
+    },
+    {
+      "question": "Délai à Colmar ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2020."
+    }
+  ]
+}

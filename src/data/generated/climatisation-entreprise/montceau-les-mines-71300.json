@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Montceau-les-Mines, pour un confort optimal et maîtrisé.",
+  "localContext": {
+    "title": "Climatisation 71 : Spécificités",
+    "content": "Le climat de Bourgogne-Franche-Comté exige des solutions de climatisation performantes. CPMI.fr vous guide dans le choix d'installations éligibles aux aides locales."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec nos solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Montceau-les-Mines.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux contraintes industrielles locales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre entreprise.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Montceau Les Mines ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

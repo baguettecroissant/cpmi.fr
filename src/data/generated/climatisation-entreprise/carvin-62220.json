@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Carvin, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Carvin",
+    "content": "Les étés chauds du Pas-de-Calais nécessitent une climatisation fiable. CPMI vous accompagne pour optimiser votre installation et bénéficier d'éventuelles aides régionales."
+  },
+  "expertAdvice": "Optimisation énergétique : réduisez vos coûts avec CPMI.",
+  "advantages": [
+    "Installation rapide et efficace à Carvin.",
+    "Maintenance préventive pour une durée de vie accrue.",
+    "Solutions sur mesure pour les besoins industriels."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Carvin ?",
+      "answer": "CPMI analyse vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Carvin ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

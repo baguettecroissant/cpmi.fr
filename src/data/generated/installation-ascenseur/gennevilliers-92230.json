@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Gennevilliers, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Gennevilliers & Mobilité",
+    "content": "Profitez des aides de la région Île-de-France pour améliorer l'accessibilité de vos bâtiments. CPMI s'adapte aux spécificités architecturales de Gennevilliers."
+  },
+  "expertAdvice": "CPMI garantit une installation durable et conforme aux normes de sécurité.",
+  "advantages": [
+    "Expertise locale : Connaissance des besoins spécifiques du 92.",
+    "Solutions sur mesure : Adaptées à votre bâtiment et budget.",
+    "Maintenance réactive : Pour une disponibilité optimale de vos équipements."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Gennevilliers.",
+  "faq": [
+    {
+      "question": "Normes à Gennevilliers ?",
+      "answer": "CPMI respecte scrupuleusement les normes en vigueur et assure la conformité."
+    },
+    {
+      "question": "Délai à Gennevilliers ?",
+      "answer": "Délais rapides, variable selon complexité."
+    },
+    {
+      "question": "SAV local CPMI ?",
+      "answer": "Un SAV disponible et efficace pour une maintenance rapide à Gennevilliers."
+    }
+  ]
+}

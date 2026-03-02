@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Bourget, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation au Bourget",
+    "content": "Le Bourget, avec ses activités industrielles, requiert des solutions de climatisation performantes. Des aides régionales peuvent financer votre installation."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales du Bourget.",
+    "Maintenance préventive pour éviter les arrêts coûteux.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle climatisation choisir ?",
+      "answer": "Analyse et solution sur mesure pour votre activité."
+    },
+    {
+      "question": "Délai à Le Bourget ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Villebon-sur-Yvette.",
+  "localContext": {
+    "title": "Ascenseurs 91 : Spécificités",
+    "content": "Bénéficiez des aides à l'accessibilité en Essonne. Le climat francilien exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et conforme aux normes.",
+  "advantages": [
+    "Installation rapide et professionnelle à Villebon-sur-Yvette",
+    "Solutions sur mesure pour tous types de bâtiments",
+    "Maintenance et dépannage assurés par nos experts"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels de l'Essonne.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Villebon ?",
+      "answer": "CPMI adapte ses installations aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Villebon Sur Yvette ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

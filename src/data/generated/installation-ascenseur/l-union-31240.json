@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à L'Union (31240), proximité garantie.",
+  "localContext": {
+    "title": "Ascenseurs à L'Union",
+    "content": "Bénéficiez d'aides à la rénovation énergétique en Occitanie pour vos installations. Le climat doux favorise la longévité des équipements."
+  },
+  "expertAdvice": "Un ascenseur adapté améliore l'accessibilité et valorise votre bien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 31.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Adapté à votre besoin : PMR, résidentiel, industriel."
+    },
+    {
+      "question": "Délai à L Union ?",
+      "answer": "Sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

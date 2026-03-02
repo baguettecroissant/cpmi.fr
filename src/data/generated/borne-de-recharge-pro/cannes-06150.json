@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Cannes, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Cannes et l'électrique",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électrification. Des aides locales peuvent réduire le coût de votre installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre installation avec un dimensionnement précis pour vos besoins futurs.",
+  "advantages": [
+    "Solution clé en main adaptée aux besoins spécifiques cannois.",
+    "Valorisation de votre image d'entreprise éco-responsable.",
+    "Accès à des subventions locales pour réduire vos coûts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour bornes professionnelles dans les Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Cannes ?",
+      "answer": "Adaptez la puissance selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Cannes ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

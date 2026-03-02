@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Orsay, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 91 : Enjeux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. Des aides régionales peuvent faciliter l'installation de systèmes éco-énergétiques pour les entreprises d'Orsay."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = économies durables.",
+  "advantages": [
+    "Réduction des coûts énergétiques pour les entreprises locales.",
+    "Amélioration du confort des employés et de la productivité.",
+    "Respect des normes environnementales en vigueur dans le 91."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels dans l'Essonne.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée à Orsay ?",
+      "answer": "Solutions sur-mesure pour bureaux et industries."
+    },
+    {
+      "question": "Délai à Orsay ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local performant ?",
+      "answer": "Maintenance et dépannage rapides dans le 91."
+    }
+  ]
+}

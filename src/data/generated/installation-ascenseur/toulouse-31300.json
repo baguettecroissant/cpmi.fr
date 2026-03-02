@@ -1,0 +1,28 @@
+{
+  "introText": "À Toulouse, l'installation d'ascenseurs et monte-charges est essentielle, que ce soit pour les entreprises en pleine expansion ou les copropriétés adaptant leurs infrastructures. Le dynamisme économique de la ville rose, combiné à son architecture variée, rend ces installations cruciales pour l'accessibilité et la valorisation des biens.",
+  "localContext": {
+    "title": "Réglementations et aides spécifiques à Toulouse et en Occitanie",
+    "content": "L'installation d'un ascenseur à Toulouse est soumise au PLU (Plan Local d'Urbanisme) de la Métropole, avec des règles spécifiques selon les quartiers (centre historique, zones industrielles, etc.). La ZFE (Zone à Faibles Émissions) peut impacter la logistique du chantier. Des aides régionales Occitanie existent pour l'amélioration de l'accessibilité des bâtiments existants, particulièrement pour les ERP et les copropriétés, mais leur obtention nécessite un dossier solide et une connaissance des dispositifs en vigueur. Les bâtiments situés en zone ABF (Architectes des Bâtiments de France) nécessitent une autorisation spéciale."
+  },
+  "expertAdvice": "Nous savons que chaque installation d'ascenseur ou de monte-charge à Toulouse est unique. Les contraintes architecturales, les normes d'accessibilité et les spécificités du PLU local rendent indispensable l'expertise d'un installateur connaissant parfaitement la ville et ses réglementations. Un accompagnement personnalisé est la clé d'un projet réussi.",
+  "advantages": [
+    "Connaissance approfondie du PLU de Toulouse et ses spécificités par quartier.",
+    "Réactivité et suivi personnalisé garantis sur l'ensemble de la Haute-Garonne.",
+    "Expertise des bâtiments toulousains : haussmanniens, industriels et contemporains."
+  ],
+  "pricingContext": "En Haute-Garonne (31), le coût d'installation d'un ascenseur ou monte-charge pour les professionnels varie considérablement. Il faut compter en moyenne entre 15 000€ et 50 000€, en fonction de la complexité du chantier, du type d'appareil et des finitions. Des devis précis sont indispensables.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides régionales disponibles en Occitanie pour l'installation d'un ascenseur dans un ERP ?",
+      "answer": "La région Occitanie propose des aides financières pour l'amélioration de l'accessibilité des ERP existants, notamment pour l'installation d'ascenseurs. Les critères d'éligibilité et les montants varient, il est donc essentiel de se renseigner auprès de la région ou de la CCI."
+    },
+    {
+      "question": "Quels sont les délais moyens d'installation d'un ascenseur à Toulouse, en tenant compte des autorisations d'urbanisme ?",
+      "answer": "Les délais d'installation varient selon la complexité du projet et les autorisations d'urbanisme. Il faut généralement compter entre 3 et 6 mois, incluant la phase de conception, l'obtention des permis et les travaux. Anticiper les démarches est crucial."
+    },
+    {
+      "question": "Quelles sont les normes de sécurité spécifiques à respecter pour la maintenance d'un ascenseur à Toulouse ?",
+      "answer": "La maintenance des ascenseurs est soumise à des normes strictes (norme EN 81-80). Un contrat de maintenance avec un professionnel qualifié est obligatoire, incluant des visites régulières et des interventions en cas de panne. La sécurité des usagers est primordiale."
+    }
+  ]
+}

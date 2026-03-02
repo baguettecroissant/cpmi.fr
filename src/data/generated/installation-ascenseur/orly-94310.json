@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Orly, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Ascenseurs à Orly",
+    "content": "Orly, ville dynamique, bénéficie de subventions pour l'accessibilité PMR. CPMI vous accompagne dans vos démarches pour optimiser vos projets."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme et durable à Orly.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités d'Orly.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Installation rapide : Minimisant l'impact sur votre activité."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelles normes à Orly ?",
+      "answer": "Nous respectons les normes ERP et PMR en vigueur."
+    },
+    {
+      "question": "Délai à Orly ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides à Orly et environs."
+    }
+  ]
+}

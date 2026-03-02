@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Saverne, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Saverne",
+    "content": "Le climat continental du Grand Est exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle avec CPMI.fr pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques à Saverne.",
+    "Installation et maintenance par des experts certifiés.",
+    "Réduction de votre empreinte carbone et des coûts énergétiques."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Bas-Rhin.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes locaux ?",
+      "answer": "CPMI.fr dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Saverne ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Grand Est."
+    }
+  ]
+}

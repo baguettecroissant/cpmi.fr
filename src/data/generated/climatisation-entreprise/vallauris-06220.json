@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vallauris, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Vallauris",
+    "content": "Bénéficiez des aides locales pour la transition énergétique. Le climat méditerranéen exige des solutions de climatisation performantes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et un suivi personnalisé.",
+  "advantages": [
+    "Installation rapide et efficace par des experts locaux.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 06.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins."
+    },
+    {
+      "question": "Délai à Vallauris ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

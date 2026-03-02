@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Boulogne-Billancourt, pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes 92100",
+    "content": "La région Île-de-France soutient activement l'électrification des flottes d'entreprises. Profitez d'aides financières pour l'installation de bornes à Boulogne-Billancourt."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour une recharge efficace et durable.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de l'empreinte carbone de votre entreprise."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour l'installation de bornes dans les Hauts-de-Seine.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Boulogne Billancourt ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

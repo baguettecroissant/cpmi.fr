@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Agde, répondant aux besoins spécifiques locaux.",
+  "localContext": {
+    "title": "Solutions Adaptées à Agde",
+    "content": "Profitez du climat méditerranéen avec des installations durables. Des aides régionales peuvent faciliter votre projet d'accessibilité."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Agde",
+    "Solutions sur mesure pour bâtiments existants et neufs",
+    "Maintenance et dépannage assurés par des experts locaux"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels dans l'Hérault.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Agde ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure pour tous types de bâtiments."
+    },
+    {
+      "question": "Délai à Agde ?",
+      "answer": "Délai variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

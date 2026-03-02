@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Plougastel-Daoulas, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 29",
+    "content": "Plougastel-Daoulas bénéficie d'aides pour l'adaptation des bâtiments. Le climat maritime impose des installations robustes et résistantes à la corrosion."
+  },
+  "expertAdvice": "Choisissez un installateur certifié pour une sécurité et conformité optimales.",
+  "advantages": [
+    "Installation rapide et efficace à Plougastel-Daoulas.",
+    "Solutions sur-mesure pour bâtiments existants.",
+    "Maintenance et dépannage assurés localement."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés et compétitifs dans le Finistère.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la loi accessibilité."
+    },
+    {
+      "question": "Délai à Plougastel Daoulas ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

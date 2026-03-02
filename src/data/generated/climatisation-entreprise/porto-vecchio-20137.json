@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Porto Vecchio, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Optimale 2A",
+    "content": "Profitez des aides régionales pour l'efficacité énergétique. Un climat maîtrisé est crucial pour la productivité en Corse-du-Sud."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore votre confort durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation rapide et efficace par des professionnels qualifiés.",
+    "Maintenance préventive pour une performance durable garantie."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour une climatisation adaptée à votre budget professionnel.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Porto Vecchio ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

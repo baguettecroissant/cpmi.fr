@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à L'Union, optimisant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation Optimale 31",
+    "content": "L'Union connaît des étés chauds. Profitez des aides régionales pour une climatisation performante et économe en énergie dans vos locaux."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit les coûts et améliore le confort.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de L'Union",
+    "Installation rapide et efficace par des experts locaux",
+    "Maintenance préventive pour une durabilité accrue"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels de la région toulousaine.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne précisément selon vos besoins."
+    },
+    {
+      "question": "Délai à L Union ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

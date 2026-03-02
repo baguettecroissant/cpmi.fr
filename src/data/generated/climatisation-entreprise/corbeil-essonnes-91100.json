@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Corbeil-Essonnes, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 91 : Spécificités",
+    "content": "Les étés chauds en Île-de-France rendent la climatisation indispensable. CPMI vous guide sur les aides disponibles pour les entreprises locales."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide à Corbeil-Essonnes et alentours.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos locaux."
+    },
+    {
+      "question": "Délai à Corbeil Essonnes ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (RT2012)."
+    }
+  ]
+}

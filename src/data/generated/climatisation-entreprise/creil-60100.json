@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Creil (60100).",
+  "localContext": {
+    "title": "Climatisation à Creil",
+    "content": "Bénéficiez d'aides pour l'efficacité énergétique dans l'Oise. Un climat tempéré nécessite des solutions de climatisation performantes."
+  },
+  "expertAdvice": "Optimisation énergétique : un investissement rentable pour votre entreprise.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Creil.",
+    "Installation rapide et efficace dans le 60.",
+    "Maintenance et dépannage 7j/7 en Hauts-de-France."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Creil.",
+  "faq": [
+    {
+      "question": "Quelle clim pour Creil ?",
+      "answer": "Adaptée à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Creil ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

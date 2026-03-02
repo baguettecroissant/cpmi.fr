@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Lescar, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La Nouvelle-Aquitaine soutient l'accessibilité. CPMI vous guide dans les démarches pour bénéficier d'aides à Lescar."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI à Lescar.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Lescar.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs pour les professionnels du 64.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Lescar ?",
+      "answer": "CPMI assure une installation conforme aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à Lescar ?",
+      "answer": "Devis rapide et installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV disponible 7j/7 et respect des normes en vigueur à Lescar."
+    }
+  ]
+}

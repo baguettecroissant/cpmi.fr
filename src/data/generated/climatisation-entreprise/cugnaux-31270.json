@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Cugnaux, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Cugnaux",
+    "content": "Profitez des aides régionales pour la transition énergétique de vos bâtiments. Le climat chaud de Cugnaux exige des solutions performantes."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Cugnaux",
+    "Maintenance et dépannage rapides en Occitanie",
+    "Techniciens certifiés et expérimentés"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Cugnaux.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI dimensionne votre climatisation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Cugnaux ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

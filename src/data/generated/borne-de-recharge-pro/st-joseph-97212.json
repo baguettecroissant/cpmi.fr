@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à St Joseph, Martinique.",
+  "localContext": {
+    "title": "Bornes à St Joseph",
+    "content": "La Martinique encourage la mobilité verte. Profitez d'aides locales pour l'installation de bornes de recharge et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en bornes de recharge.",
+  "advantages": [
+    "Installation rapide et conforme à St Joseph",
+    "Solutions sur mesure pour entreprises et copropriétés",
+    "Réduction des coûts énergétiques et valorisation immobilière"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels à St Joseph.",
+  "faq": [
+    {
+      "question": "Type de borne idéale ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Joseph ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes martiniquaises."
+    }
+  ]
+}

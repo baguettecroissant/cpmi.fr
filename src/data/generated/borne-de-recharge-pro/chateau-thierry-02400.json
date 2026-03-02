@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Château-Thierry, contribuant à la mobilité verte locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient l'installation de bornes. Profitez des subventions pour électrifier votre flotte ou parking à Château-Thierry."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés du 02.",
+    "Installation rapide par des experts qualifiés IRVE.",
+    "Maintenance et SAV garantis par CPMI.fr."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Château-Thierry.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Chateau Thierry ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

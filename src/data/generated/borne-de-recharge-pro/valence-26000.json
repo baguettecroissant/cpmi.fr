@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Valence, pour entreprises et copropriétés, contribuant à la mobilité durable locale.",
+  "localContext": {
+    "title": "Bornes à Valence : Transition Énergétique",
+    "content": "La région Auvergne-Rhône-Alpes soutient activement l'installation de bornes. Profitez des aides pour électrifier votre flotte ou vos parkings privés et incitez vos employés à passer à l'électrique."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI pour un retour sur investissement rapide et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Valence.",
+    "Solution sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par des experts CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs adaptés aux besoins des professionnels de la Drôme.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Valence ?",
+      "answer": "CPMI adapte la puissance selon vos besoins et l'infrastructure existante."
+    },
+    {
+      "question": "Délai à Valence ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV local rapide et le respect des normes IRVE en vigueur."
+    }
+  ]
+}

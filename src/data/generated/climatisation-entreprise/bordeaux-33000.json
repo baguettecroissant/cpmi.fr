@@ -1,0 +1,28 @@
+{
+  "introText": "À Bordeaux, ville en plein essor économique et soumise à des étés de plus en plus chauds, la climatisation tertiaire et industrielle est devenue un impératif. CPMI.fr vous connecte avec des installateurs locaux qualifiés pour répondre aux besoins spécifiques de vos entreprises, ERP et copropriétés.",
+  "localContext": {
+    "title": "Réglementations et Aides Locales en Gironde",
+    "content": "L'installation de systèmes de climatisation à Bordeaux doit tenir compte des contraintes du Plan Local d'Urbanisme (PLU), notamment dans les zones protégées par les Architectes des Bâtiments de France (ABF). La région Nouvelle-Aquitaine propose des aides financières pour l'amélioration énergétique des bâtiments, incluant des subventions pour l'installation de climatisations performantes. De plus, les entreprises bordelaises peuvent bénéficier d'exonérations fiscales liées à la transition énergétique. N'oubliez pas de vérifier les obligations liées aux fluides frigorigènes."
+  },
+  "expertAdvice": "Nous savons que chaque entreprise à Bordeaux a des besoins uniques. C'est pourquoi nous vous conseillons vivement de faire appel à un installateur local connaissant les spécificités architecturales bordelaises, les réglementations en vigueur et les aides disponibles en Nouvelle-Aquitaine. Un expert vous assurera une installation conforme et optimisée.",
+  "advantages": [
+    "Connaissance des spécificités des bâtiments en pierre bordelaise.",
+    "Disponibilité rapide pour les entreprises de Gironde.",
+    "Maîtrise des technologies de climatisation basse consommation adaptées au climat local."
+  ],
+  "pricingContext": "En Gironde (33), le prix d'une installation de climatisation tertiaire ou industrielle varie en fonction de la surface à climatiser, du type de système choisi et de la complexité de l'installation. Comptez en moyenne entre 80€ et 200€ par mètre carré pour une installation complète.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Nouvelle-Aquitaine pour l'installation d'une climatisation performante ?",
+      "answer": "La région Nouvelle-Aquitaine propose des dispositifs d'aides à la rénovation énergétique des bâtiments, incluant des subventions pour l'installation de systèmes de climatisation performants. Renseignez-vous auprès de la Chambre de Commerce et d'Industrie de Bordeaux pour connaître les critères d'éligibilité."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation à prendre en compte dans les bâtiments anciens de Bordeaux ?",
+      "answer": "Les bâtiments anciens de Bordeaux nécessitent une attention particulière en raison de leur architecture spécifique (pierre, hauteur sous plafond). Il est crucial de choisir un système de climatisation adapté et de respecter les contraintes du PLU pour préserver le patrimoine architectural."
+    },
+    {
+      "question": "Quelles sont les obligations en matière de maintenance et de contrôle des installations de climatisation à Bordeaux ?",
+      "answer": "Les installations de climatisation doivent faire l'objet d'une maintenance régulière pour garantir leur bon fonctionnement et leur efficacité énergétique. Des contrôles d'étanchéité sont obligatoires pour prévenir les fuites de fluides frigorigènes, conformément à la réglementation européenne et française."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Villers-Cotterêts, contribuant à une mobilité durable.",
+  "localContext": {
+    "title": "Transition Énergétique 02",
+    "content": "La région Hauts-de-France soutient activement l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales à Villers-Cotterêts et alentours."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme à Villers-Cotterêts",
+    "Solutions sur mesure pour entreprises et copropriétés",
+    "Maintenance et SAV de proximité dans l'Aisne"
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs et transparents dans le 02.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos besoins réels."
+    },
+    {
+      "question": "Délai à Villers Cotterets ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE."
+    }
+  ]
+}

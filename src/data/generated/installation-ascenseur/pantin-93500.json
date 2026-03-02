@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Pantin, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité à Pantin",
+    "content": "Pantin, en pleine mutation, nécessite des solutions d'accessibilité performantes. CPMI.fr vous accompagne dans vos projets de modernisation et de mise aux normes."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation fiable et durable.",
+  "advantages": [
+    "Expertise locale à Pantin et connaissance des normes.",
+    "Solutions sur mesure pour bâtiments industriels et commerciaux.",
+    "Maintenance réactive assurée par nos équipes qualifiées."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Pantin ?",
+      "answer": "CPMI.fr assure la conformité PMR."
+    },
+    {
+      "question": "Délai à Pantin ?",
+      "answer": "Délais rapides garantis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

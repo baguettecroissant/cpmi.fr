@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Cannet, pour un confort optimal toute l'année.",
+  "localContext": {
+    "title": "Climatisation au Cannet",
+    "content": "Profitez des aides locales pour l'installation de systèmes performants. Le climat méditerranéen exige des solutions adaptées aux professionnels."
+  },
+  "expertAdvice": "Optimisez votre productivité avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises au Cannet",
+    "Maintenance et dépannage rapides et efficaces",
+    "Conformité aux normes environnementales et énergétiques"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour des tarifs compétitifs dans les Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "Dimensionnement précis selon la surface et l'activité."
+    },
+    {
+      "question": "Délai à Le Cannet ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des réglementations en vigueur."
+    }
+  ]
+}

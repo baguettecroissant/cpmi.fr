@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Sarrebourg, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à Sarrebourg : Spécificités locales",
+    "content": "Bénéficiez d'aides à la rénovation énergétique dans le Grand Est. Adaptez vos bâtiments aux conditions climatiques de Sarrebourg avec CPMI.fr."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales",
+    "Solutions adaptées aux bâtiments existants",
+    "Maintenance et SAV de proximité à Sarrebourg"
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Sarrebourg ?",
+      "answer": "CPMI.fr propose des solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Sarrebourg ?",
+      "answer": "Délais rapides, contactez-nous !"
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

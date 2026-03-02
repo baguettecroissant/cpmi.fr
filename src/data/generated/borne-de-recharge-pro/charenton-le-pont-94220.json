@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge pour entreprises et copropriétés à Charenton-Le-Pont, favorisant la mobilité verte.",
+  "localContext": {
+    "title": "Bornes à Charenton",
+    "content": "Le Val-de-Marne encourage l'électromobilité. Profitez des aides régionales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions de recharge adaptées à vos besoins.",
+  "advantages": [
+    "Solution clé en main pour entreprises et copropriétés locales.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance assurée par nos experts basés en Île-de-France."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge, adaptés à chaque entreprise du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Nous dimensionnons la borne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Charenton Le Pont ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes françaises et européennes."
+    }
+  ]
+}

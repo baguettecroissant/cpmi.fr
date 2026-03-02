@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Erstein et ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Erstein",
+    "content": "Le Grand Est soutient l'accessibilité. CPMI.fr facilite vos projets d'installation et de mise aux normes des ascenseurs pour les entreprises locales."
+  },
+  "expertAdvice": "Optimisation et conformité : notre expertise à votre service.",
+  "advantages": [
+    "Installation rapide et efficace à Erstein.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Respect des normes de sécurité en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Erstein ?",
+      "answer": "Oui, CPMI.fr propose des solutions PMR adaptées."
+    },
+    {
+      "question": "Délai à Erstein ?",
+      "answer": "Selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN 81-20."
+    }
+  ]
+}

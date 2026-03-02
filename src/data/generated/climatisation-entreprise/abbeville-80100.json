@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Abbeville, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Abbeville",
+    "content": "Abbeville subit des étés chauds. CPMI.fr vous aide à optimiser votre climatisation et à profiter des aides régionales pour la transition énergétique."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts d'exploitation.",
+  "advantages": [
+    "Solutions sur mesure pour locaux professionnels à Abbeville.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Abbeville.",
+  "faq": [
+    {
+      "question": "Quelle puissance idéale ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Abbeville ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes HQE."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à L'Isle-sur-la-Sorgue, améliorant accessibilité et confort.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "La région Provence-Alpes-Côte d'Azur soutient l'accessibilité. Profitez d'aides pour adapter vos bâtiments aux normes et améliorer le quotidien."
+  },
+  "expertAdvice": "Optimisez l'espace et la fonctionnalité avec une installation sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales du Vaucluse.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour les professionnels du 84.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel espace ?",
+      "answer": "Étude personnalisée pour optimiser l'installation."
+    },
+    {
+      "question": "Délai à L Isle Sur La Sorgue ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes PMR en vigueur."
+    }
+  ]
+}

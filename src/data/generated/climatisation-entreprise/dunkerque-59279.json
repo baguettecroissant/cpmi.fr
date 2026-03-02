@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Dunkerque, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Dunkerque",
+    "content": "Dunkerque, avec son climat maritime, exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser votre confort thermique et réduire votre consommation énergétique."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation et maintenance expertes.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques de votre entreprise.",
+    "Techniciens qualifiés intervenant rapidement dans le Dunkerquois.",
+    "Respect des normes environnementales et réglementations en vigueur."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Dunkerque.",
+  "faq": [
+    {
+      "question": "Pourquoi CPMI à Dunkerque ?",
+      "answer": "Expertise locale, réactivité et solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à Dunkerque ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes RT2012 et ERP."
+    }
+  ]
+}

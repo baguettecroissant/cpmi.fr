@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Vaureal, pour des solutions performantes et sur-mesure.",
+  "localContext": {
+    "title": "Climatisation à Vaureal",
+    "content": "Bénéficiez des aides régionales pour l'efficacité énergétique. Le climat d'Île-de-France exige des systèmes de climatisation adaptés aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisation énergétique : réduisez vos coûts avec nos solutions.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Vaureal.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Dépannage urgent 24/7 pour les professionnels."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les entreprises du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique gratuite pour dimensionner votre climatisation."
+    },
+    {
+      "question": "Délai à Vaureal ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Pontarlier, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Profitez des aides régionales pour l'accessibilité. Le climat montagnard de Pontarlier exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation conforme aux normes et durable.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Pontarlier.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Installation rapide : Minimisant l'impact sur votre activité."
+  ],
+  "pricingContext": "Obtenez un devis précis et compétitif pour votre projet dans le Doubs.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR ?",
+      "answer": "CPMI propose des solutions d'accessibilité complètes et conformes."
+    },
+    {
+      "question": "Délai à Pontarlier ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

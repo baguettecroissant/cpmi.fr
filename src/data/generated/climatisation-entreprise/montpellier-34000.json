@@ -1,0 +1,28 @@
+{
+  "introText": "Montpellier, pôle économique majeur de l'Occitanie, requiert des solutions de climatisation tertiaire et industrielle performantes. Le climat méditerranéen, avec ses étés chauds et secs, exige une expertise pointue pour garantir le confort et l'efficacité énergétique des entreprises et copropriétés locales, particulièrement dans les zones denses comme Antigone ou Port Marianne.",
+  "localContext": {
+    "title": "Réglementations Thermiques et Opportunités en Occitanie",
+    "content": "L'Occitanie, et Montpellier en particulier, sont soumises à des réglementations thermiques strictes, notamment la RE2020 pour les constructions neuves. Les bâtiments existants doivent se conformer aux exigences d'amélioration de la performance énergétique. Des aides régionales, comme le dispositif Éco-chèque Rénovation, peuvent financer une partie des travaux de climatisation performants. La prise en compte du Plan Local d'Urbanisme (PLU) de Montpellier est cruciale, surtout dans les zones protégées où des autorisations spécifiques sont requises."
+  },
+  "expertAdvice": "Nous savons que chaque entreprise à Montpellier a des besoins uniques. C'est pourquoi nous privilégions une approche personnalisée, en tenant compte des spécificités architecturales, des contraintes budgétaires et des objectifs de développement durable de nos clients. Notre connaissance approfondie du tissu économique local et des réglementations en vigueur nous permet de proposer des solutions optimales.",
+  "advantages": [
+    "Maîtrise des contraintes architecturales du centre historique de Montpellier",
+    "Intervention rapide et efficace dans tout le département de l'Hérault",
+    "Solutions adaptées aux spécificités des bâtiments basse consommation (BBC)"
+  ],
+  "pricingContext": "Le coût d'une installation de climatisation tertiaire ou industrielle à Montpellier varie selon la complexité du projet. En moyenne, les entreprises de l'Hérault peuvent s'attendre à un investissement compris entre 5 000 € et 50 000 €, en fonction de la surface et des technologies utilisées.",
+  "faq": [
+    {
+      "question": "Quelles sont les aides financières disponibles en Occitanie pour l'installation d'une climatisation performante ?",
+      "answer": "L'Occitanie propose des dispositifs comme l'Éco-chèque Rénovation, cumulables avec les CEE (Certificats d'Économies d'Énergie), pour réduire le coût de vos travaux d'amélioration énergétique."
+    },
+    {
+      "question": "Quels sont les délais d'installation typiques pour une climatisation industrielle à Montpellier ?",
+      "answer": "Les délais varient selon la complexité du chantier et la disponibilité des équipements. Comptez généralement entre 2 semaines et 2 mois, incluant l'étude préalable et la mise en service."
+    },
+    {
+      "question": "Quelles sont les obligations de maintenance pour une installation de climatisation à Montpellier ?",
+      "answer": "La réglementation impose un contrôle d'étanchéité annuel pour les équipements contenant plus de 2 kg de fluide frigorigène, ainsi qu'un entretien régulier pour garantir leur performance et leur durabilité."
+    }
+  ]
+}

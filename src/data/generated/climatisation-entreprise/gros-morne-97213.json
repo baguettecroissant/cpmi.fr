@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle au Gros-Morne, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Adaptée",
+    "content": "Gros-Morne : un climat exigeant. CPMI.fr vous accompagne avec des solutions performantes et éligibles aux aides locales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un entretien régulier par CPMI.fr.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation rapide et efficace par nos équipes qualifiées.",
+    "Maintenance préventive pour une durée de vie prolongée."
+  ],
+  "pricingContext": "CPMI.fr : Des prix compétitifs pour les professionnels en Martinique (972).",
+  "faq": [
+    {
+      "question": "Quelle puissance adaptée ?",
+      "answer": "CPMI.fr dimensionne précisément votre climatisation."
+    },
+    {
+      "question": "Délai à Gros Morne ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes martiniquaises."
+    }
+  ]
+}

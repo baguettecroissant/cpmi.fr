@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Dizier, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Ascenseurs à St Dizier",
+    "content": "Bénéficiez d'aides à l'adaptation du logement dans la Haute-Marne. Le climat semi-continental requiert des installations robustes et adaptées."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et sécurisée.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de St Dizier.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Respect des normes et réglementations en vigueur."
+  ],
+  "pricingContext": "CPMI offre des devis personnalisés et compétitifs dans le 52.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à St Dizier ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à St Dizier ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et conformité aux normes Grand Est."
+    }
+  ]
+}

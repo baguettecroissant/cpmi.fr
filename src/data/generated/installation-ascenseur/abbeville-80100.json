@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Abbeville, optimisant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité Abbeville",
+    "content": "La région Hauts-de-France soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches de financement et d'installation."
+  },
+  "expertAdvice": "Un ascenseur adapté améliore l'attractivité et la valeur de votre entreprise.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Abbeville.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance locale assurée par nos techniciens CPMI."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans la Somme.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation ERP à Abbeville."
+    },
+    {
+      "question": "Délai à Abbeville ?",
+      "answer": "Variable selon le modèle et les travaux."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes EN 81-70."
+    }
+  ]
+}

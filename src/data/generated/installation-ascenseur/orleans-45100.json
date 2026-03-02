@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Orléans, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Orléans",
+    "content": "La région Centre-Val de Loire soutient l'accessibilité. CPMI vous accompagne pour obtenir les aides à l'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Orléans.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV réactifs dans tout le Loiret (45)."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Orléans.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Orléans ?",
+      "answer": "CPMI propose des solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Orleans ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

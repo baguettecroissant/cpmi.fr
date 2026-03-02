@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Roncq, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Roncq : contexte",
+    "content": "Les Hauts-de-France soutiennent l'accessibilité. CPMI.fr facilite l'installation d'ascenseurs et monte-charges adaptés aux besoins spécifiques de Roncq et sa région."
+  },
+  "expertAdvice": "CPMI.fr : Expertise locale pour une installation optimale et conforme.",
+  "advantages": [
+    "Proximité : Intervention rapide et personnalisée à Roncq.",
+    "Conformité : Respect des normes locales et nationales.",
+    "Fiabilité : Matériel durable et SAV performant."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Roncq ?",
+      "answer": "CPMI.fr propose des solutions PMR sur-mesure."
+    },
+    {
+      "question": "Délai à Roncq ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

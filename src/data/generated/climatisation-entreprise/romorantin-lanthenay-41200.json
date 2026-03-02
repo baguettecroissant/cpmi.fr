@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Romorantin-Lanthenay, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 41 : Enjeux",
+    "content": "Le climat du Centre-Val de Loire exige des solutions de climatisation performantes. CPMI vous accompagne pour optimiser vos installations et bénéficier d'éventuelles aides régionales."
+  },
+  "expertAdvice": "Choisissez une solution adaptée à vos besoins spécifiques en climatisation.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises du Loir-et-Cher.",
+    "Maintenance rapide et efficace à Romorantin Lanthenay.",
+    "Conformité aux normes environnementales locales et nationales."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre climatisation industrielle dans le 41.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos locaux."
+    },
+    {
+      "question": "Délai à Romorantin Lanthenay ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

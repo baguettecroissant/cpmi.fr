@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Chanteloup Les Vignes, assurant accessibilité et confort.",
+  "localContext": {
+    "title": "Aides Locales & Bâtiment",
+    "content": "Renseignez-vous sur les subventions pour l'amélioration de l'habitat à Chanteloup Les Vignes. Le climat francilien requiert des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité locales.",
+    "Solutions adaptées aux bâtiments existants à Chanteloup Les Vignes.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet dans le 78.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Chanteloup ?",
+      "answer": "Oui, nous proposons des solutions PMR complètes."
+    },
+    {
+      "question": "Délai à Chanteloup Les Vignes ?",
+      "answer": "Délais rapides après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

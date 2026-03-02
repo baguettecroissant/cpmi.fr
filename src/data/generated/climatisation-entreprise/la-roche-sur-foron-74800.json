@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Roche Sur Foron, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 74",
+    "content": "Bénéficiez d'aides locales pour l'installation de systèmes performants. Le climat montagnard exige des solutions de chauffage et refroidissement adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels à La Roche.",
+    "Installation rapide et efficace par nos experts certifiés.",
+    "Maintenance préventive pour une durabilité accrue de vos équipements."
+  ],
+  "pricingContext": "Tarifs compétitifs pour les professionnels en Haute-Savoie.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à La Roche Sur Foron ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Fourmies, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides & Région",
+    "content": "Hauts-de-France : bénéficiez d'aides à l'accessibilité. CPMI vous accompagne dans vos démarches pour optimiser votre projet d'installation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Fourmies.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et SAV de proximité pour une tranquillité durable."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans le 59.",
+  "faq": [
+    {
+      "question": "Normes à Fourmies ?",
+      "answer": "CPMI garantit la conformité aux normes en vigueur."
+    },
+    {
+      "question": "Délai à Fourmies ?",
+      "answer": "Délai variable selon projet."
+    },
+    {
+      "question": "SAV local CPMI ?",
+      "answer": "SAV réactif et disponible rapidement à Fourmies."
+    }
+  ]
+}

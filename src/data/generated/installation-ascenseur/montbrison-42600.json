@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Montbrison pour faciliter l'accès à vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité 42",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos démarches d'aides financières pour vos installations à Montbrison."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien immobilier professionnel.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Montbrison.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et SAV de proximité pour une tranquillité durable."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 42.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Montbrison ?",
+      "answer": "CPMI assure la conformité PMR de vos installations."
+    },
+    {
+      "question": "Délai à Montbrison ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans la Loire."
+    }
+  ]
+}

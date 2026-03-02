@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Bois d'Arcy, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Optimisez votre climatisation à Bois d'Arcy. Profitez des aides régionales pour les entreprises et adaptez-vous aux variations climatiques de l'Île-de-France."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide par nos techniciens locaux.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Maintenance préventive pour une performance durable."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour le 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Notre étude thermique détermine vos besoins."
+    },
+    {
+      "question": "Délai à Bois D Arcy ?",
+      "answer": "Intervention sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

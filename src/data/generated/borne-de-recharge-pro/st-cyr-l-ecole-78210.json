@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à St Cyr L Ecole, optimisant la mobilité électrique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à St Cyr",
+    "content": "La région Île-de-France soutient activement l'électromobilité. Profitez des aides pour installer vos bornes et contribuez à un environnement plus propre à St Cyr L Ecole."
+  },
+  "expertAdvice": "Anticipez la transition énergétique : équipez-vous dès maintenant !",
+  "advantages": [
+    "Solution sur mesure pour entreprises et copropriétés à St Cyr.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Réduction de l'empreinte carbone de votre entreprise."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à St Cyr L Ecole ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes IRVE."
+    }
+  ]
+}

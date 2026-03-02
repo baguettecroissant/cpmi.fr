@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Fos-sur-Mer. Optimisez l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité 13",
+    "content": "Profitez des aides régionales pour l'amélioration de l'accessibilité à Fos-sur-Mer. CPMI vous accompagne dans vos démarches et s'adapte au climat méditerranéen."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et conforme aux normes.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de Fos-sur-Mer.",
+    "Solutions sur-mesure : Adaptées à vos besoins professionnels.",
+    "Installation rapide : Minimisation de l'impact sur votre activité."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs et souvent en rénovation."
+    },
+    {
+      "question": "Délai à Fos Sur Mer ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV rapide et respecte les normes en vigueur."
+    }
+  ]
+}

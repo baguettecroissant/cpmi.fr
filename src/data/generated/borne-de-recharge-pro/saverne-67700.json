@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Saverne, pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Saverne : Aides",
+    "content": "Le Grand Est soutient l'électromobilité. CPMI vous guide pour obtenir les aides locales et nationales pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide et conforme à Saverne et environs.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI, votre partenaire local."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels dans le Bas-Rhin (67).",
+  "faq": [
+    {
+      "question": "Quelle puissance à Saverne ?",
+      "answer": "CPMI dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Saverne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "CPMI assure un SAV réactif et respecte les normes en vigueur."
+    }
+  ]
+}

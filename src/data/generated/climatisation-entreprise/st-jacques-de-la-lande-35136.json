@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à St Jacques De La Lande, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 35 : Enjeux Locaux",
+    "content": "Le climat breton exige des solutions de climatisation fiables. CPMI vous accompagne dans vos projets, en tenant compte des spécificités régionales."
+  },
+  "expertAdvice": "Optimisez vos performances énergétiques avec nos solutions sur mesure.",
+  "advantages": [
+    "Installation rapide par des experts locaux certifiés.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux besoins spécifiques des entreprises."
+  ],
+  "pricingContext": "Devis personnalisés pour les professionnels du 35, adaptés à votre budget.",
+  "faq": [
+    {
+      "question": "Climatisation : quel intérêt ?",
+      "answer": "Améliorer le confort et la productivité des employés."
+    },
+    {
+      "question": "Délai à St Jacques De La Lande ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Deuil La Barre, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 95 : Enjeux",
+    "content": "Le climat en Île-de-France exige des solutions performantes. CPMI vous accompagne pour bénéficier des aides à la transition énergétique disponibles dans le Val-d'Oise."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Deuil La Barre.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "CPMI dimensionne votre installation selon vos besoins précis."
+    },
+    {
+      "question": "Délai à Deuil La Barre ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales locales."
+    }
+  ]
+}

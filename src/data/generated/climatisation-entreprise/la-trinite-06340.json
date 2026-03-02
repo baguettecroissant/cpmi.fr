@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à La Trinité, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation Durable 06",
+    "content": "La région PACA encourage les solutions éco-énergétiques. CPMI vous aide à bénéficier des aides pour climatiser efficacement vos locaux face au climat méditerranéen."
+  },
+  "expertAdvice": "Optimisation énergétique : un investissement rentable pour votre entreprise.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques des entreprises.",
+    "Installation rapide et efficace par des professionnels qualifiés.",
+    "Maintenance préventive pour une performance durable de vos systèmes."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels des Alpes-Maritimes.",
+  "faq": [
+    {
+      "question": "Climatisation idéale B2B ?",
+      "answer": "Systèmes VRV/DRV pour flexibilité et contrôle précis."
+    },
+    {
+      "question": "Délai à La Trinite ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

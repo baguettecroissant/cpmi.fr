@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Loos pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Loos",
+    "content": "La région Hauts-de-France encourage l'électromobilité. CPMI vous aide à naviguer les aides locales pour l'installation de vos bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts locaux.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés à Loos.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par des professionnels qualifiés."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour le 59.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Loos ?",
+      "answer": "Adaptation selon vos besoins et infrastructure."
+    },
+    {
+      "question": "Délai à Loos ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local et respect des normes IRVE."
+    }
+  ]
+}

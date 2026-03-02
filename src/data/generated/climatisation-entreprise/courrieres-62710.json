@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Courrières, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 62",
+    "content": "Courrières subit des étés chauds. CPMI vous aide à trouver des solutions de climatisation performantes et éligibles aux aides locales."
+  },
+  "expertAdvice": "Optimisez votre climatisation industrielle pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide et efficace à Courrières",
+    "Maintenance préventive pour une durée de vie accrue",
+    "Solutions sur mesure pour tous les besoins industriels"
+  ],
+  "pricingContext": "Devis personnalisés pour climatisation tertiaire et industrielle dans le Pas-de-Calais.",
+  "faq": [
+    {
+      "question": "Clim adaptée à mon activité ?",
+      "answer": "CPMI propose des solutions sur mesure pour chaque secteur d'activité."
+    },
+    {
+      "question": "Délai à Courrieres ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

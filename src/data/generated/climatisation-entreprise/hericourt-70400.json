@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Héricourt (70400), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Héricourt",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Les étés chauds nécessitent des solutions de climatisation adaptées aux entreprises."
+  },
+  "expertAdvice": "Choisissez un système adapté à vos besoins et à votre budget.",
+  "advantages": [
+    "Solutions sur mesure pour locaux professionnels à Héricourt.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance et dépannage assurés dans le 70."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation à Héricourt.",
+  "faq": [
+    {
+      "question": "Climatisation idéale pour bureau à Héricourt ?",
+      "answer": "Systèmes split ou gainables, adaptés à la configuration."
+    },
+    {
+      "question": "Délai à Hericourt ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

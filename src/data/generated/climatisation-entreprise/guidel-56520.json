@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Guidel, pour un confort optimal de vos locaux professionnels.",
+  "localContext": {
+    "title": "Climatisation à Guidel",
+    "content": "Le climat océanique de Guidel exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales en efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI, expert local en solutions durables.",
+  "advantages": [
+    "Installation rapide et efficace à Guidel et ses environs.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance et dépannage assurés par des professionnels qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du Morbihan (56).",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Guidel ?",
+      "answer": "CPMI vous conseille selon la taille et l'usage de vos locaux."
+    },
+    {
+      "question": "Délai à Guidel ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

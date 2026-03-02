@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Amberieu-en-Bugey, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 01",
+    "content": "La climatisation est cruciale dans l'Ain, avec ses étés chauds. CPMI vous accompagne dans vos projets de climatisation, en tenant compte des spécificités locales et des aides disponibles."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à Amberieu-en-Bugey.",
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation dans l'Ain.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise ?",
+      "answer": "Analyse de vos besoins et solution sur-mesure."
+    },
+    {
+      "question": "Délai à Amberieu En Bugey ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

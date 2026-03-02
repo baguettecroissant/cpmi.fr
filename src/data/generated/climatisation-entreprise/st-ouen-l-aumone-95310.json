@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Ouen l'Aumône, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 95 : Enjeux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. CPMI.fr vous accompagne pour optimiser vos installations et réduire vos coûts énergétiques."
+  },
+  "expertAdvice": "Un audit énergétique pour une climatisation adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à St Ouen l'Aumône.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Analyse précise de vos besoins pour une solution adaptée."
+    },
+    {
+      "question": "Délai à St Ouen L Aumone ?",
+      "answer": "Intervention rapide, sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

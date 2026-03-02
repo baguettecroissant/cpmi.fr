@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Mende et ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Mende",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Lozère. CPMI.fr s'adapte aux contraintes climatiques et architecturales de la région Occitanie."
+  },
+  "expertAdvice": "Un ascenseur adapté améliore l'accessibilité et valorise votre bien.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Mende.",
+    "Solutions sur-mesure pour bâtiments existants.",
+    "Maintenance et SAV de proximité en Lozère."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet à Mende.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Mende ?",
+      "answer": "Solutions complètes pour l'accessibilité des personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Mende ?",
+      "answer": "Délais rapides, contactez-nous !"
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

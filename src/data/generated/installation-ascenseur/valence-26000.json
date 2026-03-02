@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Valence et sa région.",
+  "localContext": {
+    "title": "Accessibilité Drôme",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches administratives et financières pour vos projets."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Valence.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet.",
+  "faq": [
+    {
+      "question": "Normes à Valence ?",
+      "answer": "Conformité aux normes ERP et PMR garantie."
+    },
+    {
+      "question": "Délai à Valence ?",
+      "answer": "Délais rapides, adaptés à vos besoins."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV local réactif et respect des normes en vigueur."
+    }
+  ]
+}

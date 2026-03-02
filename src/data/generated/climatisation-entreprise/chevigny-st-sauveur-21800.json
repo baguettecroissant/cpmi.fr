@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chevigny-Saint-Sauveur, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 21",
+    "content": "En Bourgogne-Franche-Comté, CPMI vous aide à optimiser vos installations face aux variations climatiques. Bénéficiez d'aides pour la transition énergétique."
+  },
+  "expertAdvice": "Optimisez votre performance énergétique avec des solutions sur-mesure et durables.",
+  "advantages": [
+    "Expertise locale à Chevigny-Saint-Sauveur et réactivité garantie.",
+    "Solutions adaptées aux spécificités des bâtiments tertiaires.",
+    "Maintenance préventive pour une longévité accrue de vos systèmes."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et transparents pour les professionnels du 21.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée au tertiaire ?",
+      "answer": "CPMI offre des solutions sur-mesure pour bureaux et commerces."
+    },
+    {
+      "question": "Délai à Chevigny St Sauveur ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales locales."
+    }
+  ]
+}

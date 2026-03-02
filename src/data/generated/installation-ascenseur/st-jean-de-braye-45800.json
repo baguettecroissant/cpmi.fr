@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Jean De Braye, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité Loiret",
+    "content": "Le Centre-Val de Loire soutient l'accessibilité. CPMI.fr vous aide à naviguer les aides financières pour vos projets d'élévation à St Jean De Braye."
+  },
+  "expertAdvice": "Optimisez l'ergonomie et la sécurité de vos locaux avec CPMI.fr.",
+  "advantages": [
+    "Expertise locale : Connaissance des spécificités de St Jean De Braye.",
+    "Solutions sur mesure : Adaptées à vos besoins précis.",
+    "Conformité assurée : Respect des normes en vigueur (45800)."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Loiret.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "CPMI.fr propose des solutions adaptées à chaque besoin professionnel."
+    },
+    {
+      "question": "Délai à St Jean De Braye ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

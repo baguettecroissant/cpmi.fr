@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Gap, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Gap : Enjeux",
+    "content": "Les étés chauds à Gap nécessitent des solutions de climatisation performantes. Profitez des aides régionales pour améliorer l'efficacité énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit performance et économies durables.",
+  "advantages": [
+    "Solutions adaptées aux spécificités des entreprises locales.",
+    "Installation et maintenance par des professionnels qualifiés.",
+    "Réduction de la consommation énergétique et des coûts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de climatisation dans le 05.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Gap ?",
+      "answer": "Dimensionnement précis selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Gap ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Maintenance et dépannage rapides par nos équipes locales."
+    }
+  ]
+}

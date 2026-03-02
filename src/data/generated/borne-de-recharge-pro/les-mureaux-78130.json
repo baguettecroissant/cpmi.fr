@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Les Mureaux, optimisant la mobilité électrique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes aux Mureaux",
+    "content": "La région Île-de-France soutient activement la transition énergétique. Profitez des aides pour l'installation de bornes et améliorez votre bilan carbone localement."
+  },
+  "expertAdvice": "Anticipez la demande croissante et valorisez votre patrimoine immobilier.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Les Mureaux.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et supervision pour une recharge optimale."
+  ],
+  "pricingContext": "Devis personnalisés pour bornes de recharge adaptées à votre budget dans le 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Les Mureaux ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

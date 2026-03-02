@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chambéry (73000), pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Chambéry : Enjeux",
+    "content": "Le climat savoyard exige des solutions de climatisation performantes. CPMI.fr vous accompagne dans vos projets, en tenant compte des spécificités locales et des aides disponibles."
+  },
+  "expertAdvice": "Un audit énergétique préalable optimise votre installation de climatisation.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises de Chambéry.",
+    "Installation et maintenance par des experts locaux.",
+    "Réduction de la consommation énergétique de vos bâtiments."
+  ],
+  "pricingContext": "Nos tarifs sont adaptés aux besoins des professionnels de Savoie.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau ?",
+      "answer": "Une étude thermique précise dimensionnera votre climatisation."
+    },
+    {
+      "question": "Délai à Chambery ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012 et EN15251."
+    }
+  ]
+}

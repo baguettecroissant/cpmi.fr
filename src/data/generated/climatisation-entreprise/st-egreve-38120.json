@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à St Egreve, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climat St Egreve",
+    "content": "Le climat de St Egreve exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation et réduire vos coûts."
+  },
+  "expertAdvice": "Un audit énergétique précis optimise votre installation de climatisation.",
+  "advantages": [
+    "Solutions sur-mesure pour les besoins spécifiques des entreprises locales.",
+    "Installation et maintenance par des professionnels certifiés près de chez vous.",
+    "Réduction de votre empreinte carbone grâce à des technologies innovantes."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et des tarifs compétitifs dans le 38.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Analyse des besoins et solutions sur-mesure pour chaque entreprise."
+    },
+    {
+      "question": "Délai à St Egreve ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

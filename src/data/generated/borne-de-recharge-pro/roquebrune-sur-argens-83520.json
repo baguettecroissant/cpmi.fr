@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Roquebrune Sur Argens, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition énergétique locale",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. Des aides locales peuvent réduire le coût d'installation de vos bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.",
+  "advantages": [
+    "Installation rapide à Roquebrune et environs.",
+    "Solutions sur mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé adapté à votre budget.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos usages."
+    },
+    {
+      "question": "Délai à Roquebrune Sur Argens ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}

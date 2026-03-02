@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Rouen, assurant confort et performance énergétique pour vos locaux.",
+  "localContext": {
+    "title": "Climatisation à Rouen",
+    "content": "Rouen subit des étés chauds. Des aides régionales peuvent financer vos installations de climatisation performantes pour le secteur tertiaire et industriel."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises rouennaises.",
+    "Installation et maintenance par des experts certifiés.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "Bénéficiez de tarifs compétitifs et transparents pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Pourquoi une clim à Rouen ?",
+      "answer": "Améliore le confort, la productivité et la qualité de l'air intérieur."
+    },
+    {
+      "question": "Délai à Rouen ?",
+      "answer": "Intervention rapide et efficace."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes RT2012 et EN15251."
+    }
+  ]
+}

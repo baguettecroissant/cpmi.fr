@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Bruz (35170), pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation à Bruz",
+    "content": "La région Bretagne encourage les solutions éco-énergétiques. CPMI vous accompagne pour bénéficier des aides à la rénovation énergétique de vos bâtiments."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec un diagnostic précis et des solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Bruz et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions adaptées aux contraintes industrielles spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 35.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour bureaux à Bruz ?",
+      "answer": "Solutions VRV/DRV adaptées à la configuration de vos espaces."
+    },
+    {
+      "question": "Délai à Bruz ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales bretonnes."
+    }
+  ]
+}

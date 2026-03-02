@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à St Cyr L'Ecole, améliorant l'accessibilité de vos locaux.",
+  "localContext": {
+    "title": "Accessibilité 78",
+    "content": "La région Île-de-France soutient l'accessibilité des entreprises. CPMI vous accompagne pour adapter vos bâtiments aux normes en vigueur localement."
+  },
+  "expertAdvice": "Un diagnostic précis pour une installation optimale et durable.",
+  "advantages": [
+    "Connaissance approfondie des contraintes architecturales locales.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques.",
+    "Respect des normes de sécurité en vigueur dans le 78."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans les Yvelines.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Cyr ?",
+      "answer": "CPMI propose des solutions complètes conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à St Cyr L Ecole ?",
+      "answer": "Sur devis, variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect strict des normes de sécurité locales."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire de confiance pour l'installation d'ascenseurs et monte-charges à Valenciennes et ses environs.",
+  "localContext": {
+    "title": "Ascenseurs à Valenciennes : Spécificités Locales",
+    "content": "Bénéficiez d'aides régionales pour l'accessibilité. Le climat du Nord nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos bâtiments avec des solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Valenciennes.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur à Valenciennes ?",
+      "answer": "Adaptation à l'espace et aux besoins spécifiques de chaque bâtiment."
+    },
+    {
+      "question": "Délai à Valenciennes ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur dans le Nord."
+    }
+  ]
+}

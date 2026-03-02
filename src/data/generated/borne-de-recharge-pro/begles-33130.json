@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Bègles pour entreprises et copropriétés, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. CPMI vous guide dans l'obtention des subventions pour l'installation de bornes à Bègles."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, expert local.",
+  "advantages": [
+    "Installation rapide à Bègles et environs.",
+    "Solutions sur-mesure pour vos besoins spécifiques.",
+    "Maintenance et SAV garantis par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels à Bègles.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Bègles ?",
+      "answer": "CPMI dimensionne selon vos usages."
+    },
+    {
+      "question": "Délai à Begles ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI assure un SAV réactif à Bègles et sa région."
+    }
+  ]
+}

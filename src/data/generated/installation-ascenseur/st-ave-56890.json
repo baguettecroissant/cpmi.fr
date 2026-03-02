@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Ave, pour faciliter l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Accessibilité à St Ave",
+    "content": "Profitez des aides régionales pour l'amélioration de l'accessibilité. CPMI.fr s'adapte aux spécificités architecturales bretonnes pour une installation optimale."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre entreprise.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à St Ave",
+    "Solutions sur mesure pour tous types de bâtiments professionnels",
+    "Maintenance et dépannage assurés par une équipe locale réactive"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le Morbihan (56).",
+  "faq": [
+    {
+      "question": "Normes à St Ave ?",
+      "answer": "Respect des normes ERP et accessibilité PMR garanties."
+    },
+    {
+      "question": "Délai à St Ave ?",
+      "answer": "Installation rapide selon vos contraintes."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV rapide et efficace, proximité garantie."
+    }
+  ]
+}

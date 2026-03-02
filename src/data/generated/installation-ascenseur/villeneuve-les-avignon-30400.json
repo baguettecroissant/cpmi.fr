@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Villeneuve Les Avignon, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité facilitée",
+    "content": "La région Occitanie soutient l'accessibilité. CPMI vous guide dans les aides financières pour l'installation d'ascenseurs et monte-charges à Villeneuve Les Avignon."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, votre partenaire local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure adaptées à vos besoins.",
+    "Maintenance et SAV réactifs à Villeneuve Les Avignon."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 30.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Obligatoire selon ERP et accessibilité."
+    },
+    {
+      "question": "Délai à Villeneuve Les Avignon ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Gaillac pour entreprises et copropriétés, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Gaillac : Occitanie",
+    "content": "La région Occitanie soutient activement l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge dans le Tarn (81)."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI : solutions sur-mesure et durables.",
+  "advantages": [
+    "Installation rapide de bornes adaptées à vos besoins à Gaillac.",
+    "Solutions de recharge intelligentes pour optimiser la consommation.",
+    "Maintenance et SAV assurés par une équipe locale expérimentée."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour les pros du Tarn.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Gaillac ?",
+      "answer": "Adaptez la puissance selon vos véhicules et besoins."
+    },
+    {
+      "question": "Délai à Gaillac ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE locales."
+    }
+  ]
+}

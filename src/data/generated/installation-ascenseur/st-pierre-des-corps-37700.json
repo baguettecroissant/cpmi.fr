@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à St Pierre Des Corps.",
+  "localContext": {
+    "title": "Installation Facile",
+    "content": "Profitez des aides à la rénovation énergétique en Centre-Val de Loire pour votre projet. CPMI vous accompagne dans vos démarches administratives."
+  },
+  "expertAdvice": "Sécurité et conformité : l'expertise CPMI au service de vos besoins.",
+  "advantages": [
+    "Installation rapide et efficace à St Pierre Des Corps.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le 37.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Pierre ?",
+      "answer": "CPMI adapte l'installation aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à St Pierre Des Corps ?",
+      "answer": "Délais rapides, sur devis."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

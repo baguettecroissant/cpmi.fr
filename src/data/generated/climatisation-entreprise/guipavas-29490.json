@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Guipavas, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climat Guipavas",
+    "content": "Guipavas, climat océanique : maîtrisez l'humidité et les variations de température. CPMI vous guide dans le choix des solutions adaptées et les aides disponibles en Bretagne."
+  },
+  "expertAdvice": "Optimisez votre climatisation : maintenance régulière = performance durable.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation et maintenance par des experts locaux.",
+    "Réduction de votre empreinte carbone et des coûts."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les professionnels du 29.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "Analyse précise et solutions sur-mesure pour vos besoins B2B."
+    },
+    {
+      "question": "Délai à Guipavas ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "Dépannage rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

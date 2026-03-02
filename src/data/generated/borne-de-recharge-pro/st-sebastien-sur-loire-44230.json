@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en bornes de recharge à Saint-Sébastien-sur-Loire, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes 44 : Aides & Transition",
+    "content": "La région Pays de la Loire soutient l'électromobilité. Profitez d'aides pour l'installation de bornes de recharge à Saint-Sébastien-sur-Loire."
+  },
+  "expertAdvice": "Optimisez votre installation avec un partenaire local certifié IRVE.",
+  "advantages": [
+    "Solution de recharge adaptée aux besoins de votre entreprise.",
+    "Valorisation de votre patrimoine immobilier en copropriété.",
+    "Installation rapide et conforme aux normes en vigueur."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 44.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à St Sebastien Sur Loire ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "Maintenance rapide et respect des normes NF en vigueur."
+    }
+  ]
+}

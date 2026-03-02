@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Sainte Foy Les Lyon, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Ste Foy",
+    "content": "La région Auvergne-Rhône-Alpes soutient l'accessibilité. CPMI vous accompagne pour naviguer les aides et adapter vos bâtiments aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez l'espace et la valeur de votre bien avec une installation sur-mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Ste Foy.",
+    "Solutions personnalisées pour bâtiments existants ou neufs.",
+    "Maintenance assurée par des experts locaux CPMI."
+  ],
+  "pricingContext": "Obtenez un devis précis et compétitif pour votre projet dans le Rhône.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Ste Foy ?",
+      "answer": "CPMI propose des solutions PMR sur-mesure pour répondre à vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Ste Foy Les Lyon ?",
+      "answer": "Délai variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur à Ste Foy."
+    }
+  ]
+}

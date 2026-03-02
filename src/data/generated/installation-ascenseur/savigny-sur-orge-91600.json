@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Savigny-sur-Orge, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 91",
+    "content": "Savigny-sur-Orge bénéficie d'aides pour l'accessibilité des bâtiments. CPMI vous accompagne dans vos démarches et s'adapte au climat urbain local."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Savigny.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 91.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Savigny ?",
+      "answer": "Oui, CPMI propose des solutions PMR adaptées."
+    },
+    {
+      "question": "Délai à Savigny Sur Orge ?",
+      "answer": "Délai variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

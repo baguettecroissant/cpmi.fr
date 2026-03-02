@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Garches, accélérant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes à Garches : Contexte",
+    "content": "Garches bénéficie d'aides régionales pour l'installation de bornes. Le climat favorable encourage l'adoption de véhicules électriques par les entreprises."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Garches.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance locale assurée par des experts CPMI."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour l'installation de bornes dans le 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Garches ?",
+      "answer": "Adaptée à vos besoins et à l'infrastructure existante."
+    },
+    {
+      "question": "Délai à Garches ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

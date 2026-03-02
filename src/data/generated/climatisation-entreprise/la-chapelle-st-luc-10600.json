@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à La Chapelle St Luc, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à La Chapelle St Luc",
+    "content": "Bénéficiez des aides locales pour l'installation de systèmes performants. Le climat du Grand Est exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Un système bien dimensionné garantit efficacité et économies durables.",
+  "advantages": [
+    "Solutions sur-mesure pour vos besoins spécifiques locaux.",
+    "Maintenance préventive pour une longévité accrue.",
+    "Respect des normes environnementales en vigueur."
+  ],
+  "pricingContext": "CPMI.fr offre des tarifs compétitifs pour les professionnels du 10.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Une étude thermique précise dimensionne votre installation."
+    },
+    {
+      "question": "Délai à La Chapelle St Luc ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Bergerac, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides et climat",
+    "content": "La Nouvelle-Aquitaine soutient l'accessibilité. Le climat tempéré de Bergerac favorise la durabilité des installations extérieures. "
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure, respectant les normes de sécurité en vigueur.",
+  "advantages": [
+    "Proximité : Intervention rapide à Bergerac et environs.",
+    "Solutions adaptées aux bâtiments existants.",
+    "Conformité réglementaire et sécurité garantie."
+  ],
+  "pricingContext": "Devis personnalisés pour professionnels du 24, adaptés à vos besoins.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Bergerac ?",
+      "answer": "Solutions complètes pour l'accessibilité des personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Bergerac ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP en Dordogne."
+    }
+  ]
+}

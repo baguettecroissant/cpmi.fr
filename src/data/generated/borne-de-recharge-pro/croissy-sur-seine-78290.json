@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Croissy-sur-Seine, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Croissy",
+    "content": "La région Île-de-France soutient activement l'installation de bornes avec des aides financières. CPMI.fr vous accompagne dans ces démarches pour une mobilité durable à Croissy-sur-Seine."
+  },
+  "expertAdvice": "Anticipez la demande croissante en bornes : équipez-vous dès maintenant !",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales en vigueur.",
+    "Solutions sur-mesure pour entreprises et copropriétés.",
+    "Valorisation de votre patrimoine et image éco-responsable."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs adaptés aux budgets des professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Croissy Sur Seine ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

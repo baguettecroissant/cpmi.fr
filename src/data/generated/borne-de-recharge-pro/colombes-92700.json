@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Colombes, pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Bornes 92 : Enjeux",
+    "content": "Colombes, en Île-de-France, bénéficie d'aides régionales pour l'installation de bornes. Le climat favorable encourage l'adoption de véhicules électriques."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Colombes.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Bornes : quelles aides à Colombes ?",
+      "answer": "Aides régionales et nationales cumulables pour les entreprises."
+    },
+    {
+      "question": "Délai à Colombes ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

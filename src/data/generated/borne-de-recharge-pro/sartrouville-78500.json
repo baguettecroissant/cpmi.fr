@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation de bornes de recharge à Sartrouville, optimisant la mobilité électrique en entreprise et copropriété.",
+  "localContext": {
+    "title": "Bornes à Sartrouville",
+    "content": "Sartrouville encourage l'électromobilité. Profitez des aides régionales pour l'installation de bornes, améliorant ainsi la qualité de l'air et réduisant l'empreinte carbone."
+  },
+  "expertAdvice": "Une installation professionnelle garantit sécurité et performance durable.",
+  "advantages": [
+    "Solution personnalisée pour entreprises et copropriétés à Sartrouville.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Nos prix sont compétitifs et adaptés aux besoins des professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptons la puissance à vos besoins et usages."
+    },
+    {
+      "question": "Délai à Sartrouville ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

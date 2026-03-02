@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Ormesson-sur-Marne, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 94 : Enjeux",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales et optimiser votre installation."
+  },
+  "expertAdvice": "Choisissez une climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et efficace à Ormesson-sur-Marne.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "Tarifs compétitifs et devis personnalisés pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Notre étude thermique détermine la solution idéale."
+    },
+    {
+      "question": "Délai à Ormesson Sur Marne ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

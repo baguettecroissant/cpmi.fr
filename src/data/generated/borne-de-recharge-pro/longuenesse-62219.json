@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Longuenesse pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "La région Hauts-de-France soutient l'installation de bornes. Profitez d'aides financières pour votre projet de mobilité verte à Longuenesse."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en bornes de recharge.",
+  "advantages": [
+    "Solution personnalisée pour Longuenesse",
+    "Installation rapide et professionnelle",
+    "Maintenance assurée par CPMI"
+  ],
+  "pricingContext": "Devis compétitifs et transparents pour les professionnels du 62.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins."
+    },
+    {
+      "question": "Délai à Longuenesse ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et conformité aux normes en vigueur."
+    }
+  ]
+}

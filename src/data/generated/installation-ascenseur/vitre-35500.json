@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Vitré, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité à Vitré",
+    "content": "La région Bretagne soutient l'accessibilité des entreprises. CPMI vous accompagne dans vos projets d'installation, en tenant compte du climat local."
+  },
+  "expertAdvice": "Sécurité et conformité : notre priorité pour vos installations à Vitré.",
+  "advantages": [
+    "Installation rapide et efficace à Vitré et ses environs.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et transparents pour professionnels du 35.",
+  "faq": [
+    {
+      "question": "Normes à Vitré ?",
+      "answer": "Respect strict des normes en vigueur pour votre sécurité."
+    },
+    {
+      "question": "Délai à Vitre ?",
+      "answer": "Délais rapides, variable selon projet."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "SAV réactif et disponible à Vitré et alentours."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Fréjus, pour une mobilité optimisée.",
+  "localContext": {
+    "title": "Accessibilité Fréjus",
+    "content": "Fréjus bénéficie d'aides à l'accessibilité. CPMI vous accompagne pour adapter vos bâtiments aux normes en vigueur dans le Var."
+  },
+  "expertAdvice": "CPMI : Installation sur-mesure et conformité garantie à Fréjus.",
+  "advantages": [
+    "Installation rapide et efficace à Fréjus.",
+    "Solutions adaptées aux contraintes locales.",
+    "Maintenance et SAV de proximité (83)."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels à Fréjus.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Fréjus ?",
+      "answer": "CPMI : Solutions PMR conformes et subventionnées."
+    },
+    {
+      "question": "Délai à Frejus ?",
+      "answer": "Installation rapide selon vos besoins."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

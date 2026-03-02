@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chambray-lès-Tours, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat et aides à Chambray",
+    "content": "Le climat de Chambray-lès-Tours exige des systèmes performants. Profitez des aides régionales pour optimiser votre installation de climatisation tertiaire."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une solution de climatisation adaptée à vos besoins spécifiques.",
+  "advantages": [
+    "Expertise locale en climatisation tertiaire et industrielle.",
+    "Solutions sur-mesure pour optimiser votre consommation.",
+    "Maintenance et dépannage rapides à Chambray-lès-Tours."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du 37.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI.fr vous conseille la solution idéale."
+    },
+    {
+      "question": "Délai à Chambray Les Tours ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

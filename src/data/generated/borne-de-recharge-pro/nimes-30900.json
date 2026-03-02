@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Nîmes, soutenant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique à Nîmes",
+    "content": "La région Occitanie encourage l'électromobilité avec des subventions. Profitez du climat ensoleillé pour optimiser votre installation solaire et recharge."
+  },
+  "expertAdvice": "Optimisez votre installation avec un dimensionnement précis selon vos besoins.",
+  "advantages": [
+    "Installation rapide à Nîmes et ses environs.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par CPMI."
+  ],
+  "pricingContext": "CPMI offre des tarifs compétitifs et transparents pour les professionnels du Gard.",
+  "faq": [
+    {
+      "question": "Quelle puissance installer ?",
+      "answer": "CPMI dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Nimes ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en vigueur."
+    }
+  ]
+}

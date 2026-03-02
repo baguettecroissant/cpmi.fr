@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge pour entreprises et copropriétés à Libourne, participant à la transition énergétique locale.",
+  "localContext": {
+    "title": "Éco-mobilité à Libourne",
+    "content": "La Nouvelle-Aquitaine encourage l'électrification des flottes. CPMI.fr vous aide à bénéficier des aides disponibles pour votre projet de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI.fr, expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Libourne.",
+    "Solutions sur mesure pour chaque besoin d'entreprise.",
+    "Maintenance et SAV assurés par des professionnels locaux."
+  ],
+  "pricingContext": "CPMI.fr propose des devis personnalisés pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos besoins."
+    },
+    {
+      "question": "Délai à Libourne ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes NF/ZE Ready."
+    }
+  ]
+}

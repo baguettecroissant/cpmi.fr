@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Valenciennes pour entreprises et copropriétés, un investissement d'avenir.",
+  "localContext": {
+    "title": "Valenciennes : Transition Énergétique",
+    "content": "La région Hauts-de-France encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales à l'installation de bornes."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert local en bornes de recharge.",
+  "advantages": [
+    "Solution sur mesure pour entreprises et copropriétés valenciennoises.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Tarifs compétitifs pour installation de bornes dans le 59, devis personnalisé.",
+  "faq": [
+    {
+      "question": "Quelles aides à Valenciennes ?",
+      "answer": "Aides régionales et nationales cumulables, CPMI vous conseille."
+    },
+    {
+      "question": "Délai à Valenciennes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et bornes conformes aux normes NF et IRVE."
+    }
+  ]
+}

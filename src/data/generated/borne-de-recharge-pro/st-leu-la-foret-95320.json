@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à St Leu La Foret pour entreprises et copropriétés, facilitez la transition énergétique.",
+  "localContext": {
+    "title": "Bornes à St Leu",
+    "content": "Le Val d'Oise encourage la mobilité verte. Profitez des aides régionales pour l'installation de bornes et améliorez votre image."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec CPMI pour une recharge efficace et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés locales",
+    "Installation rapide et conforme aux normes en vigueur",
+    "Maintenance et SAV assurés par nos experts locaux"
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs et adaptés aux besoins des professionnels du 95.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI dimensionne selon vos besoins et usages."
+    },
+    {
+      "question": "Délai à St Leu La Foret ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

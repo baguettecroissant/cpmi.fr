@@ -1,0 +1,28 @@
+{
+  "introText": "À {CITY_NAME}, au cœur des Hautes-Alpes, l'installation d'ascenseurs et monte-charge est cruciale pour le dynamisme touristique et résidentiel. Face à une topographie parfois exigeante et des infrastructures en constante évolution, garantir l'accessibilité et la fluidité des déplacements devient un enjeu majeur pour les ERP, entreprises et copropriétés locales. C'est un investissement stratégique pour la modernité et la sécurité.",
+  "localContext": {
+    "title": "Réglementations et Aides Spécifiques en Provence-Alpes-Côte D'azur et Hautes-Alpes",
+    "content": "L'installation d'ascenseurs et monte-charge à {CITY_NAME} doit impérativement s'aligner sur le Plan Local d'Urbanisme (PLU) qui peut imposer des contraintes architecturales spécifiques, notamment dans les secteurs sauvegardés ou à proximité des monuments historiques, sous l'égide des Architectes des Bâtiments de France (ABF). Le climat montagnard des Hautes-Alpes, avec ses hivers rigoureux et ses fortes variations de température, exige des équipements robustes et un entretien adapté. La Région Provence-Alpes-Côte D'azur propose des dispositifs d'aide à la rénovation énergétique et à l'accessibilité, complétant les aides nationales comme MaPrimeRénov' Copropriétés ou le Fonds Accessibilité pour les ERP, cruciales pour alléger le coût des projets d'installation ou de modernisation."
+  },
+  "expertAdvice": "Chez CPMI.fr, nous savons qu'à {CITY_NAME}, chaque projet d'installation d'ascenseur ou monte-charge est unique. Notre expertise locale est primordiale pour naviguer les spécificités du bâti alpin, qu'il s'agisse d'une résidence de tourisme, d'un immeuble ancien en centre-ville ou d'un ERP moderne. Faire appel à nos installateurs partenaires, c'est l'assurance d'une solution sur mesure, respectueuse des normes locales et résistante aux conditions climatiques des Hautes-Alpes, garantissant ainsi pérennité et performance à votre installation.",
+  "advantages": [
+    "Connaissance approfondie du PLU de {CITY_NAME} et des exigences architecturales locales.",
+    "Réactivité et proximité garanties sur tout le département des Hautes-Alpes pour un service optimal.",
+    "Expertise reconnue pour les installations en milieu montagnard et les bâtiments à forte pente."
+  ],
+  "pricingContext": "Les prix moyens pour l'installation d'ascenseurs et monte-charge dans les Hautes-Alpes (05) varient fortement selon la complexité du site, le type d'appareil et les options. L'accès au chantier, souvent contraint en zone montagneuse, peut également influencer le devis final pour les professionnels.",
+  "faq": [
+    {
+      "question": "Quelles sont les principales aides régionales en Provence-Alpes-Côte D'azur pour l'installation d'un ascenseur ?",
+      "answer": "La Région PACA, en complément des aides nationales, peut proposer des subventions pour l'amélioration de l'accessibilité ou la rénovation énergétique des bâtiments. Il est crucial de consulter les appels à projets spécifiques ou les dispositifs d'aide aux copropriétés et ERP locaux."
+    },
+    {
+      "question": "Quels sont les défis spécifiques d'installation d'un monte-charge dans un bâtiment industriel de {CITY_NAME} ?",
+      "answer": "À {CITY_NAME}, l'installation en milieu industriel peut impliquer des contraintes de charge, de dimensions, et d'intégration aux flux logistiques existants. Les installateurs doivent également prévoir une résistance accrue aux conditions climatiques locales et une maintenance préventive adaptée."
+    },
+    {
+      "question": "Quelle est la fréquence de maintenance recommandée pour un ascenseur en milieu montagnard à {CITY_NAME} ?",
+      "answer": "Compte tenu des conditions climatiques des Hautes-Alpes (gel, neige, humidité), une maintenance préventive renforcée est vivement recommandée. Au-delà de la fréquence légale, des contrôles plus réguliers assurent la fiabilité et la sécurité de l'appareil face aux agressions extérieures."
+    }
+  ]
+}

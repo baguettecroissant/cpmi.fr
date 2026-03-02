@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ostwald, pour un confort optimal et une productivité accrue.",
+  "localContext": {
+    "title": "Climat à Ostwald",
+    "content": "Ostwald, avec ses étés chauds, nécessite une climatisation performante. CPMI.fr vous guide vers les aides régionales pour optimiser votre investissement."
+  },
+  "expertAdvice": "Choisissez CPMI.fr pour une installation durable et éco-responsable.",
+  "advantages": [
+    "Expertise locale : intervention rapide à Ostwald.",
+    "Solutions sur mesure pour entreprises et industries.",
+    "Maintenance préventive pour une longévité accrue."
+  ],
+  "pricingContext": "CPMI.fr propose des prix compétitifs pour les professionnels du 67.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation ?",
+      "answer": "Adaptée à vos besoins : bureaux, entrepôts, ateliers."
+    },
+    {
+      "question": "Délai à Ostwald ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes environnementales."
+    }
+  ]
+}

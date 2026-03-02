@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à La Teste-de-Buch, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Solutions sur le Bassin",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Nouvelle-Aquitaine. Un climat marin exige des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure adaptées à vos besoins précis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Teste ?",
+      "answer": "Conformité totale aux normes d'accessibilité PMR."
+    },
+    {
+      "question": "Délai à La Teste De Buch ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

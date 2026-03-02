@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre spécialiste en climatisation tertiaire et industrielle à St Gaudens, pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 31",
+    "content": "En Occitanie, optimisez votre climatisation grâce aux aides régionales. CPMI vous accompagne pour des solutions adaptées au climat de St Gaudens."
+  },
+  "expertAdvice": "Un système performant réduit vos coûts énergétiques durablement.",
+  "advantages": [
+    "Solutions sur-mesure pour les entreprises locales.",
+    "Installation rapide et efficace par nos experts.",
+    "Maintenance préventive pour une longévité accrue."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Clim adaptée à mon activité ?",
+      "answer": "Nous analysons vos besoins pour une solution personnalisée."
+    },
+    {
+      "question": "Délai à St Gaudens ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

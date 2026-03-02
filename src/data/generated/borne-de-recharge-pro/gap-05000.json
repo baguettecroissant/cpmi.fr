@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés à Gap, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Bornes à Gap (05)",
+    "content": "La région Provence-Alpes-Côte d'Azur encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes et réduisez votre empreinte carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins.",
+  "advantages": [
+    "Installation rapide par des experts locaux",
+    "Solutions sur mesure pour entreprises",
+    "Accès aux aides financières régionales"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de borne à Gap.",
+  "faq": [
+    {
+      "question": "Aides à Gap ?",
+      "answer": "Contactez CPMI pour connaître les aides disponibles."
+    },
+    {
+      "question": "Délai à Gap ?",
+      "answer": "Installation rapide après validation du devis."
+    },
+    {
+      "question": "Normes locales ?",
+      "answer": "CPMI respecte les normes IRVE en vigueur dans le 05."
+    }
+  ]
+}

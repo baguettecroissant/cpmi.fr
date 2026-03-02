@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Boulogne-Billancourt, assurant confort et performance.",
+  "localContext": {
+    "title": "Climatisation 92 : Enjeux Locaux",
+    "content": "Boulogne-Billancourt bénéficie d'aides régionales pour l'efficacité énergétique. CPMI adapte ses solutions aux variations climatiques de l'Île-de-France."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec un système adapté.",
+  "advantages": [
+    "Réduction des coûts énergétiques pour les entreprises boulonnaises.",
+    "Amélioration du confort des employés et de la productivité.",
+    "Respect des normes environnementales spécifiques au 92."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI évalue vos besoins pour une climatisation optimale."
+    },
+    {
+      "question": "Délai à Boulogne Billancourt ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes RT2012 et ERP."
+    }
+  ]
+}

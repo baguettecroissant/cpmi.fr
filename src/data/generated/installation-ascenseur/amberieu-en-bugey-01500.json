@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Ambérieu-en-Bugey, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité & Région",
+    "content": "La région Auvergne-Rhône-Alpes encourage l'accessibilité. CPMI vous accompagne pour naviguer les aides et adapter vos locaux aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Ambérieu.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance fiable et réactive dans le département 01."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans l'Ain (01).",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, PMR, monte-charges industriels."
+    },
+    {
+      "question": "Délai à Amberieu En Bugey ?",
+      "answer": "Selon complexité du projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes ERP en vigueur."
+    }
+  ]
+}

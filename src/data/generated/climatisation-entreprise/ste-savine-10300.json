@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Ste Savine, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Ste Savine",
+    "content": "Bénéficiez d'aides pour l'installation de systèmes performants. Le climat continental de l'Aube exige des solutions de climatisation adaptées."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr pour une efficacité énergétique accrue.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises de Ste Savine.",
+    "Installation rapide et professionnelle, minimisant l'interruption.",
+    "Maintenance préventive pour une longévité accrue du système."
+  ],
+  "pricingContext": "Devis personnalisés et prix compétitifs pour les professionnels du 10.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI.fr vous conseille sur la solution idéale."
+    },
+    {
+      "question": "Délai à Ste Savine ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

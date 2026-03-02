@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Lamentin, Guadeloupe, pour un confort optimal.",
+  "localContext": {
+    "title": "Climat et Aides",
+    "content": "Le climat tropical de Guadeloupe exige des solutions de climatisation performantes. CPMI vous conseille sur les aides financières disponibles pour les entreprises."
+  },
+  "expertAdvice": "Optimisez vos coûts avec un système adapté et une maintenance rigoureuse.",
+  "advantages": [
+    "Solutions sur-mesure pour bâtiments tertiaires et industriels.",
+    "Installation rapide et efficace par des experts locaux.",
+    "Maintenance préventive pour une durabilité accrue."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Étude thermique gratuite pour un dimensionnement précis."
+    },
+    {
+      "question": "Délai à Lamentin ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

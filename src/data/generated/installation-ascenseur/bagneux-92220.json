@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Bagneux, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Bagneux",
+    "content": "Bagneux encourage l'accessibilité. CPMI vous aide à naviguer les réglementations et à bénéficier des aides locales pour vos projets d'installation."
+  },
+  "expertAdvice": "Optimisez vos espaces avec des solutions sur mesure et durables proposées par CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Bagneux",
+    "Solutions adaptées aux bâtiments existants et neufs",
+    "Maintenance et SAV assurés par des experts locaux"
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs pour les professionnels du 92.",
+  "faq": [
+    {
+      "question": "Normes à Bagneux ?",
+      "answer": "Respect des normes ERP et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Bagneux ?",
+      "answer": "Installation rapide selon vos contraintes."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et suivi des normes en vigueur."
+    }
+  ]
+}

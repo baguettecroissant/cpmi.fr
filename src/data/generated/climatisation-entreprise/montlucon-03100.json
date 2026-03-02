@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Montluçon (03), pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Montluçon",
+    "content": "Le climat continental de Montluçon exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales et optimiser votre confort."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation durable et un service de proximité garanti.",
+  "advantages": [
+    "Expertise locale en climatisation industrielle et tertiaire.",
+    "Solutions sur-mesure pour les besoins spécifiques du 03.",
+    "Maintenance et dépannage rapides à Montluçon."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels à Montluçon et sa région.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée ?",
+      "answer": "CPMI dimensionne précisément votre système."
+    },
+    {
+      "question": "Délai à Montlucon ?",
+      "answer": "Intervention rapide assurée."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

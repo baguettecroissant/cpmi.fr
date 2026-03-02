@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges au Kremlin-Bicêtre, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité 94",
+    "content": "Le Kremlin-Bicêtre bénéficie d'aides pour l'adaptation des logements. CPMI vous accompagne dans vos démarches et respecte les normes en vigueur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, votre expert local.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactifs à Le Kremlin-Bicêtre."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 94.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, si ERP et selon la loi accessibilité."
+    },
+    {
+      "question": "Délai à Le Kremlin Bicetre ?",
+      "answer": "Sur devis, variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes NF EN81."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Sartrouville (78).",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux Locaux",
+    "content": "Sartrouville subit des étés chauds. CPMI aide les entreprises à optimiser leur confort thermique et à profiter des aides régionales pour la transition énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour une performance durable.",
+  "advantages": [
+    "Installation rapide à Sartrouville et environs.",
+    "Maintenance préventive pour éviter les pannes.",
+    "Solutions sur-mesure pour vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "Étude personnalisée pour un système adapté."
+    },
+    {
+      "question": "Délai à Sartrouville ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

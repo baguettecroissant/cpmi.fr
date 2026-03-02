@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation de bornes de recharge à Buxerolles, facilitant la transition énergétique de votre entreprise.",
+  "localContext": {
+    "title": "Bornes à Buxerolles (86)",
+    "content": "La Nouvelle-Aquitaine encourage l'électromobilité. Profitez des aides locales pour l'installation de bornes de recharge en entreprise et copropriété à Buxerolles."
+  },
+  "expertAdvice": "Optimisez votre infrastructure de recharge avec CPMI, experts locaux.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Buxerolles.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Buxerolles.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Buxerolles ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

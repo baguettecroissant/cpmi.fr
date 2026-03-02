@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire pour l'installation d'ascenseurs et monte-charges à Fameck, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Grand Est",
+    "content": "Le Grand Est soutient l'accessibilité. CPMI vous guide dans les aides pour l'installation d'ascenseurs et monte-charges à Fameck."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments à Fameck avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Fameck.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et SAV de proximité dans le Grand Est."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels à Fameck et dans le 57.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Fameck ?",
+      "answer": "CPMI installe des ascenseurs PMR conformes aux normes d'accessibilité."
+    },
+    {
+      "question": "Délai à Fameck ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

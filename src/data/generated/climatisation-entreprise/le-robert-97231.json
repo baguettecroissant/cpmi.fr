@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Le Robert, pour un confort optimal et une performance énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation Durable 972",
+    "content": "Le climat tropical humide de Martinique exige des solutions de climatisation performantes. CPMI.fr vous accompagne dans le choix d'équipements adaptés et éligibles aux aides locales."
+  },
+  "expertAdvice": "Optimisez vos coûts avec une climatisation adaptée à vos besoins précis.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et industries locales.",
+    "Installation et maintenance expertes à Le Robert.",
+    "Réduction de la consommation énergétique et des coûts."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet de climatisation.",
+  "faq": [
+    {
+      "question": "Climatisation adaptée au climat local ?",
+      "answer": "Oui, nous proposons des solutions résistantes à l'humidité et la corrosion."
+    },
+    {
+      "question": "Délai à Le Robert ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes de sécurité en vigueur en Martinique."
+    }
+  ]
+}

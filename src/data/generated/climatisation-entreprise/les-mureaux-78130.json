@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle aux Mureaux, pour un confort optimal et une efficacité énergétique accrue.",
+  "localContext": {
+    "title": "Climatisation 78 : Enjeux",
+    "content": "Les Mureaux, comme toute l'Île-de-France, bénéficie d'aides à la transition énergétique. Adaptez votre climatisation aux étés de plus en plus chauds."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts d'exploitation durablement.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance préventive pour une performance optimale.",
+    "Solutions sur mesure pour les besoins spécifiques."
+  ],
+  "pricingContext": "Nos tarifs sont compétitifs pour les professionnels du 78.",
+  "faq": [
+    {
+      "question": "Quelle puissance aux Mureaux ?",
+      "answer": "Étude thermique précise pour un dimensionnement optimal."
+    },
+    {
+      "question": "Délai à Les Mureaux ?",
+      "answer": "Intervention rapide, devis sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales."
+    }
+  ]
+}

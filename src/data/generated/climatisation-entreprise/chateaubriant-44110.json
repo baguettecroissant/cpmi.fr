@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Chateaubriant, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation 44110",
+    "content": "Chateaubriant connaît des étés chauds. CPMI vous accompagne pour les aides à la rénovation énergétique et l'installation de systèmes performants."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI, pour une efficacité énergétique maximale.",
+  "advantages": [
+    "Installation rapide par des experts locaux à Chateaubriant.",
+    "Solutions sur mesure pour les besoins spécifiques de votre entreprise.",
+    "Maintenance préventive pour prolonger la durée de vie de votre installation."
+  ],
+  "pricingContext": "CPMI offre des prix compétitifs pour les professionnels de Chateaubriant et sa région.",
+  "faq": [
+    {
+      "question": "Quel type de climatisation ?",
+      "answer": "Nous proposons des solutions adaptées à chaque secteur d'activité."
+    },
+    {
+      "question": "Délai à Chateaubriant ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur dans le Pays de la Loire."
+    }
+  ]
+}

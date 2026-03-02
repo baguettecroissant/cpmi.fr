@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Fresnes, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Fresnes",
+    "content": "Fresnes, engagée pour l'accessibilité, encourage l'installation d'équipements adaptés. CPMI vous accompagne dans vos projets, en tenant compte des spécificités locales et des aides disponibles."
+  },
+  "expertAdvice": "Optimisez l'espace et respectez les normes avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité à Fresnes.",
+    "Solutions sur mesure adaptées à vos besoins spécifiques.",
+    "Amélioration de l'accessibilité et valorisation de votre bâtiment."
+  ],
+  "pricingContext": "Prix compétitifs pour professionnels dans le Val-de-Marne.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Fresnes ?",
+      "answer": "CPMI propose des solutions conformes aux normes PMR."
+    },
+    {
+      "question": "Délai à Fresnes ?",
+      "answer": "Délais rapides : Devis sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes EN81-70 et EN81-41."
+    }
+  ]
+}

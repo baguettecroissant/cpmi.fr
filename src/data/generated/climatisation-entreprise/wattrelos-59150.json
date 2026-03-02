@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en climatisation tertiaire et industrielle à Wattrelos, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climat Wattrelos",
+    "content": "Wattrelos, avec ses étés chauds et hivers froids, exige des systèmes de climatisation performants. CPMI vous accompagne pour optimiser vos installations et profiter des aides régionales."
+  },
+  "expertAdvice": "Un climat optimisé améliore la productivité et réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Wattrelos et environs",
+    "Maintenance préventive pour une durabilité accrue",
+    "Solutions sur-mesure pour chaque type de bâtiment"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau ?",
+      "answer": "CPMI vous conseille la solution la plus adaptée à vos besoins et budget."
+    },
+    {
+      "question": "Délai à Wattrelos ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Ste Anne, Guadeloupe.",
+  "localContext": {
+    "title": "Adaptation Locale",
+    "content": "Ste Anne bénéficie d'aides à l'accessibilité. CPMI adapte ses installations aux conditions climatiques de Guadeloupe."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos locaux professionnels.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Ste Anne.",
+    "Solutions sur mesure pour les entreprises locales.",
+    "Maintenance et dépannage assurés en Guadeloupe."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les pros du 971.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Ste Anne ?",
+      "answer": "Oui, conformité totale et solutions adaptées."
+    },
+    {
+      "question": "Délai à Ste Anne ?",
+      "answer": "Devis + installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV garanti et respect des normes en vigueur."
+    }
+  ]
+}

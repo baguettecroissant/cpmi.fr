@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Clermont-Ferrand, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Clermont-Ferrand",
+    "content": "Profitez des aides à l'amélioration de l'habitat en Auvergne-Rhône-Alpes. CPMI.fr s'adapte aux contraintes architecturales locales et climatiques."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et valorisez votre bien avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Clermont-Ferrand.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par nos experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet à Clermont-Ferrand.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation en vigueur pour l'accessibilité."
+    },
+    {
+      "question": "Délai à Clermont Ferrand ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes françaises et européennes."
+    }
+  ]
+}

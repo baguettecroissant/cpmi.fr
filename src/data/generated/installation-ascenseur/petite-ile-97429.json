@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Petite-Île, La Réunion.",
+  "localContext": {
+    "title": "Ascenseurs à Petite-Île",
+    "content": "Bénéficiez des aides locales pour l'accessibilité. Le climat tropical exige des installations robustes et adaptées aux intempéries réunionnaises."
+  },
+  "expertAdvice": "CPMI.fr : Expertise et solutions sur-mesure pour vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Maintenance et SAV assurés à La Réunion.",
+    "Solutions adaptées aux bâtiments existants et neufs."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet d'ascenseur ou monte-charge au 974.",
+  "faq": [
+    {
+      "question": "Quel type d'ascenseur ?",
+      "answer": "Ascenseurs privatifs, PMR, monte-charges industriels."
+    },
+    {
+      "question": "Délai à Petite Ile ?",
+      "answer": "Sur devis, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur à La Réunion."
+    }
+  ]
+}

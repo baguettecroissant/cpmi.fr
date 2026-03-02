@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Cannes et environs, pour entreprises et copropriétés.",
+  "localContext": {
+    "title": "Transition Énergétique à Cannes",
+    "content": "La région PACA encourage l'électromobilité. CPMI vous accompagne pour bénéficier des aides locales et déployer votre infrastructure de recharge."
+  },
+  "expertAdvice": "Optimisez votre installation avec CPMI pour une recharge performante et durable.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises et copropriétés cannoises.",
+    "Installation rapide et conforme aux normes en vigueur.",
+    "Maintenance et SAV assurés par nos experts locaux."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour votre projet de recharge dans le 06.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Cannes ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules professionnels."
+    },
+    {
+      "question": "Délai à Cannes ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "Quelle norme à Cannes ?",
+      "answer": "Respect de la norme IRVE et des réglementations locales."
+    }
+  ]
+}

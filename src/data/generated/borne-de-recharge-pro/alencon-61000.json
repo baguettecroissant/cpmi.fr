@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Installation de bornes de recharge à Alençon, pour entreprises et copropriétés, facilitant la transition énergétique locale.",
+  "localContext": {
+    "title": "Mobilité Verte Alençon",
+    "content": "La Normandie encourage l'électromobilité. Profitez des aides régionales pour l'installation de bornes et réduisez votre empreinte carbone à Alençon."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI.fr, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Alençon.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Maintenance et SAV assurés par une équipe locale."
+  ],
+  "pricingContext": "Devis personnalisés pour professionnels dans le 61, adaptés à vos besoins.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Alençon ?",
+      "answer": "Adaptation selon vos véhicules et besoins énergétiques."
+    },
+    {
+      "question": "Délai à Alencon ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE en Normandie."
+    }
+  ]
+}

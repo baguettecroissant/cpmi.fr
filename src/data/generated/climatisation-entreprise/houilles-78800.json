@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Houilles (78800), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation 78",
+    "content": "Le climat en Île-de-France exige des solutions de climatisation performantes. CPMI vous accompagne pour bénéficier des aides régionales en vigueur."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Houilles et environs.",
+    "Solutions sur-mesure pour les entreprises du 78.",
+    "Maintenance et dépannage 7j/7 pour votre activité."
+  ],
+  "pricingContext": "Devis personnalisés et tarifs compétitifs pour les pros du 78.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon bureau à Houilles ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Houilles ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

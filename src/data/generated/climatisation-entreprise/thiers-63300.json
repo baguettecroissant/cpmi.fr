@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Thiers (63300), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Thiers",
+    "content": "Le climat continental de Thiers exige des solutions de climatisation performantes. Profitez des aides régionales pour optimiser votre installation."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Solutions sur-mesure pour entreprises à Thiers",
+    "Installation rapide et efficace",
+    "Maintenance préventive pour une durée de vie accrue"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre entreprise à Thiers.",
+  "faq": [
+    {
+      "question": "Quelle puissance à Thiers ?",
+      "answer": "Dimensionnement selon vos locaux et activité."
+    },
+    {
+      "question": "Délai à Thiers ?",
+      "answer": "Installation sous quelques jours."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

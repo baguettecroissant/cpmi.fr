@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges aux Pavillons-sous-Bois, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 93",
+    "content": "La région Île-de-France soutient l'accessibilité. CPMI.fr vous accompagne pour bénéficier des aides à l'installation d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bien avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales (93)",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques",
+    "Maintenance et SAV de proximité, réactifs et efficaces"
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Ascenseur : quel type ?",
+      "answer": "CPMI.fr vous conseille le modèle adapté à votre activité."
+    },
+    {
+      "question": "Délai à Les Pavillons Sous Bois ?",
+      "answer": "Intervention rapide sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV certifié et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

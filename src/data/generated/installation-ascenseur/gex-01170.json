@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Gex, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité à Gex",
+    "content": "Gex bénéficie d'aides à l'accessibilité pour les entreprises. Le climat montagnard accentue le besoin d'équipements adaptés."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes de sécurité.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 01.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Gex ?",
+      "answer": "Oui, CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Gex ?",
+      "answer": "Délais rapides, contactez-nous."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Annecy, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation à Annecy : Enjeux",
+    "content": "Le climat montagnard d'Annecy exige des solutions de climatisation performantes. CPMI.fr vous aide à bénéficier des aides régionales pour l'efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez votre climatisation avec CPMI.fr : expertise locale et solutions sur-mesure.",
+  "advantages": [
+    "Installation rapide et efficace à Annecy et ses environs.",
+    "Maintenance préventive pour une performance durable.",
+    "Dépannage urgent 7j/7 pour vos systèmes de climatisation."
+  ],
+  "pricingContext": "CPMI.fr : Tarifs compétitifs et devis personnalisés pour les professionnels du 74.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mes bureaux ?",
+      "answer": "CPMI.fr dimensionne votre climatisation selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Annecy ?",
+      "answer": "Intervention rapide, généralement sous 48h."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

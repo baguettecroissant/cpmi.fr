@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à Six Fours Les Plages, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 83140",
+    "content": "Six Fours bénéficie d'un climat idéal pour des installations durables. CPMI vous guide sur les aides locales pour l'accessibilité."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec des solutions sur-mesure et performantes.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Six Fours.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et SAV assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet dans le Var.",
+  "faq": [
+    {
+      "question": "Ascenseur adapté PMR ?",
+      "answer": "Oui, CPMI propose des solutions PMR complètes et certifiées."
+    },
+    {
+      "question": "Délai à Six Fours Les Plages ?",
+      "answer": "Délais rapides, selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur (PACA)."
+    }
+  ]
+}

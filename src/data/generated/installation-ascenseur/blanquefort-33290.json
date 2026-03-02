@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Blanquefort, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Blanquefort & Mobilité",
+    "content": "La région Nouvelle-Aquitaine soutient l'accessibilité. CPMI facilite l'installation d'équipements adaptés aux besoins locaux et aux normes en vigueur."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Blanquefort.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Blanquefort ?",
+      "answer": "CPMI propose des solutions PMR sur mesure."
+    },
+    {
+      "question": "Délai à Blanquefort ?",
+      "answer": "Installation rapide, selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes ERP/PMR."
+    }
+  ]
+}

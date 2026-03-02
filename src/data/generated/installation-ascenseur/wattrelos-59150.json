@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Wattrelos, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Aides Régionales",
+    "content": "Hauts-de-France : CPMI vous guide sur les aides financières pour l'installation. Climat propice à la modernisation des infrastructures locales."
+  },
+  "expertAdvice": "CPMI : Expertise et solutions sur-mesure pour votre bâtiment à Wattrelos.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Wattrelos.",
+    "Solutions adaptées aux bâtiments existants et neufs.",
+    "Maintenance et SAV de proximité garantis par CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 59.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Wattrelos ?",
+      "answer": "CPMI : Solutions complètes pour l'accessibilité PMR."
+    },
+    {
+      "question": "Délai à Wattrelos ?",
+      "answer": "Devis rapide et délais optimisés."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes NF EN 81-70."
+    }
+  ]
+}

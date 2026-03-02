@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Villepinte (93420), pour un confort optimal.",
+  "localContext": {
+    "title": "Climatisation à Villepinte",
+    "content": "Bénéficiez d'aides régionales pour l'installation de systèmes performants. Le climat francilien exige des solutions adaptées aux variations saisonnières."
+  },
+  "expertAdvice": "Optimisez votre climatisation pour réduire vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Villepinte et alentours.",
+    "Maintenance préventive pour une durée de vie prolongée.",
+    "Solutions sur-mesure adaptées à vos besoins spécifiques."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Quelle clim pour mon entreprise à Villepinte ?",
+      "answer": "Analyse personnalisée et solutions adaptées à votre activité."
+    },
+    {
+      "question": "Délai à Villepinte ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes environnementales en vigueur."
+    }
+  ]
+}

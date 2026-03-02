@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Neuilly-Plaisance (93360), pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité & Région",
+    "content": "Île-de-France : CPMI vous guide sur les aides régionales pour l'adaptation des bâtiments. Améliorez l'accessibilité de vos locaux à Neuilly-Plaisance."
+  },
+  "expertAdvice": "CPMI : Solutions sur-mesure, conformes aux normes de sécurité en vigueur.",
+  "advantages": [
+    "Installation rapide et efficace à Neuilly-Plaisance.",
+    "Solutions adaptées aux contraintes de votre bâtiment.",
+    "Maintenance et SAV de proximité garantis."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 93.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Neuilly ?",
+      "answer": "Conformité et installation garanties par CPMI."
+    },
+    {
+      "question": "Délai à Neuilly Plaisance ?",
+      "answer": "Installation rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

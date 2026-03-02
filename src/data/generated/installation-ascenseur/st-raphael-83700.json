@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Saint-Raphaël, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 83",
+    "content": "Profitez des aides régionales pour l'amélioration de l'habitat et l'adaptation au climat méditerranéen. CPMI vous accompagne dans vos projets d'élévation."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux avec CPMI, votre partenaire de confiance.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à St Raphael.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et dépannage assurés par nos experts."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du Var (83).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, selon la réglementation ERP et accessibilité."
+    },
+    {
+      "question": "Délai à St Raphael ?",
+      "answer": "Variable selon projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (83)."
+    }
+  ]
+}

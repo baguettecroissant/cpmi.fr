@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Caen, assurant accessibilité et conformité.",
+  "localContext": {
+    "title": "Accessibilité Caen",
+    "content": "Caen encourage l'accessibilité PMR. CPMI vous aide à naviguer les réglementations locales et à optimiser vos projets d'ascenseurs et monte-charges."
+  },
+  "expertAdvice": "Choisissez CPMI pour une installation fiable et durable.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Caen.",
+    "Solutions sur mesure pour tous bâtiments à Caen.",
+    "Maintenance et dépannage rapides en Normandie."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour le Calvados.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR à Caen ?",
+      "answer": "CPMI adapte ses installations aux normes PMR."
+    },
+    {
+      "question": "Délai à Caen ?",
+      "answer": "Délais rapides, contactez-nous !"
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

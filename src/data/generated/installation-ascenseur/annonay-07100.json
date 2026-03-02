@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre expert en installation d'ascenseurs et monte-charges à Annonay, améliorant l'accessibilité de vos locaux professionnels.",
+  "localContext": {
+    "title": "Aides et Climat",
+    "content": "Annonay bénéficie d'aides régionales pour l'accessibilité. Le climat ardéchois nécessite des installations robustes et adaptées."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos biens immobiliers à Annonay.",
+  "advantages": [
+    "Expertise locale : Connaissance du tissu économique d'Annonay.",
+    "Solutions sur-mesure : Adaptées à vos besoins spécifiques.",
+    "Conformité : Respect des normes en vigueur (sécurité, accessibilité)."
+  ],
+  "pricingContext": "Prix compétitifs et devis personnalisés pour professionnels à Annonay (07).",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Annonay ?",
+      "answer": "Solutions complètes pour l'accessibilité des personnes à mobilité réduite."
+    },
+    {
+      "question": "Délai à Annonay ?",
+      "answer": "Variable selon le projet."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes DTU et accessibilité."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Morne-à-l'Eau, Guadeloupe.",
+  "localContext": {
+    "title": "Ascenseurs & Guadeloupe",
+    "content": "Profitez des aides à l'accessibilité en Guadeloupe. Le climat tropical nécessite des installations robustes et adaptées aux conditions locales."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de vos bâtiments avec CPMI.fr.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Morne-à-l'Eau.",
+    "Solutions sur-mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par des experts locaux."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé et compétitif pour votre projet en Guadeloupe.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR Morne A L Eau ?",
+      "answer": "CPMI.fr propose des solutions PMR complètes et certifiées."
+    },
+    {
+      "question": "Délai à Morne A L Eau ?",
+      "answer": "Délai variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité antillaises."
+    }
+  ]
+}

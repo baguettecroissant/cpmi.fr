@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge pour entreprises et copropriétés aux Abymes, Guadeloupe.",
+  "localContext": {
+    "title": "Bornes aux Abymes",
+    "content": "La région encourage l'électromobilité. Profitez d'aides pour l'installation de bornes et réduisez votre empreinte carbone locale."
+  },
+  "expertAdvice": "Optimisez votre infrastructure électrique avec nos solutions sur mesure.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions adaptées aux besoins spécifiques des entreprises.",
+    "Maintenance assurée par nos experts certifiés."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance à vos besoins B2B."
+    },
+    {
+      "question": "Délai à Les Abymes ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur."
+    }
+  ]
+}

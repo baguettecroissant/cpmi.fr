@@ -1,0 +1,28 @@
+{
+  "introText": "L'installation d'ascenseurs et monte-charges à {CITY_NAME} est essentielle pour le dynamisme des ERP et copropriétés. Dans cette ville de Lozère, où l'accès et la mobilité sont cruciaux, notamment avec des infrastructures variées, nos solutions garantissent une circulation fluide et sécurisée. Face aux défis climatiques de l'Occitanie, opter pour des équipements robustes est un investissement stratégique pour votre bâtiment.",
+  "localContext": {
+    "title": "Spécificités Réglementaires et Aides Locales en Occitanie",
+    "content": "En Occitanie, et particulièrement en Lozère, l'installation d'ascenseurs doit naviguer entre les réglementations nationales d'accessibilité (loi Handicap) et les particularités locales. Le Plan Local d'Urbanisme (PLU) de {CITY_NAME} peut imposer des contraintes architecturales ou des hauteurs spécifiques. Les hivers rigoureux et les variations climatiques de la région exigent des matériaux résistants. La Région Occitanie propose des dispositifs d'aide à la rénovation énergétique ou à l'accessibilité pour les copropriétés et entreprises, notamment via des fonds européens ou régionaux, rendant ces projets plus abordables."
+  },
+  "expertAdvice": "En tant qu'experts, nous savons qu'à {CITY_NAME}, chaque projet d'installation d'ascenseur ou de monte-charge est unique. Les spécificités géographiques de la Lozère, l'architecture locale et les réglementations propres à {CITY_NAME} requièrent une connaissance pointue. Faire appel à un installateur local, c'est s'assurer d'une parfaite maîtrise des contraintes techniques et administratives, garantissant une installation conforme, durable et optimisée pour votre bâtiment, qu'il s'agisse d'un ERP ou d'une copropriété.",
+  "advantages": [
+    "Maîtrise parfaite des exigences du PLU de {CITY_NAME} et des enjeux d'accessibilité locaux.",
+    "Réactivité et intervention rapide garanties sur l'ensemble du département de la Lozère (48).",
+    "Expertise des installations en milieu montagnard ou bâtiments anciens, typiques de la région."
+  ],
+  "pricingContext": "Les prix moyens pour l'installation d'ascenseurs ou monte-charges pour les professionnels dans le département de la Lozère (48) varient fortement selon la complexité et le type d'équipement. Un devis personnalisé est indispensable pour estimer précisément votre projet.",
+  "faq": [
+    {
+      "question": "Quelles sont les principales aides régionales en Occitanie pour l'installation d'un ascenseur dans un ERP ou une copropriété ?",
+      "answer": "La Région Occitanie propose des subventions pour l'amélioration de l'accessibilité et la rénovation énergétique des bâtiments. Des fonds comme le FEDER ou des dispositifs spécifiques peuvent être mobilisés. Il est crucial de consulter les appels à projets en cours et les critères d'éligibilité pour {CITY_NAME}."
+    },
+    {
+      "question": "Quelles sont les spécificités d'installation et les délais moyens à {CITY_NAME} pour un monte-charge professionnel ?",
+      "answer": "À {CITY_NAME}, les délais dépendent de la complexité du site et des autorisations nécessaires (PLU). Nous gérons l'ensemble du processus, de l'étude de faisabilité à la mise en service, en minimisant les perturbations pour votre activité professionnelle. La connaissance locale accélère les démarches."
+    },
+    {
+      "question": "Comment est assurée la maintenance et le service après-vente pour les ascenseurs installés par vos partenaires à {CITY_NAME} ?",
+      "answer": "Nos installateurs partenaires à {CITY_NAME} offrent des contrats de maintenance préventive et curative conformes aux normes en vigueur. Un service après-vente réactif est garanti, avec des techniciens locaux disponibles pour assurer la sécurité et la pérennité de vos équipements, minimisant ainsi les temps d'arrêt."
+    }
+  ]
+}

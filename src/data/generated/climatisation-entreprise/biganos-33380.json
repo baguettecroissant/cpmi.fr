@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Biganos, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation 33 : Enjeux Locaux",
+    "content": "La Nouvelle-Aquitaine encourage les solutions énergétiques performantes. CPMI.fr aide les entreprises de Biganos à optimiser leur climatisation face aux étés chauds."
+  },
+  "expertAdvice": "Un système adapté réduit vos coûts et améliore votre productivité.",
+  "advantages": [
+    "Installation rapide et efficace à Biganos et alentours.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur-mesure pour les besoins spécifiques de chaque entreprise."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 33.",
+  "faq": [
+    {
+      "question": "Quelle climatisation pour mon entreprise à Biganos ?",
+      "answer": "CPMI.fr vous guide vers la solution idéale selon vos besoins."
+    },
+    {
+      "question": "Délai à Biganos ?",
+      "answer": "Intervention rapide garantie."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes environnementales en vigueur."
+    }
+  ]
+}

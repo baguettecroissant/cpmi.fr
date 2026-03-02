@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Mandelieu-La-Napoule, améliorant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Accessibilité 06",
+    "content": "Subventions possibles pour l'accessibilité des commerces à Mandelieu. Le climat doux favorise un usage confortable toute l'année."
+  },
+  "expertAdvice": "Optimisez l'espace et la sécurité avec une installation professionnelle CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance et SAV réactif dans les Alpes-Maritimes."
+  ],
+  "pricingContext": "CPMI propose des devis personnalisés et compétitifs dans le 06.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Oui, pour les ERP neufs."
+    },
+    {
+      "question": "Délai à Mandelieu La Napoule ?",
+      "answer": "Sur devis, variable."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (EN 81-70)."
+    }
+  ]
+}

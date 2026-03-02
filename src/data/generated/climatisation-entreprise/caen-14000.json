@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Caen, assurant confort et performance énergétique.",
+  "localContext": {
+    "title": "Climatisation à Caen",
+    "content": "Le climat normand exige des solutions de climatisation fiables. CPMI.fr vous accompagne pour optimiser la performance énergétique de vos bâtiments, en tenant compte des spécificités locales et des aides disponibles."
+  },
+  "expertAdvice": "Un système bien dimensionné réduit vos coûts énergétiques.",
+  "advantages": [
+    "Installation rapide et efficace à Caen et sa région.",
+    "Maintenance préventive pour une durabilité accrue.",
+    "Solutions sur mesure pour tous types de bâtiments."
+  ],
+  "pricingContext": "CPMI.fr offre des prix compétitifs pour les professionnels du 14.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon bureau à Caen ?",
+      "answer": "CPMI.fr dimensionne précisément votre installation."
+    },
+    {
+      "question": "Délai à Caen ?",
+      "answer": "Intervention rapide."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

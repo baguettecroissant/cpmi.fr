@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr facilite l'installation de bornes de recharge à Bruay-La-Buissière, soutenant la mobilité électrique locale.",
+  "localContext": {
+    "title": "Bornes à Bruay",
+    "content": "La région Hauts-de-France encourage l'électromobilité. CPMI.fr vous guide dans les aides disponibles pour entreprises et copropriétés à Bruay-La-Buissière."
+  },
+  "expertAdvice": "Optimisez vos coûts énergétiques avec une borne adaptée à vos besoins.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solution de recharge sur mesure pour votre entreprise.",
+    "Gestion optimisée de la consommation électrique."
+  ],
+  "pricingContext": "CPMI.fr propose des tarifs compétitifs pour les professionnels du Pas-de-Calais.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "CPMI.fr dimensionne selon vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Bruay La Buissiere ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes IRVE en vigueur."
+    }
+  ]
+}

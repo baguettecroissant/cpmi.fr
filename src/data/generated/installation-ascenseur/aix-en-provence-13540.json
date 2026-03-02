@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Aix-en-Provence.",
+  "localContext": {
+    "title": "Aix : Accessibilité & Subventions",
+    "content": "Profitez des aides à l'amélioration de l'habitat et des conditions climatiques idéales pour une installation durable. CPMI vous accompagne dans vos projets locaux."
+  },
+  "expertAdvice": "Optimisez l'accessibilité et la valeur de votre bâtiment avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur-mesure pour bâtiments existants.",
+    "Maintenance et SAV réactifs à Aix-en-Provence."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour professionnels dans le 13.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR obligatoire ?",
+      "answer": "Obligation selon la loi accessibilité et type d'établissement."
+    },
+    {
+      "question": "Délai à Aix En Provence ?",
+      "answer": "Variable selon complexité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes de sécurité en vigueur."
+    }
+  ]
+}

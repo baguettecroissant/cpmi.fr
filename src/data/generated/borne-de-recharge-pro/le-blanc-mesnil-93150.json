@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI : Installation de bornes de recharge pour entreprises et copropriétés au Blanc-Mesnil, favorisant la mobilité verte locale.",
+  "localContext": {
+    "title": "Transition énergétique",
+    "content": "Le Blanc-Mesnil s'engage pour l'environnement. Profitez des aides régionales pour l'installation de bornes et améliorez votre bilan carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec nos solutions de recharge adaptées.",
+  "advantages": [
+    "Solution sur-mesure pour entreprises et copropriétés du 93",
+    "Installation rapide par des experts certifiés IRVE",
+    "Maintenance et SAV assurés par CPMI au Blanc-Mesnil"
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour votre projet de bornes de recharge au Blanc-Mesnil.",
+  "faq": [
+    {
+      "question": "Quelle puissance choisir ?",
+      "answer": "Adaptez la puissance aux besoins de vos véhicules et usages."
+    },
+    {
+      "question": "Délai à Le Blanc Mesnil ?",
+      "answer": "Installation sous 2 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV rapide et respect des normes en vigueur (NF)."
+    }
+  ]
+}

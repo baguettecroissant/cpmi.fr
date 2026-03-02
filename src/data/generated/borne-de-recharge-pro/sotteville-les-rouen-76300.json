@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI facilite l'installation de bornes de recharge à Sotteville-lès-Rouen, soutenant la transition énergétique locale.",
+  "localContext": {
+    "title": "Normandie Verte",
+    "content": "La région Normandie encourage l'électromobilité avec des aides financières. CPMI vous accompagne dans ces démarches pour votre entreprise ou copropriété à Sotteville."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec CPMI, expert en solutions de recharge.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Sotteville.",
+    "Solutions sur mesure pour entreprises et copropriétés.",
+    "Éligibilité aux aides régionales maximisée avec CPMI."
+  ],
+  "pricingContext": "CPMI propose des tarifs compétitifs pour les professionnels du 76.",
+  "faq": [
+    {
+      "question": "Quelle borne pour mon entreprise ?",
+      "answer": "CPMI vous conseille selon vos besoins spécifiques."
+    },
+    {
+      "question": "Délai à Sotteville Les Rouen ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE locales."
+    }
+  ]
+}

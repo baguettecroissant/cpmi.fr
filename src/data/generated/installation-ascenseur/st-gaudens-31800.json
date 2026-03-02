@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en installation d'ascenseurs et monte-charges à St Gaudens, pour une accessibilité optimale.",
+  "localContext": {
+    "title": "Accessibilité 31",
+    "content": "La région Occitanie soutient l'accessibilité des bâtiments. Profitez des aides pour faciliter l'installation d'ascenseurs et monte-charges dans le Comminges."
+  },
+  "expertAdvice": "Optimisez l'accessibilité de vos locaux professionnels avec CPMI.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales.",
+    "Solutions sur mesure pour tous types de bâtiments.",
+    "Maintenance assurée par des professionnels qualifiés."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 31.",
+  "faq": [
+    {
+      "question": "Ascenseur PMR St Gaudens ?",
+      "answer": "CPMI adapte l'installation aux normes PMR en vigueur."
+    },
+    {
+      "question": "Délai à St Gaudens ?",
+      "answer": "Installation sous 4 semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect strict des normes de sécurité."
+    }
+  ]
+}

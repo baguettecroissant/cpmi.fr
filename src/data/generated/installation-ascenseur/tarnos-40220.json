@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire local pour l'installation d'ascenseurs et monte-charges à Tarnos, optimisant l'accessibilité de vos bâtiments.",
+  "localContext": {
+    "title": "Ascenseurs à Tarnos",
+    "content": "La Nouvelle-Aquitaine soutient l'accessibilité. CPMI.fr vous guide à travers les aides financières disponibles pour l'installation d'ascenseurs et monte-charges adaptés à vos besoins locaux."
+  },
+  "expertAdvice": "Un diagnostic précis pour une installation durable et sécurisée.",
+  "advantages": [
+    "Installation rapide et conforme aux normes locales à Tarnos.",
+    "Solutions sur mesure pour bâtiments existants et neufs.",
+    "Maintenance et dépannage assurés par CPMI.fr."
+  ],
+  "pricingContext": "Devis personnalisés et compétitifs pour les professionnels du 40.",
+  "faq": [
+    {
+      "question": "Normes à Tarnos ?",
+      "answer": "Conformité aux normes EN 81-20/50 et accessibilité PMR."
+    },
+    {
+      "question": "Délai à Tarnos ?",
+      "answer": "Selon complexité du chantier."
+    },
+    {
+      "question": "SAV local ?",
+      "answer": "CPMI.fr assure un SAV rapide et efficace à Tarnos."
+    }
+  ]
+}

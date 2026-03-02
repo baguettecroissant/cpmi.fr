@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre expert en climatisation tertiaire et industrielle à Antibes, pour un confort optimal et des économies d'énergie.",
+  "localContext": {
+    "title": "Climatisation Antibes",
+    "content": "Le climat méditerranéen exige des solutions de climatisation performantes. Profitez des aides régionales pour les entreprises azuréennes améliorant leur efficacité énergétique."
+  },
+  "expertAdvice": "Optimisez vos installations avec un entretien régulier pour une performance durable.",
+  "advantages": [
+    "Solutions sur mesure pour les entreprises d'Antibes.",
+    "Installation et maintenance par des professionnels certifiés.",
+    "Réduction de votre empreinte carbone grâce à nos solutions."
+  ],
+  "pricingContext": "Demandez un devis personnalisé pour une climatisation adaptée à votre budget.",
+  "faq": [
+    {
+      "question": "Quelle puissance pour mon local ?",
+      "answer": "Notre étude thermique détermine la solution idéale."
+    },
+    {
+      "question": "Délai à Antibes ?",
+      "answer": "Intervention rapide selon disponibilité."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes en vigueur."
+    }
+  ]
+}

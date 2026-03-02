@@ -1,0 +1,28 @@
+{
+  "introText": "CPMI.fr : Votre partenaire pour l'installation de bornes de recharge à Ville-d'Avray, facilitant la transition énergétique des entreprises et copropriétés.",
+  "localContext": {
+    "title": "Bornes à Ville-d'Avray",
+    "content": "Île-de-France soutient activement la mobilité électrique. Profitez des aides régionales pour l'installation de bornes de recharge et améliorez votre bilan carbone."
+  },
+  "expertAdvice": "Optimisez votre infrastructure avec des solutions adaptées à vos besoins spécifiques.",
+  "advantages": [
+    "Installation rapide et conforme aux normes à Ville-d'Avray.",
+    "Solutions personnalisées pour entreprises et copropriétés.",
+    "Réduction des coûts énergétiques et valorisation de votre bien."
+  ],
+  "pricingContext": "Obtenez un devis personnalisé pour bornes de recharge dans le 92.",
+  "faq": [
+    {
+      "question": "Quelle borne choisir ?",
+      "answer": "CPMI vous conseille selon vos usages."
+    },
+    {
+      "question": "Délai à Ville D Avray ?",
+      "answer": "Installation sous quelques semaines."
+    },
+    {
+      "question": "SAV ou norme locale ?",
+      "answer": "SAV réactif et respect des normes IRVE."
+    }
+  ]
+}
