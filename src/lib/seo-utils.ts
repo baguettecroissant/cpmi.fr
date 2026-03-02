@@ -1,12 +1,20 @@
 import { City } from "@/types";
-import citiesData from "@/lib/db/cities.json";
+import fs from "fs";
+import path from "path";
 import departmentsData from "@/lib/db/departments-infos.json";
 import { Prestation, fillTemplate, getPrestationBySlug } from "./prestations";
 
-const cities = citiesData as City[];
+let _citiesCache: City[] | null = null;
+function getCities(): City[] {
+    if (!_citiesCache) {
+        const filePath = path.join(process.cwd(), 'src/lib/db/cities.json');
+        _citiesCache = JSON.parse(fs.readFileSync(filePath, 'utf8')) as City[];
+    }
+    return _citiesCache;
+}
 
 export function getCityFromSlug(slug: string): City | undefined {
-    const city = cities.find(c => c.slug === slug);
+    const city = getCities().find(c => c.slug === slug);
     if (!city) return undefined;
 
     const deptInfo = departmentsData.find(d => d.code === city.department_code);
@@ -17,7 +25,11 @@ export function getCityFromSlug(slug: string): City | undefined {
 }
 
 export function getAllCitySlugs(): string[] {
-    return cities.map(c => c.slug);
+    return getCities().map(c => c.slug);
+}
+
+export function getAllCities(): City[] {
+    return getCities();
 }
 
 export function generateCityMetadata(city: City, prestation: Prestation) {

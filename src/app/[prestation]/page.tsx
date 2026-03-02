@@ -1,6 +1,7 @@
 import { notFound } from "next/navigation";
 import { PRESTATIONS, getPrestationBySlug, Prestation } from "@/lib/prestations";
 import { getAllDepartments, getCitiesByDepartment, DepartmentInfo } from "@/lib/cities";
+import { getAllCities } from "@/lib/seo-utils";
 import Link from "next/link";
 import { Metadata } from "next";
 import { Breadcrumbs } from "@/components/seo/Breadcrumbs";
@@ -10,12 +11,9 @@ import {
     ArrowRight, FileText, MapPin, Building2, Thermometer, BatteryCharging,
     Shield, Clock, Euro, Award, CheckCircle, ChevronRight
 } from "lucide-react";
-import citiesData from "@/lib/db/cities.json";
-
-// ─── Static Params: generate all 3 hub pages ──────────────────────
-export function generateStaticParams() {
-    return PRESTATIONS.map(p => ({ prestation: p.slug }));
-}
+// ISR: generate on-demand, cache 24h
+export const dynamicParams = true;
+export const revalidate = 86400;
 
 // ─── Metadata ──────────────────────────────────────────────────────
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
@@ -165,7 +163,7 @@ export default async function PrestationHubPage({ params }: Props) {
     const sortedRegions = Array.from(regionsMap.keys()).sort();
 
     // Top cities by population for this prestation
-    const allCities = [...citiesData].sort((a, b) => (b.population || 0) - (a.population || 0));
+    const allCities = [...getAllCities()].sort((a, b) => (b.population || 0) - (a.population || 0));
     const topCities = allCities.slice(0, 20);
 
     const Icon = content.icon;
