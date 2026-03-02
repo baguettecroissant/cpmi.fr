@@ -7,16 +7,15 @@ import { Map } from "lucide-react";
 import { Breadcrumbs } from "@/components/seo/Breadcrumbs";
 import { PRESTATIONS } from "@/lib/prestations";
 
+// ISR: generate on-demand, cache 24h
+export const dynamicParams = true;
+export const revalidate = 86400;
+
 type Props = {
     params: Promise<{ slug: string }>;
 };
 
-export async function generateStaticParams() {
-    const depts = getAllDepartments();
-    return depts.map(d => ({
-        slug: `${d.name.toLowerCase().replace(/ /g, '-').replace(/[^\w-]+/g, '')}-${d.code}`
-    }));
-}
+// No generateStaticParams — department pages are generated on-demand via ISR.
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
     const { slug } = await params;

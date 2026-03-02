@@ -3,10 +3,12 @@ import { NextRequest, NextResponse } from "next/server";
 /**
  * Middleware — Quarantine 410 + pSEO whitelist.
  *
+ * The matcher below already excludes _next, static files, and images,
+ * so the middleware only runs on "real" page routes.
+ *
  * - Lets the root path (/) through normally.
- * - Lets Next.js internals (_next/*) and favicon through.
  * - Lets the 3 pSEO prestation prefixes through.
- * - Lets annuaire, devis, mentions-legales through.
+ * - Lets annuaire, devis, mentions-legales, guides through.
  * - Returns 410 Gone for EVERYTHING else (old spam URLs).
  */
 
@@ -28,16 +30,6 @@ export function middleware(request: NextRequest) {
         return NextResponse.next();
     }
 
-    // Allow Next.js internals and static assets
-    if (
-        pathname.startsWith("/_next") ||
-        pathname === "/favicon.ico" ||
-        pathname === "/icon.png" ||
-        /\.(png|jpg|jpeg|svg|webp|gif|ico)$/i.test(pathname)
-    ) {
-        return NextResponse.next();
-    }
-
     // Allow whitelisted prefixes
     for (const prefix of ALLOWED_PREFIXES) {
         if (pathname.startsWith(prefix)) {
@@ -55,5 +47,14 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
-    matcher: "/(.*)",
+    matcher: [
+        /*
+         * Match all request paths EXCEPT:
+         * - _next/static (static files)
+         * - _next/image (image optimization)
+         * - favicon.ico, icon.png, sitemap.xml, robots.txt
+         * - image files (png, jpg, jpeg, svg, webp, gif, ico)
+         */
+        "/((?!_next/static|_next/image|favicon\\.ico|icon\\.png|sitemap\\.xml|robots\\.txt|.*\\.(?:png|jpg|jpeg|svg|webp|gif|ico)$).*)",
+    ],
 };

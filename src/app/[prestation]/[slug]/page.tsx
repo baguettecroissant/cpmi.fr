@@ -31,25 +31,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     return generateCityMetadata(city, prestation);
 }
 
-// Pre-generate top 50 cities per prestation as seed
-export async function generateStaticParams() {
-    // We import inline to avoid loading 35k cities at module level unnecessarily
-    const citiesModule = await import('@/lib/db/cities.json');
-    const citiesData = citiesModule.default as any[];
-    const sorted = [...citiesData].sort((a: any, b: any) => (b.population || 0) - (a.population || 0));
-    const topCities = sorted.slice(0, 50);
-
-    const params: { prestation: string; slug: string }[] = [];
-    for (const prestation of PRESTATIONS) {
-        for (const city of topCities) {
-            params.push({
-                prestation: prestation.slug,
-                slug: city.slug,
-            });
-        }
-    }
-    return params;
-}
+// No generateStaticParams — all city pages are generated on-demand via ISR.
+// Content is cached for 24h (revalidate = 86400) after first visit.
 
 function getFAQData(city: { name: string; zip: string; department_name: string; department_code: string }, prestation: Prestation) {
     if (prestation.slug === 'installation-ascenseur') {
