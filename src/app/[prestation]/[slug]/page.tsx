@@ -1,6 +1,4 @@
 import { notFound } from "next/navigation";
-import fs from 'fs';
-import path from 'path';
 import { getCityFromSlug, generateCityMetadata } from "@/lib/seo-utils";
 import { getCityIntro } from "@/lib/text-utils";
 import { CityHero } from "@/components/features/CityHero";
@@ -84,13 +82,23 @@ function getFAQData(city: { name: string; zip: string; department_name: string; 
     ];
 }
 
-function getAiContent(prestationSlug: string, citySlug: string) {
+async function getAiContent(prestationSlug: string, citySlug: string) {
     try {
-        const filePath = path.join(process.cwd(), 'src/data/generated', prestationSlug, `${citySlug}.json`);
-        if (fs.existsSync(filePath)) {
-            const raw = fs.readFileSync(filePath, 'utf8');
-            return JSON.parse(raw);
+        let data: Record<string, any>;
+        switch (prestationSlug) {
+            case 'installation-ascenseur':
+                data = (await import('@/data/generated/installation-ascenseur.json')).default;
+                break;
+            case 'climatisation-entreprise':
+                data = (await import('@/data/generated/climatisation-entreprise.json')).default;
+                break;
+            case 'borne-de-recharge-pro':
+                data = (await import('@/data/generated/borne-de-recharge-pro.json')).default;
+                break;
+            default:
+                return null;
         }
+        return data[citySlug] || null;
     } catch (e) {
         console.warn(`Could not read AI content for ${prestationSlug}/${citySlug}`);
     }
@@ -106,7 +114,7 @@ export default async function CityPage({ params }: Props) {
         notFound();
     }
 
-    const aiContent = getAiContent(prestationSlug, slug);
+    const aiContent = await getAiContent(prestationSlug, slug);
     const introText = aiContent?.introText || getCityIntro(city, prestation);
     const faqData = aiContent?.faq || getFAQData(city, prestation);
     const pricingContext = aiContent?.pricingContext;

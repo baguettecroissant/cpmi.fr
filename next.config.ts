@@ -1,10 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  // Ensure generated JSON content files are included in serverless function bundles
-  outputFileTracingIncludes: {
-    "/[prestation]/[slug]": ["./src/data/generated/**/*.json"],
-  },
+  /* config options here */
 };
 
 export default nextConfig;
